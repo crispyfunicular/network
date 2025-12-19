@@ -27,9 +27,9 @@ cat << EOF
 		<body>
             <section class="section">
                 <div class="container">
-					<table class="table is-fullwidth is-hoverable is-bordered is-striped">
+					<table class="table is-hoverable is-bordered is-striped">
 						
-						<thead class="has-background-text-light">
+						<thead class=""has-background-primary-35 has-text-primary-35-invert"">
 							<tr>
 								<th scope="col">line no</th>
 								<th scope="col">adresse html</th>
@@ -94,8 +94,38 @@ do
 	if ! [[ "$response_code" -eq 200 ]];
 	then
 		rc_class=' class="has-text-danger"'
+		cat << EOF
+						<tr>
+							<td>$lineno</td>
+							<td><a href="$line">$line</td>
+							<td${rc_class}>$response_code</td>
+							<td>$charset</td>
+							<td>$num_words</td>
+							<td>occurrences</td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+EOF
 	else
 		rc_class=''
+		cat << EOF
+							<tr>
+								<td>$lineno</td>
+								<td><a href="$line">$line</td>
+								<td${rc_class}>$response_code</td>
+								<td>$charset</td>
+								<td>$num_words</td>
+								<td>occurrences</td>
+								<td><a href="">page HTML brute</a></td>
+								<td><a href="">dump textuel</a></td>
+								<td><a href="">concordancier HTML</a></td>
+								<td><a href="">robots.txt</a></td>
+								<td><a href="">concordancier couleurs</a></td>
+							</tr>
+EOF
 	fi
 
 	cat << EOF
