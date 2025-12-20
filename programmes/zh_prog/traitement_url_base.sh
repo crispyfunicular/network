@@ -76,7 +76,26 @@ do
     data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o./.data.tmp "$URL")
     http_code=$(echo "$data" | head -1)
 
-
+    #si le http_code est pas 200, on laisse rien à droite dans cette ligne de url
+    if [[ "$http_code" != "200" ]]; then
+        echo "Erreur HTTP ($http_code), on ne traite pas ce URL"
+        COMPTE="-"
+        dump_file="-"
+        context_file="-"
+        echo "        <tr>
+            <td>$lineno</td>
+            <td><a href="$URL" target=\"_blank\">$URL</a></td>
+            <td>$http_code</td>
+            <td>$encoding</td>
+            <td class=\"red\">$COMPTE</td>
+            <td><a href="../aspirations/zh_aspirations/$lineno.html">HTML</a></td>
+            <td>$dump_file</td>
+            <td>$context_file</td>
+            <td>-</td>
+        </tr>" >> "$TABLEAU_HTML"
+        lineno=$((lineno+1))
+        continue
+    fi
 
     # telecharger les urls dans les fichiers HTML (Aspiration)
     # utilisation de wget, et les sauvegarde sous noms de 1-html, 2-html...
@@ -94,40 +113,62 @@ do
 
         # faire la conversion，sauvegarder en tmp, et recouvrir l'origine
         tmp="../../aspirations/zh_aspirations/$lineno-utf8.html"
-        iconv -f "$encoding" -t "UTF-8//IGNORE" "$html_file" > "$tmp" 2>/dev/null #iconv 遇到错误（例如无法识别的字符）不会打印到终端
+        iconv -f "$encoding" -t "UTF-8//IGNORE" "$html_file" > "$tmp" 2>/dev/null
+
         if [ $? -eq 0 ]; then #si la conversion a bien marche
             mv "$tmp" "$html_file" #recouvert
+
+            # extraire dump_texte
+            # l'utilisation de lynx pour omttre les balises de HTML
+            # -assume_charset=utf-8
+            lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$html_file" > "$dump_file"
+
+            # compter la frequence du mot  网络 dans ce html
+            COMPTE=$(grep -o "$MOT" "$dump_file" | wc -l)
+
+            # EXTRAIRE le contexte
+            # -C 2    2 lignes au-dessus et au-dessous
+            grep -C 2 "$MOT" "$dump_file" > "$context_file"
+
         else
-            echo "echec, garde l'encodage d'origine"
+            echo "Échec de la conversion, on ne traite pas ce URL"
+            COMPTE="-"
+            dump_file="-"
+            context_file="-"
+          echo "        <tr>
+              <td>$lineno</td>
+              <td><a href="$URL" target=\"_blank\">$URL</a></td>
+              <td>$http_code</td>
+              <td>$encoding</td>
+              <td class=\"red\">$COMPTE</td>
+              <td><a href="../aspirations/zh_aspirations/$lineno.html">HTML</a></td>
+              <td>$dump_file</td>
+              <td>$context_file</td>
+              <td>-</td>
+          </tr>" >> "$TABLEAU_HTML"
+            lineno=$((lineno+1))
+            continue
         fi
+    else
+        # UTF-8, extraction directe
+        lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$html_file" > "$dump_file"
+        COMPTE=$(grep -o "$MOT" "$dump_file" | wc -l)
+        grep -C 2 "$MOT" "$dump_file" > "$context_file"
+
+      # creer une linge de tableau
+      echo "        <tr>
+              <td>$lineno</td>
+              <td><a href="$URL" target=\"_blank\">$URL</a></td>
+              <td>$http_code</td>
+              <td>$encoding</td>
+              <td class=\"red\">$COMPTE</td>
+              <td><a href="../aspirations/zh_aspirations/$lineno.html">HTML</a></td>
+              <td><a href="../dumps-text/zh_dumps/$lineno.txt">Dump_Texte</a></td>
+              <td><a href="../contextes/zh/$lineno.txt">Contexte</a></td>
+              <td>concordance</td>
+          </tr>" >> "$TABLEAU_HTML"
+          lineno=$((lineno+1))
     fi
-
-    # extraire dump_texte
-    # l'utilisation de lynx pour omttre les balises de HTML
-    # -assume_charset=utf-8
-    lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$html_file" > "$dump_file"
-
-    # compter la frequence du mot  网络 dans ce html
-    COMPTE=$(grep -o "$MOT" "$dump_file" | wc -l)
-
-    # EXTRAIRE le contexte
-    # -C 2    2 lignes au-dessus et au-dessous
-    grep -C 2 "$MOT" "$dump_file" > "$context_file"
-
-    # creer une linge de tableau
-    echo "        <tr>
-            <td>$lineno</td>
-            <td><a href="$URL" target=\"_blank\">$URL</a></td>
-            <td>$http_code</td>
-            <td>$encoding</td>
-            <td class=\"red\">$COMPTE</td>
-            <td><a href="../aspirations/zh_aspirations/$lineno.html">HTML</a></td>
-            <td><a href="../dumps-text/zh_dumps/$lineno.txt">Dump_Texte</a></td>
-            <td><a href="../contextes/zh/$lineno.txt">Contexte</a></td>
-            <td>concordance</td>
-        </tr>" >> "$TABLEAU_HTML"
-
-    lineno=$((lineno+1))
 
 done < "$FICHIER_URLS"
 
