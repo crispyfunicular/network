@@ -51,6 +51,9 @@ echo -e "
                 <th>Dump_Texte</th>
                 <th>Contexte</th>
                 <th>Concordance</th>
+                <th>Concordance color</th>
+                <th>bigramme</th>
+                <th>robot.txt</th>
             </tr>
           </thead>" >> "$TABLEAU_HTML"
 
@@ -104,6 +107,15 @@ do
 
     # verifier et traiter l'encodage (charset)
     encoding=$(echo "$data" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)
+    if [[ "$encoding" == "" ]];
+    then
+      encoding=$(grep -iPo "^Content-Type:.*?charset=\K[\w-]+" ./.data.tmp)
+      if [[ -z "$encoding" ]]; then
+      #如果没有，就去 HTML 文件里面找 <meta charset> 或 <meta http-equiv="Content-Type">
+        encoding=$(grep -iPo '<meta[^>]+charset=["'\'']?\K[\w-]+' "$html_file" | head -1)
+      fi
+    fi
+
 
     # y a pas mal de html dont le charset et gb2312 ou gbk
     # donc, il faut le verifier et le convertir en utf-8 si necessaire.
