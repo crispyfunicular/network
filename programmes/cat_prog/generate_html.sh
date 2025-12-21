@@ -57,6 +57,7 @@ do
 	response_code=$(echo "$line" | cut -f 3)
 	charset=$(echo "$line" | cut -f 4)
 	num_words=$(echo "$line" | cut -f 5)
+	num_occurences=$(echo "$line" | cut -f 6)
 	
 
 	# Write one table row (<tr>) for each line in fr.txt
@@ -88,7 +89,7 @@ EOF
 								<td${rc_class}>$response_code</td>
 								<td>$charset</td>
 								<td>$num_words</td>
-								<td>occurrences</td>
+								<td>$num_occurences</td>
 								<td><a href="../aspirations/cat_aspirations/$lineno.txt">page HTML brute</a></td>
 								<td><a href="">dump textuel</a></td>
 								<td><a href="">concordancier HTML</a></td>

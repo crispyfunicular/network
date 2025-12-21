@@ -349,7 +349,13 @@ Associació Catalana d´Empreses per al Programari Lliure
 
    [catpl-logo.png]
 
-RSS Canal desconegut
+RSS Associació d'empreses per al Programari Lliure
+
+     * Sense títol 23 febrer 2022
+     * Sense títol 27 maig 2021
+     * Sense títol 6 agost 2018
+     * Sense títol 8 juny 2018
+     * Sense títol 3 octubre 2017
 
    [Manual-de-gestion-y-contractacion-informatica-2a-ed-portada-300x399.jp
    g]
@@ -471,19 +477,16 @@ Tag Cloud
 
 Random Posts
 
-   La tecnologia com a motor per superar la crisi UrbanLabs: Jornades
-   sobre tecnociudadanía i socioinnovació Acord per fomentar
-   l’emprenedoria signat per CAEC, ATJE i el Col·legi d’Enginyeria en
-   Informàtica El director de sistemes es despulla de la seva disfressa:
-   vol ser conseller delegat La despesa mundial en serveis de núvol públic
-   sumarà 56.600 milions de dòlars el 2014 Agenda: Smart City Expo World
-   Congress 2016 del 15 al 17 de novembre Les empreses catalanes paguen
-   més de 100 milions a l’any per cànon digital La 22a Nit de les
-   Telecomunicacions i la Informàtica #laNit2017 premia els millors
-   professionals i projectes del sector TIC Taula Rodona: Industria 4.0 La
-   revolució del Coneixement Formació ISACA dijous 26 de setembre: Últimes
-   tendències en Ciberseguretat La US Navy descarta que un ciberatac
-   provoqués la col·lisió de l’USS John S. McCain
+   Invitació al workshop “Future of information environments, thinking and
+   building with ASIS&T” Iniciativa Doctorat del COEINF, t’hi apuntes?
+   ITworldEdu 2015 El Col·legi Oficial d’Enginyeria en Informàtica de
+   Catalunya presenta a Jordi Bosch la iniciativa del nou Tribunal
+   Arbitral Practitioner Web Analytics 2010 Les automobilístiques
+   guanyaran fins 680 milions més amb la implantació d’Intel·ligència
+   Artificial El Govern vol incentivar les PIMES catalanes a prestar
+   serveis TIC a la Generalitat Què passa quan es talla un dels cables
+   submarins que ens connecten per internet? Estats Units reforma la
+   polèmica llei de vigilància de la NSA
    Ajax loader spinner
    (refresh random posts)
 

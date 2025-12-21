@@ -52,13 +52,15 @@ do
 		# -dump (disable interactive mode)
 		# -nolist (remove links)
 		# wc -w (count the number of words)
+		# wc -l (count the number of occurences)
 		aspirations_path="./aspirations/cat_aspirations/$lineno.txt"
 		lynx -dump -nolist $line > $aspirations_path
 		num_words=$(cat "$aspirations_path" | wc -w)
+		num_occurences=$(cat "$aspirations_path" | grep -i -o -E "(xarxa|xarxes)" | wc -l)
 	else
 		num_words=0
 	fi
 
-	echo -e "$lineno\t$line\t$response_code\t$charset\t$num_words"
+	echo -e "$lineno\t$line\t$response_code\t$charset\t$num_words\t$num_occurences"
 
 done < $URL
