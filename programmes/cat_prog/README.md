@@ -23,6 +23,8 @@ Scripts
   4. charset (extrait du header Content-Type si présent)
   5. nombre de mots (obtenu via `lynx -dump -nolist` si le code HTTP indique OK)
 
+Sauvegarde le texte de chaque page dans le dossier "aspirations" (lineno.txt)
+
   Usage :
   ```bash
   ./get_URLs_cat.sh <fichier_urls>

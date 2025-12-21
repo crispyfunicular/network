@@ -3,14 +3,14 @@
 # ./miniprojet-3.sh ../urls/fr.txt > ../tableaux/tableau-fr.html
 
 # $# number of arguments passed to the program
-if [ $# -ne 1 ]
-then
-	echo "ce programme demande un argument"
-	exit 1
-fi
+#if [ $# -ne 1 ]
+#then
+#	echo "ce programme demande un argument"
+#	exit 1
+#fi
 
 # $1 first argument passed to the program
-URL=$1
+URL=${1-URL/URL_cat.txt}
 
 # ***
 
@@ -52,7 +52,9 @@ do
 		# -dump (disable interactive mode)
 		# -nolist (remove links)
 		# wc -w (count the number of words)
-		num_words=$(lynx -dump -nolist $line | wc -w)
+		aspirations_path="./aspirations/cat_aspirations/$lineno.txt"
+		lynx -dump -nolist $line > $aspirations_path
+		num_words=$(cat "$aspirations_path" | wc -w)
 	else
 		num_words=0
 	fi

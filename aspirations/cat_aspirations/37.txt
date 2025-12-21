@@ -1,0 +1,139 @@
+   GEMET
+   General
+   Multilingual
+   Environmental
+   Thesaurus
+   [Catalan_____]
+   (BUTTON) Thematic Listings Hierarchical Listings INSPIRE Spatial Data
+   Themes Alphabetic Listings Search Thesaurus
+   Query: ____________________ (Search) Search
+   (BUTTON) [language-icon.png]
+
+Translations
+
+     * Arabic
+       سكة حديدية
+     * Armenian
+       երկաթուղի
+     * Azerbaijani
+       dəmir yolu
+     * Basque
+       trenbide
+     * Bulgarian
+       Релсов път
+     * Catalan
+       ferrocarril
+     * Chinese
+       铁路
+     * Croatian
+       željeznica
+     * Czech
+       železnice
+     * Danish
+       jernbane
+     * Dutch
+       spoorweg
+     * English
+       railway
+     * English (US)
+       railroad
+     * Estonian
+       raudtee
+     * Finnish
+       rautatie
+     * French
+       voie ferrée
+     * Georgian
+       რკინიგზა
+     * German
+       Eisenbahn
+     * Greek
+       σιδηρόδρομος
+     * Hungarian
+       vasút
+     * Icelandic
+       járnbraut
+     * Irish
+       iarnród
+     * Italian
+       ferrovia
+     * Latvian
+       dzelzceļš
+     * Lithuanian
+       geležinkelis
+     * Maltese
+       ferrovija
+     * Norwegian
+       jernbane
+     * Polish
+       kolej
+     * Portuguese
+       caminhos de ferro
+     * Romanian
+       cale ferată
+     * Russian
+       железная дорога
+     * Slovak
+       železnica
+     * Slovenian
+       železnica
+     * Spanish
+       ferrocarriles
+     * Swedish
+       järnväg
+     * Turkish
+       demiryolu
+     * Ukrainian
+       залізниця
+
+   ferrocarril
+
+Definition
+
+   A permanent track composed of a line of parallel metal rails fixed to
+   sleepers, for transport of passengers and goods in trains.
+
+   Definition is not available for the current language.
+
+Related terms
+
+Broader:
+
+     * xarxa ferroviària
+
+Related:
+
+     * trànsit ferroviari
+
+Narrower:
+
+     * ferrocarril d'alta velocitat
+     * línia metropolitana (UP: metro)
+
+Themes:
+
+     * medi ambient urbà, tensió urbana (estrès urbà)
+     * transports
+
+Group:
+
+     * ANTROPOSFERA (medi edificat, assentaments humans, ordenació del
+       territori)
+
+Other relations
+
+    Has close match:
+     * UMTHES: Eisenbahn
+
+    Wikipedia article:
+     * Rail transport
+
+Scope note
+
+   Scope note is not available.
+
+Concept URL: http://www.eionet.europa.eu/gemet/concept/6942
+
+   GEMET | Download  |  Alphabets  |  About GEMET  |  Web Services  |
+   Definition sources  |  History of changes  |  Contact  |  Login
+   GEMET - Concepts, version 4.2.3, 6 Dec 2021
