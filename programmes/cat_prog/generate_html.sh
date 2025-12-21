@@ -89,7 +89,7 @@ EOF
 								<td>$charset</td>
 								<td>$num_words</td>
 								<td>occurrences</td>
-								<td><a href="">page HTML brute</a></td>
+								<td><a href="../aspirations/cat_aspirations/$lineno.txt">page HTML brute</a></td>
 								<td><a href="">dump textuel</a></td>
 								<td><a href="">concordancier HTML</a></td>
 								<td><a href="">robots.txt</a></td>
