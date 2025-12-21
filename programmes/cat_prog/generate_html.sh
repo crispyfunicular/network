@@ -21,7 +21,7 @@ cat << EOF
 			<meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css">
-			<title>La vie des mots sur le net</title>
+			<title>xarxa</title>
 		</head>
 
 		<body>
@@ -68,7 +68,7 @@ do
 		cat << EOF
 						<tr>
 							<td>$lineno</td>
-							<td><a href="$line">$line</td>
+							<td><a href="$url">$url</td>
 							<td${rc_class}>$response_code</td>
 							<td></td>
 							<td></td>
@@ -85,7 +85,7 @@ EOF
 		cat << EOF
 							<tr>
 								<td>$lineno</td>
-								<td><a href="$line">$line</td>
+								<td><a href="$url">$url</td>
 								<td${rc_class}>$response_code</td>
 								<td>$charset</td>
 								<td>$num_words</td>
