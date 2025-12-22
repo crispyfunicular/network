@@ -1,0 +1,27 @@
+   [ ] Commuta la taula de continguts.
+
+Xarxa neuronal de polsos
+
+   [ ] 9 llengües
+--
+   [500px-Pulsed_neuron_model.jpg] Model de neurona polsada.
+
+   Les xarxes neuronals de polsos (amb acrònim anglès SNN) són xarxes
+   neuronals artificials que imiten més de prop les xarxes neuronals
+   naturals.^[1] A més de l'estat neuronal i sinàptic, els SNN incorporen
+   el concepte de temps al seu model operatiu. La idea és que les neurones
+   de la SNN no transmeten informació a cada cicle de propagació (com
+   passa amb les xarxes de perceptrons multicapa típiques), sinó que
+   transmeten informació només quan un potencial de membrana– una qualitat
+   intrínseca de la neurona relacionada amb la seva càrrega elèctrica de
+--
+
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Xarxa_neuronal_de_polsos&ol
+   did=35576819»
+   Categoria:
+--
+
+   [ ] Commuta la taula de continguts.
+   Xarxa neuronal de polsos
+   (BUTTON) 9 llengües Afegeix un tema

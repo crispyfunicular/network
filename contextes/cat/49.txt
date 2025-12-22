@@ -1,0 +1,170 @@
+Xarxes neurals¶
+
+   Return to Artificial Intelligence Lab Notebooks
+--
+    6. Des del directori d'instal·lació, executar el fitxer Jupyter
+       Notebook.exe
+    7. Navegar fins Lab 03 - Deep Learning > Xarxes neurals
+
+Introducció¶
+
+   Les xarxes neurals són un conjunt de neurones artificials
+   interconnectades que utilitzen un model matemàtic de processament de
+   dades basat en una aproximació connexionista per a la computació. Es
+--
+   resoldre problemes.
+
+   Els mètodes d’aprenentatge basats en xarxes neurals proporcionen una
+   manera robusta per aproximar funcions reals, discretes o vectorials. En
+   particular, per cert tipus de problemes, com els d’interpretar les
+   dades provenint d’un sensor, les xarxes neurals són dels mètodes més
+   efectius coneguts fins al moment.
+
+   En el funcionament de les xarxes neurals diferenciem l’etapa
+   d’aprenentatge o entrenament en la que els pesos de les neurones
+   s’ajusten de forma automàtica i l’etapa de simulació en que la xarxa
+   entrenada s’utilitza pel propòsit previst. Així, l’algorisme de
+   “backpropagation” és un dels més usats per entrenar xarxes neurals
+   multicapa feedforward.
+
+--
+   multitud d’aplicacions.
+
+   En aquesta pràctica aprendrem a dissenyar xarxes neurals per resoldre
+   problemes concrets mitjançant l’ús de les llibreries Keras.
+
+--
+from sklearn.model_selection import train_test_split
+
+   Les llibreries noves que farem servir per treballar amb xarxes
+   neuronals s’anomenen Keras.
+
+--
+   ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating
+   System) per un enginyer de Google i va acabant ser una capa o
+   interfície d'alt nivell per crear xarxes neurals de forma simple amb
+   altres llibreries més potents i de baix nivell per a computació
+   numèrica com Theano i TensorFlow.
+--
+
+   De les llibreries de Keras necessitarem exactament:
+     * Sequential: model per a xarxes neuronals on les capes s'organitzen
+       com una llista seqüencial
+     * Dense, Activation i Dropout: diferents tipus de capes per les
+       nostres xarxes
+     * Adam: optimitzador de pesos de la xarxa
+
+   In [ ]:
+# Xarxes neurals
+from keras.models import Sequential
+from keras.layers.core import Dense, Dropout, Activation
+--
+Classificació d'una XOR¶
+
+   Inicialment les xarxes neuronals no van ser gaire utilitzades degut a
+   que el màxim exponent era el perceptró simple. El perceptró tenia el
+   problema de que només era capaç de classificar problemes linealment
+--
+y = np.array([0,1,1,0])
+
+   Ara crearem un model de xarxa neuronal mitjançant Keras. Les xarxes
+   neuronals clàssiques, on cada capa està connectada amb la capa anterior
+   i la següent, equivalen a la classe Sequential de Keras. Aquests models
+--
+   'compilar-lo' en format TensorFlow per poder executar-lo. Això es
+   realitza amb la funció compile() on per paràmetres li haurem
+   d'especificar quina serà la mesura d'error de la xarxa i quin
+   optimitzador farem servir.
+
+--
+   (100% de que sigui un 1, 0% de que sigui 0).
+
+   La modificació de pesos en xarxes neurals s'ha realitzat clàssicament
+   mitjançant l'algorisme de backpropagation, però degut a que Keras està
+   preparat per fer deep learning, quan treballem amb xarxes neuronals de
+   dimensions massives aquest algorisme pot ser molt costos
+   computacionalment, per tant, considera que cal algun mitjà
+--
+model.fit(X, y, batch_size=4, nb_epoch=1000, verbose=0)
+
+   Un cop entrenada la nostre xarxa podem avaluar-la i veure els resultats
+   amb la comanda evaluate().
+   In [ ]:
+--
+     __________________________________________________________________
+
+     Pregunta: Descriu l'estructura de xarxa neuronal creant les comandes
+     anteriors. També dibuixa-la fent servir com a guia l’esquema de
+     perceptró de dues entrades mostrat anteriorment.
+--
+Resistència a la compressió del formigó¶
+
+   Les xarxes neurals no només es poden fer servir en problemes de
+   classificació. Si a la xarxa neural no li posem una funció d'activació
+   i fem servir directament l'agregació de les entrades de l'ultima
+   neurona ponderada amb els pesos de les connexions podem fer-la servir
+--
+formigo.describe()
+
+   Per comprovar l'eficàcia de les xarxes neuronals en aquest domini el
+   primer que haurem de fer serà separar els casos que tenim en dos
+   conjunts: un per entrenar i un per comprovar. Ho farem mitjanant la
+--
+
+   De la descripció del dataset, ja se’ns ha comentat que es tracta d'un
+   problema no lineal, per tant necessitarem una xarxa neuronal amb
+   perceptrons multicapa com a mínim de tres capes.
+
+   Existeix la tendència actual d'anomenar les xarxes neuronals de més de
+   tres capes o més com a Deep Neural Networks degut a que son capces de
+   solucionar problemes n-dimensionals però sense poder donar una
+--
+   subsimbólica.
+
+   la xarxa neuronal que implementarem està descrita a les següents línies
+   de codi. Recordem que per fer regressió cal que no hi hagi una funció
+   d'activació a la ultima capa. Per millorar els resultats introduirem
+--
+   inicials i després no sigui resistent al soroll. Com que estem tractant
+   un problema de regressió la mesura que farem servir per comprovar
+   l'error de la xarxa neural serà l'error quadràtic mitjà o MSE.
+   In [ ]:
+# Model sequencial
+--
+model.compile(loss='mse', optimizer='adam')
+
+# Amb les dades d'entrenament calculem els pesos de la xarxa
+model.fit(entrades_train, classes_train, nb_epoch=10, verbose=0)
+
+--
+
+     Pregunta: Modifica el número d'iteracions en l'entrenament dels
+     pesos de la xarxa fins que obtinguis un resultat que creguis
+     acceptables. Guarda els valors resultants de la puntuació MSE i fes
+     un gràfic amb ells per veure l'evolució de l'error.
+--
+   tinguin el format correcte.
+
+   Com que les nostres dades d'entrada son imatges però les xarxes neurals
+   nomes accepten vectors, haurem de transformar cada imatge de 28x28 en
+   un vector de 784. A més a més, els píxels de les imatges solen tenir un
+--
+
+   Com que tenim un problema de classificació multi classe, caldrà
+   codificar les sortides de la xarxa neuronal. Una aproximació potser fer
+   servir el format one-hot on tindrem 10 sortides binaries a la nostre
+   xarxa però només s'activarà la que indiqui la classe correcte. Per
+   exemple:
+0 -> [1, 0, 0, 0, 0, 0, 0, 0, 0]
+--
+
+   Ara que ja tenim les entrades i les sortides en el format correcte,
+   podem començar a definir l'estructura de la nostre xarxa neural.
+   Continuarem fent servir un model Sequential amb dues capes ocultes de
+   512 neurones amb un Dropout del 20% de les connexions i una activació
+--
+model.fit(X_train, Y_train, batch_size=128, nb_epoch=4, verbose=1)
+
+   Avaluarem la xarxa neural com hem fet en els exercicis anteriors amb
+   les dades de test:
+   In [ ]:

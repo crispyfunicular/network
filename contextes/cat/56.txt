@@ -1,0 +1,114 @@
+   CERTIFIED
+
+Com mesurar la complexitat d'una xarxa neuronal en termes d'una sèrie de
+variables i quina mida tenen alguns models de xarxes neuronals més grans sota
+aquesta comparació?
+
+   by Acadèmia EITCA / Dijous, 17 Agost 2023 / Publicat a Intel·ligència
+   Artificial, EITC/AI/DLPP Deep Learning amb Python i PyTorch, Xarxa
+   neuronal, Construcció de xarxes neuronals, Revisió de l'examen
+
+   La complexitat d'una xarxa neuronal es pot mesurar de diverses maneres,
+   però un dels mètodes més senzills i utilitzats és examinant el nombre
+   de variables, també conegudes com a paràmetres, dins de la xarxa. Els
+   paràmetres d'una xarxa neuronal inclouen pesos i biaixos, que s'ajusten
+   durant el procés d'entrenament per minimitzar la funció de pèrdua.
+   Entendre el nombre de paràmetres és important perquè afecta directament
+   els requisits computacionals, l'ús de la memòria i la capacitat de la
+   xarxa per generalitzar des de dades d'entrenament fins a dades no
+   vistes.
+
+   Per calcular el nombre de paràmetres d'una xarxa neuronal, cal tenir en
+   compte l'arquitectura de la xarxa, que inclou el nombre de capes, el
+   tipus de capes (per exemple, completament connectades, convolucionals,
+   recurrents) i el nombre de neurones o unitats en cada capa. Desglossem
+   el procés per a diferents tipus de capes que s'utilitzen habitualment a
+   les xarxes neuronals:
+
+Capes totalment connectades
+--
+   50) = 4 \times (7500 + 50) = 4 \times 7550 = 30200 \]
+
+Complexitat general de la xarxa
+
+   Per determinar el nombre total de paràmetres d'una xarxa neuronal, cal
+   sumar els paràmetres de totes les capes. Per exemple, considereu una
+   xarxa neuronal de feedforward simple amb l'arquitectura següent:
+
+   1. Capa d'entrada: 784 unitats (p. ex., per a imatges de 28 × 28
+--
+   Paràmetres totals:
+
+Exemple d'un model de xarxa neuronal gran
+
+   Un dels models de xarxes neuronals més grans pel que fa al nombre de
+   paràmetres és GPT-3 (Generative Pre-trained Transformer 3),
+   desenvolupat per OpenAI. GPT-3 és un model basat en transformadors, que
+--
+   àmplia gamma de tasques de processament del llenguatge natural amb una
+   gran precisió. L'arquitectura de GPT-3 inclou múltiples capes de
+   transformador, cadascuna amb nombrosos capçals d'atenció i xarxes de
+   feedforward, que contribueixen al gran nombre de paràmetres.
+
+Consideracions pràctiques
+
+   Quan es treballa amb grans xarxes neuronals, s'han de tenir en compte
+   diverses consideracions pràctiques:
+
+--
+   d'inferència.
+
+   La complexitat d'una xarxa neuronal, mesurada pel nombre de paràmetres,
+   és un aspecte fonamental que influeix en el seu rendiment, requisits
+   computacionals i capacitat de generalització. Entendre com calcular i
+   gestionar aquesta complexitat és important per dissenyar xarxes
+   neuronals efectives. Amb els avenços en el maquinari i les tècniques
+   d'optimització, ara és possible entrenar i desplegar models
+--
+   és possible en intel·ligència artificial.
+
+Altres preguntes i respostes recents sobre Construcció de xarxes neuronals:
+
+     * Quina és la funció que s'utilitza a PyTorch per enviar una xarxa
+       neuronal a una unitat de processament que crearia una xarxa
+       neuronal especificada en un dispositiu especificat?
+     * La funció d'activació s'executa a les dades d'entrada o de sortida
+       d'una capa?
+     * En quins casos les xarxes neuronals poden modificar els pesos de
+       manera independent?
+     * Keras es diferencia de PyTorch en la manera en què PyTorch
+--
+       Keras no, i per tant Keras requereix solucions manuals com, per
+       exemple, passar dades falses a través del model?
+     * Com flueixen les dades a través d'una xarxa neuronal a PyTorch i
+       quin és el propòsit del mètode d'enviament?
+     * Quin és l'objectiu del mètode d'inicialització a la classe 'NNet'?
+     * Per què hem d'aplanar les imatges abans de passar-les per la xarxa?
+     * Com definim les capes completament connectades d'una xarxa neuronal
+       a PyTorch?
+     * Quines biblioteques hem d'importar quan es construeix una xarxa
+       neuronal amb Python i PyTorch?
+
+--
+     * programa: EITC/AI/DLPP Deep Learning amb Python i PyTorch (anar al
+       programa de certificació)
+     * Lliçó: Xarxa neuronal (anar a la lliçó relacionada)
+     * Tema: Construcció de xarxes neuronals (anar al tema relacionat)
+     * Revisió de l'examen
+
+   Etiquetat sota: Intel·ligència Artificial, Complexitat computacional,
+   GPT-3, Formació de models, Xarxes neuronals, Paràmetres
+
+   Inici » Intel·ligència Artificial » EITC/AI/DLPP Deep Learning amb
+   Python i PyTorch » Xarxa neuronal » Construcció de xarxes neuronals »
+   Revisió de l'examen » » Com mesurar la complexitat d'una xarxa neuronal
+   en termes d'una sèrie de variables i quina mida tenen alguns models de
+   xarxes neuronals més grans sota aquesta comparació?
+
+Centre de certificació
+--
+                                                           Acadèmia EITCA
+
+     * Acadèmia EITCA a les xarxes socials
+     *
+     *
