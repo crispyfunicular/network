@@ -1,0 +1,228 @@
+    #alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TW6LD72
+
+   NFON Logo
+
+   (BUTTON)
+
+     * Productos
+       Telefonía Empresarial en la Nube
+       Cloudya facilita tus comunicaciones por teléfono, vídeo, pantalla
+       compartida o conferencia desde cualquier lugar. Esto es todo lo que
+       incluye:
+          + Cloudya
+          + Características de Cloudya en detalle
+          + AI Essentials
+          + Dispositivos
+       Conectividad
+       Benefíciate de las ventajas de la nube manteniendo tu sistema
+       telefónico actual.
+          + SIP Trunk
+          + Características de SIP Trunk en detalle
+       Contacto con el cliente
+       Descubre qué productos de NFON te ayudan a ofrecer la mejor manera
+       para contactar y atender a tus clientes.
+          + NFON Contact Center Hub
+          + Características de NFON Contact Center Hub en detalle
+       Integraciones
+       Infórmate sobre qué soluciones puedes usar para integrar NFON en
+       tus sistemas y herramientas actuales y mejorar así la productividad
+       y la experiencia de tus clientes.
+          + Integración de Microsoft Teams* para Telefonía en la Nube
+          + CRM Connect
+          + NCTI
+          + Application Programming Interface (API)
+       Complementos
+          + Nmonitoring Queues
+          + Softphone Pro
+          + Nhospitality
+          + Neorecording
+       botario
+       La inteligencia artificial al servicio de tus comunicaciones
+          + Voicebot, Chatbot y Live-chat con IA
+          + Nia FrontDesk
+     * Soluciones
+       Soluciones para industrias
+       Descubra cómo su empresa puede beneficiarse de la comunicación
+       basada en la nube.
+          + Salud y Bienestar
+          + Venta al por menor y comercio electrónico
+          + Finanzas, Legal y Seguros
+          + Viajes y Hospitalidad
+          + Sector Público
+       Casos de éxito
+       Mostrando a nuestros clientes experimentando la diferencia con las
+       comunicaciones en la nube de NFON.
+          + Demeter: Venta al por menor
+          + financial.com: TI
+          + Wefapress: Fabricación
+          + Analysis Mason: Consultoría
+     * Asociaciones
+       Asóciate con NFON
+       ¿Buscas una nueva forma de impulsar tu negocio? Descubre la
+       asociación con nosotros y lleva el éxito a tus clientes.
+          + Hazte partner de NFON
+          + NGAGE Programa de Socio
+          + Portal de Socios
+     * Centro de Información
+       Documentación Técnica
+       Mantente siempre al día con las tendencias y los nuevos
+       lanzamientos de NFON.
+          + Documentación
+          + Descargas y softwares
+          + Actualizaciones de Hardware
+          + Notas de la versión
+          + Desarrolladores
+       Recursos
+       Obtenga información útil sobre nuestros productos, tendencias y
+       telefonía en la nube.
+          + Preguntas frecuentes de Cloudya
+          + ¿Qué es la Telefonía en la Nube?
+          + Blog
+          + Glosario de Comunicaciones Cloud
+       Áreas de Clientes
+       Configura tus extensiones individualmente y obtén información
+       completa sobre tus registros de datos.
+          + CDR
+          + mynfon.net
+          + Estado de NFON
+
+     *
+     * Login
+     * (BUTTON) es
+          + España
+     * Contacto
+       Contacto
+          + Contáctenos
+          + ¿Te llamamos?
+       Contacto NFON
+       910616600
+       Contacto de soporte técnico
+       910616610
+       Envíanos tu solicitud
+       Escríbenos
+       Contacto NFON
+       910616600
+       ____________________
+       ____________________
+       [ ] Ya soy cliente de NFON
+       Enviando los datos de contacto se acepta la declaración de
+       protección de datos de NFON Iberia:
+       (BUTTON) Enviar
+
+Redes de telecomunicaciones
+
+   Las redes de telecomunicaciones son equipos de transmisión que pueden
+   transmitir información con señales electromagnéticas u ópticas entre
+   diferentes ubicaciones de forma analógica o digital. La información
+   pueden ser datos de audio, de vídeo o de otros tipos. Las redes están
+   basadas en infraestructuras de trabajo con cables o inalámbricas.
+   Ejemplos de redes de telecomunicaciones típicas son la red fija de
+   teléfono, la red de telefonía móvil, las redes de televisión por cable
+   o Internet.
+
+     * Redes de telecomunicaciones para transmisiones de voz
+       bidireccionales (redes telefónicas)
+     * Redes de telecomunicaciones para transmisiones de datos
+     * Fusión de transmisión de voz y datos a través de la tecnología de
+       Voz sobre IP
+
+Redes de telecomunicaciones para transmisiones de voz bidireccionales (redes
+telefónicas)
+
+   Para la transmisión de voz bidireccional se pueden utilizar diferentes
+   tipos de redes telefónicas. En los inicios de la telefonía, la red
+   telefónica estaba basada en el rendimiento y transfería las señales de
+   voz mediante señales electromagnéticas, analógicas. Hoy en día las
+   redes telefónicas son digitales y pueden estar construidas con cables
+   (línea fija) o ser inalámbricas (red móvil). El establecimiento de la
+   conexión entre los participantes ha evolucionado de ser estrictamente
+   una operación por conmutación de circuitos hasta los sistemas de
+   conmutación de paquetes.
+
+Redes de telecomunicaciones para transmisiones de datos
+
+   Anteriormente las redes de telecomunicaciones para la transmisión de
+   datos utilizaban muchos protocolos diferentes. A raíz del éxito de
+   Internet, el Protocolo de Internet (IP) se ha ido estableciendo cada
+   vez más como el protocolo estándar para la transmisión de datos. Hoy en
+   día, casi todas las redes de datos operan sobre la base de IP. Los
+   datos se comparten en estas redes mediante paquetes de datos
+   individuales que llevan la dirección de destino y de origen. En los
+   nodos de la red, las direcciones de destino son evaluadas por lo que se
+   conoce como enrutadores, y los paquetes de datos se envían hacia el
+   siguiente nodo en dirección al destino. En principio, los paquetes
+   individuales pueden tomar diferentes caminos a través de la red y
+   llegar al destino en tiempos diferentes. El sistema de destino los
+   coloca de nuevo en el orden correcto.
+
+Fusión de transmisión de voz y datos a través de la tecnología de Voz sobre
+IP
+
+   El aumento del rendimiento de las redes IP, los cortos tiempos de
+   latencia, los bajos valores de jitter y el gran ancho de banda hacen
+   que las redes de datos sean adecuadas para aplicaciones en tiempo real
+   en las que el tiempo es crítico, tales como la telefonía. Asimismo, las
+   redes telefónicas, gracias a la tecnología de Voz sobre IP están casi
+   completamente fusionadas con las redes de datos. Esto tiene la ventaja
+   de que el operador solo tiene que operar una única infraestructura para
+   la transmisión de voz y de datos. Para el usuario se proporcionan una
+   serie de nuevas aplicaciones que ofrecen posibilidades de comunicación
+   flexibles. De esta forma, los sistemas telefónicos pueden operar
+   completamente basados en la nube. Los usuarios ya no necesitan tener su
+   propio software de sistema y pueden utilizar todos los servicios de
+   telefonía en cualquier lugar con acceso a Internet.
+
+Artículos relacionados
+
+Voice over Internet Protocol (VoIP)
+
+   La telefonía a través del Internet (también llamada telefonía IP o
+   Voice over IP o VoIP) designa la actividad telefónica a través una red
+   de ordenadores en la que se transmiten los datos según el estándar IP.
+   IP significa "Internet protocol" y es un conjunto de normas según las
+   cuales los datos deben ser preparados para la transmisión en el
+   Internet. La telefonía IP usa los mismos canales de transmisión como la
+   transmisión de datos normal en el Internet.
+   La telefonía mediante Internet de NFON brinda además la posibilidad de
+   la Unified Communication (UC) y de la simple integración de soluciones
+   fax a través de XCAPI.
+   Voice over Internet Protocol (VoIP)
+
+   Volver
+
+   NFON Logo
+
+Noticias
+
+     * Blog
+     * Eventos
+     * Sala de prensa
+
+Clientes
+
+     * Cloudya Login
+     * Admin Portal
+     * Estado de centralita NFON
+
+Acerca de NFON
+
+     * Empresa
+     * Relaciones con inversores
+     * Sostenibilidad y ESG
+     * Carreras profesionales
+
+Legitimo
+
+     * Condiciones Generales Contrato - CGC
+     * Aviso Legal
+     * Trust Center
+     * Protección de Datos
+     * Buzón de reclamaciones
+     * Configuración de Cookies
+
+   © 2025 - NFON | Todos los derechos reservados.
+
+   IFRAME:
+   https://app.usercentrics.eu/browser-sdk/4.35.1/cross-domain-bridge.html

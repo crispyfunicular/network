@@ -1,0 +1,6 @@
+     * Inicio
+     * Catálogo
+          + Redes de camuflaje reforzadas con cable de acero
+          + Redes de camuflaje reforzadas con paracord
+          + Todos los productos
+     * Promociones

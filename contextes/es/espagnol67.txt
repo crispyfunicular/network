@@ -1,0 +1,79 @@
+   eléctrica; que es la encargada de garantizar que todos los aparatos
+   eléctricos habidos y por haber funcionen correctamente. Para ello, la
+   red se compone de diferentes fases que son fácilmente reconocibles y de
+   las que podemos identificar tres grandes bloques: la generación de la
+   energía , su transporte y, por último, la distribución de energía
+--
+   La distribución de la energía eléctrica ha experimentado una auténtica
+   revolución con la irrupción del vehículo eléctrico y la necesidad de
+   una amplia red de recarga
+
+   Así, el camino de la energía eléctrica -una vez está adecuado a los
+--
+
+   Para ello, el reparto de la electricidad se lleva a cabo en lo que
+   dentro del sector se conoce como "red de anillo". Se trata de grandes
+   anillos formados por los circuitos y los centros de transformación,
+   conexión o seccionamiento (como destacados actores de la aparamenta
+   eléctrica), que rodean los grandes centros de consumo; permitiendo que,
+   ante una posible caída del servicio por una situación excepcional en la
+   red, este sea reanudado por la aparamenta localizada en paralelo a la
+   que ha podido verse afectada. De esta manera se garantiza un servicio
+   óptimo para los consumidores.
+--
+   Con todo, podemos dividir la distribución de energía eléctrica en dos
+   principales fases para diferenciar su tipología:
+     * Red de distribución primaria: Es la etapa de distribución de la
+       electricidad en la que la energía llega a las subestaciones para
+       ser transformada y distribuida en media tensión hacia la siguiente
+       fase de la red o para su consumo directo en consumidores
+       electro-intensivos como la industria.
+     * Red de distribución secundaria: Se trata de la etapa del sistema de
+       distribución de energía eléctrica en la que se adaptan los valores
+       de tensión de la energía para su aproximación segura y eficiente a
+--
+   Ahora que conocemos qué es la red de distribución y cómo funciona, es
+   momento de conocer más de cerca a los principales actores que permiten
+   el correcto funcionamiento de la red.
+     * Cables de alimentación: Se trata de las principales arterias de
+       transporte para la energía eléctrica dentro de la red de
+--
+   Centro de transformación digital de Ormazabal El centro de
+   transformación es un elemento clave para el correcto funcionamiento de
+   la red, ya que transforma y distribuye la energía para los usuarios
+   finales
+
+     * Centros de transformación: Estos centros harían las veces de
+       grandes controladores y repartidores de energía en el gran
+       laberinto que es la red. Situados en las salidas de las
+       subestaciones hacia nuestras redes eléctricas, los CTs -su
+       abreviatura- distribuyen y reparten la energía eléctrica por zonas
+       de consumo gracias a sofisticados sistemas de protección y
+       automatización de la red. Para ello, aglutinan a algunos de los
+       elementos clave en la red de distribución secundaria, como los
+       siguientes:
+     * Transformador: Es el protagonista principal del CT y se trata de un
+--
+       se ha producido, obteniendo una solución que permite operar la red
+       en valores de media tensión con total seguridad para el operario y
+       la red en las condiciones más adversas.
+     * Unidades de protección, control y automatización: Estos elementos
+       son una de las principales revoluciones de la red de media tensión
+       en los últimos años. Sus funciones, que pasan desde el control
+       remoto de las celdas y de los transformadores de media tensión,
+--
+Ormazabal, expertos en soluciones eléctricas de distribución en media tensión
+
+   En Ormazabal trabajamos para transformar la red eléctrica en una
+   infraestructura de futuro:  más fiable, resiliente y sostenible. Así,
+   contamos con más de 55 años de experiencia en el diseño y fabricación
+   de soluciones eléctricas para la distribución primaria orientadas a
+   digitalizar la red eléctrica para integrar mayor generación de energía
+   renovable, posibilitar una movilidad más sostenible y garantizar el
+   suministro eléctrico a edificios e infraestructuras con necesidades
+--
+   secundaria hasta 24 kV: cgm.zero24 y sbp.zero24.  La solución
+   alternativa al aislamiento en SF6 más completa del mercado y que
+   garantiza zero cambios, zero incertidumbres y una red eléctrica más
+   sostenible.
+

@@ -1,0 +1,343 @@
+   Pasar al contenido principal
+
+   Este sitio utiliza cookies para mejorar tu experiencia. Leer más
+   (BUTTON) Aceptar todas (BUTTON) Configurar cookies
+
+Configuración de Cookies
+
+   Elige qué tipo de cookies deseas permitir en este sitio:
+
+   Este es el panel de configuración y aceptación de Cookies. Selecciona
+   las que deseas aceptar.
+
+Cookies técnicas (siempre activas)
+
+Ver listado detallado de este tipo de cookies
+
+   Denominación Origen Duración Finalidad
+   UMB_UCONTEXT Umbraco Persistente, finaliza al terminar la sesión. Esta
+   es una cookie específica de Umbraco. Almacena una referencia de Guid al
+   usuario backend registrado actualmente. Generado al azar al iniciar
+   sesión y almacenado en la base de datos, le permite acceder al usuario
+   actual, sin tener que almacenar ningún dato específico del usuario en
+   la cookie.
+   UMB_UPDCHK Umbraco Persistente, finaliza al terminar la sesión. Esta es
+   una cookie específica de Umbraco. Almacena un flag para indicar que se
+   ha realizado una comprobación de actualización. Cuando una cookie
+   caduca o no se encuentra una cookie, se realiza otra comprobación de
+   actualización (configurando la cookie nuevamente). Las comprobaciones
+   solo se realizan si el usuario actual es un administrador de fondo.
+   Crtmwidgetcookies CRTM Persistente Identifica si se ha realizado la
+   aceptación de las cookies en el widget.
+   crtmwidgetProtDatos CRTM Persistente Identifica si se ha realizado la
+   aceptación de la protección de datos en el widget.
+   crtmcookiesSVProtDatos CRTM  Persistente Identifica si se ha realizado
+   la lectura y aceptación de la política de protección de datos de
+   solicitud de visita en el Portal Web.
+   crtmcookiesProtDatos CRTM  Persistente Identifica si se ha realizado la
+   aceptación de las cookies y la política de protección de datos en el
+   Portal Web.
+   crtmcookiesCAnaliticas CRTM Persistente Indica si se han aceptado las
+   cookies de tipo Analítico.
+   crtmcookiesCPublicitarias CRTM Persistente Indica si se han aceptado
+   las cookies de tipo Publicitario.
+   crtmcookiesCPersonalizacion CRTM Persistente Indica si se han aceptado
+   las cookies de tipo Personalización.
+
+[ ] Aceptar cookies analíticas
+
+   Estás cookies recogen datos sobre el comportamiento de los usuarios y
+   permiten elaborar un perfil de usuario.
+
+
+   Si no se aceptan bloqueará el uso de:
+     * Inclusite (Herramienta de accesibilidad)
+     * Los mapas de líneas que usen Google.
+     * Google Analytics
+
+Ver listado detallado de este tipo de cookies
+
+   Denominación Origen Duración Finalidad
+   __utma Google Persistente, dos años a partir de la configuración o
+   actualización. Se usa para distinguir usuarios y sesiones. La cookie se
+   crea cuando se ejecuta la biblioteca JavaScript y no hay ninguna cookie
+   __utma. La cookie se actualiza cada vez que se envían datos a Google.
+   __utmb Google Persistente, 30 minutos a partir de la configuración o
+   actualización. Se usa para determinar nuevas sesiones o visitas. La
+   cookie se crea cuando se ejecuta la biblioteca JavaScript y no hay
+   ninguna cookie __utmb. La cookie se actualiza cada vez que se envían
+   datos a Google.
+   __utmc Google Hasta fin de la sesión del navegador. Se configura para
+   interactuar con urchin.js. Anteriormente, esta cookie actuaba junto con
+   la cookie __utmb para determinar si el usuario estaba en una nueva
+   sesión o visita.
+   __utmt Google Persistente, diez minutos a partir de la configuración o
+   actualización. Se usa para limitar el porcentaje de solicitudes.
+   __utmv Google Persistente, dos años a partir de la configuración o
+   actualización. Se usa para almacenar datos de variables personalizadas
+   de visitante. Esta cookie se crea cuando un programador usa el método
+   _setCustomVar con una variable personalizada de visitante. También se
+   usaba para el método _setVar retirado. La cookie se actualiza cada vez
+   que se envían datos a Google.
+   __utmz Google Persistente, seis meses a partir de la configuración o
+   actualización Almacena la fuente de tráfico o la campaña que explica
+   cómo ha llegado el usuario al sitio. La cookie se crea cuando se
+   ejecuta la biblioteca JavaScript y se actualiza cada vez que se envían
+   datos a Google.
+   _ga Google Persistente, dos años a partir de la configuración o
+   actualización. Se usa para distinguir a los usuarios.
+   _gat_gtag_[UID] Google Persistente, finaliza al terminar la sesión.
+   Incluye información de la campaña relativa al usuario. Si has vinculado
+   tus cuentas de Google Analytics y AdWords, las etiquetas de conversión
+   de sitios web leerán esta cookie, a menos que la inhabilites.
+   _gid Google Persistente, diez minutos a partir de la configuración o
+   actualización. Se usa para distinguir a los usuarios.
+   INCLUSSID Google Sesión Cookie de sesión de Inclusite, herramienta de
+   apoyo en navegación web para personas con discapacidad. Caduca al
+   finalizar la navegación iniciada por el usuario para facilitar la
+   comunicación usuario/servidor.
+
+[ ] Aceptar cookies de personalización
+
+   Estás cookies permiten a los usuarios acceder dependiendo de algunas
+   características propias que se recogen (navegador, idioma, etc.).
+
+
+   Si no se aceptan bloqueará el uso de:
+     * Inclusite (Herramienta de accesibilidad)
+     * Google Translator
+
+Ver listado detallado de este tipo de cookies
+
+   Denominación Origen Duración Finalidad
+   __Inclusite_Accesibility__ Inclusite Sesión Almacena la configuración
+   seleccionada en Inclusite.
+   googtrans Google Translator Sesión Almacena el idioma de destino que se
+   está empleado si se traduce la página con Google Translate.
+   (BUTTON) Guardar preferencias (BUTTON) Rechazar todas
+
+     * Inicio
+     * lunes, 22 de diciembre de 2025
+     * Mapa Web
+
+   img_cabecera
+
+Consorcio de Transportes de Madrid - Ir a la página de inicio Consorcio de
+Transportes de Madrid
+
+   ____________________ (BUTTON) Buscar
+     * Iconos Tu sistema de Transporte Consorcio de Transportes de Madrid
+       - Tu sistema de transportes
+
+     * Tu Transporte Público
+     * Muévete por Madrid
+     * Billetes y Tarifas
+     * Atención al cliente
+     * Conócenos
+     * Comunicación
+
+     * Tu Transporte Público
+          + Metro
+               o Información Relacionada
+               o Planos
+               o Líneas
+               o Estaciones
+               o Horarios
+               o Tarifas
+          + Metro Ligero / Tranvía
+               o Información Relacionada
+               o Planos
+               o Líneas
+               o Estaciones
+               o Horarios
+               o Tarifas
+          + Autobuses urbanos de Madrid: EMT
+               o Información Relacionada
+               o Planos
+               o Líneas
+               o Horarios
+               o Tarifas
+          + Otros autobuses urbanos
+               o Planos
+               o Líneas
+               o Horarios
+               o Tarifas
+          + Autobuses interurbanos
+               o Información Relacionada
+               o Planos
+               o Líneas
+               o Horarios
+               o Tarifas
+          + Autobuses de largo recorrido
+               o Información Relacionada
+               o Concesiones
+               o Tarifas
+          + Cercanías ferroviarias
+               o Información Relacionada
+               o Planos
+               o Líneas
+               o Estaciones
+               o Horarios
+               o Tarifas
+          + Intercambiadores
+               o Información Relacionada
+               o Grandes intercambiadores
+               o Áreas intermodales
+          + Por municipio
+               o Planos
+               o Líneas
+               o Tarifas
+     * Muévete por Madrid
+          + Actualidad del servicio
+          + Planifica tu viaje
+          + Planos de transporte
+               o Planos
+          + Transporte accesible
+               o Información Relacionada
+          + Aparcamientos ligados al transporte público
+          + Visita Madrid
+               o Información Relacionada
+          + Viajar con niños
+               o Información relacionada
+          + Conexiones con aeropuerto y principales estaciones
+               o Aeropuerto
+               o Estaciones de trenes de larga distancia
+               o Estaciones de autobuses de largo recorrido
+          + Madrid en bici
+               o Información Relacionada
+               o Red de estacionamientos de bicicletas
+               o Red de Itinerarios para Bicicletas
+               o Sistema de préstamo de bicicletas
+          + Rutas Verdes
+          + Otros enlaces de interés
+          + Apps
+               o NaviLens
+     * Billetes y Tarifas
+          + Buscador
+               o Sencillos y 10 viajes - Familia numerosa Especial
+          + Zonas tarifarias Buscador
+          + Tarjetas
+               o Tarjeta física
+          + Billetes
+               o Abonos
+               o Sencillos y 10 viajes
+               o Puntos de venta
+          + Tarifas
+          + Zonas
+          + Apps
+          + Preguntas frecuentes
+     * Atención al cliente
+          + Atención presencial
+               o Oficinas de Gestión
+          + Atención por correo electrónico
+          + Atención telefónica
+          + Registro
+          + Quejas y sugerencias
+          + Infracciones
+     * Conócenos
+          + CITRAM 24h
+          + Centro de Documentación
+          + Divulgación
+          + Visítanos
+          + Enlaces y documentación
+               o EDM2018
+     * Comunicación
+          + Sala de Prensa
+               o Noticias
+               o Atención a medios de comunicación
+          + Actualidad del Servicio
+          + Multimedia
+               o Información Relacionada
+               o Galería de fotos
+               o Galería de vídeos
+          + Identidad corporativa
+               o Información relacionada
+          + Nuevo mapa concesional
+               o CM-11: Entorno de Alcobendas-San Sebastián de los Reyes y
+                 conexión con Madrid
+               o CM-12: Interurbanos eje A-1
+               o CM-21: Entorno de Coslada, San Fernando de Henares,
+                 Torrejón de Ardoz y su conexión con Madrid
+               o CM-22: Interurbanos eje A-2 y urbanos de Torrejón de
+                 Ardoz
+               o CM-23: Urbanos de Alcalá de Henares
+               o CM-24: Interurbanos entre el eje A-1 y A-3
+               o CM-31: Entorno de Rivas Vaciamadrid y Arganda del Rey y
+                 su conexión con Madrid
+               o CM-32: Interurbanos eje A-3
+               o CM-41: Interurbanos eje A-4
+               o CM-42: Interurbanos eje A-42
+               o CM-43: Interurbanos eje M-405
+               o CM-51: Interurbanos eje A-5 por Alcorcón
+               o CM-52: Urbano de Móstoles, Arroyomolinos y conexiones con
+                 Madrid
+               o CM-53: Interurbanos A-5 eje
+                 Cenicientos-Navalcarnero-Madrid
+               o CM-61: Entorno de Majadahonda y Pozuelo de Alarcón y su
+                 conexión con Madrid
+               o CM-62: Interurbanos eje A-6 en el entorno de Boadilla y
+                 su conexión con Madrid
+               o CM-63: Urbanos de Las Rozas y su conexión con Madrid
+               o CM-64: Interurbanos A-6 eje Robledo de Chavela-El
+                 Escorial-Madrid
+               o CM-65: Interurbanos A-6 Torrelodones-Galapagar y su
+                 conexión con Madrid
+               o CM-66: Interurbanos A-6 eje Sierra-Madrid
+               o CM-71: Interurbanos eje M-607
+
+   Estás en:
+    1. Inicio
+    2. Tu Transporte Público
+    3. Cercanías ferroviarias
+
+     * Metro
+     * Metro Ligero / Tranvía
+     * Autobuses urbanos de Madrid: EMT
+     * Otros autobuses urbanos
+     * Autobuses interurbanos
+     * Autobuses de largo recorrido
+     * Cercanías ferroviarias
+          + Planos
+          + Líneas
+          + Estaciones
+          + Horarios
+          + Tarifas
+     * Intercambiadores
+     * Por municipio
+
+La Red de Cercanías ferroviarias
+
+   La red ferroviaria de Madrid, nacida a mediados del siglo XIX, se ha
+   convertido en una moderna red de Cercanías de 391 km de longitud, 92
+   estaciones y 9 líneas, que transporta 820.000 viajeros diarios.
+   Información de la red de Cercanías
+
+Planos
+
+Líneas
+
+Estaciones
+
+Horarios
+
+Tarifas
+
+Información Relacionada
+
+     * Web de Cercanías Renfe
+
+     * © CRTM
+     * Accesibilidad
+     * Datos Abiertos
+     * Normativa
+     * Aviso Legal
+
+     * Portal de transparencia
+     * Política de cookies
+     * Protección de datos
+
+   Consorcio de Transportes de Madrid Consorcio de Transportes de Madrid -
+   Tu sistema de transportes Consorcio de Transportes de Madrid Consorcio
+   de Transportes de Madrid - Tu sistema de transportes
+     * Logo de X (antes Twitter)
+     * Logo de Facebook

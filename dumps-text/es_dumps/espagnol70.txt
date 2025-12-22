@@ -1,0 +1,382 @@
+   #LeiryChinchilla.com » Feed LeiryChinchilla.com » Feed de los
+   comentarios JSON oEmbed (JSON) oEmbed (XML)
+
+   Saltar al contenido
+
+   LeiryChinchilla.com
+
+   (BUTTON) Menú
+     * Inicio
+     * Artículos
+          + Relés de Protección
+          + Equipos de Subestación
+          + Energía Renovable
+          + Red Eléctrica
+          + Calidad de Energía
+          + Media Tensión
+     * Contacto
+
+   Energía Eólica. LeiryChinchilla.com
+
+La Energía Eólica y su Impacto en las Redes Eléctricas
+
+   23 de abril de 202510 de julio de 2023 por Leiry
+
+   ¿Qué tan eficiente es la Energía Eólica? ¿Cuál es el impacto de los
+   parques eólicos de gran escala interconectados a las redes eléctricas?
+
+   Hoy en día se considera que la Energía Eólica es una fuente de energía
+   eficiente en términos de costos, de impacto medioambiental y de retorno
+   de la inversión. Ya que por lo general el retorno de la inversión ronda
+   entre 3 y 5 años dependiendo de la robustez del parque eólico.
+
+   Sin embargo, la producción de potencia eléctrica mediante
+   aerogeneradores depende de la interacción entre las palas del rotor y
+   del viento, transformando primero la energía cinética de este en
+   energía mecánica de rotación, y después transformando esta última en
+   energía eléctrica. Por lo que las principales desventajas de las
+   fuentes eólicas son la variabilidad y la aleatoriedad del viento que
+   incide en los aerogeneradores.
+   Aerogenerador, Energía Eolica Imagen Referencial de un Parque Eólico
+
+Ventajas de la Energía Eólica
+
+   Una de las principales ventajas de las instalaciones eólicas es que no
+   tiene emisiones contaminantes y representan un gran ahorro de
+   combustibles fósiles para la matriz energética de los países. Además,
+   hacen una conversión eficiente de la energía eólica en energía
+   eléctrica, con un rendimiento teórico del 59%.
+
+   Por otro lado, permite los esquemas de generación distribuida con bajos
+   costos de mantenimiento y de servicio, ya que no hay costes de
+   abastecimiento de combustible. En adición a esto, los aerogeneradores
+   son de fácil desmantelamiento al final de su vida útil, que ronda entre
+   los 20 a 25 años.
+
+Tipos de Aerogeneradores Según su Sistema de Regulación
+
+   Los aerogeneradores tienen diferentes tecnologías dependiendo de la
+   marca y del año de fabricación. Generalmente existen 3 tipos de
+   aerogeneradores según su sistema de regulación y control del par
+   aerodinámico que actúa sobre el rotor, así como del par
+   electromagnético que actúa sobre el generador y el posible par aplicado
+   al eje por los frenos mecánicos.
+
+   En este sentido, cuando los vientos son inferiores a la velocidad
+   nominal del rotor, los sistemas de regulación y control actúan para
+   maximizar el par aerodinámico, y con eso maximizan la potencia
+   extraída. Por otro lado, cuando los vientos son superiores a la
+   velocidad nominal del rotor, los sistemas de control modulan el par
+   aerodinámico para mantener la velocidad de rotación dentro de los
+   límites aceptables, y con eso lograr estabilizar la potencia extraída
+   manteniéndola próxima al valor nominal.
+
+Aerogeneradores con Velocidad de Rotación Fija
+
+   Los aerogeneradores con velocidad de rotación fija fueron los primeros
+   en fabricarse. Su rotor gira a una velocidad prácticamente fija
+   independientemente de la velocidad del viento incidente. Esto es debido
+   a que la velocidad del rotor es establecida por la frecuencia de la
+   red, la relación del multiplicador y el número de polos del generador
+   eléctrico.
+
+   En términos de control, el par del generador varía en función del par
+   aerodinámico. Y la única manera de controlar el par del generador, y la
+   potencia de salida, es actuar regulando el propio par aerodinámico.
+
+   La desventaja de este tipo de aerogenerador es que cada fluctuación de
+   la velocidad del viento produce una fluctuación del par mecánico, que a
+   su vez produce una fluctuación de la potencia inyectada a la red. Que,
+   si la red eléctrica en el punto de interconexión es débil, causará
+   fluctuación de la tensión con efectos negativos para los usuarios
+   conectados.
+
+Aerogeneradores de Velocidad de Rotación Variable
+
+   Los aerogeneradores con velocidad de rotación variable son aquellos en
+   los que el par del generador puede variarse independientemente del par
+   aerodinámico. Por lo que la velocidad de rotación del rotor puede ser
+   controlada actuando tanto sobre el par aerodinámico, como sobre el par
+   del generador, con el objetivo de acelerar o desacelerar el rotor.
+
+   En este tipo de aerogeneradores, los sistemas de velocidad variable
+   mantienen constante el par electromecánico y la variación de la
+   velocidad del rotor absorbe las fluctuaciones de velocidad del viento.
+   Por lo tanto, su sistema eléctrico interno es más complejo que el de
+   los sistemas de velocidad fija y suelen equiparse con generadores
+   síncronos o asíncronos conectados a la red mediante un convertidor de
+   potencia que controla la velocidad del rotor.
+
+   La ventaja de estos sistemas de velocidad variable para generación de
+   energía eólica es que se incrementa la potencia extraída del viento
+   como resultado de una mejor eficiencia. A demás, mejora la calidad de
+   la potencia entregada a la red eléctrica gracias a la amortiguación de
+   las fluctuaciones del viento.
+
+Principales Tipos de Control de Aerogeneradores
+
+   En pocas palabras, los aerogeneradores deben estar equipados con
+   sistemas de control que permitan maximizar la producción de energía
+   manteniendo el funcionamiento de los componentes del aerogenerador
+   dentro de los límites de velocidad y de carga. Es decir, inyectar
+   potencia de calidad aceptable a la red, garantizando el funcionamiento
+   seguro del aerogenerador.
+   Esquema Control Aerogenerador. Energía Eólica Imagen Referencial:
+   Esquema de Control del Aerogenerador. Fuente: ABB Plantas Eólicas.
+
+Control del Par del Generador / Regulación de Pérdida
+
+   El control del par del generador se logra a través de un convertidor
+   electrónico de potencia que regula la fase y la frecuencia de las
+   corrientes que circulan por los bobinados del generador.
+
+Control del Par Aerodinámico / Regulación del Ángulo de Paso
+
+   El control del par aerodinámico actúa sobre la geometría del rotor,
+   regulando el ángulo de paso de toda la extensión de la pala o cambiando
+   la geometría solamente en una parte.
+
+   Es decir, el ángulo de paso de la pala del aerogenerador puede
+   regularse tanto para disminuir como para incrementar el ángulo de
+   ataque hacia la pérdida aerodinámica.
+
+Sistemas de Protección y Seccionamiento
+
+   Tenemos claro que los sistemas de control constituyen el «cerebro del
+   aerogenerador» y proporcionan la lógica de control para regular los
+   procedimientos de arranque y parada de la turbina. Sin embargo, su
+   principal objetivo es proteger al rotor del aerogenerador contra
+   velocidades excesivas.
+
+   Adicionalmente, se debe equipar todo el sistema interno de los
+   aerogeneradores con equipos de protección contra sobreintensidades y
+   sobretensiones generados por la incidencia de descargas atmosféricas.
+
+   Usualmente, la lógica de control se programa en un PLC, logrando que
+   los sistemas de protección y seccionamiento desconecten el
+   aerogenerador de la red en caso de funcionamiento anómalo. Esto permite
+   que los demás aerogeneradores del parque de generación de energía
+   eólica sigan funcionando correctamente.
+   Esquema Seccionamiento Aerogenerador Imagen Referencial: Esquema de
+   Seccionamiento de un Aerogenerador. Fuente: ABB Plantas Eólicas.
+
+Efectos de la Energía Eólica sobre la Red Eléctrica
+
+   En términos generales, las redes eléctricas de cualquier país o región
+   suelen estar sometidas a variaciones en la frecuencia de la tensión
+   ocasionadas por desviaciones entre la potencia generada y la potencia
+   absorbida. Que, a su vez, debido a la impedancia de las líneas de
+   transmisión y distribución de la red, causan una variación de la
+   tensión con respecto al valor nominal.
+
+   Del mismo modo, la red eléctrica se ve afectada por la conexión de
+   parques de generación de energía eólica en función de su potencia
+   nominal y del nivel de fallo del sistema en el punto de interconexión.
+
+Fuentes de Energía Tradicionales
+
+   Antes de entender los efectos de la energía eólica sobre la red
+   eléctrica, es importante que recordemos las ventajas técnicas de las
+   fuentes de energía tradicionales.
+
+   Las fuentes de energía tradicionales consisten en grandes generadores
+   síncronos instalados en centrales eléctricas de gran potencia
+   alimentadas por recursos derivados del petróleo o hidráulicos.
+   Planta Hidroeléctrica. LeiryChinchilla.com Imagen Referencial de
+   Central Hidroeléctrica. Fuente: Russ McElroy.
+
+   Estos generadores tienen la capacidad de responder ante las variaciones
+   de carga manteniendo constante la frecuencia de la red y ajustando la
+   tensión de alimentación. A su vez, cada generador está sincronizado con
+   todos los demás generadores de la red, con el objetivo de garantizar la
+   estabilidad de los parámetros eléctricos ante cualquier variación de
+   carga o turbulencia.
+
+   -> Artículo Recomendado: La Energía Nuclear y su Importancia en las
+   Redes Eléctricas o LeiryChinchilla.com
+
+   En pocas palabras, cuanto mayor sea la potencia inyectada por una
+   central de generación tradicional, mayor será su capacidad de influir
+   en la estabilidad de la frecuencia y voltaje de la red.
+
+Calidad de Potencia Entregada a la Red por los Parques Eólicos
+
+   Los aerogeneradores no tienen la misma capacidad de responder ante
+   variaciones de carga en la red en la que están conectados. Por el
+   contrario, la inyección de potencia eléctrica de los parques eólicos de
+   gran escala puede influir negativamente en la calidad de la tensión de
+   la red. Por esa razón, se ha establecido la norma IEC 61400-21 para
+   determinar las características de calidad de potencia de los
+   aerogeneradores en función de la variación de la tensión, parpadeo,
+   armónicos, transitorios, frecuencia, y paradas.
+
+   En este sentido, se tiene que los principales efectos que ejercen los
+   parques eólicos de gran escala sobre la red eléctrica son los
+   siguientes:
+     * Variaciones de voltaje, causadas por las variaciones en la potencia
+       producida por el aerogenerador.
+
+     * Fluctuaciones de tensión y parpadeo, causadas por maniobras, efecto
+       sombra de la torre, error de ángulo de paso de las palas, error de
+       orientación o variación repentina del viento.
+
+     * Armónicos, causados por los inversores y por los rectificadores.
+
+     * Consumo de potencia reactiva, causado por los componentes
+       inductivos o generadores asíncronos. Deben ser compensados por
+       bancos de capacitores.
+
+     * Picos o caídas de tensión, causado por maniobras.
+
+   Sin embargo, cada uno de estos efectos es mayor o menor dependiendo del
+   tipo de aerogenerador, del avance de la tecnología de los controladores
+   internos con la que se fabricó, y de la robustez de la red eléctrica en
+   el punto de interconexión del parque eólico.
+   Red Eléctrica con Energía Eólica Imagen Referencial de la Interconexión
+   de la Energía Eólica en la Red. Fuente: ABB Plantas Eólicas.
+
+Estabilidad de la Frecuencia en Redes con Energía Eólica
+
+   Como se ha mencionado anteriormente, la frecuencia es un indicador del
+   equilibrio o desequilibrio entre la potencia activa generada y
+   absorbida en una red eléctrica. Esto incluye las pérdidas de
+   transmisión y distribución.
+
+   Bajo condiciones de funcionamiento normal de la red, la frecuencia
+   debería estar muy próxima al valor nominal. Dependiendo de las
+   regulaciones de cada país, el promedio de variación que se suele
+   permitir es de más o menos 0,1Hz.
+
+   Sin embargo, si una central de generación eléctrica sale de servicio, o
+   si ocurre un aumento de carga, se produce un desequilibrio entre
+   generación y consumo. En este caso se debe recurrir a los controles
+   primarios y secundarios de la frecuencia de la red para estabilizar el
+   sistema eléctrico. En estos casos, los parques eólicos no siempre
+   aportan estabilidad al sistema, sino que a veces adicionan más
+   desequilibrio a la red por las fluctuaciones del viento.
+
+Reservas de Regulación Primaria
+
+   Las reservas de regulación primaria consisten en algunas centrales de
+   generación tradicional, conectadas a la red, que están equipadas con
+   controladores de frecuencia. Es decir, estas generadoras incrementan su
+   producción en un intervalo de tiempo de 1 a 30 segundos hasta
+   restablecer el equilibrio de la potencia total consumida y estabilizar
+   el valor de la frecuencia.
+
+Reservas de Regulación Secundaria
+
+   Usualmente, las reservas de regulación secundarias son aquellas
+   centrales de generación de rápida puesta en marcha. Como lo son las
+   turbinas de gas, o las plantas hidroeléctricas. Y se activan cuando la
+   frecuencia de la red es demasiado baja.
+
+   En otras palabras, las reservas de regulación secundaria tienen
+   controladores que ejecutan un incremento o reducción gradual de la
+   producción total durante un tiempo entre 10 y 60 minutos. Estos
+   controles tienen el objetivo de hacer retornar la frecuencia a su valor
+   nominal y liberar las reservas de regulación primaria.
+
+La Naturaleza Intermitente de la Energía Eólica
+
+   Generadores Eólicos. LeiryChinchilla.com
+
+   La naturaleza intermitente de la energía eólica tiene consecuencias
+   sobre la fiabilidad del sistema eléctrico. Dado que, por regulaciones
+   nacionales e internacionales, los sistemas eléctricos deben
+   proporcionar la potencia demandada por las cargas conectadas a la red
+   con una baja probabilidad de falla.
+
+   Esto implica que, para mantener la fiabilidad del sistema eléctrico,
+   los parques eólicos deben ser capaces de asumir parte de la capacidad
+   de producción convencional, más que todo durante los picos de carga.
+
+   Sin embargo, una gran cantidad de potencia eólica intermitente puede
+   disminuir la eficiencia de la generación convencional al hacer que las
+   centrales tradicionales funcionen fuera de sus puntos óptimos al tratar
+   de regular constantemente el impacto de esa intermitencia. Es por esto
+   que, en algunos casos, es preferible desconectar los aerogeneradores
+   mientras se gestionan los controles de estabilidad de la red.
+
+Conclusiones acerca de la Energía Eólica
+
+   Cada año se hacen avances tecnológicos más eficaces para contrarrestar
+   los efectos negativos de los parques eólicos de gran escala que son
+   interconectados a las redes eléctricas. Sin embargo, no debemos
+   minorizar los efectos de la energía eólica que hoy en día están
+   afectando a los sistemas eléctricos interconectados. Es de vital
+   importancia que se reconozcan estos problemas a tiempo, para poder
+   planificar efectivamente cuáles serán las reservas primarias y
+   secundarias de generación convencional que van a garantizar la
+   estabilidad del sistema frente a turbulencias, perturbaciones o
+   aumentos excesivos de cargas.
+
+   -> Artículo Recomendado: Sistemas de Almacenamiento de Energía con
+   Baterías (BESS) y sus Riesgos.
+
+   ¹ Comparte este artículo si te ha gustado.
+
+Referencias Bibliográficas
+
+   ABB Plantas Eólicas. Soluciones de energía eólica | ABB
+
+Comparte esta información con tus amigos
+
+     * Haz clic para compartir en LinkedIn (Se abre en una ventana nueva)
+     * Haz clic para compartir en WhatsApp (Se abre en una ventana nueva)
+     * Haz clic para compartir en Twitter (Se abre en una ventana nueva)
+     * Haz clic para compartir en Facebook (Se abre en una ventana nueva)
+     *
+
+   Categorías Fundamentos Etiquetas Calidad de Energía, Energía Renovable,
+   Red Eléctrica
+
+   Registrador Digital de Fallas (DFR)
+   ¿Qué es un «Lock-Out Relay» y cómo funciona? (ANSI 86)
+
+   LeiryChinchilla canal de Youtube con videos didácticos de Sistemas de
+   Protecciones Eléctricas. Ver Canal de YOUTUBE
+
+     * Clasificación de endurancia en Celdas de Media Tensión. (Medium
+       Voltage Switchgear).
+       Clasificación de Endurancia en Celdas de Media Tensión
+       por Leiry
+     * Protocolos de Protección y Cominicación en Subestaciones
+       Eléctricas. Subestación Eléctrica
+       Protocolos de Comunicación en Subestaciones Eléctricas
+       por Leiry
+     * Transformadores de Media Tensión. Transformador de Distribucion.
+       Tipos de Transformadores de Media Tensión (Normativa IEEE)
+       por Leiry
+     * Redes Inteligentes. Energías Renovables. Parque Solar, Parque
+       Eólico. Planta fotovoltáica
+       Redes Inteligentes (Smart Grids)
+       por Leiry
+     * Características Constructivas de los Transformadores de Corriente
+       de Alta Tensión
+       Características Constructivas de los TC de Alta Tensión
+       por Leiry
+
+     * Política de Privacidad
+     * Política de Cookies
+     * Personalizar Cookies
+     * Aviso Legal
+     * Términos y condiciones
+
+   © 2025 LeiryChinchilla.com o Creado con GeneratePress
+
+   Usted no puede copiar el contenido de esta página.
+
+   You cannot copy content of this page.
+
+   Esta web utiliza cookies propias y de terceros para su correcto
+   funcionamiento y para fines analíticos y para fines de afiliación y
+   para mostrarte publicidad relacionada con sus preferencias en base a un
+   perfil elaborado a partir de tus hábitos de navegación. Contiene
+   enlaces a sitios web de terceros con políticas de privacidad ajenas que
+   podrás aceptar o no cuando accedas a ellos. Al hacer clic en el botón
+   Aceptar, acepta el uso de estas tecnologías y el procesamiento de tus
+   datos para estos propósitos. Más información
+   (BUTTON) Rechazar (BUTTON) Aceptar
+
+   Privacidad

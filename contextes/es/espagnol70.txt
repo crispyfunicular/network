@@ -1,0 +1,128 @@
+          + Equipos de Subestación
+          + Energía Renovable
+          + Red Eléctrica
+          + Calidad de Energía
+          + Media Tensión
+--
+   independientemente de la velocidad del viento incidente. Esto es debido
+   a que la velocidad del rotor es establecida por la frecuencia de la
+   red, la relación del multiplicador y el número de polos del generador
+   eléctrico.
+
+--
+   la velocidad del viento produce una fluctuación del par mecánico, que a
+   su vez produce una fluctuación de la potencia inyectada a la red. Que,
+   si la red eléctrica en el punto de interconexión es débil, causará
+   fluctuación de la tensión con efectos negativos para los usuarios
+   conectados.
+--
+   energía eólica es que se incrementa la potencia extraída del viento
+   como resultado de una mejor eficiencia. A demás, mejora la calidad de
+   la potencia entregada a la red eléctrica gracias a la amortiguación de
+   las fluctuaciones del viento.
+
+--
+   manteniendo el funcionamiento de los componentes del aerogenerador
+   dentro de los límites de velocidad y de carga. Es decir, inyectar
+   potencia de calidad aceptable a la red, garantizando el funcionamiento
+   seguro del aerogenerador.
+   Esquema Control Aerogenerador. Energía Eólica Imagen Referencial:
+--
+   Usualmente, la lógica de control se programa en un PLC, logrando que
+   los sistemas de protección y seccionamiento desconecten el
+   aerogenerador de la red en caso de funcionamiento anómalo. Esto permite
+   que los demás aerogeneradores del parque de generación de energía
+   eólica sigan funcionando correctamente.
+--
+   tensión con respecto al valor nominal.
+
+   Del mismo modo, la red eléctrica se ve afectada por la conexión de
+   parques de generación de energía eólica en función de su potencia
+   nominal y del nivel de fallo del sistema en el punto de interconexión.
+--
+
+   Estos generadores tienen la capacidad de responder ante las variaciones
+   de carga manteniendo constante la frecuencia de la red y ajustando la
+   tensión de alimentación. A su vez, cada generador está sincronizado con
+   todos los demás generadores de la red, con el objetivo de garantizar la
+--
+
+   -> Artículo Recomendado: La Energía Nuclear y su Importancia en las
+   Redes Eléctricas o LeiryChinchilla.com
+
+   En pocas palabras, cuanto mayor sea la potencia inyectada por una
+   central de generación tradicional, mayor será su capacidad de influir
+   en la estabilidad de la frecuencia y voltaje de la red.
+
+Calidad de Potencia Entregada a la Red por los Parques Eólicos
+
+   Los aerogeneradores no tienen la misma capacidad de responder ante
+   variaciones de carga en la red en la que están conectados. Por el
+   contrario, la inyección de potencia eléctrica de los parques eólicos de
+   gran escala puede influir negativamente en la calidad de la tensión de
+   la red. Por esa razón, se ha establecido la norma IEC 61400-21 para
+   determinar las características de calidad de potencia de los
+   aerogeneradores en función de la variación de la tensión, parpadeo,
+--
+   internos con la que se fabricó, y de la robustez de la red eléctrica en
+   el punto de interconexión del parque eólico.
+   Red Eléctrica con Energía Eólica Imagen Referencial de la Interconexión
+   de la Energía Eólica en la Red. Fuente: ABB Plantas Eólicas.
+
+Estabilidad de la Frecuencia en Redes con Energía Eólica
+
+   Como se ha mencionado anteriormente, la frecuencia es un indicador del
+   equilibrio o desequilibrio entre la potencia activa generada y
+   absorbida en una red eléctrica. Esto incluye las pérdidas de
+   transmisión y distribución.
+
+   Bajo condiciones de funcionamiento normal de la red, la frecuencia
+   debería estar muy próxima al valor nominal. Dependiendo de las
+   regulaciones de cada país, el promedio de variación que se suele
+--
+   si ocurre un aumento de carga, se produce un desequilibrio entre
+   generación y consumo. En este caso se debe recurrir a los controles
+   primarios y secundarios de la frecuencia de la red para estabilizar el
+   sistema eléctrico. En estos casos, los parques eólicos no siempre
+   aportan estabilidad al sistema, sino que a veces adicionan más
+   desequilibrio a la red por las fluctuaciones del viento.
+
+Reservas de Regulación Primaria
+--
+   centrales de generación de rápida puesta en marcha. Como lo son las
+   turbinas de gas, o las plantas hidroeléctricas. Y se activan cuando la
+   frecuencia de la red es demasiado baja.
+
+   En otras palabras, las reservas de regulación secundaria tienen
+--
+   sobre la fiabilidad del sistema eléctrico. Dado que, por regulaciones
+   nacionales e internacionales, los sistemas eléctricos deben
+   proporcionar la potencia demandada por las cargas conectadas a la red
+   con una baja probabilidad de falla.
+
+--
+   de regular constantemente el impacto de esa intermitencia. Es por esto
+   que, en algunos casos, es preferible desconectar los aerogeneradores
+   mientras se gestionan los controles de estabilidad de la red.
+
+Conclusiones acerca de la Energía Eólica
+--
+   Cada año se hacen avances tecnológicos más eficaces para contrarrestar
+   los efectos negativos de los parques eólicos de gran escala que son
+   interconectados a las redes eléctricas. Sin embargo, no debemos
+   minorizar los efectos de la energía eólica que hoy en día están
+   afectando a los sistemas eléctricos interconectados. Es de vital
+--
+
+   Categorías Fundamentos Etiquetas Calidad de Energía, Energía Renovable,
+   Red Eléctrica
+
+   Registrador Digital de Fallas (DFR)
+--
+       Tipos de Transformadores de Media Tensión (Normativa IEEE)
+       por Leiry
+     * Redes Inteligentes. Energías Renovables. Parque Solar, Parque
+       Eólico. Planta fotovoltáica
+       Redes Inteligentes (Smart Grids)
+       por Leiry
+     * Características Constructivas de los Transformadores de Corriente

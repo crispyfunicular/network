@@ -1,0 +1,267 @@
+   #alternate alternate alternate
+
+   Sitios del Grupo
+
+   Enel group
+
+     * Sitios del Grupo
+     * Enel Green Power
+       Producimos energía limpia con recursos renovables
+     * Enel Global Energy and Commodity Management
+       Menos riesgos para el comercio global de los commodity
+     * Enel Open Innovability®
+       Un ecosistema global que saca partido de Innovability® para
+       impulsar el futuro
+     * Enel Global Procurement
+       Maximizamos la creación de valor gracias a la relación con nuestros
+       proveedores
+     * Enel Foundation
+       La plataforma de conocimiento para un mundo de energía limpia
+     * Enel Cuore
+       Apoyamos las iniciativas de las ONG
+     * Ethical Channel
+       Formas de denunciar por infracción de nuestras políticas
+
+     * Sitios del país
+     * Americas
+     * Argentina
+     * Brasil
+     * Chile
+     * Colombia
+     * Iberia
+     * Italia
+     * México
+     * Norteamérica
+
+     * Siga con nosotros
+     * Facebook
+     * Twitter
+     * YouTube
+     * LinkedIn
+     * Instagram
+
+   Dirígete al contenido principal
+
+     * Nuestra compañía
+     * Medios
+     * Inversores
+     * Talento
+
+   Enel Logotipo de Enel Logotipo de Enel
+
+   (BUTTON) {{navigationCta.text}}
+   ____________________
+     * {{currentSuggestions.title}}
+     * {{item}} {{item.text}}
+
+   (BUTTON)
+   (BUTTON)
+   {{navigationCta.text}}
+
+   Sitios del Grupo
+
+   Enel group
+
+     * Sitios del Grupo
+     * Enel Green Power
+       Producimos energía limpia con recursos renovables
+     * Enel Global Energy and Commodity Management
+       Menos riesgos para el comercio global de los commodity
+     * Enel Open Innovability®
+       Un ecosistema global que saca partido de Innovability® para
+       impulsar el futuro
+     * Enel Global Procurement
+       Maximizamos la creación de valor gracias a la relación con nuestros
+       proveedores
+     * Enel Foundation
+       La plataforma de conocimiento para un mundo de energía limpia
+     * Enel Cuore
+       Apoyamos las iniciativas de las ONG
+     * Ethical Channel
+       Formas de denunciar por infracción de nuestras políticas
+
+     * Sitios del país
+     * Americas
+     * Argentina
+     * Brasil
+     * Chile
+     * Colombia
+     * Iberia
+     * Italia
+     * México
+     * Norteamérica
+
+     * Siga con nosotros
+     * Facebook
+     * Twitter
+     * YouTube
+     * LinkedIn
+     * Instagram
+
+   Dirígete al contenido principal
+
+     * Nuestra compañía
+     * Medios
+     * Inversores
+     * Talento
+
+   {{jsonLinks.section}}
+     * {{jsonLinks.section}}
+     * {{item.label}}
+
+   {{jsonLinks.section}}
+     * {{jsonLinks.section}}
+     * {{item.label}}
+
+   {{jsonLinks.section}}
+     * {{jsonLinks.section}}
+     * {{item.label}}
+
+   {{jsonLinks.section}}
+     * {{jsonLinks.section}}
+     * {{item.label}}
+
+   Enel group [icon-chevron-down.svg]
+
+Redes inteligentes: qué son, cómo funcionan, ventajas
+
+   Las redes inteligentes son uno de los pilares clave de la transición
+   energética debido a sus beneficios en términos económicos,
+   medioambientales y sociales. Su papel es aún más crucial en el contexto
+   de la distribución de electricidad, ya que son un factor que permite la
+   integración de las energías renovables a escala local y promueven la
+   electrificación del consumo.
+
+     * {{item.name}} {{item.name}}
+
+   [icon-chevron-down.svg]
+   {{item.title}}
+   {{item.content}}
+   (BUTTON) Ver más Ver menos
+
+   [icon-chevron-down.svg]
+   {{item.title}}
+   {{item.content}}
+   (BUTTON) Ver más Ver menos
+
+¿Cuáles son las políticas internacionales de apoyo a las redes inteligentes?
+
+¿Cuánto pueden ahorrar las redes inteligentes?
+
+¿Cuáles son las principales tecnologías utilizadas en las redes inteligentes?
+
+¿Cuáles son los retos de la implementación de las redes inteligentes?
+
+   [icon-chevron-down.svg]
+
+La energía distribuida en nuevas redes
+
+Contenidos relacionados
+
+   [icon-chevron-down.svg]
+
+Enlit Europe 2024: innovación continua para una red flexible, integrada y
+sostenible
+
+   Lee la historia
+
+   [icon-chevron-down.svg]
+
+Las redes de distribución, el pilar de la transición energética
+
+   A word from Gianni Vittorio Armani
+
+   [icon-chevron-down.svg]
+
+El futuro es ahora Enel confirma su compromiso global con el desarrollo
+sostenible en la General Assembly High-level Week de Nueva York
+
+   Lee la historia
+
+   [icon-chevron-down.svg]
+
+El papel clave de la red eléctrica de distribución en Europa para una
+transición energética segura
+
+   Lee la historia
+
+   Nuestra compañía
+     * Nuestra compañía
+     * Sobre Enel
+     * Nuestro negocio
+     * Nuestro compromiso
+     * Únete a nosotros
+     * Todas las historias
+
+   Descubre más
+     * Descubre más
+     * Dónde estamos
+     * Management team
+     * Nuestra historia
+     * Visión
+
+   Medios
+     * Medios
+     * Comunicados de prensa
+     * News
+     * Fotos
+     * Videos
+     * Nuestra Marca
+     * A word from...
+
+   Sustainable Power
+     * Sustainable Power
+     * Mejora continua
+     * #AsktheProfessor
+     * Energía para el deporte
+
+   Sostenibilidad e innovación
+     * Sostenibilidad e innovación
+     * Objetivos de Desarrollo Sostenible
+     * Carta institucional
+     * Economía circular
+     * Hubs de innovación
+     * Open Innovability®
+
+   Inversores
+     * Inversores
+     * Novedades
+     * Estrategia
+     * Invertir en Enel
+     * Informes financieros
+     * Sostenibilidad
+     * Gobierno Corporativo
+
+   Talento
+     * Talento
+     * Home
+     * Being Enel
+     * Teams
+     * Students
+     * Jobs
+
+   Créditos
+   Legal
+   Privacy
+   Política Cookies
+   Accesibilidad
+   es Español
+
+Elige tu idioma
+
+     * Inglés
+     * Español
+
+   © Enel Spa All Rights Reserved Enel Spa P.IVA 15844561009
+
+   icons.alternativeSearch.desc Lorem ipsum dolor sit amet, consectetur
+   adipisicing elit. Un icono que representa a un usuario An icon
+   representing a Pause button Icono de pausa Icono que representa un
+   círculo azul triángulo verde Icono que representa un cuadrado rojo Un
+   icono que representa un logout Un icono para mostrar la contraseña Un
+   icono para mostrar la contraseña Icono que representa un gráfico de
+   líneas Ícono que indica un marcador de mapa de Cuore Icono que indica
+   diferentes puntos de interés de la zona Ícono que indica un marcador de
+   mapa An icon representing a camera An icon representing an headphones
+   An icon representing a document An icon representing a camera An icon
+   representing an headphones An icon representing a document

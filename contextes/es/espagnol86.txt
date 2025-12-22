@@ -1,0 +1,374 @@
+               o Servicios de seguridad impulsados por IA
+            (BUTTON) Más
+            Redes empresariales
+          + Switches ethernet seguros
+          + LAN inalámbrica segura
+--
+   Más información sobre Seguridad GenAI »
+
+     (BUTTON) Seguridad de red
+
+   Firewall de red
+     * Dispositivos de firewall
+     * Firewalls de nube
+--
+   Más información sobre Redes seguras »
+
+     (BUTTON) Redes empresariales
+
+   LAN
+--
+     (BUTTON) Seguridad en la nube
+
+   Seguridad de red en la nube
+     * Firewalls de nube
+
+--
+     * Tecnología operacional segura
+
+   Redes seguras
+     * Productos reforzados
+     * Servicio de seguridad de OT
+--
+     * Filtrado de DNS
+
+   Seguridad de redes y archivos
+     * Servicio de prevención de intrusiones
+     * Antivirus
+--
+
+     * (BUTTON) Empresa
+       Redes seguras
+       Modernización de la red
+          + Información general
+--
+     * Tecnología operacional segura
+
+   Redes seguras
+     * Productos reforzados
+     * Servicio de seguridad de OT
+--
+     * (BUTTON) Proveedor de servicios móviles
+       Información general
+          + Ciberseguridad para redes y ecosistemas móviles
+       Novedades de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+--
+¿Qué es la seguridad de red?
+
+   Descubra los tipos de seguridad de red y cómo puede ayudar a proteger
+   sus redes.
+   LISTA DE VERIFICACIÓN DE LA ARQUITECTURA DE RED INFORME DEL PANORAMA DE
+   AMENAZAS PARA 2025
+--
+   Tipos de soluciones
+   Tecnologías relacionadas
+   Tendencias de seguridad de red
+   Preguntas frecuentes
+   FL (BUTTON) Definición de seguridad de red
+--
+   Tipos de soluciones
+   Tecnologías relacionadas
+   Tendencias de seguridad de red
+   Preguntas frecuentes
+
+Definición: ¿Qué es la seguridad de red?
+
+   La seguridad de red se refiere a las tecnologías, políticas, personas y
+   procedimientos que defienden cualquier infraestructura de comunicación
+   de ciberataques, acceso no autorizado y pérdida de datos. Además de la
+   red en sí, también protegen el tráfico y los activos accesibles a la
+   red tanto en el borde de la red como dentro del perímetro.
+
+¿Cómo funciona la seguridad de red?
+--
+   las reducciones de costos y las mejoras de productividad. Sin embargo,
+   también ha llevado a una superficie de ataque expandida a través del
+   creciente borde de la red. Desde redes de área local (LAN) y redes de
+   área amplia (WAN) hasta el IoT (IoT) y la computación en la nube, cada
+   nueva implementación da lugar a otra vulnerabilidad potencial.
+
+   Peor aún, los ciberdelincuentes cada vez más sofisticados aprovechan
+   las vulnerabilidades de la red a una velocidad alarmante. Malware,
+   ransomware, ataques de denegación de servicio distribuido (DDoS) e
+   innumerables otras amenazas están desafiando a los equipos de TI a
+--
+
+   A su vez, las empresas tienen mucho que ganar al fortalecer sus
+   protecciones de red:
+     * Reducción del riesgo cibernético: Las medidas de seguridad sólidas
+       y sólidas ayudan a garantizar que sus datos siempre permanezcan
+--
+     * Privacidad de datos mejorada: La eliminación de vectores de
+       amenazas garantiza que la información confidencial esté protegida
+       contra el acceso no autorizado mientras atraviesa la red, lo que
+       protege los datos de los clientes y mantiene el cumplimiento.
+     * Mejor continuidad del negocio: Las redes protegidas son más
+       resistentes contra posibles interrupciones y experimentan un tiempo
+       de inactividad mínimo, lo que conduce a una productividad óptima.
+     * Mejor rendimiento de red: La seguridad evita que los actores
+       maliciosos desactiven la red, lo que garantiza que los recursos
+       críticos estén siempre disponibles.
+
+Dispositivos esenciales para proteger la infraestructura de red
+
+   El hardware desempeña un papel vital en la protección de la
+   infraestructura. Tres dispositivos, en particular, son relevantes para
+   la seguridad de la red:
+    1. Switches Ethernet: El switching garantiza una seguridad adecuada en
+       el borde de la red al facilitar el filtrado de tráfico y el control
+       de acceso a nivel de puerto, lo que permite a los administradores
+       aplicar políticas en segmentos de red granulares.
+--
+       los datos en tránsito. También admiten listas de control de acceso
+       (ACL), lo que restringe la conexión de dispositivos no autorizados
+       a la red.
+    3. Puertas de enlace: Las puertas de enlace 5G y LTE son clave para
+       enlaces redundantes y principales a sucursales y campus por igual.
+       El alojamiento de estos dispositivos bajo el mismo paraguas de
+       seguridad que el resto de la red garantiza una configuración común,
+       reduciendo así la superficie de ataque.
+
+   Soluciones de seguridad de redes para adelantarse a las ciberamenazas
+
+   Descubra los componentes clave de seguridad de red para lograr una
+   aceleración digital segura.
+   (BUTTON) Descargue ahora
+
+Tipos de soluciones de seguridad de red
+
+1. Firewalls
+--
+   Un firewall es un dispositivo que monitorea, filtra y controla el
+   tráfico de red entrante y saliente basado en reglas de seguridad
+   predefinidas. Actuando como una barrera entre redes internas y externas
+   no confiables, funciona inspeccionando paquetes de datos y eligiendo
+   bloquearlos o permitirlos.
+--
+   allá de las soluciones tradicionales, incorporando una inspección más
+   profunda de paquetes para una protección más sólida. Los NGFW a menudo
+   combinan muchas capacidades esenciales de seguridad de red en una
+   oferta integral, que incluye prevención de intrusiones, antivirus y
+   sandboxing de archivos, filtrado web y DNS, y más.
+--
+   paquetes norte/sur y este/oeste, incluida la inspección del tráfico
+   cifrado, también pueden proporcionar parches virtuales, lo que mitiga
+   las vulnerabilidades a nivel de red.
+
+   Con un IPS, las organizaciones pueden detectar rápidamente firmas de
+--
+   administración de superficie de ataque de ciberactivos que pueden
+   ayudar a las organizaciones a identificar automáticamente los activos
+   de TI, OT e IoT de la red y evaluar esos activos para detectar posibles
+   riesgos. Las herramientas también pueden evaluar la infraestructura de
+   seguridad existente y los controles para detectar configuraciones
+--
+
+   Las VPN de acceso remoto permiten a los usuarios acceder de forma
+   segura a la red corporativa desde fuera de la oficina de su
+   organización. Crean una conexión privada y cifrada desde una red Wi-Fi
+   pública, lo que permite a los empleados utilizar de manera segura
+--
+   intercepción maliciosa.
+
+7. Control de acceso a red (NAC)
+
+   El control de acceso a la red rige el acceso a la red, lo que garantiza
+   que solo los dispositivos autorizados y compatibles obtengan entrada.
+   Las soluciones NAC identifican y autentican dispositivos, otorgando
+--
+   Por ejemplo, las empresas podrían configurar su NAC para bloquear
+   ciertos tipos de dispositivos. Esto evita que los usuarios accedan a la
+   red en dispositivos personales sin protección, pero también puede
+   ayudar a la empresa a administrar las implementaciones de IoT y
+   tecnología operativa (OT).
+
+   El hardware que no cumpla con los criterios puede ponerse en
+   cuarentena, redirigirse a una red de corrección o denegarse por
+   completo.
+
+Tecnologías de seguridad de red relacionadas
+
+   Aunque no es compatible directamente con la red, existen tecnologías de
+   ciberseguridad relacionadas que ayudan a proteger la infraestructura:
+
+--
+   También ofrecen capacidades de investigación y respuesta a incidentes,
+   que erradican la amenaza y aíslan el sistema afectado para que no
+   afecte al resto de la red.
+
+Seguridad de correo electrónico
+--
+
+   La protección frente a DDoS defiende contra ataques de denegación de
+   servicio, cuyo objetivo es abrumar la red corporativa e interrumpir las
+   operaciones. FortiDDoS, por ejemplo, inspecciona rápidamente los
+   paquetes de datos y bloquea automáticamente el tráfico ilegítimo para
+   que no inunde la red.
+
+Seguridad de aplicaciones
+--
+   utilizando.
+
+Soluciones de seguridad de red empresarial
+
+   La seguridad de la red es inherentemente más compleja en entornos de TI
+   más grandes y complicados. Afortunadamente, hay varias soluciones
+   adecuadas para la protección de la red a escala:
+--
+   utilizando aprendizaje automático (ML) y otros análisis para detectar
+   malware, tráfico malicioso y patrones anormales que pueden indicar un
+   atacante dentro de la red. También proporciona una capacidad sólida
+   para investigar y tomar medidas inmediatas sobre alertas verificadas.
+
+--
+
+   XDR optimiza la detección y respuesta a amenazas en todo el ecosistema
+   de seguridad de una empresa. Al consolidar datos de endpoints, redes,
+   correos electrónicos y la nube, identifica y vincula actividades
+   sospechosas que las herramientas individuales podrían perderse. Este
+--
+   amenazas.
+
+Servicios administrados de seguridad de red
+
+   La progresión de la detección y respuesta de endpoint (EDR) a la
+--
+       infraestructura de una empresa.
+
+   En la actualidad, los bordes de la red están en cualquier lugar donde
+   el usuario se conecta y es posible que las empresas no puedan ampliar
+   la seguridad donde sea necesario. Los proveedores de servicios de
+--
+
+   Un servicio de firewall administrado y nativo de la nube elimina el
+   gran esfuerzo en torno a las operaciones de seguridad de red y
+   proporciona una experiencia sin fricciones para ayudar a los clientes a
+   implementar fácilmente seguridad de nivel empresarial en la nube
+--
+   trabajo y aplicaciones en la nube.
+
+   Ya sea un servicio de firewall administrado o una FWaaS de red, es
+   fundamental que las organizaciones garanticen que sus cargas de trabajo
+   en la nube pública estén protegidas por soluciones de seguridad de
+--
+   amenazas.
+
+Inteligencia artificial (IA) y seguridad de red
+
+   Con los actores maliciosos que utilizan cada vez más transformadores
+--
+   los siguientes beneficios:
+
+Tendencias de seguridad de red
+
+Firewalls de malla híbrida
+
+   Los entornos de red de TI híbrida incluyen múltiples superficies de
+   amenaza al combinar equipos locales en sitios corporativos, entornos de
+   nube y acceso remoto por parte de usuarios que trabajan desde cualquier
+   lugar, todo lo cual agrega complejidad a la administración de la
+   seguridad de la red.
+
+   Para resolver este problema, un firewall de malla híbrida  aborda la
+   seguridad de la red con una plataforma de seguridad unificada que
+   proporciona protección coordinada en múltiples áreas de TI empresarial,
+   para proteger sitios corporativos como sucursales, campus y centros de
+--
+   Secure SD-WAN consolida funciones en SD-WAN, Next-Generation Firewall
+   (NGFW), enrutamiento avanzado y puerta de enlace de aplicaciones Acceso
+   a la red con zero trust para simplificar la administración y proteger
+   las redes.
+
+   Secure SD-WAN es la base para una transición perfecta a SASE y
+--
+Unified SASE
+
+   Una arquitectura Secure Access Service Edge (SASE) converge redes y
+   varias soluciones Secure Service Edge entregadas en la nube para
+   proteger redes distribuidas con ciberseguridad avanzada en cada
+   endpoint/borde.  La SD-WAN es el componente de red y FWaaS, SWG, CASB y
+   Acceso a la red con zero trust comprenden la seguridad perimetral de
+   SASE.  La ventaja de una arquitectura SASE es que proporciona a los
+   usuarios conexiones seguras sin la latencia que resulta del tráfico de
+--
+
+   Una solución Unified SASE integra a la perfección las tecnologías
+   esenciales de red y seguridad que se entregan a través de la nube.
+   Garantiza un acceso seguro para los trabajadores híbridos y protege las
+   aplicaciones y los datos en cualquier nube. Un único sistema operativo
+   unifica los componentes SASE, lo que permite una convergencia perfecta
+   y completa de redes y seguridad.
+
+   Unifed SASE protege el acceso a Internet, los recursos corporativos y
+--
+   establecer una sesión a un recurso empresarial.
+
+   La confianza cero es una respuesta a las tendencias de la red
+   empresarial que incluyen usuarios remotos, traer su propio dispositivo
+   (BYOD), IoT y activos basados en la nube que no están ubicados dentro
+   de un límite de red propiedad de la empresa. La confianza cero se
+   enfoca en proteger los recursos (activos, servicios, flujos de trabajo,
+   cuentas de red, etc.), no los segmentos de red, ya que la ubicación de
+   la red ya no se considera el componente principal de la postura de
+   seguridad del recurso.
+
+   El Acceso a la red con zero trust es una capacidad que controla el
+   acceso a las aplicaciones. Prolonga los principios de ZTA para
+   verificar usuarios y dispositivos antes de cada uso de la aplicación.
+   El Acceso a la red con zero trust confirma que cumple con la política
+   de la organización antes de que pueda acceder a esa aplicación. Sin
+   embargo, el Acceso a la red con zero trust puede funcionar de manera
+   diferente, dependiendo de dónde se encuentre un usuario, lo que
+   significa que el acceso a aplicaciones o redes puede funcionar desde
+   una ubicación pero fallar desde otra.
+
+   Por el contrario, el Acceso a la red con zero trust universal permite
+   conexiones seguras independientemente de la ubicación de la red o del
+   usuario. Los usuarios pueden trabajar desde cualquier lugar y los
+   administradores pueden aplicar principios de confianza cero sin tener
+   que preocuparse por la calidad de las conexiones de red. El Acceso a la
+   red con zero trust universal mejora la seguridad y la conectividad
+   independientemente de dónde se encuentren los usuarios, ya sea local o
+   remoto, o del tipo de arquitectura de red.
+
+Preguntas frecuentes sobre seguridad de red
+
+¿Qué es la seguridad de red?
+
+   La seguridad de red está compuesta por una variedad de aplicaciones,
+   configuraciones y herramientas implementadas para proteger la
+   integridad de su red del uso no autorizado.
+
+¿Por qué las empresas necesitan seguridad de red?
+
+   Las vulnerabilidades en la seguridad de su red dan a los piratas
+   informáticos una apertura para causar daños incalculables a su red
+   mientras exponen información potencialmente confidencial. La protección
+   de seguridad de red se desarrolló para implementar medidas para
+   proteger los datos de su red informática contra la pérdida, el robo o
+   la manipulación.
+
+¿Cómo funciona la seguridad de red?
+
+   Una red informática proporciona comunicación y permite compartir
+   información a múltiples usuarios dentro de una red. Las tecnologías de
+   seguridad de red funcionan dentro de varias capas para proteger su red
+   en su conjunto contra cualquier amenaza potencial.
+
+
+Recursos de seguridad de red
+
+     * ¿Qué es el control de acceso?
+--
+Empresa
+
+     * redes seguras
+     * Seguridad del usuario y del dispositivo
+     * Operaciones de seguridad
+--
+   Productos
+   Empresa
+     * redes seguras
+     * Seguridad del usuario y del dispositivo
+     * Operaciones de seguridad

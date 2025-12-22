@@ -1,0 +1,30 @@
+   in: Sociedad
+
+Red de Carreteras del Estado
+
+   Sign in to edit
+--
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P
+
+   Red de Carreteras del Estado A-21
+
+   La Red de Carreteras del Estado español se constituye de todas las
+   carreteras que se encuentran dentro del territorio español, ya sean
+   estatales, autonómicas o locales. La Red de carreteras sigue la
+   siguiente clasificación de sus carreteras:
+
+   - Red de Carreteras del Estado. Son aquellas carreteras que son
+   competencia del Estado a través del Ministerio de Fomento. Forman parte
+   de ellas tanto las Carreteras Nacionales, como las Autopistas y
+   Autovías del Estado.
+
+   - Red secundaria de carreteras de España: Comprenden
+   tanto carreteras como autopistas y autovías e integra, en función de su
+   titularidad:
+     * Red Autonómica: está formada por el conjunto de las carreteras de
+       titularidad autonómica (dependientes de la Comunidad Autónoma).
+     * Red Provincial: está formada por el conjunto de las carreteras de
+       titularidad provincial (dependientes de la Diputación Provincial).
+     * Red Municipal: está formada por el conjunto de las carreteras de
+       titularidad municipal (dependientes del Ayuntamiento)
+

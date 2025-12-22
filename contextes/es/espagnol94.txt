@@ -1,0 +1,133 @@
+   11 octubre de 2019 | Civera Electrificaciones
+
+   Instalar una red informática
+
+   Una red informática es un conjunto de equipos o dispositivos que están
+   interconectados entre sí a través de cables, señales y ondas con el
+   objetivo de compartir información (archivos, imágenes, tablas,
+--
+¿Para qué sirve las redes informáticas? ¿Dónde las encontramos?
+
+   Las redes informáticas tienen un papel fundamental en nuestro día a día
+   y, actualmente, podemos usarlas en entornos laborales, centros
+   comerciales e incluso lugares públicos. Tal y como hemos explicado,
+--
+   dispositivo como una impresora todos pueden usarlo) y de software
+   (algunos programas pueden instalarse en un único ordenador y ser usados
+   por el resto de ordenadores de la red).
+
+   A nivel empresarial, las redes informáticas son sinónimo de eficacia y
+   productividad, ya que son la forma más rápida y sencilla para compartir
+   contenidos o datos entre compañeros o en diferentes departamentos. Las
+   redes informáticas también son muy útiles en instituciones públicas y
+   en centros de formación como universidades, colegios o bibliotecas.
+
+¿Qué elementos son necesarios para instalar una red informática?
+
+   Las redes de computadoras están conectadas tanto por hardware y por
+   software. Los elementos que forman parte del hardware son equipos
+   informáticos (tarjetas de red, routers, repetidores) y  medios de
+   interconexión (servidores y estaciones de trabajo). El software incluye
+   los controladores y programas empleados para gestionar los dispositivos
+   y el sistema operativo de la red en sí mismo.
+
+   Los principales elementos necesarios para instalar una red informática
+   son:
+
+Tarjetas de conexión a la red
+
+   Las tarjetas de red son dispositivos electrónicos que permiten la
+   interconexión de varios ordenadores y/o máquinas. Su aspecto puede
+   variar. Por ejemplo, la tarjeta de red de un ordenador es una placa
+   electrónica que se pincha a la placa madre. Una placa madre
+   (Motherboard), a su vez, es una placa situada dentro de los ordenadores
+--
+   Hoy en día existen diferentes tipos de tarjetas de red según la
+   velocidad que soportan, los protocolos con los que trabajan, o el tipo
+   de red que la forman parte. Las más habituales son las tarjetas de red
+   Ethernet, las tarjetas WiFi y las tarjetas Token Ring.
+
+--
+
+   Las estaciones de trabajo (Workstation) son otro de los elementos
+   necesarios para instalar una red informática. Éstas son las
+   computadoras que están conectadas directamente a la tarjeta de red,
+   convirtiéndose en nodos o módulos de ésta.
+--
+   Los servidores son ordenadores encargados de suministrar información
+   (archivos de texto, imagen o vídeo y hasta programas informáticos,
+   bases de datos, etc.) al resto de equipos conectados a la red. Existen
+   diferentes tipos de servidores (de archivos, de correo, de
+   almacenamiento, de fax, etc.) Dicho de manera coloquial, un servidor
+   funciona como cerebro de la red informática. Actualmente muchas
+   empresas contratan cloud servers (servidores en la nube), que permiten
+   trasladar las herramienta de los servidores al mundo virtual mejorando
+--
+Repetidores
+
+   Entre los elementos necesarios para instalar una red informática
+   también se encuentran los repetidores. Un repetidor es un dispositivo
+   que permite mejorar la señal de una red inalámbrica WiFi. Los
+--
+Bridges (puentes de conexión)
+
+   Los puentes de red son dispositivos que permiten interconectar dos o
+   más redes. Estos dispositivos se construye en el estándar de IEEE
+   802.11 y pueden ser locales (para enlazar redes cercanas) o remotos
+   (permiten enlazar varias redes locales para formar un área más
+   extensa).
+
+Routers
+
+   Los enrutadores (routers) son los elementos del sistema de las redes
+   informáticas encargados de transmitir la información. Gracias a las
+   direcciones IP, el router sabe a qué máquina debe mandar cada paquete
+--
+   distribución de información como los switch. Además, se consideran
+   dispositivos inteligentes porque tienen varias interfaces y pueden
+   reconocer las redes directamente conectadas a él.
+
+Concentradores
+
+   Un Hub o concentrador es un elemento necesario para instalar una red
+   informática. Se trata de hardware que forma parte de las redes
+   informáticas y que sirve para conectar equipos entre sí. Su objetivo es
+--
+   ahí que a veces también se le denomine «repetidor multipuertos«.
+
+Tipos de redes informáticas
+
+   Los tipos de redes informáticas más habituales son:
+     * PAN (Personal Area Network). Redes personales conformadas por los
+       dispositivos utilizados por una sola persona.
+     * LAN (Local Area Network). Redes locales. La longitud entre los
+       nodos (dispositivos) que la forman no debe  exceder los 5 Km. Las
+       LAN funciona a través de Ethernet y permiten el intercambio de
+       datos y de recursos.
+     * MAN (Metropolitan Area Network). Redes pensadas para cubrir áreas
+       metropolitanas. Las computadoras y routers que la forman están
+       interconectados por enlaces de alta velocidad. Un ejemplo es la
+       fibra óptica. La función de las MAN es interconectar diversas LANs
+       a alta velocidad.
+     * CAN (Campus Area Network). Redes informáticas de área local
+       limitada. Gracias a las CAN es posible conectar a alta velocidad
+       dispositivos situados en áreas concretas como un campus
+       universitario, una zona portuaria, una base militar, etc.
+     * WAN (Wide Area Network). Redes para áreas extensas y de extensión
+       amplia que cubre grandes áreas como regiones e incluso países.
+       Funcionan a través de routers que escogen el trayecto más apropiado
+       para llegar a cada nudo de la red. Internet puede considerarse una
+       red de este tipo.
+     * Peer to Peer (P2P). Las redes Peer to Peer tiene una característica
+       que las hace únicas: cada cliente es también un servidor. El
+       sistema puede estar centralizado o descentralizado.
+
+   En Civera Electrificaciones trabajamos para mejorar las redes
+   informáticas de nuestros clientes. Llevamos a cabo la instalación y
+   certificación de redes Ethernet (categoría 5 y 6), y de enlaces de
+--
+
+     * Instalaciones eléctricas
+     * Instalaciones de Redes informáticas
+     * Instalaciones de infraestructura común de telecomunicaciones
+     * Automatización y Control

@@ -1,0 +1,295 @@
+   #Informaticos.co » Feed oEmbed (JSON) oEmbed (XML) JSON
+
+   Informaticos.co
+   Mantenimiento informático madrid Mantenimiento informático madrid
+
+     * Empresa
+     * Servicios
+          + Mantenimiento informático
+          + Redes y servidores
+          + Reparación de ordenadores
+          + Servicios de Ciberseguridad
+          + Soluciones Microsoft 365 en Madrid
+     * Tips
+     * Contacto
+     * Soporte
+
+     * Empresa
+     * Servicios
+          + Mantenimiento informático
+          + Redes y servidores
+          + Reparación de ordenadores
+          + Servicios de Ciberseguridad
+          + Soluciones Microsoft 365 en Madrid
+     * Tips
+     * Contacto
+     * Soporte
+
+   910014300
+
+   Contáctanos
+
+8 tipos de redes informáticas
+
+   Que las redes informáticas sirven para pasar datos de un dispositivo a
+   otro es algo que tenemos claro. Lo que quizás no tengamos tan claro es
+   la diferencia entre los tipos de redes informáticas como las redes
+   públicas, privadas, locales, personales o virtuales.
+   QUIERO INFORMACIÓN
+
+Índice de Contenidos
+
+Ya sabemos qué son, lo que quizás no sepamos son los tipos de redes
+informáticas que existen y para qué sirve cada una. Vamos a poner un poco de
+luz sobre el asunto
+
+   Es bastante normal que más de una vez nos hayamos encontrado con esos
+   nombres al configurar algún equipo. Incluso, hemos sabido hacer la
+   configuración correctamente, más por costumbre que por conocimientos de
+   lo que estamos haciendo. Pero sí es cierto que hay bastantes
+   diferencias entre los tipos de redes informáticas.
+
+   Seguramente te interese conocer las 10 ventajas de las redes
+   informáticas.
+
+   En lo que a tipos de redes informáticas se refiere, vamos a explicar
+   brevemente qué tipos hay pero antes de nada debemos aclarar que la
+   instalación de una red informática es algo que requiere unos
+   conocimientos muy técnicos. No sólo porque funcione correctamente sino
+   por cuestiones de seguridad. Puedes saber más en la importancia de la
+   seguridad informática.
+
+Red privada
+
+   Las redes privadas son una conexión entre terminales por medio de
+   direcciones IP autorizadas, principalmente son redes internas muy
+   comunes en oficinas, pequeñas empresas o domicilios particulares.
+
+   Este tipo de red suele ser bastante segura, pues no tienen porque estar
+   conectadas a Internet y principalmente se utilizan para compartir
+   información entre equipos.
+
+
+Red pública
+
+   Pueden ser utilizadas por cualquier persona y no tienen por qué estar
+   protegidas por una clave de acceso personal.
+
+   Se trata de distintos terminales con capacidad de compartir información
+   y comunicar a varios usuarios con independencia de su ubicación.
+
+
+Red de área personal (PAN)
+
+   Personal área Network o PAN son las siglas en inglés de este tipo de
+   redes. Básicamente sirven para comunicar nuestro ordenador con otros
+   periféricos o terminales generalmente sin necesidad de cables.
+
+   Las tecnologías más usadas para este tipo de red son la red Wi-Fi,
+   Bluetooth, infrarojo IrDA, USB o el Firewire.
+
+
+Red de área local (LAN)
+
+   Local Area Network son sus siglas en inglés. Son un tipo de red de
+   reducido tamaño, que pueden abarcar una casa o un edificio, esto es
+   debido a que este tipo de red se distribuye a los terminales por medio
+   de un cable.
+
+   Para crear este tipo de redes necesitaremos:
+     * Un servidor que reparta la conexión e interconecte los datos.
+     * Terminales o puestos, ordenadores, para poder acceder a los datos
+       del servidor.
+     * Tarjetas de red para recibir y emitir los datos al servidor.
+
+   Cuando están conectadas por cable también son conocidas como redes
+   Ethernet y si son inalámbricas se conocen como WLAN.
+
+   De los tipos de redes informáticas, estas son de gran importancia para
+   las empresas porque permiten a todos sus empleados volcar su trabajo en
+   uno o varios servidores centrales.
+
+   El sistema de servidores también necesita, está supervisado.
+   Seguramente te interese nuestro artículo sobre Mantenimiento de
+   servidores.
+
+
+Red de área local virtual (VLAN)
+
+   Del inglés Virtual Local Area Network. Este tipo de red es similar a
+   las redes LAN, pero no tienen por qué estar vinculadas a un espacio
+   físico común.
+
+   Estas redes están dirigidas por un software y un hadrware especifico
+   que asigna y ordena paquetes de datos que recibe y emite asignándolos a
+   una dirección Ip o MAC.
+
+
+Red de área del campus (CAN)
+
+   Campus Area Network. Está compuesta por dos o mas redes LAN
+   restringidas a un área geográfica determinada, como por ejemplo un
+   campus universitario, una empresa con varios edificios en una misma
+   localización o una base del ejército.
+
+
+Red de área metropolitana (MAN)
+
+   Metropolitan Area Network. Red que da cobertura a un área geográfica de
+   amplia extensión, como una ciudad o un municipio, suele utilizarse para
+   la transmisión de datos, imágenes o vídeo.
+
+   Suelen tener una alta capacidad de transmisión y repartirse sobre cobre
+   o fibra óptica de banda ancha.
+
+
+Red de área de almacenamiento SAN
+
+   Storage Area Network: Es un sistema de red de interconexión entre
+   servidores que generalmente está cableada con fibra debido a la
+   necesidad de transmisión de bloques muy grandes de datos. De los tipos
+   de redes informáticas estas se caracterizan porque deben ser muy
+   seguras y estables debido a su cometido. Se usan en muchos casos como
+   almacenamiento de seguridad de datos sensibles e importantes. Aquí
+   tienes toda la información sobre nuestro servicio de instalación de
+   redes informáticas para empresas en Madrid.
+
+   Además de conocer los diferentes tipos de redes informáticas, es
+   esencial apoyarlos en un servicio de mantenimiento informático en
+   Madrid que asegure su configuración, seguridad y funcionamiento óptimo
+   en todo momento.
+
+Más tips sobre mantenimiento informático
+
+   Informática para talleres y concesionarios Informática para talleres y
+   concesionarios
+
+Informática para talleres y concesionarios: soluciones profesionales para
+trabajar sin interrupciones
+
+   Los talleres y concesionarios dependen de software de gestión, equipos
+   de diagnóstico y sistemas de pago que deben funcionar sin fallos. Por
+   eso, la informática
+   Leer más »
+
+   Red de oficina caída: causas más frecuentes y cómo prevenirlo Red de
+   oficina caída: causas más frecuentes y cómo prevenirlo
+
+Red de oficina caída: causas más frecuentes y cómo prevenirlo
+
+   Cuando una red de oficina caída afecta a la empresa, todo se paraliza:
+   dejan de funcionar las comunicaciones, las aplicaciones en la nube
+   fallan y
+   Leer más »
+
+   Informática para asesorías fiscales Informática para asesorías fiscales
+
+Informática para asesorías fiscales: guía completa para trabajar con
+seguridad, eficiencia y sin interrupciones
+
+   Las asesorías fiscales trabajan con datos sensibles y aplicaciones
+   críticas que deben funcionar sin fallos. Por eso, la informática para
+   asesorías fiscales es clave para
+   Leer más »
+
+   Tu conexión va lenta 9 comprobaciones antes de que colapse la oficina
+   Tu conexión va lenta 9 comprobaciones antes de que colapse la oficina
+
+Tu conexión va lenta: 9 comprobaciones antes de que colapse la oficina
+
+   Pocas cosas paralizan más una oficina que cuando tu conexión va lenta:
+   correos que no salen, videollamadas que se cortan y tareas bloqueadas.
+   Antes de
+   Leer más »
+
+   errores de mantenimiento informático en empresas errores de
+   mantenimiento informático en empresas
+
+5 errores de mantenimiento informático en empresas y cómo evitarlos
+
+   En la era digital, los sistemas informáticos impulsan cada área de tu
+   empresa, pero un mantenimiento inadecuado puede poner en riesgo datos,
+   productividad y seguridad.
+   Leer más »
+
+   mantenimiento informático para empresas en Madrid mantenimiento
+   informático para empresas en Madrid
+
+Mantenimiento informático para empresas en Madrid: guía completa para estar
+siempre operativo
+
+   Hoy en día, ninguna empresa puede funcionar sin sus sistemas
+   informáticos. Desde la organización de datos hasta la comunicación
+   interna y con clientes, casi todas
+   Leer más »
+
+   logo blanco logo blanco
+
+Contacto
+
+     * Calle Gaviota, 64 Oficina 28025 Madrid
+     * 910 014 300
+     * info@informaticos.co
+
+Información al usuario
+
+     * Política de cookies
+     * Política de privacidad
+
+Enlaces
+
+     * Inicio
+     * Quienes somos
+     * Mantenimiento informático en Madrid
+     * Contacto
+     * Tips y consejos
+     * Presupuesto Online
+
+   © Copyright 1998 -2025 | Servicios informáticos para empresas en Madrid
+   | informáticos.co | Todos los derechos reservados.
+
+   Gestionar el consentimiento de las cookies
+   Para ofrecer las mejores experiencias, utilizamos tecnologías como las
+   cookies para almacenar y/o acceder a la información del dispositivo. El
+   consentimiento de estas tecnologías nos permitirá procesar datos como
+   el comportamiento de navegación o las identificaciones únicas en este
+   sitio. No consentir o retirar el consentimiento, puede afectar
+   negativamente a ciertas características y funciones.
+   Funcional [ ] Funcional Siempre activo
+   El almacenamiento o acceso técnico es estrictamente necesario para el
+   propósito legítimo de permitir el uso de un servicio específico
+   explícitamente solicitado por el abonado o usuario, o con el único
+   propósito de llevar a cabo la transmisión de una comunicación a través
+   de una red de comunicaciones electrónicas.
+   Preferencias [ ] Preferencias
+   El almacenamiento o acceso técnico es necesario para la finalidad
+   legítima de almacenar preferencias no solicitadas por el abonado o
+   usuario.
+   Estadísticas [ ] Estadísticas
+   El almacenamiento o acceso técnico que es utilizado exclusivamente con
+   fines estadísticos. El almacenamiento o acceso técnico que se utiliza
+   exclusivamente con fines estadísticos anónimos. Sin un requerimiento,
+   el cumplimiento voluntario por parte de tu Proveedor de servicios de
+   Internet, o los registros adicionales de un tercero, la información
+   almacenada o recuperada sólo para este propósito no se puede utilizar
+   para identificarte.
+   Marketing [ ] Marketing
+   El almacenamiento o acceso técnico es necesario para crear perfiles de
+   usuario para enviar publicidad, o para rastrear al usuario en una web o
+   en varias web con fines de marketing similares.
+     * Administrar opciones
+     * Gestionar los servicios
+     * Gestionar {vendor_count} proveedores
+     * Leer más sobre estos propósitos
+
+   (BUTTON) Aceptar (BUTTON) Denegar (BUTTON) Ver preferencias (BUTTON)
+   Guardar preferencias Ver preferencias
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Gestionar consentimiento
+
+   Hola
+   ¿En qué podemos ayudarte?
+   Abrir chat

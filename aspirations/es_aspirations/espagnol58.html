@@ -1,0 +1,832 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-ES" lang="es-ES">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Red Vial - Sistema Integrado de Gestión del Mantenimiento Vial (SIGMAVIAL 2.0)</title>
+	<meta name="description" content="SIGMAVIAL 2.0 es el sistema óptimo para la administración y gestión integral de redes viales nacionales, provinciales o estaduales y municipales. ">
+	<meta name="keywords" content="inventario vial, SIG-VIAL, SIG VIAL, GIS VIAL, SIGMAVIAL, ICARO, RAUROS, SIGAVIAL, SIGVIAL, gestión vial, vialidad, planificación vial, mantenimiento vial, georreferenciado, georreferenciación, Información Geográfica, HQ SOLUTIONS, HQSOLUTIONS">
+	<meta name="generator" content="Web Presence Builder 17.8.12">
+	<link type="text/css" rel="stylesheet" href="../../css/style.css?template=generic">
+	<style type="text/css">
+		#widget-7d36b71f-4e13-b984-db9b-1bb99cd68896 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-7d36b71f-4e13-b984-db9b-1bb99cd68896 {
+background-color: rgba(240,240,240,1);
+}
+#widget-7d36b71f-4e13-b984-db9b-1bb99cd68896 {box-shadow: none}
+#widget-3e2b396a-802d-fdc7-3d10-523ae57b240b {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-3e2b396a-802d-fdc7-3d10-523ae57b240b {box-shadow: none}
+#widget-cf70b94b-2d74-cfe8-f816-9c5fb2cb1c15 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-cf70b94b-2d74-cfe8-f816-9c5fb2cb1c15 {box-shadow: none}
+#widget-e449421e-c510-9294-1c28-cb35247094e3 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-e449421e-c510-9294-1c28-cb35247094e3 {box-shadow: none}
+#widget-7065a58b-2650-805c-20d3-4b3de6886c16 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-7065a58b-2650-805c-20d3-4b3de6886c16 {box-shadow: none}
+#widget-fbe6a987-f122-4792-6412-d0db81d7bac4 {
+	margin: 0px 0px 0px 0px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 0 0 0 0;
+}
+#widget-fbe6a987-f122-4792-6412-d0db81d7bac4 {box-shadow: none}
+#widget-cbe8eb77-b356-2aa5-fc58-39f2226d655e {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 10px 0px 10px;
+	border-radius: 0 0 0 0;
+}
+#widget-cbe8eb77-b356-2aa5-fc58-39f2226d655e {box-shadow: none}
+#widget-e41fc6b3-d799-735f-b298-aa4da1cb9af1 {
+	margin: 0 0 0 0;
+	padding: 5px 10px 5px 10px;
+	border-radius: 0 0 0 0;
+}
+#widget-e41fc6b3-d799-735f-b298-aa4da1cb9af1 {box-shadow: none}
+#widget-6bc7cf73-b524-590b-0f85-69d7f9fffd9e {
+	margin: 0 0 0 0;
+	padding: 5px 10px 5px 10px;
+	border-radius: 0 0 0 0;
+}
+#widget-6bc7cf73-b524-590b-0f85-69d7f9fffd9e {
+background-color: rgba(220,220,220,1);
+}
+#widget-6bc7cf73-b524-590b-0f85-69d7f9fffd9e {box-shadow: inset 0px -3px 7px 5px rgba(0,0,0,0.5)}
+#widget-0202b176-aac9-a485-2748-731916199099 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-0202b176-aac9-a485-2748-731916199099 {box-shadow: none}
+#widget-ec5b1689-fd57-e52f-690a-a1eebfdce977 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-ec5b1689-fd57-e52f-690a-a1eebfdce977 {box-shadow: none}
+#widget-e6be80e2-1999-85b6-a7dd-537090f99461 {
+	margin: 0 0 0 0;
+	padding: 0px 0px 0px 0px;
+	border-radius: 0 0 0 0;
+}
+#widget-e6be80e2-1999-85b6-a7dd-537090f99461 {box-shadow: none}
+#widget-f5608af0-23ee-4385-5ee9-c763f0ff7409 {
+	margin: 28px 0px 28px 0px;
+	padding: 8px 0px 8px 0px;
+	border-radius: 0 0 0 0;
+}
+#widget-f5608af0-23ee-4385-5ee9-c763f0ff7409 {box-shadow: none}
+#widget-d2059541-a940-851d-0cf3-5513cd341c83 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-d2059541-a940-851d-0cf3-5513cd341c83 {box-shadow: none}
+#widget-1d769552-2582-9c13-22a2-017ed7dbd84a {
+	margin: 0 0 0 0;
+	padding: 5px 5px 5px 5px;
+	border-radius: 0 0 0 0;
+}
+#widget-1d769552-2582-9c13-22a2-017ed7dbd84a {box-shadow: none}
+#widget-48d8d695-8eb0-4208-63a8-4d6eb5f0f87d {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 10px 0px 10px;
+	border-radius: 0 0 0 0;
+}
+#widget-48d8d695-8eb0-4208-63a8-4d6eb5f0f87d {box-shadow: none}
+#widget-741d2a4e-3a24-938e-649a-d15abd8e917c {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-741d2a4e-3a24-938e-649a-d15abd8e917c {box-shadow: none}
+#widget-29276dce-39c5-c326-2539-6eddfa1d7f9b {
+	margin: 0 0 0 0;
+	padding: 5px 5px 5px 5px;
+	border-radius: 0 0 0 0;
+}
+#widget-29276dce-39c5-c326-2539-6eddfa1d7f9b {box-shadow: none}
+#widget-5de09223-913b-43f3-7154-edc741552436 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 10px 0px 10px;
+	border-radius: 0 0 0 0;
+}
+#widget-5de09223-913b-43f3-7154-edc741552436 {box-shadow: none}
+#widget-fd0f6f64-649c-afbd-dccf-648c1960d70c {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	border-radius: 0 0 0 0;
+}
+#widget-fd0f6f64-649c-afbd-dccf-648c1960d70c {box-shadow: none}
+#widget-5148a698-e9ef-b0e7-8dd7-95df93aa9743 {
+	margin: 0 0 0 0;
+	padding: 5px 10px 5px 10px;
+	border-radius: 0 0 0 0;
+}
+#widget-5148a698-e9ef-b0e7-8dd7-95df93aa9743{ color: #b8b8b8; }#widget-5148a698-e9ef-b0e7-8dd7-95df93aa9743{ text-shadow:rgba(0, 0, 0, 0.4) -1px -1px 1px,rgba(0, 0, 0, 0.4) 1px -1px 1px,rgba(0, 0, 0, 0.4) -1px 1px 1px,rgba(0, 0, 0, 0.4) 1px 1px 1px,rgba(0, 0, 0, 0.9) 0 1px 2px; }#widget-5148a698-e9ef-b0e7-8dd7-95df93aa9743 {box-shadow: none}
+body{background-image: url("../../attachments/Background/bg01.png?1752682137");background-position: top center;background-repeat: repeat;background-size: auto;}#header-content{background-image: url("../../images/7eca7929e626b1d32057cf17970a0ab4.png?1752682137");background-position: top left;background-repeat: repeat;background-size: auto;}#footer-content{background-image: url("../../images/7eca7929e626b1d32057cf17970a0ab4.png?1752682137");background-position: top left;background-repeat: repeat;background-size: auto;}#column1-content,#column1-content .container-content-inner {border-radius:10px 0 0 10px;}
+
+	</style>
+	<script type="text/javascript" src="../../js/css_browser_selector.js"></script>
+	<link type="text/css" href="../../css/navigation-7d36b71f-4e13-b984-db9b-1bb99cd68896.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../modules/navigation/navigation.css?template=generic" rel="stylesheet" />
+<script type="text/javascript" src="../../components/jquery/jquery.min.js?ac=17.8.12_38713.12081600"></script>
+<link type="text/css" href="../../css/text-cbe8eb77-b356-2aa5-fc58-39f2226d655e.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../modules/text/text.css?template=generic" rel="stylesheet" />
+<script type="text/javascript" src="../../modules/text/text.js?ac=17.8.12_38713.12081600"></script>
+<link type="text/css" href="../../css/text-e41fc6b3-d799-735f-b298-aa4da1cb9af1.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../css/text-6bc7cf73-b524-590b-0f85-69d7f9fffd9e.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../css/text-e6be80e2-1999-85b6-a7dd-537090f99461.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../css/navigation-f5608af0-23ee-4385-5ee9-c763f0ff7409.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../css/text-48d8d695-8eb0-4208-63a8-4d6eb5f0f87d.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../css/text-5de09223-913b-43f3-7154-edc741552436.css?template=generic" rel="stylesheet" />
+<link type="text/css" href="../../css/text-5148a698-e9ef-b0e7-8dd7-95df93aa9743.css?template=generic" rel="stylesheet" />
+<script type="text/javascript">var fixHeightColumns = true;</script>
+<!--[if IE]>
+	<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT" />
+<![endif]-->
+<link type="text/css" href="../../css/layout.css?template=generic" rel="stylesheet" />
+<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico?1752682137" />
+<script type="text/javascript">var siteBuilderJs = jQuery.noConflict(true);</script>
+	
+	<script type="text/javascript" src="../../js/helpers.js"></script>
+	<script type="text/javascript" src="../../js/view.js"></script>
+	
+</head>
+<body id="template" class="">
+	<div class="unsupported">La versión de su navegador no está debidamente actualizada. Le recomendamos actualizarla a la versión más reciente.</div><div id="page">
+	<div id="watermark" class="border-none">
+		<div class="external-top">
+			<div class="external-top-left"></div>
+			<div class="external-top-right"></div>
+			<div class="external-top-center"><div><div></div></div></div>
+		</div>
+		<div class="external-middle">
+			<div class="external-left"><div><div></div></div></div>
+			<div class="external-right"><div><div></div></div></div>
+			<div class="watermark-content"></div>
+		</div>
+		<div class="external-bottom">
+			<div class="external-bottom-left"></div>
+			<div class="external-bottom-right"></div>
+			<div class="external-bottom-center"><div><div></div></div></div>
+		</div>
+	</div>
+	<div id="layout" class="pageContentText">
+		<div style='display: none'>
+			<div class="widget widget-navigation " id="widget-7d36b71f-4e13-b984-db9b-1bb99cd68896">
+	<div class="widget-content"><a id="navigation-toggle-7d36b71f-4e13-b984-db9b-1bb99cd68896"></a><ul class="navigation" id="navigation-7d36b71f-4e13-b984-db9b-1bb99cd68896">
+			<li class="normal">
+			<a href="../../">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Inicio</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../historia/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Historia</span>
+			</a>
+			
+		</li><li class="normal navigation-item-expand">
+			<a href="../../caracteristicas/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Características</span>
+			</a>
+			<ul>
+							<li class="normal">
+					<a href="../../caracteristicas/objetivos/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Objetivos</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/fortalezas/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Fortalezas</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/alcances/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Alcances</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/optimizacion-de-la-gestion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Optimización de la Gestión</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/ciclo-de-mantenimiento/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Ciclo de Mantenimiento</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/indice-de-conservacion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Índice de Conservación</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/hdm-4/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">HDM 4</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/arquitectura-tecnologica/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Arquitectura Tecnológica</span>
+					</a>
+					
+				</li>
+						</ul>
+		</li><li class="normal childselected  navigation-item-expand">
+			<a href="../../funcionalidades/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Funcionalidades</span>
+			</a>
+			<ul>
+							<li class="selected  navigation-item-expand">
+					<a href="../../funcionalidades/red-vial/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Red Vial</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/red-vial/tramificacion-de-la-red/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Tramificación de la Red</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/red-vial/ejes-de-rutas-georreferenciadas/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Ejes de Rutas Georreferenciadas</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal">
+					<a href="../../funcionalidades/inventario-vial/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Inventario Vial</span>
+					</a>
+					
+				</li><li class="normal navigation-item-expand">
+					<a href="../../funcionalidades/puentes/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Puentes</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/puentes/puentes-version-estandar/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Puentes - Versión Estándar</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/puentes/puentes-version-enterprise/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Puentes - Versión Enterprise</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal navigation-item-expand">
+					<a href="../../funcionalidades/estados-de-conservacion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Estados de Conservación</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/inspeccion-visual-de-calzada/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Inspección Visual de Calzada</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/informes-sobre-eventos/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Informes sobre Eventos</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/indicadores-de-deterioro/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Indicadores de Deterioro</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/espesor-de-refuerzo/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Espesor de refuerzo</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/pavement-condition-index-pci/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Pavement Condition Index (PCI)</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/hdm-4/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">HDM-4</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal">
+					<a href="../../funcionalidades/transito/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Tránsito</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/siniestros-y-accidentes-viales/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Siniestros y Accidentes Viales</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/priorizacion-de-atencion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Priorización de Atención</span>
+					</a>
+					
+				</li><li class="normal navigation-item-expand">
+					<a href="../../funcionalidades/planificacion-operativa/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Planificación Operativa</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/planificacion-operativa/actividades-de-mantenimiento/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Actividades de Mantenimiento</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/planificacion-operativa/plan-operativo-anual-poa/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Plan Operativo Anual (POA)</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/planificacion-operativa/cronogramas-de-mantenimiento/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Cronogramas de Mantenimiento</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal">
+					<a href="../../funcionalidades/control-de-ejecucion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Control de Ejecución</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/sistema-de-informacion-geografica-sig/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Sistema de Información Geográfica (SIG)</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/multimedia/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Multimedia</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/business-intelligence-bi/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Business Intelligence (BI)</span>
+					</a>
+					
+				</li>
+						</ul>
+		</li><li class="normal">
+			<a href="../../tutoriales/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Tutoriales</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../documentacion/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Documentación</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../casos-de-exito/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Casos de Éxito</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../contacto/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Contacto</span>
+			</a>
+			
+		</li>
+	</ul></div>
+</div>
+		</div>
+		<div id="layout-header">
+			<div id="header" class="container header border-none">
+	<div id="header-top" class="top"><div><div></div></div></div>
+	<div id="header-side" class="side"><div id="header-side2" class="side2">
+		<div class="container-content">
+			<div id="header-content">
+				<div class="container-content-inner" id="header-content-inner">
+	<table class="widget-columns-table"><tr><td class="widget-columns-column" style="width: 31.208%"><div class="widget widget-text " id="widget-e6be80e2-1999-85b6-a7dd-537090f99461">
+	<div class="widget-content"><p><span class="image-block  caption-over-image" style="margin-right: auto; margin-left: auto; display: block; width:420px;"><img id="mce-5577" src="../../attachments/Image/Logo-SIGMAVIAL-6_1.png?template=generic" alt="" width="420" height="95"></img></span></p></div>
+</div></td><td class="widget-columns-column" style="width: 68.792%"><div class="widget widget-navigation " id="widget-f5608af0-23ee-4385-5ee9-c763f0ff7409">
+	<div class="widget-content"><a id="navigation-toggle-f5608af0-23ee-4385-5ee9-c763f0ff7409"></a><ul class="navigation" id="navigation-f5608af0-23ee-4385-5ee9-c763f0ff7409">
+			<li class="normal">
+			<a href="../../">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Inicio</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../historia/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Historia</span>
+			</a>
+			
+		</li><li class="normal navigation-item-expand">
+			<a href="../../caracteristicas/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Características</span>
+			</a>
+			<ul>
+							<li class="normal">
+					<a href="../../caracteristicas/objetivos/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Objetivos</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/fortalezas/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Fortalezas</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/alcances/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Alcances</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/optimizacion-de-la-gestion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Optimización de la Gestión</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/ciclo-de-mantenimiento/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Ciclo de Mantenimiento</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/indice-de-conservacion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Índice de Conservación</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/hdm-4/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">HDM 4</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../caracteristicas/arquitectura-tecnologica/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Arquitectura Tecnológica</span>
+					</a>
+					
+				</li>
+						</ul>
+		</li><li class="normal childselected  navigation-item-expand">
+			<a href="../../funcionalidades/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Funcionalidades</span>
+			</a>
+			<ul>
+							<li class="selected  navigation-item-expand">
+					<a href="../../funcionalidades/red-vial/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Red Vial</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/red-vial/tramificacion-de-la-red/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Tramificación de la Red</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/red-vial/ejes-de-rutas-georreferenciadas/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Ejes de Rutas Georreferenciadas</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal">
+					<a href="../../funcionalidades/inventario-vial/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Inventario Vial</span>
+					</a>
+					
+				</li><li class="normal navigation-item-expand">
+					<a href="../../funcionalidades/puentes/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Puentes</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/puentes/puentes-version-estandar/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Puentes - Versión Estándar</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/puentes/puentes-version-enterprise/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Puentes - Versión Enterprise</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal navigation-item-expand">
+					<a href="../../funcionalidades/estados-de-conservacion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Estados de Conservación</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/inspeccion-visual-de-calzada/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Inspección Visual de Calzada</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/informes-sobre-eventos/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Informes sobre Eventos</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/indicadores-de-deterioro/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Indicadores de Deterioro</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/espesor-de-refuerzo/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Espesor de refuerzo</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/pavement-condition-index-pci/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Pavement Condition Index (PCI)</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/estados-de-conservacion/hdm-4/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">HDM-4</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal">
+					<a href="../../funcionalidades/transito/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Tránsito</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/siniestros-y-accidentes-viales/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Siniestros y Accidentes Viales</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/priorizacion-de-atencion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Priorización de Atención</span>
+					</a>
+					
+				</li><li class="normal navigation-item-expand">
+					<a href="../../funcionalidades/planificacion-operativa/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Planificación Operativa</span>
+					</a>
+					<ul>
+											<li class="normal">
+							<a href="../../funcionalidades/planificacion-operativa/actividades-de-mantenimiento/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Actividades de Mantenimiento</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/planificacion-operativa/plan-operativo-anual-poa/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Plan Operativo Anual (POA)</span>
+							</a>
+						</li><li class="normal">
+							<a href="../../funcionalidades/planificacion-operativa/cronogramas-de-mantenimiento/">
+								<span class="navigation-item-bullet">></span>
+								<span class="navigation-item-text">Cronogramas de Mantenimiento</span>
+							</a>
+						</li>
+										</ul>
+				</li><li class="normal">
+					<a href="../../funcionalidades/control-de-ejecucion/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Control de Ejecución</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/sistema-de-informacion-geografica-sig/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Sistema de Información Geográfica (SIG)</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/multimedia/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Multimedia</span>
+					</a>
+					
+				</li><li class="normal">
+					<a href="../../funcionalidades/business-intelligence-bi/">
+						<span class="navigation-item-bullet">></span>
+						<span class="navigation-item-text">Business Intelligence (BI)</span>
+					</a>
+					
+				</li>
+						</ul>
+		</li><li class="normal">
+			<a href="../../tutoriales/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Tutoriales</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../documentacion/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Documentación</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../casos-de-exito/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Casos de Éxito</span>
+			</a>
+			
+		</li><li class="normal">
+			<a href="../../contacto/">
+				<span class="navigation-item-bullet">></span>
+				<span class="navigation-item-text">Contacto</span>
+			</a>
+			
+		</li>
+	</ul></div>
+</div></td></tr></table>
+</div>
+			</div>
+		</div>
+	</div></div>
+	<div id="header-bottom" class="bottom"><div><div></div></div></div>
+</div>
+		</div>
+		<div id="layout-content">
+			<div id="columns">
+				
+				
+				<div id="content" class="container content border-none">
+	<div id="content-top" class="top"><div><div></div></div></div>
+	<div id="content-side" class="side"><div id="content-side2" class="side2">
+		<div class="container-content">
+			<div id="content-content">
+				<div class="container-content-inner" id="content-content-inner">
+	
+
+	<table class="widget-columns-table"><tr><td class="widget-columns-column" style="width: 25.031999999999996%"></td><td class="widget-columns-column" style="width: 25%"></td><td class="widget-columns-column" style="width: 24.979%"></td><td class="widget-columns-column" style="width: 24.987999999999992%"></td></tr></table>
+
+	<table class="widget-columns-table"><tr><td class="widget-columns-column" style="width: 69.474%"><div class="widget widget-pagecontent " id="widget-fbe6a987-f122-4792-6412-d0db81d7bac4">
+	<div class="widget-content"><div class="widget widget-text " id="widget-cbe8eb77-b356-2aa5-fc58-39f2226d655e">
+	<div class="widget-content"><h2><span style="font-size: 24px;">Gesti&oacute;n de Redes Viales (primarias; secundarias; terciarias o caminos vecinales)</span></h2>
+<div>
+<h4><span class="image-block caption-over-image" style="float: right; margin-left: 20px; width:300px;"><img src="http://sigmavial.arielacevedo.com/images/ilustra_red_vial.png?1700076697818" alt="ilustra red vial" width="300" height="156"></img><span>ilustra red vial</span></span><span style="font-size: 18px;">SIGMAVIAL&nbsp;brinda</span></h4>
+<ul>
+<li>Flexibilidad para administrar zonas o distritos de mantenimiento vial en el que la red puede ser dividida para facilitar la administraci&oacute;n.</li>
+<li>Flexibilidad para <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/red-vial/tramificacion-de-la-red/"><span style="color: #284df6;">definir los niveles de detalle como carreteras y tramos de la red</span></a></span>.</li>
+<li>Funcionalidad de registro de localizaci&oacute;n GPS, de la geometr&iacute;a y el estado de los componentes de <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/inventario-vial/"><span style="color: #284df6;">inventario vial</span></a></span> en relaci&oacute;n con la red de carreteras para cada tipo de elemento (superficie de la carretera, drenajes longitudinales y transversales, arcenes, se&ntilde;ales verticales y horizontales, <span style="font-size: 14px; font-weight: bold;"><span style="color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/puentes/"><span style="color: #284df6;">puentes</span></a></span>,</span> elementos de seguridad, informaci&oacute;n complementaria y reportes de incidencias, etc.), con el siguiente desglose</li>
+</ul>
+<h4><span style="font-size: 18px;">SIGMAVIAL abarca todos los componentes de Red Vial&nbsp;<span>(</span><a class=" link" title="Ver el video referido a este tema" href="https://youtu.be/c60pGAl6Wq0" target="_blank">Ver Video</a><span>)</span></span></h4>
+<ul>
+<li>
+<div class="O1">Camino (Ruta, Calle, Avenida, Camino Vecinal, etc.). <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/red-vial/ejes-de-rutas-georreferenciadas/"><span style="color: #284df6;">Trazas espaciales georreferenciadas</span></a></span>.</div>
+</li>
+<li>
+<div class="O1">Tramos de los caminos establecidos, bajo criterio de tramo homog&eacute;neo.</div>
+</li>
+<li>Generaci&oacute;n de <span style="font-size: 14px; font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/priorizacion-de-atencion/"><span style="color: #284df6;">Polin&oacute;micas de Priorizaci&oacute;n de Tramos de Carreteras o Puentes para evaluaci&oacute;n y para determinaci&oacute;n de pol&iacute;ticas de intervenci&oacute;n</span></a></span> de acuerdo a criterios de indicadores end&oacute;genos (IRI; deflexi&oacute;n; ahuellamiento; etc) y ex&oacute;genos (poblaci&oacute;n servida; producci&oacute;n abastecida o generada; servicios p&uacute;blicos brindados; entre otros) al mantenimiento vial.</li>
+<li>
+<div class="O1"><span style="text-decoration-line: underline; font-size: 14px; font-weight: bold;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/">Estados de Conservaci&oacute;n de Activos Viales:</a></span> Gesti&oacute;n de informes; TDMA &ndash; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/transito/"><span style="color: #284df6;">Tr&aacute;nsito medio diario anual</span></a></span>; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/indicadores-de-deterioro/"><span style="color: #284df6;">Registro de evoluci&oacute;n del deterioro</span></a></span>; Gesti&oacute;n del paquete estructural; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/siniestros-y-accidentes-viales/"><span style="color: #284df6;">Accidentes</span></a></span>; B&aacute;sculas y pesaje de veh&iacute;culos pesados; Conteo de Tr&aacute;nsito con herramientas desarrolladas a tal efecto; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/indicadores-de-deterioro/"><span style="color: #284df6;">Indicadores de Deterioro</span></a></span>; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/pavement-condition-index-pci/"><span style="color: #284df6;">PCI (Pavement Condition Index)</span></a></span>; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/pavement-condition-index-pci/"><span style="color: #284df6;">C&aacute;lculo de espesores de Refuerzo de Pavimentos</span></a></span>; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/indicadores-de-deterioro/"><span style="color: #284df6;">Interfases con equipos de medici&oacute;n multifunci&oacute;n</span></a></span>; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/hdm-4/"><span style="color: #284df6;">Integraci&oacute;n de HDM4</span></a></span>; Visualizaci&oacute;n de esquemas, croquis y planos de tramos; <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/estados-de-conservacion/informes-sobre-eventos/"><span style="color: #284df6;">Informes de eventos o cat&aacute;strofes</span></a></span>.</div>
+</li>
+<li>
+<div class="O1"><span style="text-decoration-line: underline; font-size: 14px; font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/inventario-vial/"><span style="color: #284df6;">Inventario Vial Georreferenciado:</span></a></span> calzada, geometr&iacute;a, drenajes transversales y longitudinales, obras de arte, <span style="font-size: 14px; font-weight: bold;"><span style="color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/puentes/"><span style="color: #284df6;">puentes</span></a></span>,</span> se&ntilde;alizaci&oacute;n vertical y horizontal, curvas, banquinas o arcenes, dispositivos de seguridad, cruces, baches y deterioros de calzada, informaci&oacute;n complementaria, gesti&oacute;n de riesgo, informes de inventario por incidentes, etc.</div>
+</li>
+<li>
+<div class="O1"><span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/sistema-de-informacion-geografica-sig/"><span style="color: #284df6;">Sistema de Informaci&oacute;n Geogr&aacute;fica</span></a></span>.</div>
+</li>
+<li><span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/multimedia/"><span style="color: #284df6;">Herramientas multimedia georreferenciadas</span></a></span>.</li>
+<li><span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/business-intelligence-bi/"><span style="color: #284df6;">Herramientas de Business Intelligence (BI)</span></a></span>.</li>
+</ul>
+El sistema incluye la <span style="font-weight: bold;">Plataforma M&oacute;vil para ser usada en dispositivos m&oacute;viles (preferentemente Tablets por el tama&ntilde;o de pantalla) con receptores GPS para realizar la recolecci&oacute;n de datos directamente en el campo</span>. Esta aplicaci&oacute;n m&oacute;vil tiene la capacidad de integrar capturas de im&aacute;genes con otros datos detallados que se especifican para cada tipo de elemento de inventario como parte de la red vial, incluyendo, por ejemplo, las caracter&iacute;sticas de la calzada. <span style="font-weight: bold;">La aplicaci&oacute;n m&oacute;vil se encuentra totalmente dise&ntilde;ada para trabajar fuera de l&iacute;nea en lugares con poca infraestructura de comunicaci&oacute;n (baja se&ntilde;al inal&aacute;mbrica para transmisi&oacute;n de datos)</span> y est&aacute; totalmente integrado con el sistema de mantenimiento central a trav&eacute;s de funciones de sincronizaci&oacute;n.<br />
+<p><span style="font-weight: bold;">La Plataforma m&oacute;vil del SIGMAVIAL dispone de capacidad, no s&oacute;lo para introducir datos espec&iacute;ficos de elementos de inventario, sino tambi&eacute;n para ser utilizado en la registraci&oacute;n del estado de conservaci&oacute;n de los mismos, para elementos sobre la rasante del camino como por debajo de ella, como lo es la inspecci&oacute;n de drenajes longitudinales, transversales y puentes.</span></p>
+<p>El sistema dispone de funcionalidad para <span style="font-weight: bold;"><span style="color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/multimedia/"><span style="color: #284df6;">capturar fotos seriadas (m&aacute;s de una foto por elemento de inventario) y v&iacute;deos</span></a></span> relacionados con posiciones de progresiva recopiladas de forma autom&aacute;tica a trav&eacute;s del receptor GPS</span>.</p>
+<p>El <span style="font-weight: bold;">SIGMAVIAL</span> cuenta con la facilidad de tener incorporado un <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/puentes/"><span style="color: #284df6;">subsistema de gesti&oacute;n y mantenimiento de puentes</span></a>,</span>&nbsp;en versi&oacute;n <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/puentes/puentes-version-estandar/"><span style="color: #284df6;">est&aacute;ndar</span></a></span> y en versi&oacute;n <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/puentes/puentes-version-enterprise/"><span style="color: #284df6;">enterprise</span></a></span>, que permite no s&oacute;lo contar a los mismos como parte del <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/inventario-vial/"><span style="color: #284df6;">inventario vial gerreferenciado</span></a></span> sino que tambi&eacute;n se pueden <span style="font-weight: bold;">registrar las inspecciones detalladas y peri&oacute;dicas realizadas a los puentes por especialistas de evaluaci&oacute;n de los mismos</span>. Tambi&eacute;n cuenta con la facilidad de realizar la planificaci&oacute;n, mediante <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/priorizacion-de-atencion/"><span style="color: #284df6;">priorizaci&oacute;n de puentes</span></a></span>, del mantenimiento preventivo y correctivo de todos los puentes de la red vial administrada.</p>
+</div></div>
+</div></div>
+</div></td><td class="widget-columns-column" style="width: 30.526%"><div class="widget widget-text " id="widget-e41fc6b3-d799-735f-b298-aa4da1cb9af1">
+	<div class="widget-content"><h1><span style="font-size: 24px; color: #2214f5;">Qui&eacute;nes Somos?</span></h1>
+<p><span style="font-size: 14px; color: #000000;"><span style="font-weight: bold;"><span class="image-block  caption-over-image" style="float: left; margin-right: 20px; width:70px;"><img id="mce-3598" src="../../attachments/Image/Logo-HQ3_1.png?template=generic" alt="" width="70" height="74"></img></span><span style="color: #284df6;"><a class=" link" title="Conocer m&aacute;s sobre HQ Solutions SRL" href="http://hqsolutions.com.ar" target="_blank"><span style="color: #284df6;">HQ Solutions SRL</span></a></span></span> es una empresa establecida en la Rep&uacute;blica Argentina con actuaci&oacute;n en <span style="font-weight: bold;">diferentes pa&iacute;ses de Am&eacute;rica Latina y con acuerdos de cooperaci&oacute;n y explotaci&oacute;n de la herramienta en Espa&ntilde;a</span>. Somos una firma dedicada a brindar fortalecimiento institucional, a la consultor&iacute;a y al <span style="font-weight: bold;">desarrollo de software que cuenta con un equipo multidisciplinario con profesionales de Ingenier&iacute;a Civil y del &aacute;rea de las Tecnolog&iacute;as de la Informaci&oacute;n (TICs)</span>. Para conocernos en:<br /></span></p>
+<h2 style="text-align: right;"><span style="text-decoration: underline; color: #974e4e; font-size: 20px;"><span style="font-weight: bold; font-style: italic;"><a class=" link" title="HQ Solutions SRL" href="http://www.hqsolutions.com.ar" target="_blank"><span style="color: #974e4e; text-decoration: underline;">www.hqsolutions.com.ar</span></a></span></span></h2></div>
+</div><div class="widget widget-text " id="widget-6bc7cf73-b524-590b-0f85-69d7f9fffd9e">
+	<div class="widget-content"><h1><span style="font-size: 24px; font-weight: normal;">Novedades de SIGMAVIAL</span></h1>
+<h2><span style="font-size: 18px;">Nuevo SIG por Celular</span></h2>
+<p><span style="font-size: 14px;">En 2025, nace el </span><span style="font-weight: bold;">Sistema de Informaci&oacute;n Geogr&aacute;fico (SIG) del SIGMAVIAL 2.0 para uso por Celular<span style="font-size: 14px;"> o todo tipo de dispositivos m&oacute;viles</span></span><span style="font-size: 14px;">, con herramientas de gesti&oacute;n de estado por componentes del Inventario Vial&nbsp;como condici&oacute;n de estado de calzadas y m&aacute;s</span><span>&nbsp;<span style="text-decoration: underline;"><span style="font-size: 14px; font-weight: bold;"><a class=" link" title="SIG por Celular" href="https://sigmavial.com/data/documents/HQSolutions-SIGMAVIAL-Funcionalidades-SIG-por-Celular-v15.pdf" target="_blank">Ver m&aacute;s</a></span></span></span></p>
+<hr />
+<h2><span style="font-size: 18px;">Nace SIGMAVIAL Express (</span><span style="text-decoration: underline; font-weight: bold; font-size: 18px;">Gratis)</span></h2>
+<p>A finales de 2024, se lanza al mercado <span style="font-weight: bold;">SIGMAVIAL Express (<span style="font-size: 14px;">versi&oacute;n <span style="text-decoration: underline;">G</span></span></span><span style="font-weight: bold;"><span style="text-decoration: underline;">ratuita</span> del SIGMAVIAL 2.0),<span style="font-weight: normal;">&nbsp;es una versi&oacute;n reducida de la versi&oacute;n completa, que permite la gesti&oacute;n y administraci&oacute;n del Inventario Vial de una Red Vial, con herramientas de gesti&oacute;n de estado por componentes del Inventario Vial <span style="font-size: 14px;">georreferenciado</span> como fotogr&aacute;fico, con su condici&oacute;n de estado con Sistema de Informaci&oacute;n Geogr&aacute;fico integrado</span></span></p>
+<hr />
+<h2><span style="font-size: 18px;">SIGMAVIAL 2.0 en C&oacute;rdoba</span></h2>
+<p>Entre 2024 y 2025, se realiz&oacute; la actualizaci&oacute;n del SIGMAVIAL al nuevo&nbsp;<span style="font-size: 14px; font-weight: bold;">SIGMAVIAL 2.0</span>&nbsp;en la Direcci&oacute;n Provincial de Vialidad de la Provincia de C&oacute;rdoba en la Rep&uacute;blica Argentina para administraci&oacute;n en los 8.000 kms de carreteras primarias y secundarias de la Red Vial de la Provincia</p>
+<hr />
+<h2><span style="font-size: 18px;">SIGMAVIAL 2.0 en La Rioja</span></h2>
+<p>Entre 2022 y 2023, se realiz&oacute; la implementaci&oacute;n del <span style="font-weight: bold;">SIGMAVIAL 2.0</span> en la Administraci&oacute;n Provincial de Vialidad de la Provincia de La Rioja en la Rep&uacute;blica Argentina para administraci&oacute;n en los 3.500 kms de carreteras primarias y secundarias de la Red Vial de la Provincia</p>
+<hr />
+<h2><span style="font-size: 18px;">SIGMAVIAL 2.0 en FOMAV</span></h2>
+<p>En 2023, el Fondo de Mantenimiento Vial (FOMAV) de la Rep&uacute;blica de Nicaragua contrat&oacute; una ampliaci&oacute;n de la funcionalidad del <span style="font-weight: bold; color: #284df6;"><a class=" link" title="Ver m&aacute;s detalles" href="../../funcionalidades/puentes/puentes-version-enterprise/"><span style="color: #284df6;">Subsistema de Puentes e Inspecci&oacute;n de Puentes del SIGMAVIAL</span></a></span> y la implementaci&oacute;n del <span style="font-weight: bold;">SIGMAVIAL 2.0</span>, para los 4.000kms de carreteras incorporadas al SIGMAVIAL en su versi&oacute;n anterior</p>
+<hr />
+<h2><span style="font-size: 18px; color: #2214f5;">Nace SIGMAVIAL 2.0</span></h2>
+<p>Durante 2020 y 2021, <span style="font-weight: bold;">HQ Solutions SRL</span> realiz&oacute; una profunda reingenier&iacute;a en el SIGMAVIAL, creando el <span style="font-weight: bold;">SIGMAVIAL 2.0</span>&nbsp;y convirti&eacute;ndolo en un producto l&iacute;der en Latino Am&eacute;rica en materia de Sistemas Integrados de Gesti&oacute;n de Redes Viales de todo tipo.</p></div>
+</div></td></tr></table>
+</div>
+			</div>
+		</div>
+	</div></div>
+	<div id="content-bottom" class="bottom"><div><div></div></div></div>
+</div>
+			</div>
+		</div>
+		<div id="layout-footer">
+			<div id="footer" class="container footer border-none">
+	<div id="footer-top" class="top"><div><div></div></div></div>
+	<div id="footer-side" class="side"><div id="footer-side2" class="side2">
+		<div class="container-content">
+			<div id="footer-content">
+				<div class="container-content-inner" id="footer-content-inner">
+	<div class="widget widget-text " id="widget-5148a698-e9ef-b0e7-8dd7-95df93aa9743">
+	<div class="widget-content"><p style="text-align: center;"><span style="font-size: 16px;"><span style="color: #f5f5f5;"><span class="image-block  caption-over-image" style="float: left; margin-right: 20px; width:50px;"><img id="mce-3473" src="../../attachments/Image/Logo-HQ3.png?template=generic" alt="" width="50" height="53"></img></span>Libertad 2356 Piso 1 Of C, Florida, Argentina&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; +54 11 77006817 &nbsp; &nbsp; &nbsp; |</span></span><span style="color: #f5f5f5;"> &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-weight: bold; font-style: italic; font-size: 16px;"><a class=" link" style="font-size: 11px;" href="mailto:info@hqsolutions.com.ar">info@hqsolutions.com.ar</a></span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><span style="font-size: 16px;">&nbsp;</span><span class="palette-color4-4">&copy; 2020. HQ Solutions SRL. All Rights Reserved</span>.</span></p></div>
+</div>
+<div class="mobile-view-switcher"></div></div>
+			</div>
+		</div>
+	</div></div>
+	<div id="footer-bottom" class="bottom"><div><div></div></div></div>
+</div>
+		</div>
+		
+	</div>
+</div>
+	<script type="text/javascript" src="../../js/anti_cache.js?ac=17.8.12_38713.12081600"></script>
+<script type="text/javascript">
+window.mobileSwitcherText = "Cambiar al sitio completo";
+window.desktopSwitcherText = "Cambiar a la versión móvil";
+</script><script type="text/javascript">
+siteBuilderJs(document).ready(function ($) {
+	$("#navigation-toggle-7d36b71f-4e13-b984-db9b-1bb99cd68896").click(function(e) {
+				e.preventDefault();
+				$("#navigation-7d36b71f-4e13-b984-db9b-1bb99cd68896").slideToggle();
+			});
+	$.addImagesAnimation('#widget-cbe8eb77-b356-2aa5-fc58-39f2226d655e');	$.addImagesAnimation('#widget-e41fc6b3-d799-735f-b298-aa4da1cb9af1');	$.addImagesAnimation('#widget-6bc7cf73-b524-590b-0f85-69d7f9fffd9e');	$.addImagesAnimation('#widget-e6be80e2-1999-85b6-a7dd-537090f99461');$("#navigation-toggle-f5608af0-23ee-4385-5ee9-c763f0ff7409").click(function(e) {
+				e.preventDefault();
+				$("#navigation-f5608af0-23ee-4385-5ee9-c763f0ff7409").slideToggle();
+			});
+	$.addImagesAnimation('#widget-48d8d695-8eb0-4208-63a8-4d6eb5f0f87d');	$.addImagesAnimation('#widget-5de09223-913b-43f3-7154-edc741552436');	$.addImagesAnimation('#widget-5148a698-e9ef-b0e7-8dd7-95df93aa9743');
+});
+</script>
+</body>
+</html>

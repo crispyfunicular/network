@@ -1,0 +1,146 @@
+   #alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P3CPVF8V
+
+   OmbreCamo
+
+   (BUTTON) Navegación de palanca -HVN-
+     * Inicio
+     * Catálogo
+          + Redes de camuflaje reforzadas con cable de acero
+          + Redes de camuflaje reforzadas con paracord
+          + Todos los productos
+     * Promociones
+     * Blog
+     * Contáctenos
+
+   Search here...
+   ____________________
+   (BUTTON) search
+     * Iniciar sesión
+     * Register
+     * Wishlist ()
+     * Compare ()
+
+   Language
+     * fr fr
+     * es es
+     * de de
+     * en en
+
+   Currency
+     * EUR EUR
+
+   0
+
+La página que busca no se ha encontrado.
+
+No hay productos disponibles
+
+   ¡Estate atento! Próximamente se añadirán más productos.
+   ____________________ (BUTTON)
+
+   OmbreCamo
+   Enlaces útiles
+     * Mapa del sitio
+     * Acerca de
+     * Contactez-nous
+     * Mon compte
+
+   Síguenos
+     * Facebook
+     * Instagram
+
+   check_circle
+
+   check_circle
+
+   (BUTTON) ×
+     * Iniciar sesión
+     * Registro
+
+   Existente Affiliate Ingrese a su cuenta
+   ____________________
+   ____________________
+   [ ] Recuérdame
+   Se te olvidó tu contraseña
+   (BUTTON) &#xE876; &#xE033; Iniciar sesión
+   ¿No tienen en cuenta? Cree uno aquí
+
+   Restablecer la contraseña
+   ____________________
+   (BUTTON) &#xE876; &#xE033; Restablecer la contraseña
+
+   Nuevo registro de cuenta
+   (*) Mr. ( ) Mrs.
+   ____________________
+   ____________________
+   ____________________
+   ____________________
+   [ ] I agree to the terms. *
+   [ ] Sign up for our newsletter
+   (BUTTON) &#xE876; &#xE033; Crea una cuenta
+   ¿Ya tienes una cuenta?
+   Entrar en vez O Restablecer la contraseña
+
+   (BUTTON) ×
+
+   Ce magasin vous demande d'accepter les cookies afin d'optimiser les
+   performances, les fonctionnalités des réseaux sociaux et la pertinence
+   de la publicité. Les cookies tiers liés aux réseaux sociaux et à la
+   publicité sont utilisés pour vous offrir des fonctionnalités optimisées
+   sur les réseaux sociaux, ainsi que des publicités personnalisées.
+   Acceptez-vous ces cookies ainsi que les implications associées à
+   l'utilisation de vos données personnelles ?
+   Cookies nécessaires
+   Siempre habilitado
+   Les cookies nécessaires contribuent à rendre un site web utilisable en
+   activant des fonctions de base comme la navigation de page et l'accès
+   aux zones sécurisées du site web. Le site web ne peut pas fonctionner
+   correctement sans ces cookies.
+   Nombre de la cookie Proveedor Objetivo Expiración
+   cookiesplus https://ombrecamo.com Conserver vos préférences en matière
+   de cookies. 1 année
+   PrestaShop-# https://ombrecamo.com Ce cookie permet de garder les
+   sessions de l'utilisateur ouvertes pendant leur visite, et lui
+   permettre de passer commande ou tout un ensemble de fonctionnement tels
+   que : date d'ajout du cookie, langue sélectionnée, devise utilisée,
+   dernière catégorie de produit visité, produits récemment vus, accord
+   d'utilisation de services du site, Identifiant client, identifiant de
+   connexion, nom, prénom, état connecté, votre mot de passe chiffré,
+   e-mail lié au compte client, l'identifiant du panier. 480 heures
+   Cookies statistiques
+   (*) ( ) No Sí
+   Les cookies statistiques aident les propriétaires du site web, par la
+   collecte et la communication d'informations de manière anonyme, à
+   comprendre comment les visiteurs interagissent avec les sites web.
+   Nombre de la cookie Proveedor Objetivo Expiración
+   collect Google Il est utilisé pour envoyer des données à Google
+   Analytics sur l'appareil du visiteur et son comportement. Suivez le
+   visiteur à travers les appareils et les canaux marketing. Session
+   r/collect Google Il est utilisé pour envoyer des données à Google
+   Analytics sur l'appareil du visiteur et son comportement. Suivez le
+   visiteur à travers les appareils et les canaux marketing. Session
+   _ga Google Enregistre un identifiant unique utilisé pour générer des
+   données statistiques sur la façon dont le visiteur utilise le site. 2
+   années
+   _gat Google Utilisé par Google Analytics pour diminuer radicalement le
+   taux de requêtes 1 jour
+   _ga_# Google Utilisé par Google Analytics our recueillir des données
+   sur le nombre de fois qu'un utilisateur a visité le site web ainsi que
+   les dates de la première et de la plus récente visite. 2 années
+   _gd# Google Il s'agit d'un cookie de session Google Analytics utilisé
+   pour générer des données statistiques sur la façon dont vous utilisez
+   le site Web, qui est supprimé lorsque vous quittez votre navigateur.
+   Session
+   _gid Google Enregistre un identifiant unique utilisé pour générer des
+   données statistiques sur la façon dont le visiteur utilise le site. 1
+   jour
+   (BUTTON) Aceptar
+   (BUTTON) Rechazar cookies
+   (BUTTON) Configurar
+   (BUTTON) Aceptar todas las cookies
+   (BUTTON) Rechazar todas las cookies
+   (BUTTON) Guardar mis preferencias
+   <- Atrás
+   (BUTTON) × Contenido no disponible

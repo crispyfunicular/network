@@ -1,0 +1,502 @@
+   #alternate alternate
+
+   Pasar al contenido principal
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N5H3FB9
+
+   Home
+   ______________________________
+   Buscar Limpiar
+   Cerrar
+
+Nuestro grupo
+
+   Una empresa de Redeia
+   (BUTTON)
+     * Empleo
+     * Sala de prensa
+     * Contacto
+
+     * ES
+     * EN
+
+   Mostrar buscador
+   (BUTTON) Abrir menú cabecera
+
+   Home
+   (BUTTON)
+     * Conócenos
+       Somos el TSO español desde 1985
+       (BUTTON) Volver
+          + Quiénes somos
+          + Cuatro décadas contigo
+          + Nuestra historia
+          + Marco regulatorio
+            (BUTTON) Volver
+               o Normativa nacional y europea
+               o Procedimientos de operación
+               o Códigos de red europeos
+          + Contacto
+       40 aniversario REE
+       Cuatro décadas contigo
+       Cumplimos 40 años acompañando al país en su progreso económico y
+       social. Cuatro décadas dando forma a España.
+       Ir al detalle
+       Dos operarios hablando
+       Quiénes somos
+       Descubre qué es Red Eléctrica, a qué nos dedicamos y por qué somos
+       la columna vertebral del sistema eléctrico en España y de la
+       transición ecológica.
+       Ir al detalle
+     * Operación
+       Somos el operador del sistema eléctrico
+       (BUTTON) Volver
+          + El sistema eléctrico español
+            (BUTTON) Volver
+               o Sistemas no peninsulares
+               o Precio voluntario para el pequeño consumidor (PVPC)
+               o Curvas de demanda y producción en tiempo real
+          + Garantía de suministro
+            (BUTTON) Volver
+               o Centros de control
+               o Servicios de ajuste
+               o Medidas y liquidaciones
+          + Integración de renovables
+            (BUTTON) Volver
+               o Cecre
+          + Desarrollo del sistema eléctrico
+            (BUTTON) Volver
+               o Acceso y conexión a la red
+               o Planificación nacional
+               o Planificación europea
+               o Estudios y prospectivas
+          + Mercado interior de la energía
+       Sistema eléctrico
+       El sistema eléctrico
+       Descubre los elementos que componen el sistema eléctrico nacional y
+       sus particularidades
+       Ir al detalle
+       CECOEL
+       Centros de Control Eléctrico
+       Conoce cómo funciona el cerebro del sistema eléctrico 24 horas al
+       día, 365 días al año.
+       Ir al detalle
+     * Transporte
+       Desarrollamos y mantenemos la red de transporte eléctrico para
+       garantizar un suministro eléctrico de calidad a toda la sociedad
+       (BUTTON) Volver
+          + Red de transporte
+            (BUTTON) Volver
+               o Nuestras infraestructuras
+               o Tecnologías
+          + Proyectos de transporte
+            (BUTTON) Volver
+               o Cómo gestionamos los proyectos
+               o Mapa de proyectos
+       Línea de alta tensión con nieve y hielo
+       Nuestras infraestructuras
+       Desarrollamos y mantenemos las infraestructuras de la red
+       necesarias para transportar electricidad en alta tensión.
+       Saber más
+       Mapa de proyectos
+       Mapa de proyectos
+       Descubre cuáles son los proyectos de la red de transporte que
+       estamos desarrollando para impulsar la transición ecológica en
+       nuestro país.
+       Ir al detalle
+     * Sostenibilidad
+       Gestionamos la red de transporte de forma sostenible
+       (BUTTON) Volver
+          + Integración en el territorio
+            (BUTTON) Volver
+               o Diseño del trazado
+               o Campos electromagnéticos
+               o Reducción de ruido
+               o Patrimonio cultural
+          + Medio ambiente
+            (BUTTON) Volver
+               o Biodiversidad
+               o Restauración y compensación de hábitats
+               o Huella de carbono
+               o Economía circular
+               o Incendios y gestión de la vegetación
+               o Protección de la avifauna
+          + Valor para la sociedad
+            (BUTTON) Volver
+               o Apoyo al territorio
+               o Lucha contra las desigualdades
+               o Sensibilización y conocimiento
+       Informe de sostenibilidad 2024
+       Informe de sostenibilidad 2024
+       Leer más
+     * Transición ecológica
+       Somos la columna vertebral de la transición ecológica en España
+       (BUTTON) Volver
+          + Energías renovables
+          + Interconexiones
+          + Almacenamiento
+          + Electrificación
+          + Autoconsumo
+          + Consumidor activo
+       Salto de Chira
+       Almacenamiento
+       Instrumentos fundamentales para la flexibilidad del sistema
+       Ir al detalle
+       Túnel Santa Llogaia
+       Interconexiones
+       Herramientas esenciales para lograr los objetivos energéticos de la
+       UE
+       Ir al detalle
+     * Datos
+       Ofrecemos los datos del sistema eléctrico español
+       (BUTTON) Volver
+          + Demanda
+          + Generación
+          + Almacenamiento
+          + Autoconsumo
+          + Intercambios
+          + Balance eléctrico
+          + Mercados
+          + Red de transporte
+          + Panorama europeo
+          + Publicaciones
+       Descarga redOS
+       Descarga redOS
+       Nuestra app para conocer los datos del sistema eléctrico en tu
+       dispositivo.
+       App store Google play
+       Informe del sistema 2023
+       Informe del sistema 2024
+       Consulta los indicadores anuales más relevantes del comportamiento
+       del sistema.
+       Más información
+     * Clientes
+       Prestamos servicio a nuestros clientes
+       (BUTTON) Volver
+          + Generador
+            (BUTTON) Volver
+               o Acceso y conexión a la red
+               o Puesta en servicio de tu instalación
+               o Participación en el mercado peninsular
+               o Participación en un despacho no peninsular
+               o Gestión de tus contratos bilaterales
+               o Participación en los servicios de balance
+               o Participación en el sistema de reducción automática de
+                 potencia
+               o Gestión de tus medidas eléctricas
+               o Acceso a tu liquidación
+               o Solicita un trabajo en la red de transporte
+               o Comunicación de tus indisponibilidades
+               o Mecanismo de minoración
+          + Comercializador
+            (BUTTON) Volver
+               o Participación en el mercado peninsular
+               o Participación en un despacho no peninsular
+               o Gestión de tus contratos bilaterales
+               o Participación en los servicios de balance
+               o Gestión de tus medidas eléctricas
+               o Te ayudamos con tu liquidación
+          + Consumidor
+            (BUTTON) Volver
+               o Acceso y conexión a la red
+               o Puesta en servicio de tu instalación
+               o Participación en el mercado peninsular
+               o Participación en un despacho no peninsular
+               o Gestión de tus contratos bilaterales
+               o Participa en los servicios de balance
+               o Gestión de tus medidas eléctricas
+               o Acceso a tu liquidación
+               o Participación en el servicio de interrumpibilidad
+               o Solicitud de un trabajo en la red de transporte
+               o Consumidores electrointensivos
+          + Representante
+            (BUTTON) Volver
+               o Cómo ser representante
+               o Participación en el mercado peninsular
+               o Participación en un despacho no peninsular
+               o Gestión de tus contratos bilaterales
+               o Participación en los servicios de balance
+               o Gestión de tus medidas eléctricas
+               o Acceso a tu liquidación
+          + Distribuidor
+            (BUTTON) Volver
+               o Acceso y conexión a la red
+               o Puesta en servicio de tu instalación
+               o Solicita un trabajo en la red de transporte
+               o Gestión de tus medidas eléctricas
+          + Titular de almacenamiento
+            (BUTTON) Volver
+               o Acceso y conexión a la red
+               o Participación en el mercado peninsular
+                 (BUTTON) Volver
+                    # Solicita el alta como participante
+                    # Te ayudamos con tus reclamaciones
+                    # Preguntas frecuentes
+               o Participación en un despacho no peninsular
+                 (BUTTON) Volver
+                    # Solicita el alta como participante
+                    # Te ayudamos con tus reclamaciones
+                    # Preguntas frecuentes
+               o Participación en el sistema de reducción automática de
+                 potencia
+               o Gestión de tus medidas eléctricas
+               o Acceso a tu liquidación
+          + Operador de puntos de recarga
+       Ordenador portátil
+       Accede al portal de servicios
+       Toda la información a tu alcance.
+       Ir al detalle
+       Persona cargando vehículo eléctrico
+       Operador de puntos de recarga
+       Consulta la información.
+       Ir al detalle
+
+Sobrescribir enlaces de ayuda a la navegación
+
+    1. Home
+    2. Transporte de energía eléctrica
+    3. Red de transporte de electricidad
+    4. Nuestras infraestructuras
+
+   Nuestras infraestructuras
+
+   Dotamos a la red de transporte de las infraestructuras necesarias para
+   transportar la energía eléctrica en alta tensión de la forma más
+   eficiente y con el máximo nivel de calidad.
+
+   Una red robusta, mallada y segura
+   La red de transporte de Red Eléctrica está formada por un conjunto de
+   instalaciones que configuran un sistema mallado para que la
+   electricidad sea accesible a toda la sociedad. Como los centros de
+   generación y los puntos de demanda no se encuentran en el mismo lugar,
+   es necesaria una red robusta que vertebre el territorio para
+   transportar esa energía de la forma más eficiente y segura y llevarla
+   allí donde se necesita.
+   Líneas electricas
+
+   Conecta los centros de generación con los puntos de distribución y los
+   grandes consumidores, además de unir sistemas eléctricos aislados o el
+   sistema eléctrico peninsular español con los de los países vecinos.
+   Interconexiones
+
+   En la Península mayoritariamente a 400 kilovoltios (kV) y 220 kV y a
+   220 kV, 132 kV y 66 kV en Baleares y Canarias.
+
+
+Tipos de infraestructuras
+
+   1/6
+
+   Subestación
+
+   Subestaciones
+
+   Son las instalaciones que actúan como nudos de la red de transporte, en
+   los que confluyen varios circuitos eléctricos, y en ellas se ubican los
+   elementos necesarios para su maniobra y protección.
+   Ver más
+   2/6
+
+   Linea_aerea
+
+   Líneas aéreas
+
+   Las líneas eléctricas aéreas funcionan en corriente alterna y están
+   formadas principalmente por conductores (cables que transportan la
+   electricidad) y cables de tierra, las cadenas de aisladores y los
+   apoyos o torres (que incluyen las cimentaciones y las puestas a
+   tierra).
+   Ver más
+   3/6
+
+   Cable Submarino Buceador
+
+   Líneas submarinas
+
+   Son las utilizadas para conectar sistemas eléctricos como los de las
+   islas o los de países vecinos. En estas líneas se utilizan diferentes
+   tipos de cables, los más comunes son los tripolares de aislamiento
+   seco, en los que las tres fases del cable se agrupan en una misma
+   envolvente, de forma que un único cable alberga el circuito eléctrico
+   completo. Cada una de las tres fases incluye el conductor, el
+   aislamiento, la pantalla y la cubierta.
+   Ver más
+   4/6
+
+   Cable subterraneo
+
+   Líneas subterráneas
+
+   Las líneas subterráneas están formadas por cables aislados, sus
+   empalmes y terminales, y el sistema de puesta a tierra de las
+   pantallas.
+   Ver más
+   5/6
+
+   Transformador
+
+   Transformadores
+
+   Los transformadores son los componentes del sistema eléctrico que
+   posibilitan el flujo de potencia entre diferentes niveles de tensión.
+   Su función es insustituible y sin su contribución no es posible
+   concebir el desarrollo del sistema eléctrico tal y como hoy lo
+   conocemos.
+   Ver más
+   6/6
+
+   Subestación_SanSebastian
+
+   Otros elementos
+
+   Las subestaciones eléctricas necesitan de unos sistemas secundarios
+   para poder funcionar como son los de control, de protecciones y de
+   comunicaciones.
+   Ver más
+
+   Cómo se construyen y mantienen
+
+   Somos los promotores de las obras de construcción de las instalaciones
+   de la red de transporte de electricidad que se recogen en la
+   Planificación eléctrica y somos los responsables de ponerlas en
+   servicio de forma sostenible y siempre con el foco en la seguridad y la
+   salud de las personas.
+     * Diseño
+     * Construcción
+     * Mantenimiento
+
+Diseño
+
+   La Planificación Eléctrica es el instrumento normativo que establece
+   las necesidades de desarrollo de la red de transporte de electricidad.
+   En concreto, a través de la Planificación 2021-26, ya se están
+   reforzando las infraestructuras existentes y se están promoviendo
+   nuevas instalaciones que van a permitir a España seguir avanzando en el
+   camino de la transición ecológica con garantía de suministro, teniendo
+   entre sus máximas la protección del medioambiente y la eficiencia
+   económica del sistema eléctrico.
+
+   En Red Eléctrica contamos con equipos multidisciplinares que diseñan
+   las instalaciones considerando las variables técnicas y reglamentarias
+   necesarias desde un punto de vista de ciclo de vida. Desde las primeras
+   fases de definición de pasillos de menor impacto y selección de
+   emplazamientos se tiene muy presente que las infraestructuras, además
+   de cumplir con su función eléctrica de una forma eficiente, deben
+   integrarse en el entorno de la mejor forma posible.
+
+   El diseño de un proyecto parte de un estudio exhaustivo en el que
+   intervienen las administraciones públicas y otros grupos de interés con
+   el objetivo de definir y consensuar los emplazamientos de las
+   instalaciones con el menor impacto posible, teniendo en cuenta las
+   características del territorio, ambientales, sociales y culturales.
+
+   Además, se aplican una serie de medidas preventivas y correctoras y se
+   realiza un seguimiento detallado de los trabajos de construcción y
+   mantenimiento.
+
+   (BUTTON) ¿Quieres saber más sobre nuestro compromiso con la
+   Sostenibilidad?
+
+Construcción
+
+   Las distintas actuaciones siguen unos procesos sólidos que se adaptan a
+   las particularidades de las diferentes tipologías de proyectos, tanto
+   para construir nuevas instalaciones como para aquellos trabajos que
+   afectan a instalaciones existentes. El modelo de construcción atiende a
+   una normativa y unos sistemas de calidad y de información que permiten
+   realizar un seguimiento adecuado de la actividad, además de contar con
+   el conocimiento y las lecciones aprendidas a lo largo de los años, que
+   son nuestra mayor fortaleza. Y siempre, con el foco puesto en la
+   eficiencia, la optimización de los recursos y la adaptación a las
+   necesidades propias de cada territorio.
+
+Mantenimiento
+
+   Tenemos la misión de garantizar que las instalaciones de la red de
+   transporte se encuentren en condiciones óptimas de disponibilidad,
+   fiabilidad y seguridad para garantizar el suministro eléctrico.
+
+   Para ello, contamos con unas políticas de mantenimiento, renovación y
+   mejora de los activos que incluyen un programa anual en el que se
+   recogen todas las intervenciones y recursos necesarios.
+
+   Nuestras principales actuaciones se centran en la mejora de la calidad
+   de las instalaciones con la incorporación, de forma continuada, de
+   nuevas tecnologías y la optimización y eficiencia de los recursos.
+
+   Además, incorporamos un sistema de gestión de activos basado en
+   inteligencia artificial que evoluciona el modelo tradicional de
+   inspección, mantenimiento y renovación hacia uno nuevo predictivo y con
+   una visión holística que permite optimizar la planificación de la
+   actividad y maximizar el aprovechamiento de los recursos.
+   red_de_transporte
+
+   Mantenimiento inteligente de la red (SAGA)
+
+   Utilizamos un sistema de gestión de activos basado en inteligencia
+   artificial y un modelo predictivo  para optimizar la planificación de
+   la actividad y maximizar el aprovechamiento de los recursos.
+   Más información
+
+Información sobre nuestras instalaciones
+
+   Portal para las solicitudes de información sobre las líneas propiedad
+   de la compañía.
+
+   (BUTTON) Acceder
+   InfoRED
+
+Los datos del sistema eléctrico
+
+   Consulta los principales indicadores y accede a gráficas y comparativas
+   para analizar e interpretar el comportamiento del sistema eléctrico
+   español
+
+   (BUTTON) Acceder a Datos
+   Los datos del sistema eléctrico
+
+   Logo Red Eléctrica
+
+TSO_Menú footer
+
+     * Exposición Conectados al futuro
+     * Proveedores
+     * e-Factura
+     * Gobierno corporativo
+     * Accionistas e inversores
+     * Nuestra marca
+     * Empleo
+     * Canal ético y de cumplimiento
+
+Contacta con Red Eléctrica
+
+     * Dígame
+     * Información sobre nuestras instalaciones
+
+Subscríbete a "Red al día"
+
+     * Quiero recibir el boletín
+
+TSO_Menú RRSS
+
+       Blog RED2030
+     * Twitter
+     * LinkedIn
+     * YouTube
+     * Facebook
+
+TSO_Menú footer secundario
+
+     © 2025 Red Eléctrica
+
+     Mapa web
+
+     Glosario
+
+     Aviso legal
+
+     Política de privacidad
+
+     Política de cookies
+
+     Accesibilidad

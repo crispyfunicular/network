@@ -1,0 +1,137 @@
+     * Servicios
+          + Mantenimiento informático
+          + Redes y servidores
+          + Reparación de ordenadores
+          + Servicios de Ciberseguridad
+--
+     * Servicios
+          + Mantenimiento informático
+          + Redes y servidores
+          + Reparación de ordenadores
+          + Servicios de Ciberseguridad
+--
+   Contáctanos
+
+8 tipos de redes informáticas
+
+   Que las redes informáticas sirven para pasar datos de un dispositivo a
+   otro es algo que tenemos claro. Lo que quizás no tengamos tan claro es
+   la diferencia entre los tipos de redes informáticas como las redes
+   públicas, privadas, locales, personales o virtuales.
+   QUIERO INFORMACIÓN
+--
+   configuración correctamente, más por costumbre que por conocimientos de
+   lo que estamos haciendo. Pero sí es cierto que hay bastantes
+   diferencias entre los tipos de redes informáticas.
+
+   Seguramente te interese conocer las 10 ventajas de las redes
+   informáticas.
+
+   En lo que a tipos de redes informáticas se refiere, vamos a explicar
+   brevemente qué tipos hay pero antes de nada debemos aclarar que la
+   instalación de una red informática es algo que requiere unos
+--
+   seguridad informática.
+
+Red privada
+
+   Las redes privadas son una conexión entre terminales por medio de
+   direcciones IP autorizadas, principalmente son redes internas muy
+   comunes en oficinas, pequeñas empresas o domicilios particulares.
+
+   Este tipo de red suele ser bastante segura, pues no tienen porque estar
+   conectadas a Internet y principalmente se utilizan para compartir
+   información entre equipos.
+
+
+Red pública
+
+   Pueden ser utilizadas por cualquier persona y no tienen por qué estar
+--
+
+
+Red de área personal (PAN)
+
+   Personal área Network o PAN son las siglas en inglés de este tipo de
+   redes. Básicamente sirven para comunicar nuestro ordenador con otros
+   periféricos o terminales generalmente sin necesidad de cables.
+
+--
+
+
+Red de área local (LAN)
+
+   Local Area Network son sus siglas en inglés. Son un tipo de red de
+   reducido tamaño, que pueden abarcar una casa o un edificio, esto es
+   debido a que este tipo de red se distribuye a los terminales por medio
+   de un cable.
+
+   Para crear este tipo de redes necesitaremos:
+     * Un servidor que reparta la conexión e interconecte los datos.
+     * Terminales o puestos, ordenadores, para poder acceder a los datos
+       del servidor.
+     * Tarjetas de red para recibir y emitir los datos al servidor.
+
+   Cuando están conectadas por cable también son conocidas como redes
+   Ethernet y si son inalámbricas se conocen como WLAN.
+
+   De los tipos de redes informáticas, estas son de gran importancia para
+   las empresas porque permiten a todos sus empleados volcar su trabajo en
+   uno o varios servidores centrales.
+--
+
+
+Red de área local virtual (VLAN)
+
+   Del inglés Virtual Local Area Network. Este tipo de red es similar a
+   las redes LAN, pero no tienen por qué estar vinculadas a un espacio
+   físico común.
+
+   Estas redes están dirigidas por un software y un hadrware especifico
+   que asigna y ordena paquetes de datos que recibe y emite asignándolos a
+   una dirección Ip o MAC.
+
+
+Red de área del campus (CAN)
+
+   Campus Area Network. Está compuesta por dos o mas redes LAN
+--
+
+
+Red de área metropolitana (MAN)
+
+   Metropolitan Area Network. Red que da cobertura a un área geográfica de
+   amplia extensión, como una ciudad o un municipio, suele utilizarse para
+   la transmisión de datos, imágenes o vídeo.
+--
+
+
+Red de área de almacenamiento SAN
+
+   Storage Area Network: Es un sistema de red de interconexión entre
+   servidores que generalmente está cableada con fibra debido a la
+   necesidad de transmisión de bloques muy grandes de datos. De los tipos
+   de redes informáticas estas se caracterizan porque deben ser muy
+   seguras y estables debido a su cometido. Se usan en muchos casos como
+   almacenamiento de seguridad de datos sensibles e importantes. Aquí
+   tienes toda la información sobre nuestro servicio de instalación de
+   redes informáticas para empresas en Madrid.
+
+   Además de conocer los diferentes tipos de redes informáticas, es
+--
+   Leer más »
+
+   Red de oficina caída: causas más frecuentes y cómo prevenirlo Red de
+   oficina caída: causas más frecuentes y cómo prevenirlo
+
+Red de oficina caída: causas más frecuentes y cómo prevenirlo
+
+   Cuando una red de oficina caída afecta a la empresa, todo se paraliza:
+   dejan de funcionar las comunicaciones, las aplicaciones en la nube
+   fallan y
+--
+   explícitamente solicitado por el abonado o usuario, o con el único
+   propósito de llevar a cabo la transmisión de una comunicación a través
+   de una red de comunicaciones electrónicas.
+   Preferencias [ ] Preferencias
+   El almacenamiento o acceso técnico es necesario para la finalidad

@@ -1,0 +1,372 @@
+    #oEmbed (JSON) oEmbed (XML) alternate alternate
+
+   IFRAME: ns
+
+   Saltar al contenido principal
+
+   Buscar ____________________
+   (BUTTON) (BUTTON) Cerrar (BUTTON)
+   La acción en accionistas e inversores
+     * ES
+     * EN
+
+   (BUTTON) Buscar
+
+     * Inicio
+     * Nosotros (BUTTON)
+       Nosotros
+          + Misión
+          + Estrategia
+          + Principales datos (BUTTON)
+               o Equipo Ejecutivo
+               o Historia
+          + Políticas Públicas y Regulación (BUTTON)
+               o Posicionamiento
+               o Telefónica Policy Lab
+          + Nuestras marcas
+          + Países y Unidades emergentes (BUTTON)
+               o Telefónica Infra
+          + Relación con Analistas
+          + Proveedores
+          + Partners
+          + Contacto
+          + Somos solidarios
+     * Sostenibilidad e Innovación (BUTTON)
+       Sostenibilidad e Innovación
+          + Cómo trabajamos (BUTTON)
+               o Principios de Negocio Responsable y Políticas
+               o Estrategia de sostenibilidad
+               o Cadena de valor
+               o Cumplimiento
+          + Sociedad (BUTTON)
+               o Derechos humanos
+               o Inclusión digital
+               o Accesibilidad
+               o Menores y uso responsable
+               o Desarrollo Sostenible: Impacto y ODS
+               o Diversidad e inclusión
+          + Medioambiente (BUTTON)
+               o Responsabilidad con el medioambiente
+               o Energía y cambio climático
+               o Economía circular
+               o Digitalización verde
+               o Campos electromagnéticos
+          + Innovación (BUTTON)
+               o Wayra
+               o Innovación con ayudas públicas
+               o Descubriendo la vanguardia digital
+               o Quantum-Safe Networks
+          + Canal de Consultas
+          + Centro Global de Transparencia
+     * Servicios (BUTTON)
+       Servicios
+          + Servicios para Empresas (BUTTON)
+               o Pymes
+               o Grandes Empresas
+          + Particulares
+          + Redes y tecnología
+     * Sala de comunicación (BUTTON)
+       Sala de comunicación
+          + Noticias
+          + Sala de Prensa
+          + Blog
+          + Reportes
+          + Redes sociales
+     * Accionistas e Inversores (BUTTON)
+       Accionistas e Inversores
+          + La acción (BUTTON)
+               o Razones para invertir en Telefónica
+               o Telefónica en Bolsa
+               o Calculadora de inversiones
+               o Histórico de cotizaciones
+               o Programa de ADR
+               o Capital social
+               o Participaciones significativas
+               o Política de retribución al accionista
+               o Cuadro histórico de remuneración
+               o Recomendaciones y cobertura de analistas
+          + Información financiera (BUTTON)
+               o Informe anual
+               o Resultados trimestrales
+               o Consenso
+               o 20-F Registro SEC
+               o Documento de Registro CNMV
+               o Registro en Organismos Reguladores Extranjeros
+               o Periodo medio de pago a proveedores
+               o Presentaciones
+          + Información no financiera - ESG (BUTTON)
+               o Indicadores ESG
+               o Informe de sostenibilidad
+               o Perfil ESG
+               o Plan de Acción Climática
+               o Ratings, índices & rankings ESG
+               o Informe de impacto
+               o Certificaciones ESG
+               o Biblioteca ESG
+          + Gobierno Corporativo (BUTTON)
+               o Consejo de Administración
+               o Comisiones del Consejo
+               o Junta General de Accionistas
+               o Normativa interna de la Compañía: Estatutos y Reglamentos
+               o Políticas
+               o Informes Anuales de Gobierno Corporativo
+               o Informes Anuales sobre Remuneraciones de los Consejeros
+               o Relaciones con el Auditor Externo
+               o Pactos parasociales
+          + Comunicaciones CNMV (BUTTON)
+               o Información Privilegiada
+               o Otra Información Relevante
+               o Comunicaciones Previas
+          + Deuda y ratings (BUTTON)
+               o Ratings crediticios
+               o Política de financiación
+               o Detalle y evolución de la deuda
+               o Programas y Emisores de deuda
+               o Financiación sostenible
+               o Detalle de deuda entidades bancarias
+               o Detalle de emisiones y bonos de Telefónica S.A. y
+                 compañías instrumentales
+          + Zona Accionistas
+          + Calendario
+     * Empleo
+     * Tesauro (BUTTON)
+       Tesauro
+          + Autores
+          + Tags
+
+   (BUTTON)
+
+    1. Inicio
+
+     Servicios
+
+                               Redes y tecnología
+
+   La conectividad es el primer requisito para acceder al mundo digital.
+   Las redes de telecomunicaciones constituyen la plataforma
+   transformadora más poderosa de la Tierra. Nunca antes había habido una
+   tecnología que llegase a tanta gente tan rápidamente.
+
+   Las compañías de telecomunicaciones son la columna vertebral de nuestra
+   sociedad y solo pueden cumplir con su papel si disponen de las mejores
+   redes, de la mejor tecnología. Nuestro esfuerzo se enfoca en que todos,
+   personas y negocios, puedan acceder a la conectividad y a la
+   digitalización.
+
+   En Telefónica trabajamos permanentemente en la construcción de una red
+   a prueba de futuro, fiable, resiliente y segura.
+
+   Una red fundamentada en las tecnologías de fibra, FTTH y en la
+   evolución de las tecnologías móviles 4G y 5G. Garantizando una
+   conectividad Wi-Fi excelente en el hogar.
+
+   Una red escalable, innovadora, capaz de gestionar cada vez más tráfico,
+   un mayor número servicios y una mayor complejidad en la propuesta de
+   valor ofrecida tanto en el ámbito B2C como en el B2B.
+
+   Una red flexible y eficiente gracias a una gestión y operación cada vez
+   más automatizada y que evoluciona hacia el concepto zero-touch.
+
+   Una red más sostenible, alimentada por fuentes renovables, que ha
+   conseguido estabilizar el consumo energético y eléctrico desde 2015 a
+   pesar de que el tráfico gestionado por nuestras redes ha aumentado más
+   de cinco veces en ese periodo de tiempo.
+
+   Una red que ha demostrado su robustez y estabilidad absorbiendo el gran
+   crecimiento de tráfico generado por la crisis Covid-19 en el año 2020
+   sin incidentes significativos ni saturación.
+
+   Nuestro esfuerzo inversor de más de 95.000 millones de euros desde 2012
+   ha sido fundamental para asegurar este rendimiento.
+
+Telefónica y el 5G
+
+   Ver vídeo con audiodescripción
+
+   Tu configuración de cookies no permite la visualización de este
+   contenido.
+
+   Your cookie settings dont allow showing this content
+   (BUTTON) Configure/Reject Cookies
+
+   Con el 5G todo sucede en un milisegundo. Un milisegundo es lo que hace
+   posible una cirugía remota, el coche autónomo, la gestión inteligente
+   de los recursos energéticos y de las ciudades, o el entretenimiento más
+   avanzado. Un milisegundo es mucho más que un nuevo tiempo de respuesta.
+   Es la respuesta de Telefónica a los nuevos tiempos. Es el compromiso de
+   Telefónica con el futuro.
+
+   Telefónica ya ha encendido la tecnología 5G en sus cuatro mercados
+   principales: España, Brasil, Alemania y Reino Unido. El 5G no es sólo
+   una nueva generación de telefonía móvil, es una revolución, por sus
+   aplicaciones prácticas para todos los sectores y porque permite ampliar
+   la cobertura de ultra banda ancha. Además, la tecnología 5G es más
+   eficiente, hasta un 90% más que la 4G por unidad de tráfico.
+
+Fibra
+
+   Visión, liderazgo tecnológico y un importante compromiso inversor son
+   las claves del posicionamiento de Telefónica en fibra/FTTH. Un largo
+   viaje que comenzó en España en 2008 con los primeros despliegues, que
+   continuó en 2012 con su masificación y que ha facilitado un proceso de
+   industrialización del despliegue en todos los mercados de la compañía,
+   transfiriendo conocimiento y sumándose a un proceso de mejora continua.
+
+   Se trata de un proceso orientado a la calidad total basado en una
+   estrategia clara, en una ejecución excelente apoyada en tecnología de
+   vanguardia, y en un diseño de los despliegues coherente con los
+   mercados locales. La fibra es además un 85% más eficiente
+   energéticamente que el cobre y tiene menos averías.
+
+   En el vídeo a que hay a continuación, Enrique Blanco, Global CTIO nos
+   habla del posicionamiento de Telefónica en fibra/FTTH.
+
+   Tu configuración de cookies no permite la visualización de este
+   contenido.
+
+   Your cookie settings dont allow showing this content
+   (BUTTON) Configure/Reject Cookies
+
+   Nuestro liderazgo en despliegues FTTH nos proporciona una clara
+   posición de ventaja competitiva. La fibra es la tecnología que nos va a
+   permitir ofrecer a nuestros clientes servicios cada vez más avanzados.
+   También nos ayudará a mejorar incluso las capacidades de transmisión de
+   la propia tecnología según vayan siendo requeridas.
+
+   Además, la tecnología de fibra nos permite optimizar el despliegue de
+   las redes 5G, soportar el backhaul de las estaciones base y acoger
+   nuevas capacidades, como el Edge computing.
+
+   Somos conscientes del papel esencial de nuestras infraestructuras en el
+   momento actual y hemos cerrado el año 2020 con 48 millones de unidades
+   inmobiliarias pasadas con nuestra propia red de fibra, liderando el
+   despliegue de FTTH en Europa y Latam.
+
+Tecnologías de redes y sistemas
+
+   La nueva realidad digital requiere de la adecuación de las
+   arquitecturas tecnológicas tanto de la red como de los sistemas, de
+   manera que las infraestructuras puedan ofrecer el soporte preciso al
+   desarrollo del negocio, los nuevos servicios y la experiencia de
+   cliente.
+
+   Dentro de esta estrategia tecnológica destacan tendencias como la
+   virtualización y softwarización de la red, el paradigma telco cloud y
+   las arquitecturas OpenRAN en el ámbito de las redes móviles y Open
+   Broadband en las redes fijas. También las arquitecturas abiertas y
+   modulares en el ámbito IT, así como la evolución a 5G con tecnologías
+   de edge computing y network slicing, entre otras.
+     * Open RAN
+     * Open Broadband
+     * Telco Cloud
+     * Open Digital Architecture
+     * Cloud Native IT
+
+     * Edge computing
+     * Network Slicing
+     * Evolución de la red de transporte
+     * Nuestros Labs
+
+   Tu configuración de cookies no permite la visualización de este
+   contenido.
+
+   Your cookie settings dont allow showing this content
+   (BUTTON) Configure/Reject Cookies
+
+Un Nuevo Modelo Operativo
+
+   Los diferentes segmentos de la red, fija y móvil, y el conjunto de los
+   sistemas se encuentran en pleno proceso de transformación para
+   conseguir una mayor flexibilidad, eficiencia y orientación al cliente.
+   La complejidad de las redes 5G aumentará rápidamente en los próximos
+   años y administrarlas manualmente será inviable. La automatización es
+   absolutamente obligatoria porque sin ella la red no podrá crecer para
+   ofrecer nuevos servicios. En Telefónica estamos trabajando en la
+   transformación de los modelos operativos a medida que implementamos
+   estas nuevas tecnologías. Evolucionamos a una operación basada en datos
+   y apoyada por técnicas de aprendizaje automático e inteligencia
+   artificial. El objetivo final es alcanzar la automatización extrema.
+     * Inclusión digital
+     * Energía y cambio climático
+
+Últimos informes
+
+     * Evolución de la tecnología móvil Requisitos clave
+       PDF | 8 MB
+
+     * Opiniones de Telefónica sobre diseño, arquitectura y tecnología
+       4G/5G Open RAN
+       PDF | 5 MB
+     * Documento de posición del operador sobre Open BNG
+       PDF | 563 KB
+     * 5G se basará en redes abiertas, por Enrique Blanco
+     * Manifiesto sobre API abierta y arquitectura digital abierta
+     * Resumen ejecutivo de las prioridades técnicas de la Open RAN
+     * Doc. de prioridades técnicas de Open RAN, por los firmantes del MoU
+       de Open RAN
+
+Informes de Analistas de la industria
+
+     * Case Study Analysys Mason: Virgin Media O2 is the largest cableco
+       to announce a full FTTP upgrade
+     * Case Study Analysys Mason: Telefónica Germany is partnering with
+       Blue Planet to execute its iFUSION transport SDN strategy
+     * Case Study Analysys Mason:Telefónica's FastData underpins its
+       customer-experience-driven BSS transformation
+
+Contenido exclusivo para Analistas de la Industria
+
+   Si eres analista de la industria y quieres acceder a contenido
+   exclusivo, ponte en contacto con [email protected] para obtener tu
+   password de acceso.
+
+Actualidad sobre Redes y Tecnología
+
+   Redes y Tecnología
+   Blog
+   04/12/2025
+   Redes y Tecnología
+
+Crowdsourcing: el aliado invisible para mejorar la experiencia de la red
+
+   Fotografía de Víctor Iglesias
+
+   Víctor Iglesias
+   Prensa
+   11/09/2025
+   Analistas
+
+Telefónica es reconocida como líder en el SPARK Matrix(TM) de QKS Group para
+Network as a Service (NaaS)
+
+   entrevistas101-mariaAngeles-nunez
+   Blog
+   28/08/2025
+   Entrevistas 101
+
+La optimización radio intenta que los usuarios tengan la mejor experiencia de
+cliente de la red móvil
+
+   Fotografía de María Ángeles Núñez
+
+   María Ángeles Núñez
+
+   Ofrecer la mejor experiencia digital a nuestros clientes.
+     * facebook
+     * linkedin
+     * twitter
+     * instagram
+     * youtube
+     * Contacto
+
+     * Países y Unidades emergentes
+     * Canal de Denuncias
+     * Centro Global Transparencia
+
+     * © Telefónica S.A.
+     * Configurar Cookies
+     * Política de cookies
+     * Aviso legal
+     * Accesibilidad
+     * Política de privacidad
+     * Mapa del sitio

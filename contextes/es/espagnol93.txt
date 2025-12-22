@@ -1,0 +1,82 @@
+   ADQA
+
+     * Redes (BUTTON) Alternar menú
+          + CONSTRUCCIÓN DE REDES
+            CONSTRUCCIÓN DE REDES
+--
+¿Cómo tiene que ser una red informática en una empresa?
+
+   Una red informática es un sistema en el que dos o más dispositivos
+   informáticos, llamados nodos de red, están conectados entre sí a través
+   de enlaces de red, físicos o inalámbricos, que facilitan, aceleran y
+   aseguran la comunicación y la transferencia de información entre cada
+   nodo de la red. En un contexto empresarial o institucional, las
+   ventajas de contar con una red informática son muchas, lo que no
+   significa que haya que pasar por alto una serie de características a
+   tener en cuenta a la hora de construirla y administrarla.
+--
+   información dentro de los nodos de la red, como ordenadores,
+   dispositivos móviles, impresoras o tabletas, se vuelve mucho más segura
+   cuando se trata de una red informática privada, ya que se tiene
+   absoluto control sobre todo el tráfico de datos de la misma; al mismo
+   tiempo, estas transferencias son más rápidas y más estables, lo que
+   potencialmente se traduce en ahorro, tanto de tiempo como de dinero.
+
+   Dicho esto, no todas las redes informáticas son iguales. A la hora de
+   evaluar las características que buscas en una red informática para tu
+   empresa, es importante que prestes atención a estos factores:
+--
+       ejecutarse un comando específico dentro de la red, y se mide según
+       la cantidad de datos que pueden transferirse por segundo. En
+       general, las redes informáticas con enlaces físicos, como cableados
+       de fibra óptica, por ejemplo, tienen mucho mejor rendimiento que
+       las redes con enlaces inalámbricos.
+     * Seguridad: este es quizás el factor más importante a tener en
+       cuenta dentro de una red informática empresarial. La seguridad
+       refiere a la posibilidad de sufrir interferencias que afecten al
+       normal funcionamiento de la red, ya sean accidentales o maliciosas.
+       En general, las redes inalámbricas son más vulnerables a ataques o
+       intrusiones maliciosas, mientras que las redes físicas son más
+       sensibles a sufrir interferencias. En este sentido, la fibra óptica
+       se vuelve a destacar al ser la forma de enlace de red más segura,
+       ya que, al transportar la información en forma de pulsos lumínicos,
+       no corre riesgos de sufrir interferencias, lo que garantiza una
+       mayor seguridad y estabilidad.
+     * Confiabilidad: la confiabilidad refiere a la probabilidad de que se
+       produzca un fallo en uno de los nodos de la red informática, y el
+       impacto que ese fallo tendría en el funcionamiento de la totalidad
+       de la red. Es un factor importante de considerar, ya que, si las
+       operaciones de la empresa dependen de que la red funcione
+       ininterrumpidamente, un simple fallo en uno de los nodos puede
+       causar, potencialmente, un daño mucho mayor. En estos casos, es una
+       buena idea asegurarse de que la red cuente con un hardware
+       redundante, que le añade una capa extra de confiabilidad.
+     * Escalabilidad: este factor es especialmente importante para las
+--
+       Ya que cada nodo que se añada a la red influirá sobre otros
+       aspectos de la misma (sobre todo en el rendimiento) es importante
+       planificar a futuro e instalar la red teniendo en cuenta las
+       proyecciones de crecimiento.
+     * Disponibilidad: por último, es fundamental que la red informática
+       esté disponible y funcionando siempre que se la necesite. La
+       disponibilidad se refiere a la capacidad de una red informática de
+       funcionar de forma eficiente ininterrumpidamente.
+
+   Conocer estos aspectos será fundamental a la hora de instalar tu propia
+   red informática en tu empresa. Debes entender, sobre todo, cuáles son
+   tus necesidades, tanto en el presente como a mediano y largo plazo,
+   para poder construir una red informática que se adapte a tus
+   necesidades y prospecciones a futuro.
+
+--
+   (BUTTON)
+
+     * Redes (BUTTON) Alternar menú
+          + CONSTRUCCIÓN DE REDES
+            Construcción de redes
+--
+   [ ] funcional
+   Las cookies funcionales ayudan a realizar determinadas funcionalidades,
+   como compartir el contenido del sitio web en plataformas de redes
+   sociales, recopilar comentarios y otras funciones de terceros.
+   Cookie Duración Descripción

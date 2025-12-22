@@ -1,0 +1,169 @@
+     * Módulo IV. Ciudadanía digital
+     * 0. Objetivos del módulo
+     * 1. Ciudadanía e identidad digital
+          + 1.0 Objetivos del tema
+          + 1.1 Concepto y alcance de ciudadanía digital
+          + 1.2 Estrategias formativas de ciudadanía digital
+          + 1.3 La ciudadanía digital en la escuela
+          + 1.4 Identidad digital
+               o 1.4.1 Características de la identidad digital
+               o 1.4.2 Consejos para una buena identidad digital
+               o 1.4.3 Gestión de la identidad digital
+          + Actividad: cuestionario
+     * 2. Las redes sociales
+          + 2.0 Objetivos del tema
+          + 2.1 Tuenti
+               o 2.1.1 Introducción
+               o 2.1.2 Registrarse en Tuenti
+               o 2.1.3 Buscar amigos
+               o 2.1.4 Mi perfil Tuenti
+               o 2.1.5 Escribir en mi muro
+               o 2.1.6 Mensajes privados
+               o 2.1.7 Chat
+               o 2.1.8 Fotos
+               o 2.1.9 Eventos
+               o 2.1.10 Páginas
+          + 2.2 Facebook
+               o 2.2.1 Introducción
+               o 2.2.2 Registrarse en Facebook
+               o 2.2.3 Buscar amigos
+               o 2.2.4 Mi perfil Facebook
+               o 2.2.5 Escribir en mi muro
+               o 2.2.6 Mensajes privados
+               o 2.2.7 Fotos
+               o 2.2.8 Eventos
+               o 2.2.9 Grupos
+               o 2.2.10 Páginas
+          + 2.3 Twitter
+               o 2.3.1 Introducción
+               o 2.3.2 Registrarse en Twitter
+               o 2.3.3 Publicar mensajes en Twitter
+               o 2.3.4 Configuración de tu perfil Twitter
+               o 2.3.5 Mi cuenta
+               o 2.3.6 Seguir a otros usuarios
+               o 2.3.7 Seguidores o fans
+               o 2.3.8 Gestión de Tweets
+               o 2.3.9 Mensajes directos
+               o 2.3.10 Los hashtags
+               o 2.3.11 Las menciones
+          + 2.4 Google+
+               o 2.4.1 Introducción
+               o 2.4.2 Editar tu perfil
+               o 2.4.3 Círculos para compartir
+               o 2.4.4 Publicar un recurso
+               o 2.4.5 Fotos
+               o 2.4.6 Eventos
+               o 2.4.7 Comunidades
+               o 2.4.8 Páginas
+          + 2.5 LinkedIn
+               o 2.5.1 Introducción
+               o 2.5.2 Registrarse en LinkedIn
+               o 2.5.3 Tu perfil
+               o 2.5.4 Publicar una aportación
+               o 2.5.5 Contactos
+               o 2.5.6 Búsqueda de empleo
+               o 2.5.7 Grupos
+               o 2.5.8 Seguir a una empresa
+          + Actividad: cuestionario
+     * 3. Los jóvenes en las redes sociales
+          + 3.0 Objetivos del tema
+          + 3.1 Hábitos TIC de los menores
+          + 3.2 Menores y redes sociales
+          + 3.3 Netiqueta de las redes sociales
+          + Actividad: Torbellino de ideas
+     * 4. Privacidad en las redes sociales
+          + 4.0 Objetivos del tema
+          + 4.1 ¿Cómo proteger la privacidad?
+          + 4.2 Cuidado con las fotos que subes
+          + 4.3 Privacidad en Tuenti
+          + 4.4 Privacidad en Facebook
+          + 4.5 Privacidad en Twitter
+          + 4.6 Privacidad en Google Plus
+          + Actividad: Video sobre privacidad
+     * 5. Edmodo: red social educativa
+          + 5.0 Objetivos del tema
+          + 5.1 Registrarse como profesor
+          + 5.2 Grupos
+               o 5.2.1 Crear un grupo
+               o 5.2.2 Gestionar un grupo
+          + 5.3 Usuarios
+               o 5.3.1 Alumnado
+               o 5.3.2 Profesorado
+               o 5.3.3 Familias
+          + 5.4 Mensajes
+               o 5.4.1 Nuevo mensaje
+               o 5.4.2 Gestionar mensajes
+               o 5.4.3 Notificaciones
+          + 5.5 Tareas
+               o 5.5.1 Crear una tarea
+               o 5.5.2 Entregar tarea
+               o 5.5.3 Calificar tarea
+          + 5.6 Pruebas
+               o 5.6.1 Crear prueba
+               o 5.6.2 Calificar prueba
+          + 5.7 Calendario
+          + 5.8 Libro de calificaciones
+          + 5.9 Biblioteca
+          + Actividad: Agenda de tareas en Edmodo
+     * 6. Classroom: red social educativa
+          + 6.0 Objetivos del tema
+          + 6.1 Configurar Classroom
+          + 6.2 Crear una clase
+          + 6.3 Invitar a alumnos
+          + 6.4 Enviar una notificación
+          + 6.5 Asignar una tarea
+          + 6.6 Entrega del alumno
+          + 6.7 Corrección y calificación
+          + Actividad: Agenda de tareas en Classroom
+     * Actividad final de módulo
+
+   « Anterior | Siguiente »
+
+2. Las redes sociales
+
+   Una red social es una comunidad de usuarios en Internet donde una
+   persona puede registrarse para establecer contacto con otras, crear su
+   propia red de amistades e intercambiar con ellas fotos, archivos,
+   mensajes, vídeos, etc.
+
+   Todas las redes sociales ofrecen unos servicios similares:
+     * Muro. Es donde se publican las aportaciones personales y se observa
+       lo publicado por sus amistades. Las entradas creadas pueden estar
+       formadas por textos, enlaces, fotos, vídeos, etc.
+     * Amigos. Cada usuario crea su propia red de amigos mediante el envío
+       y aceptación de solicitudes de amistad.
+     * Grupos. Permite reunir usuarios con intereses comunes que
+       intercambian enlaces y páginas de interés.
+     * Fotos. Es muy común dentro de una red social la acción de "colgar"
+       y etiquetar fotos o pequeños vídeos. El etiquetado hace referencia
+       a colocar sobre la propia foto el nombre de las personas que
+       aparecen en ella.
+     * Chat y mensajería. Se utiliza para comunicarse en privado con tus
+       contactos.
+     * Integración de otros servicios. Las redes sociales evolucionan
+       hacia una mayor fidelización mediante la integración ("todo en
+       uno") de otros servicios: blogs, juegos, etc.
+
+   Entre las ventajas de las redes sociales cabe destacar:
+    1. Se puede usar para mantener comunicación con familiares y amigos a
+       un bajo coste.
+    2. Facilita la localización de personas conocidas así como contactar
+       con nuevas amistades.
+    3. Admite publicar y compartir de forma fácil e intuitiva todo tipo de
+       recursos: fotos, audios, vídeos, etc.
+    4. Crean espacios de encuentro para la discusión y debate de ideas y
+       opiniones.
+    5. Permite la interacción en tiempo real y el aprendizaje
+       colaborativo.
+
+   Las desventajas de las redes sociales más comentadas son:
+    1. Puede afectar a la privacidad de las personas.
+    2. No existe certeza de la identidad real de cada persona.
+    3. Puede crear dependencia y adición psicológica.
+    4. Exigen disponer de ordenador y acceso a Internet y por tanto
+       excluyen a ciertos sectores de población.
+    5. Prescinde de los matices más humanos de la relación presencial.
+
+   Las redes sociales más populares son: Tuenti,  Facebook, Twitter,
+   Google+ y LinkedIn.
+   « Anterior | Siguiente »

@@ -1,0 +1,23 @@
+          + Presentación
+          + Estructura y competencias
+          + Pertenencia a redes
+          + Instalaciones gestionadas
+     * Ámbitos de actuación
+--
+       costes de inversión y explotación en plantas de generación
+       eléctrica.
+     * Se encuentra aislado de las grandes redes de electricidad, lo que
+       obliga a mantener una mayor capacidad de generación eléctrica
+       para asegurar adecuadamente el suministro y evitar cortes de
+--
+   Para ver cómo se estructura la red de transporte en cada una de las
+   islas haz clic en las siguientes imágenes (Datos actualizados marzo
+   2020). Red Eléctrica de España:
+   ¿Quieres conocer la demanda eléctrica canaria en tiempo real?
+
+--
+   hidroeléctricas reversibles, que garantizan el suministro y hacen el
+   sistema más seguro. También es muy importante interconectar las islas
+   para permitir un apoyo mutuo entre sistemas, mejorando la red de
+   suministro en caso de incidencias.
+

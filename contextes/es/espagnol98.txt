@@ -1,0 +1,71 @@
+   opción. Y, aunque estés navegando en Instagram, viendo un video en
+   YouTube o enviando un meme por WhatsApp, todo esto es posible gracias a
+   las redes informáticas.
+
+   Si alguna vez te has preguntado cómo funciona esta magia digital, estás
+   en el lugar correcto. Hoy en The Hub Kings Corner vamos a sumergirnos
+   en los fundamentos de las redes, específicamente diseñado para ti,
+   porque sabemos que valoras el contenido rápido, claro y, sobre todo,
+   útil.
+--
+¿Qué es una red informática?
+
+   Una red informática no es más que un grupo de ordenadores y otros
+   dispositivos conectados entre sí. ¿El objetivo? Compartir recursos e
+   información.
+
+   Imagina que la red es como tu grupo de amigos en WhatsApp; solo que, en
+   lugar de compartir memes y dramas, los ordenadores comparten datos y
+   recursos como impresoras, archivos, y por supuesto, acceso a Internet.
+
+Tipos de redes
+
+   Dentro de este universo conectado, existen diferentes tipos de redes,
+   cada una con su propio propósito y escala.
+     * Redes LAN (Local Area Network)
+
+   Piénsalo como tu casa o tu cafetería favorita con WiFi. Es una red en
+   un área pequeña donde todos los dispositivos están relativamente cerca.
+     * Redes WAN (Wide Area Network)
+
+   Esto es a gran escala, piensa en cómo el Internet conecta tu casa con
+   el mundo.
+     * Redes MAN (Metropolitan Area Network)
+
+   Imagina una red que cubre una ciudad entera, es más grande que una LAN
+   pero más pequeña que una WAN.
+
+--
+
+   Se encarga de la dirección. Al igual que necesitas una dirección para
+   enviar una carta, cada dispositivo en una red necesita una dirección IP
+   para enviar y recibir información.
+
+Seguridad en redes
+
+   Hoy en día, la seguridad en línea es más importante que nunca. Los
+--
+   fijos y mantener tu firmware actualizado.
+
+   Navegar por el vasto mar de la red puede parecer desalentador al
+   principio, pero entender los fundamentos es como aprender a nadar; te
+   abre un mundo de posibilidades. Las redes informáticas son una
+   herramienta poderosa en nuestras vidas cotidianas, permitiéndonos
+   conectarnos, aprender, trabajar y jugar.
+--
+   aprovechando al máximo este recurso increíble. Así que, ya sea que
+   estés twitteando, strimeando o simplemente navegando, recuerda que todo
+   esto es posible gracias a las redes informáticas. Y ahora, ¡estás un
+   paso más cerca de ser un experto en la materia!
+
+   Arquitecturas de Red Avanzadas
+
+Arquitecturas de Red Avanzadas
+
+   Blockchain y Seguridad
+--
+   explícitamente solicitado por el abonado o usuario, o con el único
+   propósito de llevar a cabo la transmisión de una comunicación a través
+   de una red de comunicaciones electrónicas.
+   Preferencias [ ] Preferencias
+   El almacenamiento o acceso técnico es necesario para la finalidad

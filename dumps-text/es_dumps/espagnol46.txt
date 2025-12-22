@@ -1,0 +1,666 @@
+   #JSON oEmbed (JSON) oEmbed (XML)
+
+   Síguenos
+   http://www.facebook.com/metrovalencia.fgv
+   https://twitter.com/metrovalencia
+   http://www.youtube.com/fgvmetrovalencia
+   https://www.instagram.com/metrovalencia_fgv/
+
+   Aviso
+
+   Avisos de accesibilidad
+     * Noticias
+     * Plano zonal tarifario
+
+   Valencià · English
+
+   Logo Metrovalencia
+   ____________________ Buscador
+   (BUTTON) Zona personal
+
+     * Buscador
+     * Comienza a moverte
+       "Ver submenú"
+          + Horarios y planificador
+          + Mapas y planos
+          + Normas de viaje
+          + Intermodalidad
+          + Avisos e incidencias
+     * Contáctanos
+       "Ver submenú"
+          + Atención al cliente
+          + Quejas, reclamaciones, sugerencias y agradecimientos
+          + Objetos perdidos
+          + Carta de servicios
+          + Comité de participación de clientes
+     * Títulos de transporte
+       "Ver submenú"
+          + Nuestros billetes y abonos
+          + Nuestras tarifas
+          + Recarga de tarjeta
+          + Tarjeta personalizada
+          + Móbilis14 - Título gratuito
+          + Móbilis30 / SUMA Mensual Jove
+     * Accesibilidad
+       "Ver submenú"
+          + Nuestras instalaciones
+          + Sistema de guiado e información NaviLens
+     * El metro es tuyo
+       "Ver submenú"
+          + El metro es tuyo
+          + Línea 0
+          + Metroescola
+          + Bicimetro
+          + A la Lluna de Metrovalencia
+     * Conoce la empresa
+       "Ver submenú"
+          + Conoce FGV
+          + Trabaja en FGV
+          + Servicios comerciales
+          + Gestión ambiental y calidad
+          + Perfil del contratante
+
+   Mis viajes
+
+   Mis viajes
+   Horarios y planificador
+
+   Horarios y planificador
+   Estaciones
+
+   Estaciones
+   Preguntas frecuentes
+
+   Preguntas frecuentes
+   Regístrate
+
+   Regístrate
+
+     * Horarios y planificador
+     * Mapas y planos
+     * Normas de viaje
+     * Intermodalidad
+     * Avisos e incidencias
+
+     * Atención al cliente
+     * Quejas, reclamaciones, sugerencias y agradecimientos
+     * Objetos perdidos
+     * Carta de servicios
+     * Comité de participación de clientes
+
+     * Nuestros billetes y abonos
+     * Nuestras tarifas
+     * Recarga de tarjeta
+     * Tarjeta personalizada
+     * Móbilis14 - Título gratuito
+     * Móbilis30 / SUMA Mensual Jove
+
+     * Nuestras instalaciones
+     * Sistema de guiado e información NaviLens
+
+     * El metro es tuyo
+     * Línea 0
+     * Metroescola
+     * Bicimetro
+     * A la Lluna de Metrovalencia
+
+     * Conoce FGV
+     * Trabaja en FGV
+     * Servicios comerciales
+     * Gestión ambiental y calidad
+     * Perfil del contratante
+
+Bicimetro
+
+Consulta la NORMATIVA BICICLETAS Y PATINETES en este enlace
+
+Rutas Bici+Metro
+
+   Metrovalencia ofrece la posibilidad de combinar el uso de la bicicleta
+   y el metro con itinerarios que permiten disfrutar del patrimonio
+   cultural y paisajístico de las poblaciones por las cuales discurre
+   nuestra red.
+
+   Bici + Metro
+
+   Bici+Metro
+
+   El uso combinado del metro y la bicicleta posibilita acceder a estos
+   circuitos sin necesidad de utilizar el coche para alejarse o salvar los
+   lugares más saturados por la urbanización o el tráfico.
+   Bici + Metro
+
+
+   Todos los itinerarios tienen en común que parten y concluyen siempre de
+   una estación o parada de metro o tranvía. A diferencia del que ocurre
+   cuando se utilizan vehículos motorizados propios para proyectar estas
+   excursiones, este planteamiento permite cubrir circuitos completos sin
+   necesidad tener que volver por los mismos caminos para devolver en su
+   punto de origen y recoger el coche.
+
+   Bici + Metro
+
+   Bici + Metro
+
+   Bici + Metro
+
+   Bici + Metro
+
+   Bici + Metro
+
+   Bici + Metro
+
+   Los itinerarios están digitalizados y se puede descargar el track
+   (archivo del recorrido) para poder seguir la ruta con cualquier
+   smartphone y una aplicación para usar este tipo de archivos.
+
+
+   En cada ruta se ha calculado su "dificultad física" con IBP INDEX, web
+   que analiza los tracks de las rutas en función a los kilómetros,
+   desnivel acumulado, porcentaje de las pendientes, terreno, etc, y que
+   permite establecer un índice que dificultad física.
+
+   Bici + Metro
+
+   Bici + Metro
+
+   Bici + Metro
+
+   Si desconoces que índice de dificultad física eres capaz de realizar,
+   lo recomendable es comenzar con las rutas de índice más bajo para tener
+   primera referencia e ir aumentando la dificultad de los recorridos de
+   manera progresiva.
+
+
+¿Cuál es mi preparación física?
+
+
+   CAPTION: Tabla de equivalencias del índice de dificultad física
+
+       Muy baja  Baja    Media     Alta    Muy alta  Para mí esta ruta será
+   IBP 0 - 6    0 - 13  0 - 25   0 - 50    0 - 100   Muy fácil
+   IBP 7 - 13   14 - 25 26 - 50  51 - 100  101 - 200 Fácil
+   IBP 14 - 19  26 - 38 51 - 75  101 - 150 201 - 300 Media
+   IBP 20 - 25  39 - 50 76 - 100 151 - 200 301 - 400 Dura
+   IBP > 25     > 50    > 100    > 200     > 400     Muy dura
+
+
+     * La Via Xurra
+          + Salida: Estación de Aragó Líneas 5 y 7
+          + Llegada: Estación de Rafelbunyol Línea 3
+          + Distancia: 18,4 km
+          + Dificultad física según IBP Index: 2
+
+     * El Jardí del Túria
+          + Salida: Estación de Benimàmet Línea 2
+          + Llegada: Parada de tranvía Neptú Línea 8
+          + Distancia: 14,5 km
+          + Dificultad física según IBP Index: 2
+
+     * La façana marítima
+          + Salida: Estación de Ayora Líneas 5 y 7
+          + Llegada: Estación de Alboraia-Palmaret Líneas 3 y L9
+          + Distancia: 10,5 km
+          + Dificultad física según IBP Index: 2
+
+     * El parc natural del Túria (1)
+          + Salida: Apeadero de El Clot de Línea 2
+          + Llegada: Estación de Paterna de Línea 2
+          + Distancia: 14 km
+          + Dificultad física según IBP Index: 9
+
+     * El Camp del Túria
+          + Salida: Estación de Llíria Línea 2
+          + Llegada: Estación de Bétera Línea 1
+          + Distancia: 22 km
+          + Dificultad física según IBP Index: 11
+
+     * El parc natural del Túria (2)
+          + Salida: Estación de Llíria Línea 2
+          + Llegada: Apeadero de El Clot Línea 2
+          + Distancia: 43,2 km
+          + Dificultad física según IBP Index: 28
+
+     * La Marjal dels Moros
+          + Salida: Estación de Rafelbunyol Línea 3
+          + Llegada: Estación de Rafelbunyol Línea 3
+          + Distancia: 28,5 km
+          + Dificultad física según IBP Index: 9
+
+     * Bétera - Rafelbunyol
+          + Salida: Estación de Bétera Línea 1
+          + Llegada: Estación de Rafelbunyol Línea 3
+          + Distancia: 13,2 km
+          + Dificultad física según IBP Index: 2
+
+     * Bétera - Godella
+          + Salida: Estación de Bétera Línea 1
+          + Llegada: Estación de Godella Línea 1
+          + Distancia: 12,3 km
+          + Dificultad física según IBP Index: 5
+
+     * El Canal Júcar - Túria (1)
+          + Salida: Estación de Carlet Línea 1
+          + Llegada: Estación de Massalavés Línea 1
+          + Distancia: 23,4 km
+          + Dificultad física según IBP Index: 13
+
+     * L'Horta Sud
+          + Salida: Estación de Sant Isidre Líneas 1, 2 y 7
+          + Llegada: Estación de Picassent Línea 1
+          + Distancia: 21,2 km
+          + Dificultad física según IBP Index: 13
+     * El Canal Xúquer - Túria (2)
+          + Salida: Estación de Picassent Línea 1
+          + Llegada: Estación de Picanya Líneas 1, 2 y 7
+          + Distancia: 15,7 km
+          + Dificultad física según IBP Index: 4
+     * Huertos de Benifaió
+          + Salida: Estación de Picassent Línea 1
+          + Llegada: Estación de Alginet Línea 1
+          + Distancia: 18,5 km
+          + Dificultad física según IBP Index: 4
+     * Ribera Alta de Xúquer
+          + Salida: Estación de Alberic Línea 1
+          + Llegada: Estación de Castelló Línea 1
+          + Distancia: 36,3 km
+          + Dificultad física según IBP Index: 25
+     * Acequia de Moncada
+          + Salida: Estación de Burjassot Línea 1
+          + Llegada: Estación de Albalat dels Sorells Línea 3
+          + Distancia: 13,7 km
+          + Dificultad física según IBP Index: 4
+     * Llíria Ibérica
+          + Salida: Estación de Llíria Línea 2
+          + Llegada: Estación de Llíria Línea 2
+          + Distancia: 45,7 km
+          + Dificultad física según IBP Index: 27
+     * De Llíria a Rafelbunyol
+          + Salida: Estación de Llíria Línea 2
+          + Llegada: Estación de Rafelbunyol Línea 3
+          + Distancia: 35,7 km
+          + Dificultad física según IBP Index: 22
+     * El Parc Natural del Túria (3)
+          + Salida: Estación de La Pobla de Vallbona Línea 2
+          + Llegada: Estación de Manises Líneas 3, 5 y 9
+          + Distancia: 22,4 km
+          + Dificultad física según IBP Index: 15
+     * Puntal dels Llops
+          + Salida: Estación de Llíria Línea 2
+          + Llegada: Estación de Llíria Línea 2
+          + Distancia: 34,4 km
+          + Dificultad física según IBP Index: 45
+
+   IFRAME: https://www.youtube.com/embed/VgQ42ib8JGM
+   ¿
+
+     * Masías de L'Horta
+          + Salida: Estación de Picanya Líneas 1, 2 y 7
+          + Llegada: Apeadero de Omet Línea 1
+          + Distancia: 23,20 km
+          + Dificultad física según IBP Index: 17
+
+   IFRAME: https://www.youtube.com/embed/wvOPxyMxI6U
+
+     * Barranco de l'Horteta
+          + Salida: Estación de Picassent Línea 1
+          + Llegada: Estación de Torrent Avinguda Líneas 2 y 7
+          + Distancia: 31,8 km
+          + Dificultad física según IBP Index: 23
+
+   IFRAME: https://www.youtube.com/embed/d9VLtQvOm_A
+
+     * Riba-roja de Túria, las Rodanas y Pla de Nadal
+          + Salida: Estación de Riba-roja de Túria Línea 9
+          + Llegada: Apeadero de La Cova Línea 9
+          + Distancia: 29 km
+          + Dificultad física según IBP Index: 23
+     * Yacimientos de L'Horta Vella, Bofilla y Tos Pelat
+          + Salida: Estación de Moncada-Alfara Línea 1
+          + Llegada: Apeadero de La Cova Línea 9
+          + Distancia: 21,4 km
+          + Dificultad física según IBP Index: 11
+
+   IFRAME: https://www.youtube.com/embed/IYjjCX3GsYM
+
+     * Castelló - La Cova Negra - Xàtiva
+          + Salida: Estación de Castelló Línea 1
+          + Llegada: Estación de Castelló Línea 1
+          + Distancia: 43,8 km
+          + Dificultad física según IBP Index: 28
+
+
+   Logo Metrovalencia
+     * Horarios y planificador
+     * Normas de viaje
+     * Avisos de accesibilidad
+     * Intermodalidad
+
+     * Atención al cliente
+
+   Noticias
+
+   Mapas y planos
+     * Publicidad
+     * Locales comerciales
+     * Rodajes: El metro como plató
+
+     * Dónde estamos
+
+     * Aviso legal
+     * Protección de datos personales
+     * Política de cookies
+
+   http://politicaterritorial.gva.es/
+   https://www.fgv.es/
+   https://www.tramalacant.es/
+
+   Copyright © Ferrocarrils de la Generalitat Valenciana 2021
+
+   En Metrovalencia utilizamos cookies que almacenan y recuperan
+   información cuando navegas. Estas son propias, de sesión, con
+   finalidades técnicas y de personalización así como de terceros con la
+   finalidad de análisis. Puedes obtener más información sobre el uso de
+   las cookies y configurar tus preferencias pulsando en Configuración.
+   (BUTTON) Cerrar el banner de cookies RGPD
+   (BUTTON) Aceptar (BUTTON) Configuración (BUTTON) Cerrar el banner de
+   cookies RGPD
+
+   (BUTTON) Cerrar los ajustes de cookies RGPD
+   Metrovalencia
+     * (BUTTON) Protección de datos de FGV
+     * (BUTTON) Cookies propias (estrictamente necesarias)
+     * (BUTTON) Cookies de terceros
+     * (BUTTON) Otras tecnologías y servicios externos
+     * (BUTTON) Política de cookies de FGV
+
+   Powered by  GDPR Cookie Compliance
+   Protección de datos de FGV
+
+Información básica sobre protección de datos personales
+
+   Ferrocarrils de la Generalitat Valenciana proporciona a las personas
+   interesadas información básica sobre los tratamientos de datos de
+   carácter personal llevados a cabo por esta Entidad para el ejercicio de
+   sus competencias, en cumplimiento de los artículos 13 y 14 del
+   Reglamento (UE) 2016/679 del Parlamento Europeo y del consejo de 27 de
+   abril de 2016 relativo a la protección de las personas físicas en lo
+   que respecta al tratamiento de datos personales y a la libre
+   circulación de estos datos y por el que se deroga la Directiva 95/46/CE
+   (en adelante RGPD) así como de la Ley Orgánica 3/2018, de 5 de
+   diciembre, de Protección de Datos Personales y garantía de los derechos
+   digitales.
+
+Responsable del tratamiento
+
+   Conforme a lo establecido en el artículo 4.7 del RGPD tendrá la
+   consideración de Responsable del Tratamiento "la persona física o
+   jurídica, autoridad pública, servicio u otro organismo que, solo o
+   junto con otros, determine los fines y medios del tratamiento"; en este
+   caso, debe considerarse como responsable del tratamiento a FERROCARRILS
+   DE LA GENERALITAT VALENCIANA:
+
+   Correo electrónico: protecciodedades@fgv.es
+
+   Partida de Xirivelleta, s/n, 46014 - Valencia o Avenida de la
+   Vilajoyosa, 2, Estación de la Marina, 03016 - Alicante
+
+Registro de Actividades de Tratamiento
+
+   Conforme a lo dispuesto en el artículo 30 del RGPD, la relación
+   actualizada de las actividades de tratamiento que FGV lleva a cabo, se
+   encuentra disponible en el Registro de Actividades de Tratamiento, en
+   adelante RAT, publicado en la web de www.fgv.es/Portal de transparencia
+   , apartado Relaciones con los Ciudadanos.
+
+Recogida de datos personales
+
+   Los datos de carácter personal que se recaben directamente o
+   indirectamente de la persona interesada serán tratados de forma
+   confidencial y quedarán incorporados a alguna de las actividades de
+   tratamiento titularidad de FGV que figuren en su RAT.
+   Cuando los datos personales que hacen referencia a la persona
+   interesada, se obtengan de la misma persona, en el momento de
+   recogerlos se le facilitará la información del tratamiento, de forma
+   clara e inteligible. Si resultara conveniente, se proporcionará la
+   información imprescindible sobre el tratamiento en el formulario de
+   recogida y se indicará o enlazará desde el mismo una segunda capa de
+   información con mayor nivel de detalle.
+
+Usos y finalidades
+
+   Los tratamientos de datos personales se ajustarán a las funciones
+   propias de FGV y su uso se limitará a aquellos fines para los que
+   expresamente se hayan recogido.
+
+   Si se prevé tratar posteriormente los datos personales para una
+   finalidad diferente de la que motivó la recogida, antes del tratamiento
+   posterior se informará a la persona interesada sobre esta otra
+   finalidad y se le proporcionará cualquier otra información adicional
+   pertinente, siempre que la persona interesada no disponga ya de esta
+   información.
+
+   La finalidad del tratamiento de los datos de carácter personal será la
+   necesaria para la gestión administrativa y tramitación de los
+   procedimientos administrativos para los que se solicitan sus datos, que
+   corresponderán a cada una de las actividades de tratamiento que realiza
+   FGV y que están accesibles en el RAT.
+
+   No se tomarán decisiones automatizadas basadas en el tratamiento de sus
+   datos personales.
+
+Legitimación para el tratamiento
+
+   Con carácter general, la base jurídica que ampara el tratamiento de los
+   datos de carácter personal por parte de FGV es el cumplimiento de
+   obligaciones legales o la realización de actuaciones en interés público
+   o en el ejercicio de poderes públicos conferidos a la Generalitat
+   Valenciana, de acuerdo con las normas que regulan la actuación de las
+   administraciones públicas y, en especial, la Ley 39/2015, de 1 de
+   octubre, del Procedimiento Administrativo Común de las Administraciones
+   Públicas y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del
+   Sector Público, el Estatuto de Autonomía y la Ley de Gobierno.
+
+   No obstante, algunos tratamientos pueden requerir el consentimiento de
+   las personas afectadas por el mismo. En aquellos casos en que la base
+   jurídica de los tratamientos sea el consentimiento de la persona
+   afectada, FGV pondrá en marcha los mecanismos que permitan otorgarlo
+   mediante una clara acción afirmativa de esta persona y de modo que se
+   puedan conservar evidencias de ello.
+
+   La base jurídica que habilita cada una de las actividades de
+   tratamiento que lleva a cabo FGV puede consultarse en el RAT.
+
+   Según la previsión establecida en el artículo 14, apartado 5.c) del
+   RGPD, los datos de los tratamientos que son responsabilidad de la
+   administración del Consell o de su sector público instrumental podrán
+   ser tratados por órganos que tengan una función de supervisión,
+   inspección o control relacionado con el ejercicio de la autoridad
+   pública, siempre que este acceso a los datos esté expresamente
+   contemplado en la normativa que los regula (Intervención General,
+   Inspección de Servicios, Delegación de Protección de Datos)
+
+Conservación de datos
+
+   Con carácter general y sin perjuicio de la información concreta que se
+   publica en el RAT, los datos personales tratados por FGV se conservarán
+   durante el tiempo necesario para cumplir con la finalidad para la que
+   se recaban.
+
+   Una vez cancelados los datos o suprimidos del tratamiento, FGV podrá
+   conservarlos con el fin de que resulte factible determinar las posibles
+   responsabilidades que se pudieran derivar de su tratamiento o para
+   permitir su uso posterior, tras la adopción de las medidas de
+   protección adecuadas, con fines históricos, estadísticos o científicos.
+
+Comunicación de datos
+
+   El responsable del tratamiento no comunicará ni publicará datos
+   personales sin el consentimiento de las personas afectadas, salvo en
+   aquellas circunstancias previstas por la legislación vigente. Los
+   destinatarios de cesiones de datos previstos para cada una de las
+   actividades de tratamiento pueden consultarse en el RAT
+
+   Además de las señaladas, puede ser necesario comunicar datos o permitir
+   el acceso a los mismos, en determinadas circunstancias, al Defensor del
+   Pueblo, al Síndic de Greuges, a los Jueces y Tribunales, al Tribunal de
+   Cuentas, Sindicatura de Comptes, a las Fuerzas y Cuerpos de Seguridad
+   del Estado, en definitiva destinatarios a los que ha de realizarse
+   obligatoriamente una comunicación de datos a requerimiento de
+   procedimientos de investigación, de infracciones o de supervisión o
+   control, así como al Delegado de Protección de Datos de la Generalitat
+   FGV no utilizará en ningún caso los datos con fines de carácter
+   comercial, publicitario o de cualquier otra índole no relacionados con
+   sus potestades públicas.
+
+Derechos de las personas interesadas
+
+   La persona interesada puede ejercer en cualquier momento los derechos
+   que el RGPD garantiza a los titulares de los datos conforme a sus
+   artículos 15 hasta el 23 y que son los siguientes:
+
+   DERECHO DE ACCESO: La persona interesada tiene derecho a obtener de FGV
+   confirmación de si se están tratando datos personales que le afectan, y
+   si es así, tiene derecho a acceder a estos datos y a la información
+   relativa a las finalidades, destinatarios, categorías de datos
+   tratados, su origen y periodo de conservación, reclamaciones,
+   existencia de decisiones automatizadas con sus consecuencias y a todos
+   los derechos adicionales de rectificación, supresión, limitación,
+   oposición y portabilidad.
+
+   DERECHO DE RECTIFICACIÓN Y SUPRESIÓN: La persona interesada tiene
+   derecho a obtener de FGV la rectificación de los datos personales
+   inexactos o incompletos que le afectan, sin dilación indebida.
+   Igualmente, la persona interesada tiene derecho a solicitar la
+   supresión de los datos personales que le afectan. Si no existe otra
+   base jurídica que ampare su conservación, FGV procederá a la supresión
+   de los datos cuando ya no sean necesarios o se hayan tratado de forma
+   ilícita, cuando la persona interesada retire su consentimiento en
+   tratamientos que lo requieran o cuando se oponga al tratamiento.
+
+   DERECHO DE LIMITACIÓN: La persona interesada tiene derecho a obtener de
+   FGV la limitación del tratamiento de los datos, en casos de impugnación
+   de la exactitud de los mismos, cuando el tratamiento sea ilícito y la
+   persona interesada se oponga a la supresión de los datos personales y
+   solicita en su lugar la limitación de su uso, cuando la persona
+   interesada necesite mantener los datos para formular o ejercer
+   reclamaciones o mientras se verifica si los motivos legítimos de la
+   administración prevalecen sobre los de la persona interesada en caso de
+   que la persona interesada se oponga al tratamiento.
+
+   DERECHO DE OPOSICIÓN: La persona interesada tiene derecho a oponerse a
+   que los datos personales que le afectan sean objeto de un tratamiento.
+   FGV dejará de tratar estos datos personales, salvo que acredite motivos
+   legítimos imperiosos para el tratamiento que prevalezcan sobre los
+   intereses, los derechos y las libertades de la persona interesada, o
+   para la formulación, el ejercicio o la defensa de reclamaciones.
+
+   DERECHO DE PORTABILIDAD: La persona interesada tiene derecho a recibir
+   sus datos personales en un formato estructurado, de uso común, de
+   lectura mecánica e interoperable y a transmitirlos a otro responsable
+   del tratamiento, siempre que éste se legitime en base al consentimiento
+   o en el marco de la ejecución de un contrato y el tratamiento se
+   efectúe por medios mecanizados. También tendrá derecho, cuando sea
+   técnicamente posible, a que los datos se transmitan directamente de
+   responsable a responsable. No será de aplicación cuando el tratamiento
+   sea necesario para el cumplimiento de una misión de interés público en
+   el ejercicio de poderes públicos conferidos al responsable.
+
+   Todos los derechos anteriores, incluida la retirada del consentimiento,
+   tienen carácter personalísimo, por lo que sólo puede ejercerlos la
+   persona afectada. Sin embargo, ésta podrá actuar mediante representante
+   en los casos y bajo las condiciones previstas por la legislación
+   vigente.
+
+Ejercicio de derechos de protección de datos de las personas interesadas
+
+   La persona interesada podrá ejercer los derechos acceso, rectificación,
+   supresión, limitación, portabilidad y oposición presentando solicitud
+   acompañada de su Documento Nacional de Identidad o equivalente, por
+   Registro General Entrada de FGV en Partida de Xirivelleta s/n, 46014 -
+   Valencia o Avenida de la Villajoyosa, 2, Estación de la Marina, 03016 -
+   Alicante, A/A Servicio de Protección de Datos Personales o a través de
+   la Sede Electrónica de la Generalitat Valenciana.
+
+   Si considera que se ha visto perjudicado por el tratamiento que se ha
+   hecho de sus datos personales, en la atención del ejercicio de sus
+   derechos o ha detectado algún incumplimiento de la normativa vigente en
+   materia de protección de datos por parte de FGV como Responsable, puede
+   presentar una reclamación ante la Delegación de Protección de Datos de
+   la Generalitat, bien a través de solicitud general de tramitación
+   telemática:
+
+   https://sede.gva.es/es/inicio/procedimientos?id_proc=22094,
+
+   o bien presencialmente en cualquiera de las Oficinas Públicas de
+   Registro conforme a lo dispuesto en la Ley 39/2015, de 1 de octubre,
+   del Procedimiento Administrativo Común de las Administraciones
+   Públicas. Todo ello sin perjuicio del derecho a presentar una
+   reclamación ante la Agencia Española de Protección de Datos a través de
+   los mecanismos que ofrecen publicados en su web: www.aepd.es.
+
+   Más información respecto al tratamiento de datos personales en FGV en
+   el apartado Protección de Datos Personales o en el Portal de
+   Transparencia, Relaciones con los Ciudadanos de www.fgv.es o a través
+   de la dirección de correo electrónico: protecciodedades@fgv.es
+   Cookies propias (estrictamente necesarias)
+
+   Metrovalencia utiliza cookies propias, de sesión, con la finalidad
+   técnica de permitir la navegación a través de su página web y la
+   utilización de las diferentes opciones y servicios disponibles en la
+   misma tales como la identificación de sesión, accesos restringidos,
+   procesos de compra y recarga, control del fraude vinculado a la
+   seguridad. Así mismo se utilizan cookies con la finalidad de
+   personalización, permitiendo una experiencia diferenciada de la de
+   otras personas usuarias, recordando preferencias de idioma, número de
+   resultados en búsqueda, aspecto o contenido en función del tipo de
+   navegador o de la región desde la que accede al servicio.
+
+   Puedes bloquear o eliminar las cookies cambiando la configuración de tu
+   navegador y forzando el bloqueo de todas las cookies en este sitio web.
+   Si rechazas las cookies, eliminaremos todas las cookies establecidas en
+   nuestro dominio.
+
+   Si lo consideras oportuno, te proporcionaremos una lista de cookies
+   almacenadas en tu computadora en nuestro dominio para que conozcas lo
+   que almacenamos. Puedes verificarlo en la configuración de seguridad de
+   tu navegador.
+   Activar o desactivar las cookies [ ]
+
+   Si desactivas esta cookie no podremos guardar tus preferencias. Esto
+   significa que cada vez que visites esta web tendrás que activar o
+   desactivar las cookies de nuevo.
+   Cookies de terceros
+
+   Metrovalencia utiliza cookies de terceros, persistentes, con la
+   finalidad de análisis, recopilando información anónima sobre número de
+   visitantes, tráfico web o páginas más populares. En concreto se utiliza
+   la herramienta de analítica web Google Analytics. Dado que este
+   proveedor recopilará datos personales como tu dirección IP, te
+   permitimos bloquearlos en este apartado.
+
+   Dejar esta cookie activa nos permite mejorar nuestra web.
+   Activar o desactivar las cookies [ ]
+
+   Por favor activa las Cookies estrictamente necesarias en primer lugar
+   para que podamos guardar tus preferencias.
+   Otras tecnologías y servicios externos
+
+   Metrovalencia utiliza otras tecnologías y servicios externos que
+   utilizan a su vez cookies persistentes y técnicas. Dado que estos
+   proveedores recopilarán datos personales como tu dirección IP, te
+   permitimos bloquearlos en este apartado. Los cambios tendrán efecto una
+   vez que vuelva a cargar la página.
+     * Servicios de Google Webfont.
+     * Servicios de Google Map.
+     * Servicios de Google reCaptcha.
+     * Incrustaciones de video de Vimeo y Youtube.
+
+   Activar o desactivar las cookies [ ]
+
+   Por favor activa las Cookies estrictamente necesarias en primer lugar
+   para que podamos guardar tus preferencias.
+   Política de cookies de FGV
+
+   Puedes consultar todo lo referido a nuestra Política de cookies
+   (BUTTON) Activar todo (BUTTON) Guardar ajustes

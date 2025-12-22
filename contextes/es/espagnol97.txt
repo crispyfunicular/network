@@ -1,0 +1,120 @@
+          + Cables para toma de tierra
+          + Cable desnudo toma de tierra
+          + Cable de Red
+          + Cable Ethernet
+          + Cables para hilo musical y teléfono
+--
+          + Garras de antena para mástil
+          + Centrales amplificadoras antena
+          + Redes informáticas
+          + Conectores y bases RJ
+          + Herramientas redes datos
+
+     * Mecanismos eléctricos
+--
+          + Relés térmicos
+          + Telerruptores
+     * Redes informáticas
+          + Conectores y Bases RJ
+          + Herramientas Redes
+     * Pequeño Material Eléctrico
+          + Bases de enchufe y Clavijas
+--
+    1. Material eléctrico
+
+Las redes informáticas y su cableado
+
+   admin https://www.decoraluz.com/img/nombre-tienda-logo-1470476054.jpg
+   decoraluz.com [365.png] 180 300 523 likes 24031 views
+
+REDES INFORMÁTICAS Y CABLEADO
+
+   Las redes informáticas, hoy en día, dejan de ser algo desconocido,
+   pero, ¿ Sabemos realmente qué es una red informática y de que se
+   compone?.
+
+   Las redes informáticas son conjuntos de dispositivos conectados entre
+   sí, que intercambian y comparten información. La comunicación dentro de
+   una red informática se define en los dispositivos conectados, emisor y
+   receptor.
+
+--
+   usuario final, (textos, hipertextos, imágenes, hojas de cálculo,
+   música, y vídeos entre otros).
+   Redes de informática
+
+   Redes informaticas
+
+   En una red informática, los dispositivos se clasifican en dos tipos:
+     * - Dispositivos de red: que gestionan el acceso y las comunicaciones
+       de la red ( router, switch, access point o bridge).
+     * - Dispositivos que utilizan la red: son los que finalmente utilizan
+       los datos transportados por la red (ordenador portátil, notebook,
+       tablet, impresora, consola de videojuegos o móviles de última
+       generación)
+
+   Los dispositivos que utilizan la red, también pueden clasificar la red
+   por su relación funcional:
+
+   Red cliente/servidor. Servidor es donde el dispositivo da es servicio
+   para todos los que lo quieran utilizar y el cliente es donde el
+   dispositivo utiliza uno o varios servidores.
+--
+     * - No guiados, son los que no utilizan cables: ondas de radio (WI-FI
+       y Bluetooth), los infrarrojos y las microondas. Los recursos son
+       los que el dispositivo solicita a la red, que puede ser
+       identificado y con acceso directo.
+
+   Se puede tratar de un archivo compartido por otro dispositivo dentro de
+   la red, una impresora que quiere imprimir un documento, espacio en el
+   disco duro o simplemente información. Los dispositivos que dan
+   servicios se denominan servidores.
+--
+   Clavija RJ45 conexión informática
+
+   Las redes se pueden clasificar por su tamaño:
+     * - PAN ( Personal Area Network) o red de área personal: es una red
+       formada por una sola persona, con unos pocos metros de alcance.
+       WPAN (Wireless Personal Area Network) o red inalámbrica de área
+       personal.
+     * - LAN (Local Area Network) o red de área local: es una red de
+       alcance relativamente pequeño, como una habitación determinada, un
+       avión, etc, Es de uso privado.
+     * - WLAN (Wireless Local Area Network) o red de área local
+       inalámbrica: es una red LAN pero sin cables. Es una de las
+       configuraciones mas utilizada por no necesitar instalación de
+       cableado.
+     * - CAN (Campus Area Network) o red de área de campus: es una red con
+       dispositivos de alta velocidad que conecta varias redes de área
+       local en lugares limitados como una universidad o una base militar.
+       Es de uso privado.
+     * - MAN (Metropolitan Area Network) o red de área metropolitana: es
+       una red de banda ancha (alta velocidad) con una extensión mayor a
+       la CAM pero también limitada.
+     * - WAN (Wire Area Network) o red de área amplia: es una red que
+       comprende un alcance muy amplio de cobertura que utiliza medios
+       poco habituales como satélites, cables interoceánicos o fibra
+       óptica. Es de uso público.
+     * - VLAN (Virtual Local Area Network) o red área lógica: es una red
+       virtual que trabaja sobre una LAN con el fin de aumentar la
+       seguridad y el rendimiento. Hay casos en los que gracias al
+       protocolo 802.11Q (también llamado QinQ) se puede montar redes
+       virtuales sobre redes WAN.
+
+   A todo esto VLAN no se pude confundir con VPN (Virtual Private
+   Network) o red privada virtual que es una red privada que permite
+   una extensión segura en una red local o publica como internet.
+
+   Esquema ejemplo de redes informáticas
+
+   Las conexiones de redes pueden tener diferentes velocidades de
+   transporte de datos según los medios utilizados, la fibra óptica es la
+   más veloz, aproximadamente va a 2 Gbps. Luego está el par trenzado que
+--
+   WI-FI que pueden ir a una velocidad de 54 Mbps.
+
+   La velocidad de la red siempre puede variar dependiendo de la clase de
+   red que utilicemos. En sumidelec, le asesoramos si necesita comprar
+   cable de red, independientemente de su categoría.
+
+Información

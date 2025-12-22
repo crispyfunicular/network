@@ -1,0 +1,55 @@
+       (BUTTON) Enviar
+
+Redes de telecomunicaciones
+
+   Las redes de telecomunicaciones son equipos de transmisión que pueden
+   transmitir información con señales electromagnéticas u ópticas entre
+   diferentes ubicaciones de forma analógica o digital. La información
+   pueden ser datos de audio, de vídeo o de otros tipos. Las redes están
+   basadas en infraestructuras de trabajo con cables o inalámbricas.
+   Ejemplos de redes de telecomunicaciones típicas son la red fija de
+   teléfono, la red de telefonía móvil, las redes de televisión por cable
+   o Internet.
+
+     * Redes de telecomunicaciones para transmisiones de voz
+       bidireccionales (redes telefónicas)
+     * Redes de telecomunicaciones para transmisiones de datos
+     * Fusión de transmisión de voz y datos a través de la tecnología de
+       Voz sobre IP
+
+Redes de telecomunicaciones para transmisiones de voz bidireccionales (redes
+telefónicas)
+
+   Para la transmisión de voz bidireccional se pueden utilizar diferentes
+   tipos de redes telefónicas. En los inicios de la telefonía, la red
+   telefónica estaba basada en el rendimiento y transfería las señales de
+   voz mediante señales electromagnéticas, analógicas. Hoy en día las
+   redes telefónicas son digitales y pueden estar construidas con cables
+   (línea fija) o ser inalámbricas (red móvil). El establecimiento de la
+   conexión entre los participantes ha evolucionado de ser estrictamente
+--
+   conmutación de paquetes.
+
+Redes de telecomunicaciones para transmisiones de datos
+
+   Anteriormente las redes de telecomunicaciones para la transmisión de
+   datos utilizaban muchos protocolos diferentes. A raíz del éxito de
+   Internet, el Protocolo de Internet (IP) se ha ido estableciendo cada
+   vez más como el protocolo estándar para la transmisión de datos. Hoy en
+   día, casi todas las redes de datos operan sobre la base de IP. Los
+   datos se comparten en estas redes mediante paquetes de datos
+   individuales que llevan la dirección de destino y de origen. En los
+   nodos de la red, las direcciones de destino son evaluadas por lo que se
+   conoce como enrutadores, y los paquetes de datos se envían hacia el
+   siguiente nodo en dirección al destino. En principio, los paquetes
+--
+IP
+
+   El aumento del rendimiento de las redes IP, los cortos tiempos de
+   latencia, los bajos valores de jitter y el gran ancho de banda hacen
+   que las redes de datos sean adecuadas para aplicaciones en tiempo real
+   en las que el tiempo es crítico, tales como la telefonía. Asimismo, las
+   redes telefónicas, gracias a la tecnología de Voz sobre IP están casi
+   completamente fusionadas con las redes de datos. Esto tiene la ventaja
+   de que el operador solo tiene que operar una única infraestructura para
+   la transmisión de voz y de datos. Para el usuario se proporcionan una

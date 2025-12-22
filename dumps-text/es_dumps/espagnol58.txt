@@ -1,0 +1,239 @@
+   La versión de su navegador no está debidamente actualizada. Le
+   recomendamos actualizarla a la versión más reciente.
+
+     * > Inicio
+     * > Historia
+     * > Características
+          + > Objetivos
+          + > Fortalezas
+          + > Alcances
+          + > Optimización de la Gestión
+          + > Ciclo de Mantenimiento
+          + > Índice de Conservación
+          + > HDM 4
+          + > Arquitectura Tecnológica
+     * > Funcionalidades
+          + > Red Vial
+               o > Tramificación de la Red
+               o > Ejes de Rutas Georreferenciadas
+          + > Inventario Vial
+          + > Puentes
+               o > Puentes - Versión Estándar
+               o > Puentes - Versión Enterprise
+          + > Estados de Conservación
+               o > Inspección Visual de Calzada
+               o > Informes sobre Eventos
+               o > Indicadores de Deterioro
+               o > Espesor de refuerzo
+               o > Pavement Condition Index (PCI)
+               o > HDM-4
+          + > Tránsito
+          + > Siniestros y Accidentes Viales
+          + > Priorización de Atención
+          + > Planificación Operativa
+               o > Actividades de Mantenimiento
+               o > Plan Operativo Anual (POA)
+               o > Cronogramas de Mantenimiento
+          + > Control de Ejecución
+          + > Sistema de Información Geográfica (SIG)
+          + > Multimedia
+          + > Business Intelligence (BI)
+     * > Tutoriales
+     * > Documentación
+     * > Casos de Éxito
+     * > Contacto
+
+     * > Inicio
+     * > Historia
+     * > Características
+          + > Objetivos
+          + > Fortalezas
+          + > Alcances
+          + > Optimización de la Gestión
+          + > Ciclo de Mantenimiento
+          + > Índice de Conservación
+          + > HDM 4
+          + > Arquitectura Tecnológica
+     * > Funcionalidades
+          + > Red Vial
+               o > Tramificación de la Red
+               o > Ejes de Rutas Georreferenciadas
+          + > Inventario Vial
+          + > Puentes
+               o > Puentes - Versión Estándar
+               o > Puentes - Versión Enterprise
+          + > Estados de Conservación
+               o > Inspección Visual de Calzada
+               o > Informes sobre Eventos
+               o > Indicadores de Deterioro
+               o > Espesor de refuerzo
+               o > Pavement Condition Index (PCI)
+               o > HDM-4
+          + > Tránsito
+          + > Siniestros y Accidentes Viales
+          + > Priorización de Atención
+          + > Planificación Operativa
+               o > Actividades de Mantenimiento
+               o > Plan Operativo Anual (POA)
+               o > Cronogramas de Mantenimiento
+          + > Control de Ejecución
+          + > Sistema de Información Geográfica (SIG)
+          + > Multimedia
+          + > Business Intelligence (BI)
+     * > Tutoriales
+     * > Documentación
+     * > Casos de Éxito
+     * > Contacto
+
+Gestión de Redes Viales (primarias; secundarias; terciarias o caminos
+vecinales)
+
+ilustra red vial ilustra red vialSIGMAVIAL brinda
+
+     * Flexibilidad para administrar zonas o distritos de mantenimiento
+       vial en el que la red puede ser dividida para facilitar la
+       administración.
+     * Flexibilidad para definir los niveles de detalle como carreteras y
+       tramos de la red.
+     * Funcionalidad de registro de localización GPS, de la geometría y el
+       estado de los componentes de inventario vial en relación con la red
+       de carreteras para cada tipo de elemento (superficie de la
+       carretera, drenajes longitudinales y transversales, arcenes,
+       señales verticales y horizontales, puentes, elementos de seguridad,
+       información complementaria y reportes de incidencias, etc.), con el
+       siguiente desglose
+
+SIGMAVIAL abarca todos los componentes de Red Vial (Ver Video)
+
+     * Camino (Ruta, Calle, Avenida, Camino Vecinal, etc.). Trazas
+       espaciales georreferenciadas.
+     * Tramos de los caminos establecidos, bajo criterio de tramo
+       homogéneo.
+     * Generación de Polinómicas de Priorización de Tramos de Carreteras o
+       Puentes para evaluación y para determinación de políticas de
+       intervención de acuerdo a criterios de indicadores endógenos (IRI;
+       deflexión; ahuellamiento; etc) y exógenos (población servida;
+       producción abastecida o generada; servicios públicos brindados;
+       entre otros) al mantenimiento vial.
+     * Estados de Conservación de Activos Viales: Gestión de informes;
+       TDMA - Tránsito medio diario anual; Registro de evolución del
+       deterioro; Gestión del paquete estructural; Accidentes; Básculas y
+       pesaje de vehículos pesados; Conteo de Tránsito con herramientas
+       desarrolladas a tal efecto; Indicadores de Deterioro; PCI (Pavement
+       Condition Index); Cálculo de espesores de Refuerzo de Pavimentos;
+       Interfases con equipos de medición multifunción; Integración de
+       HDM4; Visualización de esquemas, croquis y planos de tramos;
+       Informes de eventos o catástrofes.
+     * Inventario Vial Georreferenciado: calzada, geometría, drenajes
+       transversales y longitudinales, obras de arte, puentes,
+       señalización vertical y horizontal, curvas, banquinas o arcenes,
+       dispositivos de seguridad, cruces, baches y deterioros de calzada,
+       información complementaria, gestión de riesgo, informes de
+       inventario por incidentes, etc.
+     * Sistema de Información Geográfica.
+     * Herramientas multimedia georreferenciadas.
+     * Herramientas de Business Intelligence (BI).
+
+   El sistema incluye la Plataforma Móvil para ser usada en dispositivos
+   móviles (preferentemente Tablets por el tamaño de pantalla) con
+   receptores GPS para realizar la recolección de datos directamente en el
+   campo. Esta aplicación móvil tiene la capacidad de integrar capturas de
+   imágenes con otros datos detallados que se especifican para cada tipo
+   de elemento de inventario como parte de la red vial, incluyendo, por
+   ejemplo, las características de la calzada. La aplicación móvil se
+   encuentra totalmente diseñada para trabajar fuera de línea en lugares
+   con poca infraestructura de comunicación (baja señal inalámbrica para
+   transmisión de datos) y está totalmente integrado con el sistema de
+   mantenimiento central a través de funciones de sincronización.
+
+   La Plataforma móvil del SIGMAVIAL dispone de capacidad, no sólo para
+   introducir datos específicos de elementos de inventario, sino también
+   para ser utilizado en la registración del estado de conservación de los
+   mismos, para elementos sobre la rasante del camino como por debajo de
+   ella, como lo es la inspección de drenajes longitudinales,
+   transversales y puentes.
+
+   El sistema dispone de funcionalidad para capturar fotos seriadas (más
+   de una foto por elemento de inventario) y vídeos relacionados con
+   posiciones de progresiva recopiladas de forma automática a través del
+   receptor GPS.
+
+   El SIGMAVIAL cuenta con la facilidad de tener incorporado un subsistema
+   de gestión y mantenimiento de puentes, en versión estándar y en versión
+   enterprise, que permite no sólo contar a los mismos como parte del
+   inventario vial gerreferenciado sino que también se pueden registrar
+   las inspecciones detalladas y periódicas realizadas a los puentes por
+   especialistas de evaluación de los mismos. También cuenta con la
+   facilidad de realizar la planificación, mediante priorización de
+   puentes, del mantenimiento preventivo y correctivo de todos los puentes
+   de la red vial administrada.
+
+Quiénes Somos?
+
+   HQ Solutions SRL es una empresa establecida en la República Argentina
+   con actuación en diferentes países de América Latina y con acuerdos de
+   cooperación y explotación de la herramienta en España. Somos una firma
+   dedicada a brindar fortalecimiento institucional, a la consultoría y al
+   desarrollo de software que cuenta con un equipo multidisciplinario con
+   profesionales de Ingeniería Civil y del área de las Tecnologías de la
+   Información (TICs). Para conocernos en:
+
+www.hqsolutions.com.ar
+
+Novedades de SIGMAVIAL
+
+Nuevo SIG por Celular
+
+   En 2025, nace el Sistema de Información Geográfico (SIG) del SIGMAVIAL
+   2.0 para uso por Celular o todo tipo de dispositivos móviles, con
+   herramientas de gestión de estado por componentes del Inventario
+   Vial como condición de estado de calzadas y más Ver más
+     __________________________________________________________________
+
+Nace SIGMAVIAL Express (Gratis)
+
+   A finales de 2024, se lanza al mercado SIGMAVIAL Express (versión
+   Gratuita del SIGMAVIAL 2.0), es una versión reducida de la versión
+   completa, que permite la gestión y administración del Inventario Vial
+   de una Red Vial, con herramientas de gestión de estado por componentes
+   del Inventario Vial georreferenciado como fotográfico, con su condición
+   de estado con Sistema de Información Geográfico integrado
+     __________________________________________________________________
+
+SIGMAVIAL 2.0 en Córdoba
+
+   Entre 2024 y 2025, se realizó la actualización del SIGMAVIAL al
+   nuevo SIGMAVIAL 2.0 en la Dirección Provincial de Vialidad de la
+   Provincia de Córdoba en la República Argentina para administración en
+   los 8.000 kms de carreteras primarias y secundarias de la Red Vial de
+   la Provincia
+     __________________________________________________________________
+
+SIGMAVIAL 2.0 en La Rioja
+
+   Entre 2022 y 2023, se realizó la implementación del SIGMAVIAL 2.0 en la
+   Administración Provincial de Vialidad de la Provincia de La Rioja en la
+   República Argentina para administración en los 3.500 kms de carreteras
+   primarias y secundarias de la Red Vial de la Provincia
+     __________________________________________________________________
+
+SIGMAVIAL 2.0 en FOMAV
+
+   En 2023, el Fondo de Mantenimiento Vial (FOMAV) de la República de
+   Nicaragua contrató una ampliación de la funcionalidad del Subsistema de
+   Puentes e Inspección de Puentes del SIGMAVIAL y la implementación del
+   SIGMAVIAL 2.0, para los 4.000kms de carreteras incorporadas al
+   SIGMAVIAL en su versión anterior
+     __________________________________________________________________
+
+Nace SIGMAVIAL 2.0
+
+   Durante 2020 y 2021, HQ Solutions SRL realizó una profunda reingeniería
+   en el SIGMAVIAL, creando el SIGMAVIAL 2.0 y convirtiéndolo en un
+   producto líder en Latino América en materia de Sistemas Integrados de
+   Gestión de Redes Viales de todo tipo.
+
+   Libertad 2356 Piso 1 Of C, Florida, Argentina     |       +54 11
+   77006817       |       info@hqsolutions.com.ar
+
+    © 2020. HQ Solutions SRL. All Rights Reserved.

@@ -1,0 +1,145 @@
+   #tipos de redes informaticas - Atom tipos de redes informaticas - RSS
+   tipos de redes informaticas - Atom
+
+tipos de redes informaticas
+
+Páginas
+
+     * Inicio
+     * Redes Informáticas
+     * Tipos de Redes Informáticas
+     * Desventajas
+
+viernes, 16 de febrero de 2024
+
+¿Que es una red informatica?
+
+   Una red informática es un conjunto de dispositivos que se encuentran
+   interconectados entre si a través de un medio, estos intercambian
+   información y comparten recursos.
+   Son sistemas de comunicación en la que distintos dispositivos actúan de
+   emisor y receptor de manera alterna. Forman parte de una red
+   informática los dispositivos, los medios de conexión, la estructura y
+   el modo de funcionamiento de las redes, la información y los recursos
+   compartidos.
+   Las redes informáticas cuentan con los siguientes elementos:
+   Servidores: los servidores son los que procesan el flujo de los datos y
+   centralizan el control de la red.
+   Clientes: se refiere a los computadores que no son servidores, pero que
+   forman parte de la red permitiendo a los usuarios el acceso a esta.
+   Medios de transmisión: se trata del cableado que permite la transmisión
+   de la información
+   Elementos de hardware: son las piezas que permiten el establecimiento
+   físico de la red.
+   Elementos de software: son los programas requeridos para administrar
+   todo el sistema operativo.
+   ¿Que es una red informática y como funciona?
+   El funcionamiento de las redes informáticas viene definido por
+   distintos estándares, el estándar más extendido es el modelo TCP/IP que
+   se basa en el modelo teórico OSI la estructura de una red puede ser de
+   cliente-servidor donde los dispositivos desempeñan las funciones de
+   servidor y cliente a la vez ofreciendo y consumiendo información o
+   recursos para el funcionamiento de estas redes se requiere de
+   profesionales expertos que sean capaces de configurar y mantener todo
+   el sistema informático.
+   ¿Tipos de redes?
+   Los tipos de redes informáticas se clasifican según su tamaño o rango
+   de alcance:
+   Red de área personal (PAN): esta formada por los dispositivos de una
+   única persona.
+   Red inalámbrica de área personal (WPAN): es como la anterior, pero de
+   conexión inalámbrica
+   Red de área local (LAN): son conexiones de rango de alcance local como
+   dentro de un mismo edificio.
+   Red de área local inalámbrica (WLAN): es una red LAN, pero inalámbrica.
+   Red de área de campus (CAN): es una red de alta velocidad que conecta
+   las redes locales en un área geográfica, como dentro de un campus
+   universitario.
+   Red de área metropolitana (MAN): red de alta velocidad que aporta
+   cobertura en un área geográfica extensa
+   Red de área amplia (WAN): da cobertura a un área extensa utilizado
+   fibra óptica o satélites.
+   Red LAN lógica (VLAN): se instala sobre una red física para incrementar
+   el rendimiento y la seguridad.
+
+   [Redes-380-x-240.png]
+   Puedes consultar también en este video
+
+   IFRAME: https://www.youtube.com/embed/z7Q_NRGyKt4
+
+   en febrero 16, 2024
+   Enviar por correo electrónicoEscribe un blogCompartir en XCompartir con
+   FacebookCompartir en Pinterest
+   Etiquetas: Red informática
+
+No hay comentarios:
+
+Publicar un comentario
+
+   Entrada más reciente Entrada antigua Inicio
+   Suscribirse a: Enviar comentarios (Atom)
+
+Desventajas De Las Redes Informáticas
+
+   1. Carece de independencia Las redes de computadores implican un
+   proceso que se opera mediante computadores, por lo que las personas
+   depende...
+   [2.jpg]
+     * ¿Que es una red informatica?
+       Una red informática es un conjunto de dispositivos que se
+       encuentran interconectados entre si a través de un medio, estos
+       intercambian infor...
+     * Desventajas De Las Redes Informáticas
+       1. Carece de independencia Las redes de computadores implican un
+       proceso que se opera mediante computadores, por lo que las personas
+       depende...
+
+Buscar este blog
+
+   __________ Buscar
+     * Inicio
+
+Datos personales
+
+   Bayron solis
+
+   Ver todo mi perfil
+
+Archivo del blog
+
+     * febrero 2024 (3)
+
+Primera Red
+
+   Primera Red
+   El 5 de diciembre de 1969 se establecía la primera interconexión de
+   ARPANET entre los nodos ubicados en la Universidad de California en Los
+   Ángeles, el Stanford Research Institute, la Universidad de California
+   en Santa Barbara y la Universidad de Utah.
+
+Creador de la primera Red
+
+   Creador de la primera Red
+   Carl josehp Licklider fue nombrado director del Proyecto MAC en el MIT
+   y profesor en el Departamento de Ingeniería Eléctrica. En el proyecto
+   MAC, se había producido la primera computadora de tiempo compartido,
+   CTSS, y uno de los primeros montajes en línea con el desarrollo de
+   Multics (trabajo en el que se inició en 1964).
+
+Primera red Social
+
+   Primera red Social
+   En 1997, la web experimentaba un auge de popularidad y la gente
+   empezaba a descubrir las posibilidades de la interconexión digital. Fue
+   en este contexto cuando Andrew Weinreich fundó SixDegrees, la primera
+   red social de la historia.
+
+Denunciar abuso
+
+Etiquetas
+
+     * Desventajas (1)
+     * Red informática (1)
+     * Tipos de redes Informaticas (1)
+
+   Tema Sencillo. Imágenes del tema: luoman. Con la tecnología de Blogger.

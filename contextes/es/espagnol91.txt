@@ -1,0 +1,121 @@
+
+   Privacy Guides
+   Redes Alternativas
+
+   ____________________
+--
+               o Resumen de Tor
+               o Pagos Privados
+               o Tipos de redes de comunicación
+          + [ ]
+            Sistemas Operativos
+--
+               o Pastebins
+               o Comunicación en Tiempo Real
+               o Redes Sociales
+          + [ ] Hardware
+        Hardware
+--
+          + [X] Avanzado
+        Avanzado
+               o [ ] Redes Alternativas Redes Alternativas
+             Tabla de contenidos
+                    # Redes anonimizadoras
+                         @ Tor
+                              - Orbot
+--
+
+   Tabla de contenidos
+     * Redes anonimizadoras
+          + Tor
+               o Orbot
+--
+
+
+                               Redes Alternativas
+
+   Protege contra la(s) siguiente(s) amenaza(s):
+--
+     * Capitalismo de Vigilancia
+
+Redes anonimizadoras
+
+   Cuando se trata de redes anonimizadoras, querenos destacar que Tor es
+   nuestra primera opción. Es la red anónima más utilizada, fuertemente
+   estudiada y activamente desarrollada. Utilizar otras redes podría poner
+   en peligro tu Anonimato, a menos que sepas lo que estás haciendo.
+
+--
+   Tor logo
+
+   La red Tor es un grupo de servidores operados por voluntarios que te
+   permiten conectarte de manera gratuita, además de mejorar tu privacidad
+   y seguridad en Internet. Individuos y organizaciones también pueden
+--
+   elusión de la Censura.
+
+   La manera recomendada de acceder a la red Tor es por medio del
+   Navegador Tor, que explicamos más a detalle en una página dedicada:
+
+   Información del Navegador Tor Revisión detallada de Tor
+
+   Puedes acceder a la red Tor utilizando otras herramientas; tomar esta
+   decisión depende de tu modelo de amenaza. Si eres un usuario ocasional
+   de Tor y no te preocupa que tu ISP recopile pruebas contra ti, usar
+   aplicaciones como Orbot o aplicaciones de navegador móvil para acceder
+   a la red Tor probablemente esté bien. Aumentar el número de personas
+   que usan Tor a diario ayuda a reducir el mal estigma de Tor, y
+   disminuye la calidad de las "listas de usuarios de Tor" que los ISP y
+--
+   una ventaja práctica para la mayoría de las aplicaciones (especialmente
+   navegación web), puede conllevar una penalización significativa del
+   rendimiento, y aumenta la carga en la red Tor. Ya no recomendamos
+   modificar el valor predeterminado de este ajuste, a menos que estés
+   seguro de que lo necesitas.^1
+--
+ed utilizando [VpnService] (https://developer.android.com/reference/android/net/
+VpnService) y se puede utilizar con el kill switch VPN en :gear: **Ajustes** ->
+**Red e Internet** -> **VPN** -> :gear: -> **Bloquear conexiones sin VPN**.
+
+Orbot suele estar desactualizado en Google Play y en el repositorio F-Droid de G
+--
+
+   Las personas censuradas pueden usar los proxies de Snowflake para
+   conectarse a la red Tor. Snowflake es una gran manera de contribuir a
+   la red, incluso si no tienes los conocimientos técnicos para operar un
+   nodo o puente de Tor.
+
+--
+
+   Snowflake no aumenta tu privacidad de ninguna manera, ni se utiliza
+   para conectar con la red Tor desde tu navegador personal. Sin embargo,
+   si tu conexión a Internet no está censurada, deberías considerar
+   ejecutarlo para ayudar a mejorar la privacidad de las personas en redes
+   censuradas. No es necesasrio preocuparte sobre cuales páginas acceden
+   las personas a través de tu proxy--su dirección IP visible coincidirá
+--
+   logo de I2P logo de I2P
+
+   I2P es una capa de red que cifra tus conexiones y las enruta a través
+   de una red de ordenadores distribuidos por todo el mundo. Está enfocada
+   principalmente en crear una red alternativa que protege la privacidad,
+   en vez de anonimizar las conexiones regulares a Internet.
+
+--
+   para otros usuarios por defecto, en vez de depender de voluntarios
+   dedicados a la retransmisión para ejecutar los nodos. Hay
+   aproximadamente 10,000 repetidores y puentes en la red Tor, comparador
+   a los ~50,000 en I2P, significando que hay potenciamente más formas de
+   enrutar tu tráfico para maximizar el anonimato. I2P también tiende a
+--
+   general, considerado mucho mejor en I2P a comparación de Tor. Mientras
+   la ejecución de aplicaciones como BitTorrent es complicado en Tor (y
+   puede impactar masivamente el rendimiento de la red Tor), es muy fácil
+   y eficiente en I2P.
+
+--
+
+   Es probable que Tor sea más resistente a la censura, debido a su
+   robusta red de puentes y diversos transportes conectables. Por otro
+   lado, I2P usa servidores de directorio para la conexión inicial, que
+   pueden ser variables/no fiables y ejecutados por voluntarios, a

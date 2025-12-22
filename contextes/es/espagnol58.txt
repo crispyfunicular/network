@@ -1,0 +1,59 @@
+          + > Arquitectura Tecnológica
+     * > Funcionalidades
+          + > Red Vial
+               o > Tramificación de la Red
+               o > Ejes de Rutas Georreferenciadas
+--
+          + > Arquitectura Tecnológica
+     * > Funcionalidades
+          + > Red Vial
+               o > Tramificación de la Red
+               o > Ejes de Rutas Georreferenciadas
+--
+vecinales)
+
+ilustra red vial ilustra red vialSIGMAVIAL brinda
+
+     * Flexibilidad para administrar zonas o distritos de mantenimiento
+       vial en el que la red puede ser dividida para facilitar la
+       administración.
+     * Flexibilidad para definir los niveles de detalle como carreteras y
+       tramos de la red.
+     * Funcionalidad de registro de localización GPS, de la geometría y el
+       estado de los componentes de inventario vial en relación con la red
+--
+       siguiente desglose
+
+SIGMAVIAL abarca todos los componentes de Red Vial (Ver Video)
+
+     * Camino (Ruta, Calle, Avenida, Camino Vecinal, etc.). Trazas
+--
+   campo. Esta aplicación móvil tiene la capacidad de integrar capturas de
+   imágenes con otros datos detallados que se especifican para cada tipo
+   de elemento de inventario como parte de la red vial, incluyendo, por
+   ejemplo, las características de la calzada. La aplicación móvil se
+   encuentra totalmente diseñada para trabajar fuera de línea en lugares
+--
+   facilidad de realizar la planificación, mediante priorización de
+   puentes, del mantenimiento preventivo y correctivo de todos los puentes
+   de la red vial administrada.
+
+Quiénes Somos?
+--
+   Gratuita del SIGMAVIAL 2.0), es una versión reducida de la versión
+   completa, que permite la gestión y administración del Inventario Vial
+   de una Red Vial, con herramientas de gestión de estado por componentes
+   del Inventario Vial georreferenciado como fotográfico, con su condición
+   de estado con Sistema de Información Geográfico integrado
+--
+   nuevo SIGMAVIAL 2.0 en la Dirección Provincial de Vialidad de la
+   Provincia de Córdoba en la República Argentina para administración en
+   los 8.000 kms de carreteras primarias y secundarias de la Red Vial de
+   la Provincia
+     __________________________________________________________________
+--
+   Administración Provincial de Vialidad de la Provincia de La Rioja en la
+   República Argentina para administración en los 3.500 kms de carreteras
+   primarias y secundarias de la Red Vial de la Provincia
+     __________________________________________________________________
+

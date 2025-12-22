@@ -1,0 +1,4415 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+	<meta name="facebook-domain-verification" content="m3kdr9vzxsvfyu13cxumrcftf56flu" />
+
+
+
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+	<script type="text/javascript">
+	(function() {
+	var host = window.location.hostname;
+	var element = document.createElement('script');
+	var firstScript = document.getElementsByTagName('script')[0];
+	var url = 'https://cmp.inmobi.com'
+		.concat('/choice/', 'f9AQTyv7AXes2', '/', host, '/choice.js?tag_version=V3');
+	var uspTries = 0;
+	var uspTriesLimit = 3;
+	element.async = false;
+	element.type = 'text/javascript';
+	element.src = url;
+
+	firstScript.parentNode.insertBefore(element, firstScript);
+
+	function makeStub() {
+		var TCF_LOCATOR_NAME = '__tcfapiLocator';
+		var queue = [];
+		var win = window;
+		var cmpFrame;
+
+		function addFrame() {
+		var doc = win.document;
+		var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+		if (!otherCMP) {
+			if (doc.body) {
+			var iframe = doc.createElement('iframe');
+
+			iframe.style.cssText = 'display:none';
+			iframe.name = TCF_LOCATOR_NAME;
+			doc.body.appendChild(iframe);
+			} else {
+			setTimeout(addFrame, 5);
+			}
+		}
+		return !otherCMP;
+		}
+
+		function tcfAPIHandler() {
+		var gdprApplies;
+		var args = arguments;
+
+		if (!args.length) {
+			return queue;
+		} else if (args[0] === 'setGdprApplies') {
+			if (
+			args.length > 3 &&
+			args[2] === 2 &&
+			typeof args[3] === 'boolean'
+			) {
+			gdprApplies = args[3];
+			if (typeof args[2] === 'function') {
+				args[2]('set', true);
+			}
+			}
+		} else if (args[0] === 'ping') {
+			var retr = {
+			gdprApplies: gdprApplies,
+			cmpLoaded: false,
+			cmpStatus: 'stub'
+			};
+
+			if (typeof args[2] === 'function') {
+			args[2](retr);
+			}
+		} else {
+			if(args[0] === 'init' && typeof args[3] === 'object') {
+			args[3] = Object.assign(args[3], { tag_version: 'V3' });
+			}
+			queue.push(args);
+		}
+		}
+
+		function postMessageEventHandler(event) {
+		var msgIsString = typeof event.data === 'string';
+		var json = {};
+
+		try {
+			if (msgIsString) {
+			json = JSON.parse(event.data);
+			} else {
+			json = event.data;
+			}
+		} catch (ignore) {}
+
+		var payload = json.__tcfapiCall;
+
+		if (payload) {
+			window.__tcfapi(
+			payload.command,
+			payload.version,
+			function(retValue, success) {
+				var returnMsg = {
+				__tcfapiReturn: {
+					returnValue: retValue,
+					success: success,
+					callId: payload.callId
+				}
+				};
+				if (msgIsString) {
+				returnMsg = JSON.stringify(returnMsg);
+				}
+				if (event && event.source && event.source.postMessage) {
+				event.source.postMessage(returnMsg, '*');
+				}
+			},
+			payload.parameter
+			);
+		}
+		}
+
+		while (win) {
+		try {
+			if (win.frames[TCF_LOCATOR_NAME]) {
+			cmpFrame = win;
+			break;
+			}
+		} catch (ignore) {}
+
+		if (win === window.top) {
+			break;
+		}
+		win = win.parent;
+		}
+		if (!cmpFrame) {
+		addFrame();
+		win.__tcfapi = tcfAPIHandler;
+		win.addEventListener('message', postMessageEventHandler, false);
+		}
+	};
+
+	makeStub();
+
+	function makeGppStub() {
+		const CMP_ID = 10;
+		const SUPPORTED_APIS = [
+		'2:tcfeuv2',
+		'6:uspv1',
+		'7:usnatv1',
+		'8:usca',
+		'9:usvav1',
+		'10:uscov1',
+		'11:usutv1',
+		'12:usctv1'
+		];
+
+		window.__gpp_addFrame = function (n) {
+		if (!window.frames[n]) {
+			if (document.body) {
+			var i = document.createElement("iframe");
+			i.style.cssText = "display:none";
+			i.name = n;
+			document.body.appendChild(i);
+			} else {
+			window.setTimeout(window.__gpp_addFrame, 10, n);
+			}
+		}
+		};
+		window.__gpp_stub = function () {
+		var b = arguments;
+		__gpp.queue = __gpp.queue || [];
+		__gpp.events = __gpp.events || [];
+
+		if (!b.length || (b.length == 1 && b[0] == "queue")) {
+			return __gpp.queue;
+		}
+
+		if (b.length == 1 && b[0] == "events") {
+			return __gpp.events;
+		}
+
+		var cmd = b[0];
+		var clb = b.length > 1 ? b[1] : null;
+		var par = b.length > 2 ? b[2] : null;
+		if (cmd === "ping") {
+			clb(
+			{
+				gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+				cmpStatus: "stub", // possible values: stub, loading, loaded, error
+				cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+				signalStatus: "not ready", // possible values: not ready, ready
+				supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+				cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+				sectionList: [],
+				applicableSections: [-1],
+				gppString: "",
+				parsedSections: {},
+			},
+			true
+			);
+		} else if (cmd === "addEventListener") {
+			if (!("lastId" in __gpp)) {
+			__gpp.lastId = 0;
+			}
+			__gpp.lastId++;
+			var lnr = __gpp.lastId;
+			__gpp.events.push({
+			id: lnr,
+			callback: clb,
+			parameter: par,
+			});
+			clb(
+			{
+				eventName: "listenerRegistered",
+				listenerId: lnr, // Registered ID of the listener
+				data: true, // positive signal
+				pingData: {
+				gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+				cmpStatus: "stub", // possible values: stub, loading, loaded, error
+				cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+				signalStatus: "not ready", // possible values: not ready, ready
+				supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+				cmpId: CMP_ID, // list of supported APIs
+				sectionList: [],
+				applicableSections: [-1],
+				gppString: "",
+				parsedSections: {},
+				},
+			},
+			true
+			);
+		} else if (cmd === "removeEventListener") {
+			var success = false;
+			for (var i = 0; i < __gpp.events.length; i++) {
+			if (__gpp.events[i].id == par) {
+				__gpp.events.splice(i, 1);
+				success = true;
+				break;
+			}
+			}
+			clb(
+			{
+				eventName: "listenerRemoved",
+				listenerId: par, // Registered ID of the listener
+				data: success, // status info
+				pingData: {
+				gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+				cmpStatus: "stub", // possible values: stub, loading, loaded, error
+				cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+				signalStatus: "not ready", // possible values: not ready, ready
+				supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+				cmpId: CMP_ID, // CMP ID
+				sectionList: [],
+				applicableSections: [-1],
+				gppString: "",
+				parsedSections: {},
+				},
+			},
+			true
+			);
+		} else if (cmd === "hasSection") {
+			clb(false, true);
+		} else if (cmd === "getSection" || cmd === "getField") {
+			clb(null, true);
+		}
+		//queue all other commands
+		else {
+			__gpp.queue.push([].slice.apply(b));
+		}
+		};
+		window.__gpp_msghandler = function (event) {
+		var msgIsString = typeof event.data === "string";
+		try {
+			var json = msgIsString ? JSON.parse(event.data) : event.data;
+		} catch (e) {
+			var json = null;
+		}
+		if (typeof json === "object" && json !== null && "__gppCall" in json) {
+			var i = json.__gppCall;
+			window.__gpp(
+			i.command,
+			function (retValue, success) {
+				var returnMsg = {
+				__gppReturn: {
+					returnValue: retValue,
+					success: success,
+					callId: i.callId,
+				},
+				};
+				event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+			},
+			"parameter" in i ? i.parameter : null,
+			"version" in i ? i.version : "1.1"
+			);
+		}
+		};
+		if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+		window.__gpp = window.__gpp_stub;
+		window.addEventListener("message", window.__gpp_msghandler, false);
+		window.__gpp_addFrame("__gppLocator");
+		}
+	};
+
+	makeGppStub();
+
+	var uspStubFunction = function() {
+		var arg = arguments;
+		if (typeof window.__uspapi !== uspStubFunction) {
+		setTimeout(function() {
+			if (typeof window.__uspapi !== 'undefined') {
+			window.__uspapi.apply(window.__uspapi, arg);
+			}
+		}, 500);
+		}
+	};
+
+	var checkIfUspIsReady = function() {
+		uspTries++;
+		if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+		console.warn('USP is not accessible');
+		} else {
+		clearInterval(uspInterval);
+		}
+	};
+
+	if (typeof window.__uspapi === 'undefined') {
+		window.__uspapi = uspStubFunction;
+		var uspInterval = setInterval(checkIfUspIsReady, 6000);
+	}
+	})();
+	</script>
+	<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RHNXWCLNNW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RHNXWCLNNW');
+</script>
+
+
+<script>
+
+let attempts = 0;
+let maxAttempts = 100; // 10 segundos / 100ms = 100 intentos
+
+let interval = setInterval(() => {
+    $("#accept-btn").trigger("click");
+    attempts++;
+
+    if ($("#accept-btn").data("clicked")) { 
+        clearInterval(interval);
+        clearTimeout(timeout);
+        console.log("Click detectado, deteniendo el intento.");
+    }
+
+    if (attempts >= maxAttempts) {
+        clearInterval(interval);
+        console.log("Se alcanzó el límite de intentos, deteniendo.");
+    }
+}, 100);
+
+let timeout = setTimeout(() => {
+    clearInterval(interval);
+    console.log("Tiempo límite de 10 segundos alcanzado, deteniendo.");
+}, 10000); // 10 segundos
+
+$("#accept-btn").on("click", function() {
+    $(this).data("clicked", true);
+});
+
+</script>
+
+<script type="text/javascript">
+!function(){"use strict";function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement("script");c.src=e,t?c.type="module":(c.async=!0,c.type="text/javascript",c.setAttribute("nomodule",""));var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(c,n)}!function(t,c){!function(t,c,n){var a,o,r;n.accountId=c,null!==(a=t.marfeel)&&void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&&void 0!==o||(r.cmd=[]),t.marfeel.config=n;var i="https://sdk.mrf.io/statics";e("".concat(i,"/marfeel-sdk.js?id=").concat(c),!0),e("".concat(i,"/marfeel-sdk.es5.js?id=").concat(c),!1)}(t,c,arguments.length>2&&void 0!==arguments[2]?arguments[2]:{})}(window,9106,{} /* Config */)}();
+</script>
+
+
+<meta name="verify-getalink" content="verify-getalink-10122"/>
+
+	<!-- METAS 1 -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="robots" content="index, follow, max-image-preview:large" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- // METAS 1 -->
+	<title>Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado | Ruta del Transporte</title>
+
+	<!-- favicons -->
+    <!-- Favicon básico en formato .ico -->
+    <link rel="icon" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/favicon.ico" sizes="any">
+
+    <!-- Favicon de alta resolución en PNG -->
+    <link rel="icon" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/favicon-192x192.png" sizes="192x192" type="image/png">
+
+    <!-- Apple Touch Icon (para dispositivos iOS) -->
+    <link rel="apple-touch-icon" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/apple-touch-icon.png" sizes="180x180">
+
+    <!-- Android Icons (para la mayoría de dispositivos Android y Chrome) -->
+    <link rel="icon" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/android-chrome-192x192.png" sizes="192x192" type="image/png">
+    <link rel="icon" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/android-chrome-512x512.png" sizes="512x512" type="image/png">
+
+    <!-- Windows Tiles Icon (para dispositivos con Windows) -->
+    <meta name="msapplication-square150x150logo" content="/web/assets_new/img/www.rutadeltransporte.com/favicons/mstile-150x150.png">
+
+    <!-- Safari Pinned Tab Icon (Safari monocromático) -->
+    <link rel="mask-icon" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/safari-pinned-tab.svg" color="#5bbad5"> 
+
+
+	<link rel="manifest" href="/web/assets_new/img/www.rutadeltransporte.com/favicons/site.webmanifest?2025122122">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="apple-mobile-web-app-capable" content="no">
+	<meta name="application-name" content="www.rutadeltransporte.com" />
+		<!-- // Favicons -->
+
+	<!-- CSS + FONTS -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="/web/assets_new/dist/style.css?20251221223612" type="text/css" rel="stylesheet" />
+	<link href="/web/assets_new/dist/infocap.css?20251221223612" type="text/css" rel="stylesheet"/>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<!-- Roboto serif -->
+	<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" rel="stylesheet">
+	<!-- Asap San serif -->
+	<link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<!-- Montserrat -->
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<!-- Open Sans -->
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/cabinet-grotesk" rel="stylesheet">
+	<!-- // CSS + FONTS -->
+
+	
+	<!-- MICRODATA : SCHEMA -->
+	 
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Organization",
+			"url": "https://www.rutadeltransporte.com",
+			"logo": "/web/assets/img/favicons/icon-www.rutadeltransporte.com.png"
+		}
+	</script>
+
+	<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.rutadeltransporte.com",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.rutadeltransporte.com/?s={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+	<!-- // MICRODATA : SCHEMA -->
+
+
+	<!-- METAS -->
+			<link rel="canonical" href="https://www.rutadeltransporte.com/noticias-transporte/aumenta-numero-tramos-riesgo-alto_0_2000009462.html" />
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.rutadeltransporte.com/noticias-transporte/aumenta-numero-tramos-riesgo-alto_0_2000009462.html">
+		<meta property="og:title" content="Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado">
+		<meta property="og:description" content="La Rioja, Cataluña y Aragón son las tres comunidades con mayor número de carreteras de riesgo elevado. Los vehículos pesados están presentes en el 9% de los accidentes mortales y graves.">
+		<meta property="og:image" content="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg">
+		<meta property="og:image:width" content="1200"/>
+		<meta property="og:image:height" content="675"/>
+		<meta property="og:image:url" content="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg">
+		<meta property="og:locale" content="es_ES"/>
+		<meta property="og:site_name" content="Ruta del Transporte"/>																								
+		<meta property="og:updated_time" content="2025-01-30 12:37:24"/>																								
+		<meta property="og:image:secure_url" content="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg"/>																								
+		<meta property="og:image:alt" content="Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado"/>																								
+		<meta property="og:image:type" content="image/jpeg"/>
+		<meta property="og:video" content="">
+		<meta property="og:video:url" content="">
+		<meta name="medium" content="news" />
+		<meta name="description" content="La Rioja, Cataluña y Aragón son las tres comunidades con mayor número de carreteras de riesgo elevado. Los vehículos pesados están presentes en el 9% de los accidentes mortales y graves." />
+		<link rel="image_src" href="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg" />
+				<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@">
+		<meta name="twitter:creator" content="@">
+		<meta name="twitter:title" content="Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado">
+		<meta name="twitter:description" content="La Rioja, Cataluña y Aragón son las tres comunidades con mayor número de carreteras de riesgo elevado. Los vehículos pesados están presentes en el 9% de los accidentes mortales y graves.">
+		<meta name="twitter:image:src" content="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg">
+		<meta name="twitter:image" content="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg"/>
+		<meta name="twitter:label1" content="Written by"/>
+		<meta name="twitter:data1" content="Redacción Ruta del Transporte"/>
+		<meta name="twitter:label2" content="Time to read"/>
+		<meta name="twitter:data2" content="4 minutes"/>
+
+		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "Article",
+				"headline": "Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado",
+				"image": {
+					"@type": "ImageObject",
+					"url": "https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg",
+					"width": 800,
+					"height": 600
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://www.rutadeltransporte.com/noticias-transporte/aumenta-numero-tramos-riesgo-alto_0_2000009462.html"
+				},
+				"description": "La Rioja, Cataluña y Aragón son las tres comunidades con mayor número de carreteras de riesgo elevado. Los vehículos pesados están presentes en el 9% de los accidentes mortales y graves.",
+				"datePublished": "2025-01-30 12:37:24",
+				"dateModified": "2025-01-30 12:37:24",
+				"author": {
+					"@type": "Person",
+					"name": "Ruta del Transporte"
+				},
+				"publisher": {
+					"@type": "Organization",
+					"name": "Ruta del Transporte",
+					"logo": {
+						"@type": "ImageObject",
+						"url": "/web/assets/img/favicons/icon-www.rutadeltransporte.com.png",
+						"width": 112,
+						"height": 112
+					}
+				}
+			}
+		</script>
+		<!-- // METAS -->
+
+	<!-- JS : JQUERY -->
+	<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="https://www.paypal.com/sdk/js?client-id=Ad-WWadPq0-r4825ydtY97Hn4m--5Rz3pHSk3FNWBL9BR23K3fxaLLCUMBs8qYLb48r0JI-s1QL9nuFy&currency=EUR"></script>
+	<!-- // JS : JQUERY -->
+
+	<!-- BN -->
+<!-- //BN ID 1|articulo|head|oculto| -->
+<script type="application/javascript" src="https://ced.sascdn.com/tag/4090/smart.js" async></script>
+<script type="application/javascript">
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ networkid: 4090, domain: "https://www8.smartadserver.com", async: true });
+    });
+    sas.cmd.push(function() {
+        sas.call("onecall", {
+            siteId: 686605,
+            pageId: 2041764,
+            formats: [
+                 { id: 133118, tagId:"sas_133118"}
+                ,{ id: 133119, tagId:"sas_133119"}
+                ,{ id: 133120, tagId:"sas_133120"}
+                ,{ id: 133121, tagId:"sas_133121"}
+                ,{ id: 133122, tagId:"sas_133122"}
+                ,{ id: 133123, tagId:"sas_133123"}
+                ,{ id: 133124, tagId:"sas_133124"}
+                ,{ id: 133125, tagId:"sas_133125"}
+                ,{ id: 133126, tagId:"sas_133126"}
+                ,{ id: 133127, tagId:"sas_133127"}
+                ,{ id: 133128, tagId:"sas_133128"}
+                ,{ id: 133129, tagId:"sas_133129"}
+                ,{ id: 133130, tagId:"sas_133130"}
+                ,{ id: 141814, tagId:"sas_141814"}
+            ],
+            target: '',
+schain: '1.0,1!ads4you.es,686605,1,,'
+        });
+    });
+</script>
+<!-- //BN ID 1|articulo|head|oculto| -->
+<!-- //BN -->
+<style>
+:root {
+	--color-periodico-1: #1450D7;
+	--color-periodico-2: #EA4335;
+	--color-periodico-3: #E3EBFF;
+}
+</style>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="INFOCAP RDT">
+
+		<section id="site-adv-side-banners" class="ad-wrapper-side">
+	<!-- BN -->
+<!-- //BN ID 12|articulo|wrapper|sky|4 -->
+<div class="ad-wrapper-side-left">
+<div class="ad">
+<div class="ad-container">
+<div class="ad-entry" id="content-sky-left">
+<div id="sas_133128"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133128");  // Format : i_Sky_Left 120x600
+    });
+</script>
+</div>
+</div>
+</div>
+</div>
+<!-- //BN ID 12|articulo|wrapper|sky|4 -->
+<!-- //BN -->
+<!-- BN -->
+<!-- //BN ID 13|articulo|wrapper|sky|5 -->
+<div class="ad-wrapper-side-right">
+<div class="ad">
+<div class="ad-container">
+<div class="ad-entry" id="content-sky-right">
+<div id="sas_133129"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133129");  // Format : i_Sky_Right 120x600
+    });
+</script>
+</div>
+</div>
+</div>
+</div>
+<!-- //BN ID 13|articulo|wrapper|sky|5 -->
+<!-- //BN -->
+	</section>
+	<!-- BN -->
+<!-- //BN ID 14|articulo|wrapper|sticky|1 -->
+<div id="content-sticky">
+<div id="sas_133130"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133130");  // Format : Sticky 0x0
+    });
+</script>
+</div>
+<!-- //BN ID 14|articulo|wrapper|sticky|1 -->
+<!-- //BN -->
+	<div class="BN BN-MEGATOP">
+	<!-- BN -->
+<!-- //BN ID 2|articulo|wrapper|mega|2 -->
+<div class=BN>
+<div id="sas_133118"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133118");  // Format : i_Mega_1 980x250
+    });
+</script>
+</div>
+<!-- //BN ID 2|articulo|wrapper|mega|2 -->
+<!-- //BN -->
+	</div>
+	<!-- Wrap HEADER -->
+	<div class="wrap-HEADER pin-top">
+
+		<!-- destacados start -->
+					
+				<div class="wrap-TRIPLE wrap-DEST">
+					<div class="container">
+						
+						<ul>
+							<li class="destfijo">
+								<a href="https://www.rutadeltransporte.com/">Temas Destacados</a>
+							</li>
+															<li><a href="https://www.rutadeltransporte.com/especiales/legislacion-transporte/" title="Legislación">Legislación</a></li>
+															<li><a href="https://www.rutadeltransporte.com/tag/tacografo/" title="Tacógrafo">Tacógrafo</a></li>
+															<li><a href="https://d3nqciqdbtzkc.cloudfront.net/hemerotecas/hemeroteca-53.pdf" title="Top 500 Flotas">Top 500 Flotas</a></li>
+															<li><a href="https://drive.google.com/file/d/1LOYOgRnzF77wUmXQwKJ2Pk64YFDEDMgA/view" title="Retos del Transporte">Retos del Transporte</a></li>
+															<li><a href="https://www.rutadeltransporte.com/tag/cap/" title="CAP">CAP</a></li>
+															<li><a href="https://www.rutadeltransporte.com/especiales/conductores/" title="Conductores">Conductores</a></li>
+															<li><a href="https://www.rutadeltransporte.com/especiales/sucesos/" title="Sucesos">Sucesos</a></li>
+															<li><a href="https://www.rutadeltransporte.com/blogs/" title="Blogs">Blogs</a></li>
+															<li><a href="https://www.rutadeltransporte.com/multimedia/" title="Vídeos">Vídeos</a></li>
+															<li><a href="https://www.rutadeltransporte.com/especiales/remitidas/" title="Remitidas">Remitidas</a></li>
+													</ul>
+					</div>
+				</div>
+					<!-- destacados end -->
+
+		<!-- submenú destacado start -->
+		<div class="wrap-submenu-destacado">
+			<div class="container">
+				<div class="row">
+					<div class="col s12">
+						<ul>
+																<li><a href="/revista-ruta-transporte" itemprop="url">PUBLICACIONES</a></li>
+																<li><a href="/ultimas-newsletters" itemprop="url">ÚLTIMAS NEWSLETTERS</a></li>
+																<li><a href="/pruebas" itemprop="url">PRUEBAS</a></li>
+																<li itemprop="name"><a target="_blank" href="/blogs/consultorio-tecnico/" itemprop="url">CONSULTORIO TÉCNICO</a></li>
+																<li><a href="/ebooks" itemprop="url">DESCARGA EBOOKS</a></li>
+												</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- submenu destacado end -->
+
+		<!-- CORPORATIVO -->
+		<div class="wrap-TRIPLE wrap-CORP">
+			<div class="container">
+				<!-- Left -->
+				<div class="CORP-left">
+					<a class="button-collapse" href="#" data-activates="slide-out">
+						<svg id="Layer_1" data-name="Layer 1" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<mask id="mask0_2_1380" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
+							<rect width="32" height="32" fill="#D9D9D9"/>
+							</mask>
+							<g mask="url(#mask0_2_1380)">
+							<path d="M5.33337 23.0256V21.6923H26.6667V23.0256H5.33337ZM5.33337 16.6666V15.3333H26.6667V16.6666H5.33337ZM5.33337 10.3076V8.97427H26.6667V10.3076H5.33337Z" fill="#13181A"/>
+							</g>
+						</svg>
+					</a>
+					<a class="cd-search-trigger" href="#cd-search">
+						<svg id="Layer_1" data-name="Layer 1" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<rect width="40" height="40" rx="20" fill="#F5F5F5"/>
+							<path d="M18 10C15.8783 10 13.8434 10.8429 12.3431 12.3431C10.8429 13.8434 10 15.8783 10 18C10 20.1217 10.8429 22.1566 12.3431 23.6569C13.8434 25.1571 15.8783 26 18 26C20.1217 26 22.1566 25.1571 23.6569 23.6569C25.1571 22.1566 26 20.1217 26 18C26 15.8783 25.1571 13.8434 23.6569 12.3431C22.1566 10.8429 20.1217 10 18 10Z" fill="#3C3C3B"/>
+							<path fill-rule="evenodd" clip-rule="evenodd" d="M29.707 29.707C29.5195 29.8945 29.2652 29.9998 29 29.9998C28.7349 29.9998 28.4806 29.8945 28.293 29.707L24.793 26.207C24.6109 26.0184 24.5101 25.7658 24.5124 25.5036C24.5146 25.2414 24.6198 24.9906 24.8052 24.8052C24.9906 24.6198 25.2414 24.5146 25.5036 24.5123C25.7658 24.5101 26.0184 24.6109 26.207 24.793L29.707 28.293C29.8945 28.4805 29.9998 28.7348 29.9998 29C29.9998 29.2652 29.8945 29.5195 29.707 29.707Z" fill="#3C3C3B"/>
+						</svg>
+					</a>
+					<div class="subs-and-seguidores">
+						<p><span data-target="52000">52.000</span> seguidores</p>
+						<p>en redes sociales</p>
+					</div>
+				</div>
+				<!-- // Left -->
+
+				<!-- Center -->
+				<div class="CORP-center">
+					<h1><a class="wrap-logo " title="Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado &middot; Sector &middot; Ruta del Transporte" href="//www.rutadeltransporte.com/" style="background-image: url(/web/assets_new/img/www.rutadeltransporte.com/logos/logo-www.rutadeltransporte.com-color.svg);background-position:center;"></a></h1>
+				</div>
+				<!-- Center -->
+
+				<!-- Right -->
+				<div id="contenedor-login-header" class="CORP-right">  
+					<!-- carga dinámica de botones através de la API -->
+				</div>
+				<!-- // Right -->
+			</div>
+		</div>
+		<!-- // CORPORATIVO -->
+
+		<!-- NAVEGACION - NAV -->
+		<div class="wrap-TRIPLE wrap-NAV" data-id-publi="2041764">
+			<!-- Bottom -->
+			<div class="NAV-Bottom">
+				<div class="container">
+					<nav>
+						<ul>
+							<li class="no-padding bg-darkblue"><a href="/especiales/novedades/" itemprop="url">NOVEDADES</a></li><li class="no-padding bg-darkblue"><a href="/noticias-transporte/" itemprop="url">SECTOR</a></li><li class="no-padding bg-darkblue"><a href="/camiones/" itemprop="url">CAMIONES</a></li><li class="no-padding bg-darkblue"><a href="/furgonetas/" itemprop="url">FURGONETAS</a></li><li class="no-padding bg-darkblue"><a href="/semirremolques-y-carrocerias/" itemprop="url">5º RUEDA</a></li><li class="no-padding bg-darkblue"><a href="/flotas/" itemprop="url">FLOTAS</a></li><li class="no-padding bg-darkblue"><a href="/multimodal/" itemprop="url">MULTIMODAL</a></li><li class="no-padding bg-darkblue"><a href="/supply-chain/" itemprop="url">SUPPLY CHAIN</a></li><li class="no-padding bg-darkblue"><a href="/posventa/" itemprop="url">POSVENTA</a></li><li class="no-padding bg-darkblue"><a href="/servicios/" itemprop="url">SERVICIOS</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<!-- // Bottom -->
+		</div>
+		<!-- // NAVEGACION - NAV -->
+	</div>
+	<!-- // Wrap HEADER -->
+
+	<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+	<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+	<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+	<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+
+	<!-- MAIN -->
+	<main class="cd-main-content">
+
+
+<!-- SCRIPTS -->
+<script src="https://content.jwplatform.com/libraries/rMdMtb6P.js"></script>
+<script>
+	jwplayer.key = "nzPkBt4miUXbeS/9sTWvdHPTtBNo0QfiLRD2fw==";
+</script>
+<!-- // SCRIPTS -->
+<article itemscope itemtype="http://schema.org/NewsArticle" class="ficha-articulo">
+
+	<!-- METAS -->
+	<meta itemprop="mainEntityOfPage" content="https://www.rutadeltransporte.com/sector/2000009462/aumenta-el-numero-de-tramos-de-riesgo-alto-de-la-red-de-carreteras-del-estado/">
+	<span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+		<meta itemprop="url" content="https://www.rutadeltransporte.com" />
+		<meta itemprop="name" content="Ruta del Transporte" />
+		<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+			<meta itemprop="url" content="https://www.rutadeltransporte.com/web/assets_new/img//apple-touch-icon-152x152.png" />
+			<meta itemprop="width" content="152" />
+			<meta itemprop="height" content="152" />
+		</span>
+	</span>
+	<!-- // METAS -->
+
+	<div class="wrap-FICHA-ARTICULO wrap-FICHA-ARTICULO">
+
+		<div class="container">
+
+			<div class="row">
+				<div class="col s12">
+					<div class="wrap-FULL">
+
+						<div class='container-mega'><!-- BN -->
+<!-- //BN ID 3|articulo|wrapper|mega|3 -->
+<div class=BN>
+<div id="sas_133119"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133119");  // Format : i_Mega_2 980x250
+    });
+</script>
+</div>
+<!-- //BN ID 3|articulo|wrapper|mega|3 -->
+<!-- //BN -->
+</div>
+						<!-- wrap-tit -->
+						<div class="wrap-tit">
+																																																								<h2 class="cate" itemprop="contentLocation"><a href="//www.rutadeltransporte.com/sector">Sector</a></h2>
+							<h1 itemprop="headline">Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado</h1>
+														<meta itemprop="datePublished" content="2025-01-30 12:37:24.000000 CET">
+														<meta itemprop="dateModified" content="2025-01-30 12:37:24.000000 CET">
+						</div>
+						<!-- // wrap-tit  -->
+
+						
+						<!-- media, autor & date if blog -->
+													<!-- wrap-media -->
+<div class="wrap-media ">
+
+  <!-- art entradilla y listado hito -->
+      <p class="art-entradilla" itemprop="alternativeHeadline">La Rioja, Cataluña y Aragón son las tres comunidades con mayor número de carreteras de riesgo elevado. Los vehículos pesados están presentes en el 9% de los accidentes mortales y graves.</p>
+      <!-- <div class="wrap-listado-noticias"> -->
+  <!-- <ul> -->
+    <!-- </ul> -->
+  <!-- </div> -->
+    <!-- art entradilla y listado hito -->
+
+  <div class="date-destacado">
+    <div class="date-uno">
+      Publicado: 30/01/2025 &middot;12:37    </div>
+    <div class="date-dos">
+      <strong> Actualizado: 30/01/2025 &middot; 12:37</strong>
+    </div>
+  </div>
+    <figure itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+
+    <!-- art share buttons -->
+    <div class="barra-compartir-articulo">
+      <!-- AddToAny BEGIN -->
+      <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+        <a class="a2a_button_linkedin" title="Compartir" aria-label="Compartir"></a>
+        <a class="a2a_button_facebook" title="Compartir" aria-label="Compartir"></a>
+        <!--<a class="a2a_button_facebook_messenger" title="Compartir" aria-label="Compartir"></a>-->
+        <a class="a2a_button_x" title="Compartir" aria-label="Compartir"></a>
+        <a class="a2a_button_whatsapp" title="Compartir" aria-label="Compartir"></a>
+        <a class="a2a_button_copy_link" title="Compartir" aria-label="Compartir"></a>
+        <a class="a2a_button_email" title="Compartir" aria-label="Compartir"></a>
+
+        <a href="https://news.google.com/search?q=https://www.rutadeltransporte.com//noticias-transporte/aumenta-numero-tramos-riesgo-alto_0_2000009462.html"
+          target="_blank" rel="noopener"
+          aria-label="Seguir nuestra publicación en Google News">
+          <svg width="32" height="26" viewBox="0 0 32 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_2306_44706)">
+              <path d="M25.4539 17.6368C25.4539 18.0793 25.0865 18.4416 24.6376 18.4416H7.36119C6.91227 18.4416 6.54492 18.0793 6.54492 17.6368V0.804784C6.54492 0.362371 6.91227 0 7.36119 0H24.6381C25.087 0 25.4544 0.362371 25.4544 0.804784V17.6368H25.4539Z" fill="#0C9D58" />
+              <path opacity="0.2" d="M25.4534 4.32758L18.9785 3.5L25.4534 5.22502V4.32758Z" fill="#004D40" />
+              <path opacity="0.2" d="M16.3113 0.877573L6.50586 5.22554L17.343 1.30834V1.29767C17.1525 0.892126 16.6884 0.702936 16.3113 0.877573Z" fill="#004D40" />
+              <path opacity="0.2" d="M24.6381 0H7.36119C6.91227 0 6.54492 0.362371 6.54492 0.804784V0.985242C6.54492 0.542829 6.91227 0.180458 7.36119 0.180458H24.6381C25.087 0.180458 25.4544 0.542829 25.4544 0.985242V0.804784C25.4539 0.362371 25.087 0 24.6381 0Z" fill="white" />
+              <path d="M10.7372 17.1195C10.6204 17.5517 10.8534 17.9927 11.255 18.0994L27.2569 22.3732C27.6585 22.4799 28.0825 22.2136 28.1987 21.7813L31.9684 7.8104C32.0852 7.37817 31.8521 6.93722 31.4506 6.83049L15.4486 2.55675C15.0471 2.45003 14.6231 2.71635 14.5068 3.14857L10.7372 17.1195Z" fill="#EA4335" />
+              <path opacity="0.2" d="M28.3633 12.7969L29.205 17.8744L28.3633 20.9951V12.7969Z" fill="#3E2723" />
+              <path opacity="0.2" d="M19.0547 3.70703L19.8089 3.90835L20.2769 7.04211L19.0547 3.70703Z" fill="#3E2723" />
+              <path opacity="0.2" d="M31.4522 6.83049L15.4503 2.55675C15.0487 2.45003 14.6247 2.71635 14.5085 3.14857L10.7388 17.1195C10.7324 17.1428 10.731 17.1666 10.7266 17.1898L14.4679 3.32466C14.5847 2.89244 15.0087 2.62612 15.4097 2.73284L31.4117 7.00659C31.7912 7.10749 32.0164 7.5077 31.9417 7.91664L31.9705 7.8104C32.0868 7.37817 31.8538 6.93722 31.4522 6.83049Z" fill="white" />
+              <path d="M23.3402 15.3991C23.4941 15.8196 23.3006 16.279 22.9103 16.4202L6.02468 22.5233C5.63389 22.6644 5.18839 22.4359 5.03452 22.0154L0.052895 8.42378C-0.100979 8.0032 0.0924627 7.5438 0.482766 7.40264L17.3684 1.29957C17.7592 1.15841 18.2047 1.38689 18.3586 1.80748L23.3402 15.3991Z" fill="#FFC107" />
+              <path opacity="0.2" d="M0.11715 8.5955C-0.0367248 8.17492 0.156717 7.71553 0.547021 7.57437L17.4327 1.47082C17.819 1.33111 18.2582 1.55377 18.417 1.96562L18.3588 1.80748C18.2045 1.38689 17.759 1.15841 17.3687 1.29957L0.483029 7.40312C0.0922365 7.54429 -0.101205 8.00368 0.0531573 8.42426L5.03478 22.0158C5.03624 22.0202 5.03917 22.0241 5.04113 22.0289L0.11715 8.5955Z" fill="white" />
+              <path d="M28.3641 25.1867C28.3641 25.6335 27.9958 25.9993 27.5459 25.9993H4.45494C4.00504 25.9993 3.63672 25.6335 3.63672 25.1867V7.85356C3.63672 7.40678 4.00504 7.04102 4.45494 7.04102H27.5459C27.9958 7.04102 28.3641 7.40678 28.3641 7.85356V25.1867Z" fill="#4285F4" />
+              <path d="M23.9541 13.9032H17.0449V12.0977H23.9541C24.1549 12.0977 24.3176 12.2592 24.3176 12.4586V13.5418C24.3176 13.7412 24.1549 13.9032 23.9541 13.9032ZM23.9541 20.764H17.0449V18.9585H23.9541C24.1549 18.9585 24.3176 19.12 24.3176 19.3194V20.4026C24.3176 20.6025 24.1549 20.764 23.9541 20.764ZM25.0449 17.3334H17.0449V15.5278H25.0449C25.2457 15.5278 25.4084 15.6893 25.4084 15.8887V16.972C25.4084 17.1718 25.2457 17.3334 25.0449 17.3334Z" fill="white" />
+              <path opacity="0.2" d="M27.5459 25.8204H4.45494C4.00504 25.8204 3.63672 25.4546 3.63672 25.0078V25.1883C3.63672 25.6351 4.00504 26.0008 4.45494 26.0008H27.5459C27.9958 26.0008 28.3641 25.6351 28.3641 25.1883V25.0078C28.3641 25.4546 27.9958 25.8204 27.5459 25.8204Z" fill="#1A237E" />
+              <path opacity="0.2" d="M4.45494 7.22147H27.5459C27.9958 7.22147 28.3641 7.58724 28.3641 8.03402V7.85356C28.3641 7.40678 27.9958 7.04102 27.5459 7.04102H4.45494C4.00504 7.04102 3.63672 7.40678 3.63672 7.85356V8.03402C3.63672 7.58724 4.00504 7.22147 4.45494 7.22147Z" fill="white" />
+              <path d="M10.8642 15.7088V17.3372H13.2172C13.0228 18.3293 12.1445 19.0487 10.8642 19.0487C9.43582 19.0487 8.27762 17.849 8.27762 16.4306C8.27762 15.0121 9.43582 13.8125 10.8642 13.8125C11.5075 13.8125 12.0834 14.0322 12.5382 14.4625V14.4635L13.7834 13.227C13.0272 12.527 12.0409 12.0977 10.8637 12.0977C8.45396 12.0977 6.5 14.0376 6.5 16.4311C6.5 18.8246 8.45347 20.7645 10.8637 20.7645C13.3838 20.7645 15.0417 19.005 15.0417 16.5295C15.0417 16.2458 15.0154 15.9722 14.9729 15.7088H10.8642Z" fill="white" />
+              <g opacity="0.2">
+                <path d="M10.9082 17.3379V17.5183H13.2173C13.2344 17.4592 13.249 17.399 13.2613 17.3379H10.9082Z" fill="#1A237E" />
+                <path d="M10.9086 20.7641C8.52917 20.7641 6.59572 18.8727 6.54736 16.5209C6.54688 16.551 6.54492 16.5811 6.54492 16.6112C6.54492 19.0047 8.49839 20.9446 10.9086 20.9446C13.4287 20.9446 15.0867 19.1851 15.0867 16.7096C15.0867 16.6898 15.0842 16.6713 15.0842 16.6514C15.03 19.0624 13.3872 20.7641 10.9086 20.7641ZM12.5827 14.4627C12.1279 14.0329 11.5515 13.8126 10.9086 13.8126C9.48026 13.8126 8.32205 15.0123 8.32205 16.4307C8.32205 16.4613 8.32547 16.4909 8.32644 16.5209C8.3748 15.1423 9.51054 13.9931 10.9086 13.9931C11.5519 13.9931 12.1279 14.2128 12.5827 14.6431V14.6441L13.9187 13.3173C13.8874 13.2882 13.8527 13.2625 13.8205 13.2344L12.5831 14.4636L12.5827 14.4627Z" fill="#1A237E" />
+              </g>
+              <path opacity="0.2" d="M24.3176 13.7215V13.541C24.3176 13.7404 24.1549 13.9019 23.9541 13.9019H17.0449V14.0824H23.9541C24.1549 14.0829 24.3176 13.9213 24.3176 13.7215ZM23.9541 20.7632H17.0449V20.9437H23.9541C24.1549 20.9437 24.3176 20.7821 24.3176 20.5828V20.4023C24.3176 20.6017 24.1549 20.7632 23.9541 20.7632ZM25.0449 17.3326H17.0449V17.513H25.0449C25.2457 17.513 25.4084 17.3515 25.4084 17.1521V16.9717C25.4084 17.171 25.2457 17.3326 25.0449 17.3326Z" fill="#1A237E" />
+              <path d="M31.4518 6.83072L25.4546 5.22891V0.804784C25.4546 0.362371 25.0873 0 24.6384 0H7.36146C6.91253 0 6.54519 0.362371 6.54519 0.804784V5.21145L0.483029 7.40265C0.0922366 7.54382 -0.101206 8.00321 0.0531573 8.42379L3.63623 18.2005V25.1875C3.63623 25.6342 4.00455 26 4.45445 26H27.5454C27.9953 26 28.3636 25.6342 28.3636 25.1875V21.1761L31.9701 7.81062C32.0864 7.3784 31.8534 6.93744 31.4518 6.83072Z" fill="url(#paint0_radial_2306_44706)" />
+            </g>
+            <defs>
+              <radialGradient id="paint0_radial_2306_44706" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(7.212 2.10649) scale(31.1196 30.9037)">
+                <stop stop-color="white" stop-opacity="0.1" />
+                <stop offset="1" stop-color="white" stop-opacity="0" />
+              </radialGradient>
+              <clipPath id="clip0_2306_44706">
+                <rect width="32" height="26" fill="white" />
+              </clipPath>
+            </defs>
+          </svg>
+
+
+
+        </a>
+      </div>
+      <script async src="https://static.addtoany.com/menu/page.js"></script>
+      <!-- AddToAny END -->
+    </div>
+    <!-- art share buttons -->
+
+        <div class="img-wrap">
+      <img onerror="this.onerror=null; this.src='/web/assets_new/img/decor/sin-imagen.png';" src="//d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88009.jpg" alt="Camión accidentado en una carretera. - " title="Camión accidentado en una carretera. - " itemprop="url" />
+    </div>
+          <div class="gallerias-leyenda">
+        <figcaption>
+          <ul itemprop="caption">
+            <li class="media-pie">
+              Camión accidentado en una carretera.                          </li>
+            <li class="media-autor" itemprop="author">
+                          </li>
+          </ul>
+        </figcaption>
+      </div>
+    
+  </figure>
+
+
+
+</div>
+<!-- // wrap-media -->												<!-- media, autor & date if blog -->
+
+						<!-- CONTENIDO ARTICULO -->
+						<!-- COLUMNA-DER -->
+						<div class="COLUMNA-DER">
+							
+							<div id="roba_desktop_1">
+								<!-- BN -->
+<!-- //BN ID 5|articulo|wrapper|roba|10 -->
+<div class=BN>
+<div id="sas_133121"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133121");  // Format : i_MPU_1 300x600
+    });
+</script>
+</div>
+<!-- //BN ID 5|articulo|wrapper|roba|10 -->
+<!-- //BN -->
+							</div>
+
+							<div class="box_ box_color _box_xs">
+								<p>¡Únete a las listas de difusión de Ruta del Transporte</p>
+								<a href="#modal-registro" class="modal-trigger btn_ btn_gris">UNIRSE</a>
+							</div>
+
+							<div id="roba_desktop_2">
+								<!-- BN -->
+<!-- //BN ID 6|articulo|wrapper|roba|11 -->
+<div class=BN>
+<div id="sas_133122"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133122");  // Format : i_MPU_2 300x600
+    });
+</script>
+</div>
+<!-- //BN ID 6|articulo|wrapper|roba|11 -->
+<!-- //BN -->
+							</div>
+
+							<div id="roba_desktop_3">
+								<!-- BN -->
+<!-- //BN ID 10|articulo|wrapper|roba|12 -->
+<div class=BN>
+<div id="sas_133123"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133123");  // Format : i_DMPU_3 300x600
+    });
+</script>
+</div>
+<!-- //BN ID 10|articulo|wrapper|roba|12 -->
+<!-- //BN -->
+							</div>
+
+							<div id="roba_desktop_4">
+															</div>
+
+							<div id="roba_desktop_5">
+															</div>
+
+							<div id="roba_desktop_6">
+															</div>
+
+							<div class="container">
+								<div class="row">
+									<div class="col s12 l12">
+										<p class="lo-mas-leido-cabecero">
+											<span>LO MÁS LEÍDO DE LA SEMANA</span>
+										</p>
+										<ul class="ul-lo-mas-leido">
+																							<li>
+													<a href="/noticias-transporte/froet-y-sindicatos-firman-un-preacuerdo-para-subir-el-salario-de-los-conductores-murcianos-en-un-14-respecto-a-2018.html">
+														<div class="div-number first-number">
+															<span>
+																1															</span>
+														</div>
+														Froet y sindicatos firman un preacuerdo para subir el salario de los conductores murcianos en un 14% respecto a 2018													</a>
+												</li>
+																							<li>
+													<a href="/noticias-transporte/transportes-flexibiliza-los-tiempos-de-conduccion-a-los-camiones-en-transito-por-francia-del-12-al-26-de-diciembre.html">
+														<div class="div-number first-number">
+															<span>
+																2															</span>
+														</div>
+														Transportes flexibiliza los tiempos de conducción a los camiones en tránsito por Francia del 12 al 26 de diciembre													</a>
+												</li>
+																							<li>
+													<a href="/flotas/flotas/la-justicia-reconoce-el-derecho-de-los-conductores-a-cobrar-el-100-de-sus-primas-cuando-han-faltado-de-forma-justificada.html">
+														<div class="div-number first-number">
+															<span>
+																3															</span>
+														</div>
+														La Justicia reconoce el derecho de los conductores a cobrar el 100% de sus primas cuando han faltado de forma justificada													</a>
+												</li>
+																							<li>
+													<a href="/camiones/scania-g-super-11-390-un-regional-de-champions.html">
+														<div class="div-number first-number">
+															<span>
+																4															</span>
+														</div>
+														Scania G Super (11) 390: Un regional de "Champions"													</a>
+												</li>
+																							<li>
+													<a href="/blogs/bruselas-da-un-respiro-provisional-al-transporte-pesado-por-carretera.html">
+														<div class="div-number first-number">
+															<span>
+																5															</span>
+														</div>
+														Bruselas da un respiro provisional al transporte pesado por carretera													</a>
+												</li>
+																					</ul>
+									</div>
+								</div>
+							</div>
+							
+							
+							
+							<div id="roba_desktop_7">
+															</div>
+
+							<div id="roba_desktop_8">
+															</div>
+							<div id="roba_desktop_9">
+															</div>
+							<div id="roba_desktop_10">
+															</div>
+
+						</div>
+						<!-- // COLUMNA-DER -->
+						<div class="CONTENIDO-ARTICULO">
+
+							<!-- AREA DE COMPARTIR -->
+							<!-- //AREA DE COMPARTIR -->
+
+							<!-- art-autor -->
+							<!-- redes sociales para compartir -->
+														<div class="art-autor" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+								<div class="wrap-autores ">
+									<div class="wrap-autor wrap-autor-uno">
+										<div class="autor-foto " itemprop=" image" itemscope itemtype="https://schema.org/ImageObject">
+																						<img itemprop="url" src="//d3nqciqdbtzkc.cloudfront.net/blogs/blog-100.jpg" class="responsive-img circle" alt="Ruta del Transporte" /><!--src=$direccion_imagen_autor-->
+										</div>
+										<ul>
+											<li class="redactor" itemprop="name">
+												<a href="https://www.rutadeltransporte.com/redaccion/redaccion-ruta-del-transporte">Redacción Ruta del Transporte </a>
+											</li>
+											<li>
+												<!-- edición -->
+												<span class="edicion">
+
+													<a href='/noticias-transporte'>Sector</a>												</span>
+												<!-- edición -->
+											</li>
+											<!--<li class="edicion"></li>-->
+											<li>
+												<ul class="social-media">
+																																																																	<li class="autor-comentarios">
+														<a href="#comment-section">
+															<svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+																<mask id="mask0_141_4156" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="21" height="21">
+																	<rect x="0.938477" y="0.511719" width="20" height="20" fill="#D9D9D9"></rect>
+																</mask>
+																<g mask="url(#mask0_141_4156)">
+																	<path d="M6.14697 11.9707H15.7303V10.7207H6.14697V11.9707ZM6.14697 9.4707H15.7303V8.2207H6.14697V9.4707ZM6.14697 6.9707H15.7303V5.7207H6.14697V6.9707ZM18.8553 18.0445L15.9066 15.0957H4.52843C4.10746 15.0957 3.75114 14.9499 3.45947 14.6582C3.16781 14.3665 3.02197 14.0102 3.02197 13.5892V4.10216C3.02197 3.68119 3.16781 3.32487 3.45947 3.0332C3.75114 2.74154 4.10746 2.5957 4.52843 2.5957H17.3488C17.7698 2.5957 18.1261 2.74154 18.4178 3.0332C18.7095 3.32487 18.8553 3.68119 18.8553 4.10216V18.0445ZM4.52843 13.8457H16.4386L17.6053 14.9997V4.10216C17.6053 4.03799 17.5786 3.97924 17.5251 3.92591C17.4718 3.87244 17.413 3.8457 17.3488 3.8457H4.52843C4.46426 3.8457 4.40551 3.87244 4.35218 3.92591C4.29871 3.97924 4.27197 4.03799 4.27197 4.10216V13.5892C4.27197 13.6534 4.29871 13.7122 4.35218 13.7655C4.40551 13.819 4.46426 13.8457 4.52843 13.8457Z" fill="#1C1B1F"></path>
+																</g>
+															</svg>
+														</a>
+																											</li>
+												</ul>
+											</li><!-- // estos enlaces se muestran si el redactor tiene redes sociales -->
+										</ul>
+									</div><!-- wrap-autor-uno -->
+																	</div><!-- wrap autores -->
+								<div class="publicado">
+									<div class="fecha-pub">
+										<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none"><g clip-path="url(#clip0_868_166)"><path d="M6 0C4.81331 0 3.65328 0.351894 2.66658 1.01118C1.67989 1.67047 0.910851 2.60754 0.456725 3.7039C0.0025997 4.80026 -0.11622 6.00666 0.115291 7.17054C0.346802 8.33443 0.918247 9.40353 1.75736 10.2426C2.59648 11.0818 3.66557 11.6532 4.82946 11.8847C5.99335 12.1162 7.19975 11.9974 8.2961 11.5433C9.39246 11.0892 10.3295 10.3201 10.9888 9.33342C11.6481 8.34673 12 7.18669 12 6C12 4.4087 11.3679 2.88258 10.2426 1.75736C9.11742 0.632141 7.5913 0 6 0ZM6 10.8384C5.04306 10.8384 4.1076 10.5546 3.31193 10.023C2.51626 9.49133 1.89611 8.73568 1.5299 7.85158C1.1637 6.96747 1.06788 5.99463 1.25457 5.05607C1.44126 4.11752 1.90207 3.2554 2.57874 2.57873C3.2554 1.90207 4.11752 1.44126 5.05608 1.25457C5.99463 1.06788 6.96748 1.16369 7.85158 1.5299C8.73568 1.89611 9.49133 2.51626 10.023 3.31193C10.5546 4.1076 10.8384 5.04306 10.8384 6C10.8386 6.63543 10.7135 7.26467 10.4704 7.85176C10.2273 8.43886 9.87094 8.9723 9.42162 9.42162C8.9723 9.87094 8.43886 10.2273 7.85176 10.4704C7.26467 10.7135 6.63543 10.8386 6 10.8384ZM7.4952 8.3184L5.4408 6.8256C5.40312 6.79806 5.37257 6.7619 5.35169 6.72016C5.33082 6.67841 5.32023 6.63227 5.3208 6.5856V2.6136C5.32112 2.53668 5.35182 2.463 5.40621 2.40861C5.4606 2.35421 5.53428 2.32352 5.6112 2.3232H6.3852C6.46212 2.32352 6.5358 2.35421 6.5902 2.40861C6.64459 2.463 6.67529 2.53668 6.6756 2.6136V6.042L8.292 7.218C8.32288 7.24056 8.34899 7.269 8.36885 7.30168C8.3887 7.33436 8.40191 7.37064 8.40771 7.40844C8.4135 7.44624 8.41178 7.48481 8.40263 7.52194C8.39349 7.55906 8.37709 7.59402 8.3544 7.6248L7.8996 8.2512C7.85351 8.31216 7.78542 8.35268 7.70986 8.36411C7.6343 8.37555 7.55726 8.35699 7.4952 8.3124V8.3184Z" fill="#3C3C3B"/></g><defs><clipPath id="clip0_868_166"><rect width="12" height="12" fill="white"/></clipPath></defs></svg>
+										Publicado: 30/01/2025 &middot;<div class="hora-pub">12:37										</div>
+									</div>
+
+									<div class="fecha-mod"><strong> Actualizado: 30/01/2025 &middot; 12:37</strong></div>
+								</div>
+							</div>
+							<!-- // art-autor -->
+
+
+															<!-- art-cuerpo -->
+								<div class="art-cuerpo" itemprop="articleBody">
+
+									<p>Un estudio de la Fundación RACE revela un <strong>riesgo elevado de peligrosidad</strong> (medio-alto y alto) en 2.838 kilómetros de la <strong>Red de Carreteras del Estado</strong> (RCE), lo que supone más del 9% sobre el total de kilómetros analizados.</p><div class="bn-cuerpo" id=roba_movil_1></div>
+<p>El informe, bajo el título 'Evaluación de Estado de la Red de Carreteras del Estado (RCE) del periodo 2021-2023', <strong>ha analizado un total 25.742 kilómetros </strong>y su relación con los datos de accidentalidad que se han registrado en ese período.</p><div class="bn-cuerpo" id=roba_movil_1></div>
+<p>El análisis señala que el número de tramos analizados en este último informe ha aumentado respecto a años anteriores debido a la nueva clasificación de los tramos que se ha llevado a cabo desde el Ministerio de Transporte y Movilidad Sostenible, donde se ha realizado un proceso de análisis de la RCE ajustando los tramos a condiciones geométricas y relacionándolos con las estaciones de aforo, lo que facilita el estudio de tramos de características continuas, donde el tráfico asignado tienen una mayor precisión favoreciendo el estudio más homogéneo de los datos.</p><div class="bn-cuerpo" id=roba_movil_2></div>
+<div class="ql-excerp ql-embed" contenteditable="false" data-embed-text="Existe un total de 82 tramos de riesgo elevado, de los cuales 21 son tramos 'negros'" data-embed-custom-title="Existe un total de 82 tramos de riesgo elevado, de los cuales 21 son tramos 'negros'" data-embed-icon-name="subject">
+      
+</div>
+<p>En concreto, se han localizado un total de <strong>82 tramos de riesgo elevado</strong>, de los cuales 21 son tramos 'negros', considerados de riesgo alto para la seguridad de sus usuarios. Por otra parte, hay 61 tramos considerados 'rojos', calificados de riesgo medio-alto.</p><div class="bn-cuerpo" id=roba_movil_3></div>
+<p>Para la Fundación RACE, el<strong> mantenimiento de la infraestructura</strong> es la primera de las medidas que se deberían llevar a cabo para minimizar la siniestralidad vial. La instalación de radares en los puntos de riesgo elevado ayudaría también a reducir esta siniestralidad. De hecho, actualmente, solo dos tramos de riesgo elevado cuentan con un radar fijo de control de velocidad.</p><div class="bn-cuerpo" id=roba_movil_4></div>
+<p>La <strong>N-260, en Cataluña, entre los puntos kilométricos 187,7 y 193,84 es la carretera con un mayor riesgo</strong> para sufrir un accidente grave. El resto de los tramos negros de alta peligrosidad se encuentran en la N-340 (Comunidad Valenciana), N-6 (Galicia), N-110 (Castilla y León), N-345 (Murcia), N-340 (Cataluña), N-4 (Andalucía), N-323 (Andalucía), la N-211(Aragón) y la N-111 (Castilla y León).</p><div class="bn-cuerpo" id=roba_movil_5></div>
+<p>De este análisis destaca que las carreteras de la <strong>zona Noreste</strong> del país son las que tienen el <strong>porcentaje más elevado de tramos con riesgo alto</strong>, encabezados por la comunidad autónoma de La Rioja (6,8%), Cataluña (6,2%) y Aragón (5,9%). Además de estas regiones, el Principado de Asturias y Cantabria superan los valores medios de 2,9% que resultan de esta evaluación.</p><div class="bn-cuerpo" id=roba_movil_6></div>
+<p>En función de los datos obtenidos en el informe de evaluación, existen determinadas características que coinciden en la gran mayoría de los tramos más peligrosos de carreteras en España. Estos son:</p><div class="bn-cuerpo" id=roba_movil_7></div>
+<p>- Se trata de una carretera convencional.</p><div class="bn-cuerpo" id=roba_movil_8></div>
+<p>- Posee una calzada única.</p><div class="bn-cuerpo" id=roba_movil_9></div>
+<p>- Tiene intersecciones al mismo nivel.</p>
+<p>- IMD por debajo de los 10.000 vehículos/día.</p>
+<p>En el sentido contrario, las <strong>carreteras más seguras</strong> son, paradójicamente, <strong>aquellas por las que transitan más vehículos</strong>. En ellas se producen menos accidentes por cada coche que circula, no se invade el sentido contrario, no hay intersecciones al mismo nivel y, al disponer de unos mayores niveles de seguridad pasiva, los accidentes tienen menores consecuencias.</p>
+<h2>SINIESTRALIDAD DE VEHÍCULOS PESADOS</h2>
+<p>En la presente campaña se ha evaluado también la accidentalidad de los usuarios de vehículos pesados. Para ello, se han calculado de forma separada los datos de accidentalidad para los profesionales del transporte, evaluando la gravedad del accidente y la concurrencia de este tipo de siniestros en los cálculos generales de riesgo.</p>
+<p>Los <strong>vehículos pesados </strong>están presentes<strong> en el 9% de los accidentes</strong> mortales y graves, una tendencia que varía en los datos del trienio analizados, siendo los datos del último año (2023) el valor más bajo del periodo sobre el cual se ha realizado el estudio. Dentro de este total de 315 accidentes con víctimas, 110 de ellos incluyeron fallecidos y 205 heridos graves.</p>
+<p>Los tramos de la RCE donde se producen los accidentes de vehículos pesados con víctimas alcanzan los 259, lo que representa el 7,3% respecto al total de tramos de la red de carreteras analizados. De estos, el 68,4% son de riesgo elevado (alto y medio-alto).</p>
+																		<!-- art-etiquetas -->
+									<!--<ul class="art-etiquetas">
+											<li class="tags">Tags</li>
+																							<li itemprop="keywords"><a href="/tag/Fundación RACE" title="Fundación RACE" rel="tag">Fundación RACE</a></li>
+																					</ul>-->
+									<!-- // art-etiquetas -->
+																		<!--
+																			
+										<div class="art-comentarios">
+											<div class="TITULO-listado">
+												<h2>
+													<span>COMENTARIOS</span>
+												</h2>
+											</div>-->
+
+
+									<!-- CONTENEDOR DE COMENTARIOS -->
+									<!-- //CONTENEDOR DE COMENTARIOS -->
+
+
+									<!--</div>-->
+									<!-- // art-comentarios -->
+									<!---->
+
+								</div>
+								<!-- // art-cuerpo -->
+
+								<!-- tags -->
+																	<div class="tags-and-share">
+										<div class="share-box">
+											<ul>
+												<li>Archivado en</li>
+																									<li><a href="/tag/Fundación RACE" title="Fundación RACE" rel="tag">Fundación RACE</a></li>
+																							</ul>
+										</div>
+									</div>
+								
+								<div class='container-mega'><!-- BN -->
+<!-- //BN ID 4|articulo|wrapper|mega|4 -->
+<div class=BN>
+<div id="sas_133120"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_133120");  // Format : i_Mega_3 980x250
+    });
+</script>
+</div>
+<!-- //BN ID 4|articulo|wrapper|mega|4 -->
+<!-- //BN -->
+</div>
+																	<div class="noti_relacionadas">
+									<p>noticias relacionadas</p>
+										<ul>
+											<li>
+														<a href='/furgonetas/talleres-itv-relacionan-crecimiento-siniestros_0_2000008540.html'>
+															Las ITV relacionan el crecimiento de siniestros mortales en furgoneta con su mal estado
+														</a>
+														</li><li>
+														<a href='/noticias-transporte/reducen-ligeramente-muertos-accidentes-camion_0_2000008355.html'>
+															Bajan ligeramente los muertos en accidentes en camión en 2024, pero se duplican los fallecidos en furgoneta
+														</a>
+														</li>										</ul>
+										</div>
+										<!-- noticias relacionadas end -->
+
+								
+								<div class='container-mega'><!-- BN -->
+<!-- //BN ID 110|articulo|wrapper|mega|5 -->
+<div class=BN>
+<div id="sas_141814"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.render("sas_141814");  // Format : i_Mega_4 876x150
+    });
+</script>
+</div>
+<!-- //BN ID 110|articulo|wrapper|mega|5 -->
+<!-- //BN -->
+</div>
+								<!-- negocio destacado -->
+																<!-- negocio destacado -->
+
+								<!-- noticias relacionadassss -->
+								
+																
+
+								
+								
+								
+
+								<!-- listas de difusión -->
+								<div class="box_ box_outline _box_lg">
+									<p>Listas de difusión de Ruta del Transporte</p>
+									<span>Inspírate y contribuye cada mañana a tu éxito profesional con nuestra información de alto valor</span>
+									<a href="#modal-registro" class="modal-trigger btn_ btn_periodico_color_2">UNIRME</a>
+								</div>
+								<!-- listas de difusión -->
+
+								
+								
+																	<div class="comment-section " id="comment-section">
+
+									</div>
+								
+
+
+							
+							<!-- novedades destacadas -->
+							<div class="listado_notis bg_color">
+								<div>
+									<p>novedades destacadas</p>
+								</div>
+								<ul>
+																													<li>
+											<img src="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-105634.jpg" alt="FIELDEAS te ayuda a digitalizar tu documento de control con total garantía jurídica y regulatoria">
+											<a href="/servicios/digitaliza-tu-documento-de-control-con-fieldeas.html">FIELDEAS te ayuda a digitalizar tu documento de control con total garantía jurídica y regulatoria</a>
+										</li>
+																													<li>
+											<img src="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-105113.jpg" alt="TransFollow: de pioneros del eCMR a creadores de un sistema completo">
+											<a href="/servicios/transfollow-de-pioneros-ecmr-a-creadores-de-un-sistema-completo.html">TransFollow: de pioneros del eCMR a creadores de un sistema completo</a>
+										</li>
+																													<li>
+											<img src="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-105092.jpg" alt="Ya disponible el Anuario de la Innovación 2026 de Ruta del Transporte ¡Consigue tu ejemplar!">
+											<a href="/furgonetas/ya-disponible-el-anuario-de-la-innovacion-2026-consigue-tu-ejemplar.html">Ya disponible el Anuario de la Innovación 2026 de Ruta del Transporte ¡Consigue tu ejemplar!</a>
+										</li>
+																	</ul>
+							</div>
+							<!-- novedades destacadas -->
+
+														<!-- te puede interesar -->
+							<div class="listado_notis">
+								<div>
+									<p>también te puede interesar</p>
+								</div>
+								<ul>
+																													<li>
+											<img src="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-105843.jpg" alt="El Gobierno abrirá el 23 de diciembre la convocatoria del Plan Moves Flotas, dotado con 50 millones">
+											<a href="/noticias-transporte/el-gobierno-abrira-el-23-de-diciembre-la-convocatoria-del-plan-moves-flotas-dotado-con-50-millones.html">El Gobierno abrirá el 23 de diciembre la convocatoria del Plan Moves Flotas, dotado con 50 millones</a>
+										</li>
+																													<li>
+											<img src="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-105651.jpg" alt="CETM pide levantar restricciones y flexibilizar el tacógrafo para los conductores afectados por los bloqueos">
+											<a href="/noticias-transporte/cetm-pide-levantar-restricciones-y-flexibilizar-el-tacografo-para-los-conductores-afectados-por-los-bloqueos.html">CETM pide levantar restricciones y flexibilizar el tacógrafo para los conductores afectados por los bloqueos</a>
+										</li>
+																													<li>
+											<img src="https://d3nqciqdbtzkc.cloudfront.net/articulos/articulos-105795.jpg" alt="Los costes de los transportistas suben un 1,4% en un trimestre, con el aumento de personal y dietas y la bajada del combustible ">
+											<a href="/noticias-transporte/los-costes-de-los-transportistas-han-subido-un-27-en-un-ano-por-las-partidas-de-dieta-y-personal.html">Los costes de los transportistas suben un 1,4% en un trimestre, con el aumento de personal y dietas y la bajada del combustible </a>
+										</li>
+																	</ul>
+							</div>
+							<!-- te puede interesar -->
+							
+							
+															
+						</div>
+						<!-- // CONTENIDO ARTICULO -->
+
+					</div>
+				</div>
+			</div>
+		</div>
+</article>
+
+<!-- BOTONES DE SIGUIENTE/ANTERIOR // -->
+<div class="paginadores">
+			<div class="paginador paginador-anterior">
+			<a href="/noticias-transporte/falta-gran-cantidad-aparcamientos-camiones-0-2000009448.html">
+				<h5>"Hacen falta muchos aparcamientos seguros de camiones, pero no todos han de ser desarrollados desde cero"</h5>
+				<img src="//d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88001-60x60.jpg" onerror="this.onerror=null; this.src='/web/assets/img/sin-imagen.jpg';" />
+			</a>
+		</div>
+				<div class="paginador paginador-siguiente">
+			<a href="/noticias-transporte/transportistas-reivindican-papel-frente-entienden_0_2000009496.html">
+				<img src="//d3nqciqdbtzkc.cloudfront.net/articulos/articulos-88026-60x60.jpg" onerror="this.onerror=null; this.src='/web/assets/img/sin-imagen.jpg';" />
+				<h5>Los transportistas europeos reivindican su papel frente a lo que entienden como un desplante de Von der Leyen</h5>
+			</a>
+		</div>
+	</div>
+<!-- // BOTONOS DE SIGUIENTE/ANTERIOR // -->
+
+
+
+<!-- // Wrap FICHA-ARTICULO -->
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+
+
+<!-- killslick - Kill Slick slider de articulos relacionados para mostrar como listado -->
+<script>
+	function generarCadenaAlfanumerica() {
+		let longitud = 8;
+		const caracteres = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+		let resultado = '';
+
+		for (let i = 0; i < longitud; i++) {
+			const indiceAleatorio = Math.floor(Math.random() * caracteres.length);
+			resultado += caracteres[indiceAleatorio];
+		}
+
+		return resultado;
+	}
+
+
+
+	$(document).ready(function() {
+		cargarComentarios(2000009462);
+		setTimeout(function() {
+			// $('.slider-x3').slick('unslick');
+			// $('.MODULO_VERT_3').removeClass('MODULO_VERT_3');
+			// $('.slider-x3').addClass('unslick');
+
+			// console.log("killSlick")
+		}, 1000);
+		$('.slider-x3').slick({
+			infinite: true,
+			speed: 300,
+			arrows: true,
+			slidesToShow: 3,
+			slidesToScroll: 1,
+		});
+	});
+</script>
+<script>
+	// Comment system
+	document.addEventListener('DOMContentLoaded', function() {
+		const toggleButton = document.querySelector('.toggle-comments');
+		const commentsContainer = document.querySelector('.comments-container');
+		const arrow = document.querySelector('.arrow');
+
+		// Mostrar/ocultar los comentarios al hacer clic en el botón
+		toggleButton.addEventListener('click', function() {
+			commentsContainer.classList.toggle('hidden');
+			arrow.classList.toggle('up');
+		});
+
+		// Manejar clic en el botón de responder
+		document.querySelectorAll('.reply-btn').forEach(function(button) {
+			button.addEventListener('click', function() {
+				const replyForm = this.parentNode.nextElementSibling;
+				replyForm.classList.toggle('hidden');
+			});
+		});
+	});
+</script>
+<style>
+	.slider-x3.unslick {
+		visibility: visible !important;
+	}
+</style>
+<!-- killslick - Kill Slick slider de articulos relacionados para mostrar como listado -->
+
+<!-- Load the X embed script -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+<!-- Load the Instagram embed script -->
+<script async src="//www.instagram.com/embed.js"></script>
+
+<script>
+	// Función que mueve el contenido dependiendo de la resolución
+	function moverContenidoSegunResolucion() {
+		const esMovil = window.innerWidth < 768; // Definimos que menos de 768px es móvil
+
+		// Recorremos los contenedores del 1 al 10
+		for (let i = 1; i <= 10; i++) {
+			const contenedorDesktop = document.getElementById(`roba_desktop_${i}`);
+			const contenedorMovil = document.getElementById(`roba_movil_${i}`);
+
+			if (contenedorDesktop && contenedorMovil) {
+				if (esMovil && contenedorDesktop.childElementCount > 0) {
+					// Si es móvil y hay contenido en el contenedor de desktop, lo movemos a móvil
+					moverContenido(contenedorDesktop, contenedorMovil);
+				} else if (!esMovil && contenedorMovil.childElementCount > 0) {
+					// Si no es móvil y hay contenido en el contenedor de móvil, lo movemos a desktop
+					moverContenido(contenedorMovil, contenedorDesktop);
+				}
+			}
+		}
+	}
+
+	// Función que mueve todo el contenido de un contenedor a otro
+	function moverContenido(origen, destino) {
+		while (origen.firstChild) {
+			destino.appendChild(origen.firstChild);
+		}
+	}
+
+	// Ejecución inicial al cargar el DOM
+	document.addEventListener('DOMContentLoaded', moverContenidoSegunResolucion);
+
+	// Ejecución al cambiar el tamaño de la ventana
+	window.addEventListener('resize', moverContenidoSegunResolucion);
+</script><!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<!-- PRE FOOTER -->
+<div class="pre-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col s12 tab-slider">
+
+				<div class="">
+
+					<!-- tabs -->
+					<div class="contenedor-tabs">
+						<input class="inputs" type="radio" id="tab1" name="tab" checked>
+						<label for="tab1">PUBLICACIONES</label>
+						</div><!-- end contenedor tabs -->
+					<!-- tabs -->
+
+					<div class="content-container">
+						<!-- tab 1 -->
+						<div class="content" id="c1">
+
+							<div class="wrap">
+								<div class="slider slider-monografos">
+													<div class="item">
+								<a href="https://www.rutadeltransporte.com/revista/revista-ruta-transporte/00YFWRGIXbodWt654Dlj" target="_blank">
+																		<img src="https://d3nqciqdbtzkc.cloudfront.net/revistas/Rv6JkQt8ry3DLhyNHQl5.jpg?20251221103613" alt="RT ANUARIO DE LA INNOVACIÓN">
+								</a>
+							</div>
+													<div class="item">
+								<a href="https://www.rutadeltransporte.com/revista/revista-ruta-transporte/11YVTUGIXbodWt654Dlj" target="_blank">
+																		<img src="https://d3nqciqdbtzkc.cloudfront.net/revistas/Ari7BkOku86HDarsBh7p.jpg?20251221103613" alt="RT RADIOGRAFÍA DEL TRANSPORTE">
+								</a>
+							</div>
+											</div>
+							</div>
+
+						</div>
+						<!-- tab 2 -->
+					</div><!-- end content container -->
+				</div><!-- end div -->
+
+
+			</div><!-- col -->
+		</div><!-- row -->
+	</div><!-- container -->
+</div><!-- prefooter -->
+<!-- Wrap FOOTER -->
+<div class="wrap-FOOTER">
+	<div class="wrap-TRIPLE">
+		<footer class="page-footer">
+
+			<!-- Footer mid -->
+			<div class="footer-mid">
+				<div class="container">
+					<div class="row">
+						<div class="col s12">
+
+							<img src="/web/assets_new/img/www.rutadeltransporte.com/logos/logo-www.rutadeltransporte.com-blanco.png" alt="www.rutadeltransporte.com">
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- // Footer mid -->
+
+			<!-- Footer top -->
+			<div class="footer-top">
+				<div class="container">
+					<div class="row">
+						<div class="col s12">
+
+							<!-- social media -->
+							<div class="social-media">
+								<ul>
+																		<li>
+									<a href="https://www.linkedin.com/company/ruta-del-transporte/" target="_blank">
+									<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<rect width="30" height="30" rx="15" fill="#D4D6D6" />
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5094 11.796V13.493C15.8648 12.9517 16.3546 12.5119 16.931 12.2167C17.5073 11.9215 18.1504 11.781 18.7974 11.809C22.2524 11.809 22.9994 13.969 22.9994 16.779V22.5H19.7994V17.428C19.7994 16.218 19.5554 14.662 17.6714 14.662C15.8444 14.662 15.5324 15.979 15.5324 17.338V22.5H12.3424V11.796H15.5094ZM10.1994 9.106C10.199 9.423 10.105 9.73284 9.92926 9.99665C9.7535 10.2605 9.50377 10.4665 9.21138 10.589C8.91911 10.7105 8.5973 10.7423 8.28692 10.6803C7.97653 10.6183 7.6916 10.4654 7.46838 10.241C7.24475 10.0165 7.0925 9.73081 7.03077 9.41997C6.96905 9.10913 7.00061 8.78698 7.12149 8.49403C7.24237 8.20108 7.44717 7.95041 7.71013 7.77354C7.97309 7.59667 8.28248 7.5015 8.59938 7.5C8.81 7.5 9.01855 7.54158 9.21306 7.62236C9.40758 7.70315 9.58423 7.82154 9.73288 7.97075C9.88153 8.11996 9.99926 8.29705 10.0793 8.49186C10.1594 8.68668 10.2002 8.89538 10.1994 9.106Z" fill="#101117" />
+									<path d="M10.2 11.809H7V22.5H10.2V11.809Z" fill="#101117" />
+									</svg>
+									</a>
+									</li>
+																											<li>
+									<a href="https://www.facebook.com/rutadeltransporte" target="_blank">
+									<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<rect width="30" height="30" rx="15" fill="#D4D6D6" />
+									<path d="M16.75 16.5H19.25L20.25 12.5H16.75V10.5C16.75 9.47 16.75 8.5 18.75 8.5H20.25V5.14C19.924 5.097 18.693 5 17.393 5C14.678 5 12.75 6.657 12.75 9.7V12.5H9.75V16.5H12.75V25H16.75V16.5Z" fill="#101117" />
+									</svg>
+									</a>
+									</li>
+																											<li>
+									<a href="https://twitter.com/rutatransporte" target="_blank">
+									<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<rect width="30" height="30" rx="15" fill="#D4D6D6" />
+									<path d="M16.7213 13.8997L21.885 7.5H19.5802L15.639 12.3878L12.1425 7.5H7.125L12.9795 15.6825L7.4775 22.5H9.783L14.0617 17.1975L17.8575 22.5H22.875L16.7213 13.8997ZM14.9362 16.1122L13.8525 14.598L9.645 8.72025H11.3775L14.7735 13.458L15.8558 14.973L20.3693 21.2797H18.6368L14.9362 16.1122Z" fill="#101117" />
+									</svg>
+									</a>
+									</li>
+																											<li>
+									<a href="https://www.instagram.com/rutatransporte" target="_blank">
+									<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<rect width="30" height="30" rx="15" fill="#D4D6D6" />
+									<path d="M15.7712 7.5C16.615 7.50225 17.0432 7.50675 17.4129 7.51725L17.5584 7.5225C17.7264 7.5285 17.8922 7.536 18.0924 7.545C18.8904 7.5825 19.4349 7.7085 19.9126 7.89374C20.4076 8.08424 20.8246 8.34223 21.2416 8.75847C21.6231 9.13326 21.9182 9.5868 22.1063 10.0874C22.2916 10.5652 22.4176 11.1097 22.4551 11.9084C22.4641 12.1079 22.4716 12.2736 22.4776 12.4424L22.4821 12.5879C22.4933 12.9569 22.4978 13.3851 22.4993 14.2288L22.5001 14.7883V15.7708C22.5019 16.3178 22.4961 16.8649 22.4828 17.4118L22.4783 17.5573C22.4723 17.726 22.4648 17.8917 22.4558 18.0912C22.4183 18.89 22.2908 19.4337 22.1063 19.9122C21.9182 20.4128 21.6231 20.8664 21.2416 21.2412C20.8668 21.6227 20.4133 21.9178 19.9126 22.1059C19.4349 22.2911 18.8904 22.4171 18.0924 22.4546L17.5584 22.4771L17.4129 22.4816C17.0432 22.4921 16.615 22.4974 15.7712 22.4989L15.2117 22.4996H14.23C13.6827 22.5016 13.1354 22.4958 12.5883 22.4824L12.4428 22.4779C12.2648 22.4711 12.0868 22.4634 11.9088 22.4546C11.1108 22.4171 10.5664 22.2911 10.0879 22.1059C9.5875 21.9177 9.13422 21.6226 8.75965 21.2412C8.37786 20.8665 8.08249 20.4129 7.89417 19.9122C7.70892 19.4345 7.58292 18.89 7.54543 18.0912L7.52293 17.5573L7.51918 17.4118C7.50535 16.8649 7.4991 16.3178 7.50043 15.7708V14.2288C7.49835 13.6818 7.50385 13.1348 7.51693 12.5879L7.52218 12.4424C7.52818 12.2736 7.53568 12.1079 7.54468 11.9084C7.58217 11.1097 7.70817 10.5659 7.89342 10.0874C8.08218 9.5866 8.37807 9.13304 8.7604 8.75847C9.13475 8.37714 9.58777 8.08204 10.0879 7.89374C10.5664 7.7085 11.1101 7.5825 11.9088 7.545C12.1083 7.536 12.2748 7.5285 12.4428 7.5225L12.5883 7.518C13.1352 7.50467 13.6822 7.49892 14.2293 7.50075L15.7712 7.5ZM15.0002 11.2499C14.0057 11.2499 13.0519 11.645 12.3487 12.3482C11.6454 13.0515 11.2503 14.0053 11.2503 14.9998C11.2503 15.9944 11.6454 16.9482 12.3487 17.6514C13.0519 18.3546 14.0057 18.7497 15.0002 18.7497C15.9948 18.7497 16.9486 18.3546 17.6518 17.6514C18.3551 16.9482 18.7502 15.9944 18.7502 14.9998C18.7502 14.0053 18.3551 13.0515 17.6518 12.3482C16.9486 11.645 15.9948 11.2499 15.0002 11.2499ZM15.0002 12.7499C15.2957 12.7498 15.5883 12.808 15.8613 12.921C16.1343 13.034 16.3823 13.1997 16.5913 13.4086C16.8003 13.6175 16.966 13.8655 17.0792 14.1385C17.1923 14.4114 17.2505 14.704 17.2506 14.9994C17.2506 15.2949 17.1925 15.5875 17.0794 15.8605C16.9664 16.1335 16.8007 16.3815 16.5918 16.5905C16.3829 16.7995 16.1349 16.9652 15.862 17.0784C15.589 17.1915 15.2965 17.2497 15.001 17.2498C14.4043 17.2498 13.832 17.0127 13.41 16.5908C12.9881 16.1688 12.751 15.5965 12.751 14.9998C12.751 14.4031 12.9881 13.8308 13.41 13.4089C13.832 12.9869 14.4043 12.7499 15.001 12.7499M18.9384 10.1249C18.6898 10.1249 18.4513 10.2237 18.2755 10.3995C18.0997 10.5753 18.0009 10.8138 18.0009 11.0624C18.0009 11.311 18.0997 11.5495 18.2755 11.7253C18.4513 11.9011 18.6898 11.9999 18.9384 11.9999C19.187 11.9999 19.4255 11.9011 19.6013 11.7253C19.7771 11.5495 19.8759 11.311 19.8759 11.0624C19.8759 10.8138 19.7771 10.5753 19.6013 10.3995C19.4255 10.2237 19.187 10.1249 18.9384 10.1249Z" fill="#101117" />
+									</svg>
+									</a>
+									</li>
+																											<li>
+									<a href="https://www.tiktok.com/@rutadeltransporte" target="_blank">
+									<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<rect width="30" height="30" rx="15" fill="#D4D6D6" />
+									<path d="M19.6002 8.82C18.9167 8.03953 18.5401 7.0374 18.5402 6H15.4502V18.4C15.4268 19.0712 15.1437 19.7071 14.6605 20.1735C14.1773 20.6399 13.5318 20.9004 12.8602 20.9C11.4402 20.9 10.2602 19.74 10.2602 18.3C10.2602 16.58 11.9202 15.29 13.6302 15.82V12.66C10.1802 12.2 7.16016 14.88 7.16016 18.3C7.16016 21.63 9.92016 24 12.8502 24C15.9902 24 18.5402 21.45 18.5402 18.3V12.01C19.7932 12.9099 21.2975 13.3926 22.8402 13.39V10.3C22.8402 10.3 20.9602 10.39 19.6002 8.82Z" fill="#101117" />
+									</svg>
+									</a>
+									</li>
+																											<li>
+									<a href="https://whttps://www.youtube.com/channel/UCxwJMxTmUqvQ_EIwqEbz3fA" target="_blank">
+									<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<rect width="30" height="30" rx="15" fill="#D4D6D6" />
+									<path d="M13 18L18.19 15L13 12V18ZM24.56 10.17C24.69 10.64 24.78 11.27 24.84 12.07C24.91 12.87 24.94 13.56 24.94 14.16L25 15C25 17.19 24.84 18.8 24.56 19.83C24.31 20.73 23.73 21.31 22.83 21.56C22.36 21.69 21.5 21.78 20.18 21.84C18.88 21.91 17.69 21.94 16.59 21.94L15 22C10.81 22 8.2 21.84 7.17 21.56C6.27 21.31 5.69 20.73 5.44 19.83C5.31 19.36 5.22 18.73 5.16 17.93C5.09 17.13 5.06 16.44 5.06 15.84L5 15C5 12.81 5.16 11.2 5.44 10.17C5.69 9.27 6.27 8.69 7.17 8.44C7.64 8.31 8.5 8.22 9.82 8.16C11.12 8.09 12.31 8.06 13.41 8.06L15 8C19.19 8 21.8 8.16 22.83 8.44C23.73 8.69 24.31 9.27 24.56 10.17Z" fill="#101117" />
+									</svg>
+									</a>
+									</li>
+																	</ul>
+								<!-- rrss only mobile -->
+								<div class="subs-and-seguidores" style="display:none">
+									<p><span data-target="52000">52.000</span> seguidores</p>
+								</div>
+								<!-- rrss only mobile -->
+							</div>
+							<!-- social media -->
+
+							<nav>
+								<ul itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+									<li itemprop="name"><a href="/contacto/" class="semi-heading" itemprop="url">Contacto</a></li>
+									<li itemprop="name"><a href="/nosotros/" class="semi-heading" itemprop="url">Nosotros</a></li>
+									<li itemprop="name"><a href="/aviso-legal/" class="semi-heading" itemprop="url">Aviso Legal</a></li>
+									<li itemprop="name"><a href="/transparencia/" class="semi-heading" itemprop="url">Transparencia</a></li>
+									<li itemprop="name"><a href="/terminos-y-condiciones/" class="semi-heading" itemprop="url">Términos y Condiciones</a></li>
+									<li itemprop="name"><a href="/politica-privacidad/" class="semi-heading" itemprop="url">Privacidad - Cookies</a></li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- // Footer top -->
+
+			<!-- Footer bottom/copyright -->
+			<div class="footer-copyright">
+				<div class="container">
+					<div class="row">
+						<div class="col s12">
+							<div class="centrado">
+								<span itemscope="" itemprop="copyrightHolder" itemtype="http://schema.org/Person"><span itemprop="name">© 2025 </span><a href="https://infocap.es/" target="_blank" itemprop="name">Infocap Communication & Publishing S.L.</a></span>
+							</div>
+
+							<div class="centrado"style="margin-top:12px">
+								<a href="https://oacloud.es/" target="_blank" itemprop="name" style="color: var(--neutral-6)">Desarrollado por OA Cloud</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Footer bottom/copyright -->
+
+		</footer>
+	</div>
+</div>
+<!-- // Wrap FOOTER -->
+
+</main>
+<!-- // MAIN -->
+<div id="cd-search" class="cd-search floating-search">
+	<form action="/">
+		<!-- <input type="hidden" name="hemeroteca-articulo" value="1"> -->
+		<input type="search" name="s" placeholder="Buscar noticias en Ruta del Transporte...">
+	</form>
+</div>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+
+<div class="cd-overlay"></div>
+
+<!-- NAVEGACION PRINCIPAL - SIDENAV -->
+<ul id="slide-out" class="side-nav" itemtype="https://schema.org/SiteNavigationElement" itemscope="">
+
+	<!-- rrss -->
+	<li class="no-padding fijo-sidenav">
+		<ul class="social">
+													<li><a itemprop="sameAs" rel="nofollow" target="_blank" href="https://www.facebook.com/rutadeltransporte" title="Visítanos en Facebook" class="" data-position="bottom" data-delay="50" data-tooltip="Visítanos en Facebook"><i class="zmdi zmdi-facebook"></i></a></li>
+										<li style="display:flex; flex-direction:row;align-items:center">
+					<a itemprop="sameAs" rel="nofollow" target="_blank" href="https://twitter.com/rutatransporte" title="Visítanos en Twitter" class="" data-position="bottom" data-delay="50" data-tooltip="Visítanos en Twiter">
+						<svg viewBox="0 0 1200 1227" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="none" class="twitterx-icon" style="height: 16px;fill: currentColor;">
+							<path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"></path>
+						</svg>
+					</a>
+				</li>
+										<li><a itemprop="sameAs" rel="nofollow" target="_blank" href="https://www.linkedin.com/company/ruta-del-transporte/" title="Visítanos en Linkedin" class="" data-position="bottom" data-delay="50" data-tooltip="Visítanos en Linkedin"><i class="zmdi zmdi-linkedin"></i></a></li>
+										<li><a itemprop="sameAs" rel="nofollow" target="_blank" href="https://www.instagram.com/rutatransporte" title="Visítanos en Instagram" class="" data-position="bottom" data-delay="50" data-tooltip="Visítanos en Instagram"><i class="zmdi zmdi-instagram"></i></a></li>
+										<li>
+					<a itemprop="sameAs" rel="nofollow" target="_blank" href="https://www.tiktok.com/@rutadeltransporte" title="Visítanos en TikTok" class="" data-position="bottom" data-delay="50" data-tooltip="Visítanos en TikTok">
+						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+							<path d="M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z"></path>
+						</svg>
+					</a>
+				</li>
+																<li><a itemprop="sameAs" rel="nofollow" target="_blank" href="https://whttps://www.youtube.com/channel/UCxwJMxTmUqvQ_EIwqEbz3fA" title="Visítanos en Youtube" class="" data-position="bottom" data-delay="50" data-tooltip="Visítanos en Youtube"><i class="zmdi zmdi-youtube"></i></a></li>
+						<li><a target="_blank" href="/rss/?i=150098&dominio=www.rutadeltransporte.com" title="RSS" class="" data-position="bottom" data-delay="50" data-tooltip="RSS"><i class="zmdi zmdi-rss"></i></a></li>
+			<!-- <li><a href="#BOLETIN" title="NEWSLETTER" class=" BoletinScroll" data-position="bottom" data-delay="50" data-tooltip="NEWSLETTER"><i class="zmdi zmdi-email"></i></a></li> -->
+		</ul>
+	</li>
+	<!-- rss -->
+
+	<!-- logotipo -->
+	<li class="no-padding fijo-sidenav">
+		<a class="wrap-logo " title="Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado &middot; Sector &middot; Ruta del Transporte" href="/" id="ID_EDICION" style="background-image:url(/web/assets_new/img/www.rutadeltransporte.com/logos/logo-www.rutadeltransporte.com-color.png);)"><span class="hidden-content">Aumenta el número de tramos de riesgo alto de la Red de Carreteras del Estado &middot; Sector &middot; Ruta del Transporte</span></a>	</li>
+	<!-- logotipo -->
+	<!-- buscador -->
+	<li class="no-padding">
+		<div id="cd-search" class="cd-search">
+			<form action="/">
+				<!-- <label for="">Buscar</label> -->
+				<!-- <input type="hidden" name="hemeroteca-articulo" value="1"> -->
+				<div>
+					<input type="search" name="s" placeholder="Buscar noticias en Ruta del Transporte...">
+
+					<svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<rect y="0.5" width="40" height="40" rx="20" fill="white" />
+						<path d="M18 10.5C15.8783 10.5 13.8434 11.3429 12.3431 12.8431C10.8429 14.3434 10 16.3783 10 18.5C10 20.6217 10.8429 22.6566 12.3431 24.1569C13.8434 25.6571 15.8783 26.5 18 26.5C20.1217 26.5 22.1566 25.6571 23.6569 24.1569C25.1571 22.6566 26 20.6217 26 18.5C26 16.3783 25.1571 14.3434 23.6569 12.8431C22.1566 11.3429 20.1217 10.5 18 10.5Z" fill="#3C3C3B" />
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M29.707 30.207C29.5195 30.3945 29.2652 30.4998 29 30.4998C28.7349 30.4998 28.4806 30.3945 28.293 30.207L24.793 26.707C24.6109 26.5184 24.5101 26.2658 24.5124 26.0036C24.5146 25.7414 24.6198 25.4906 24.8052 25.3052C24.9906 25.1198 25.2414 25.0146 25.5036 25.0124C25.7658 25.0101 26.0184 25.1109 26.207 25.293L29.707 28.793C29.8945 28.9806 29.9998 29.2349 29.9998 29.5C29.9998 29.7652 29.8945 30.0195 29.707 30.207Z" fill="#3C3C3B" />
+					</svg>
+				</div>
+			</form>
+		</div>
+	</li>
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<!-- buscador -->
+	<!-- listado -->
+	<li class="no-padding bg-darkblue"><a href="/especiales/novedades/" itemprop="url">NOVEDADES</a></li><li class="no-padding bg-darkblue"><a href="/noticias-transporte/" itemprop="url">INFORMACIÓN GENERAL</a></li><li class="no-padding bg-darkblue"><a href="/camiones/" itemprop="url">CAMIONES</a></li><li class="no-padding bg-darkblue"><a href="/furgonetas/" itemprop="url">FURGONETAS</a></li><li class="no-padding bg-darkblue"><a href="/semirremolques-y-carrocerias/" itemprop="url">5º RUEDA</a></li><li class="no-padding bg-darkblue"><a href="/flotas/" itemprop="url">FLOTAS</a></li><li class="no-padding bg-darkblue"><a href="/multimodal/" itemprop="url">MULTIMODAL</a></li><li class="no-padding bg-darkblue"><a href="/supply-chain/" itemprop="url">SUPPLY CHAIN</a></li><li class="no-padding bg-darkblue"><a href="/posventa/" itemprop="url">POSVENTA</a></li><li class="no-padding bg-darkblue"><a href="/servicios/" itemprop="url">SERVICIOS</a></li><li class="no-padding bg-darkblue"><a href="/ebooks/" itemprop="url">EBOOKS</a></li><li class="no-padding bg-darkblue"><a href="/pruebas/" itemprop="url">PRUEBAS</a></li><li class="no-padding bg-darkblue"><a href="/blogs/consultorio-tecnico/" itemprop="url">CONSULTORIO TÉCNICO</a></li><li class="no-padding bg-darkblue"><a href="/revista-ruta-transporte/" itemprop="url">PUBLICACIONES RdT</a></li><li class="no-padding bg-darkblue"><a href="/blogs/" itemprop="url">BLOGS</a></li><li class="no-padding bg-darkblue"><a href="/multimedia/" itemprop="url">VÍDEOS</a></li><li class="no-padding bg-darkblue"><a href="/#registro/" itemprop="url">NEWSLETTER</a></li>
+		<!-- listado -->
+
+	<!-- corporativas -->
+	<li class="no-padding bg-darkblue"><a href="/contacto/" itemprop="url" class="collapsible-header">Contacto</a></li>
+	<li class="no-padding bg-darkblue"><a href="/nosotros/" itemprop="url" class="collapsible-header">Nosotros</a></li>
+	<!-- corporativas -->
+
+</ul>
+<!-- // NAVEGACION PRINCIPAL - SIDENAV -->
+
+<!-- ------------------------------------------------------------------------------ -->
+<!-- --------------------------------- SCRIPTS  ----------------------------------- -->
+<!-- ------------------------------------------------------------------------------ -->
+<script type="text/javascript" src="/web/assets_new/dist/all.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<!-- materialize-dropdown-fix.js -->
+<script>
+	$(document).on('click', '.select-wrapper', function(e) {
+		e.stopPropagation();
+	})
+</script>
+
+<!-- ------------------------------------------------------------------------------ -->
+<!-- ------------------------------ // SCRIPTS  ----------------------------------- -->
+<!-- ------------------------------------------------------------------------------ -->
+
+<!-- -------------------------------------------------------------------------------->
+<!-- ---------------------------------- MODALES ------------------------------------->
+<!-- -------------------------------------------------------------------------------->
+
+<!-- modal login -->
+<div id="modal-login" class="modal modalNew modal-trigger">
+	<a href="javascript:void(0);" class="modal-action modal-close close-btn"><i class="material-icons">close</i></a>
+	<div class="modal-content center-align">
+		<img class="wrap-logo-modal" src="/web/assets_new/img/www.rutadeltransporte.com/logos/logo-www.rutadeltransporte.com-color.png" alt="www.rutadeltransporte.com" />
+		<form id="formulario_login" onsubmit="return false;" class="Formulario row">
+			<div class="input-field col s12">
+				<input id="usuario_log" name="usuario_log" type="text" class="validate">
+				<label for="usuario_log">Nombre de usuario o correo electrónico</label>
+			</div>
+			<div class="input-field col s12 field_pw recover_field_pw">
+				<input id="password_log" name="password_log" type="password" class="validate">
+				<label for="password_log">Contraseña</label>
+				<!-- view -->
+				<svg class="view_pw" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM144 256a144 144 0 1 1 288 0 144 144 0 1 1 -288 0zm144-64c0 35.3-28.7 64-64 64c-7.1 0-13.9-1.2-20.3-3.3c-5.5-1.8-11.9 1.6-11.7 7.4c.3 6.9 1.3 13.8 3.2 20.7c13.7 51.2 66.4 81.6 117.6 67.9s81.6-66.4 67.9-117.6c-11.1-41.5-47.8-69.4-88.6-71.1c-5.8-.2-9.2 6.1-7.4 11.7c2.1 6.4 3.3 13.2 3.3 20.3z"/></svg>
+				<!-- non_view -->
+				<svg class="non_view_pw" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c8.4-19.3 10.6-41.4 4.8-63.3c-11.1-41.5-47.8-69.4-88.6-71.1c-5.8-.2-9.2 6.1-7.4 11.7c2.1 6.4 3.3 13.2 3.3 20.3c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zM373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5L373 389.9z"/></svg>
+			</div>
+			<div class="col s12">
+				<a href="#modal-pass" class="modal-close modal-trigger right">¿Olvidaste tu contraseña?</a>
+			</div>
+			<div class="input-field col s12">
+				<button type="button" class="btn_ btn_line btn_full_width" onclick="iniciarSesion()">
+					<span>Acceder ></span>
+				</button>
+			</div>
+			<!--<div class="col s12">
+						<p class="center "><small>o entra con tu proveedor favorito</small></p>
+					</div>-->
+			<!-- <div class="row">
+						<div class="col s12 m-b-20">
+							<button class="btn_primary_outline_acceso">
+								<svg viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+									<g transform="matrix(1, 0, 0, 1, 27.009001, -39.238998)">
+										<path fill="#4285F4" d="M -3.264 51.509 C -3.264 50.719 -3.334 49.969 -3.454 49.239 L -14.754 49.239 L -14.754 53.749 L -8.284 53.749 C -8.574 55.229 -9.424 56.479 -10.684 57.329 L -10.684 60.329 L -6.824 60.329 C -4.564 58.239 -3.264 55.159 -3.264 51.509 Z"></path>
+										<path fill="#34A853" d="M -14.754 63.239 C -11.514 63.239 -8.804 62.159 -6.824 60.329 L -10.684 57.329 C -11.764 58.049 -13.134 58.489 -14.754 58.489 C -17.884 58.489 -20.534 56.379 -21.484 53.529 L -25.464 53.529 L -25.464 56.619 C -23.494 60.539 -19.444 63.239 -14.754 63.239 Z"></path>
+										<path fill="#FBBC05" d="M -21.484 53.529 C -21.734 52.809 -21.864 52.039 -21.864 51.239 C -21.864 50.439 -21.724 49.669 -21.484 48.949 L -21.484 45.859 L -25.464 45.859 C -26.284 47.479 -26.754 49.299 -26.754 51.239 C -26.754 53.179 -26.284 54.999 -25.464 56.619 L -21.484 53.529 Z"></path>
+										<path fill="#EA4335" d="M -14.754 43.989 C -12.984 43.989 -11.404 44.599 -10.154 45.789 L -6.734 42.369 C -8.804 40.429 -11.514 39.239 -14.754 39.239 C -19.444 39.239 -23.494 41.939 -25.464 45.859 L -21.484 48.949 C -20.534 46.099 -17.884 43.989 -14.754 43.989 Z"></path>
+									</g>
+								</svg>
+								<span>Acceder con Google</span>
+								<svg class="icon-acceso-lg" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M1.41494 10.7744L0.8125 10.172L9.63316 1.33447H1.50244V0.459473H11.1274V10.0845H10.2524V1.95375L1.41494 10.7744Z" fill="#0000"/>
+								</svg>
+							</button>
+						</div> -->
+			<!-- <div class="col s12">
+							<button class="btn_primary_outline_acceso">
+								<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M11.1187 0.0468764C7.19997 0.351564 3.71716 2.51719 1.68747 5.90625C0.14997 8.475 -0.351593 11.6531 0.309344 14.625C1.21872 18.7125 4.22809 22.0313 8.22653 23.3672C8.81716 23.5641 9.82028 23.8125 10.0265 23.8125H10.125V19.6406V15.4688H8.60153H7.07809V13.7344V12H8.60153H10.125V10.3406C10.125 9.07031 10.1437 8.5875 10.1953 8.26875C10.5375 6.28594 11.8218 5.02031 13.7718 4.73438C14.2828 4.65938 15.7922 4.69688 16.6781 4.80469L17.3437 4.88906V6.375V7.86094L16.35 7.88906C15.225 7.91719 14.9906 7.96406 14.5922 8.23594C14.4562 8.325 14.2828 8.49844 14.2031 8.61563C13.9359 9.01875 13.9125 9.17344 13.889 10.65L13.8656 12H15.5343C17.0015 12 17.2031 12.0094 17.2031 12.0703C17.2031 12.15 16.7531 15.1266 16.7062 15.3422L16.6781 15.4688H15.2765H13.875V19.6406V23.8125H13.9734C14.1797 23.8125 15.1828 23.5641 15.7734 23.3672C18.2062 22.5563 20.2218 21.0703 21.7406 18.9703C23.7093 16.2469 24.4265 12.7172 23.6906 9.375C22.7953 5.32031 19.739 1.94531 15.7781 0.632814C14.3156 0.150001 12.6047 -0.0656236 11.1187 0.0468764Z" fill="#1877F2"></path>
+								</svg>
+								<span>Acceder con Facebook</span>
+								<svg class="icon-acceso-lg" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M1.41494 10.7744L0.8125 10.172L9.63316 1.33447H1.50244V0.459473H11.1274V10.0845H10.2524V1.95375L1.41494 10.7744Z" fill="#0000"/>
+								</svg>
+							</button>
+						</div>
+					</div> -->
+		</form>
+	</div>
+	<div class="modal-footer center-align">
+		<p>¿No tienes cuenta? <a class="modal-close modal-trigger link_primary" href="#modal-registro">Regístrate ahora</a></p>
+	</div>
+</div>
+<!-- modal login -->
+
+<!-- modal registro -->
+<div id="modal-registro" class="modal modalNew modal-trigger">
+	<a href="javascript:void(0);" class="modal-action modal-close close-btn"><i class="material-icons">close</i></a>
+	<div class="modal-content center-align">
+
+		<div class="wrap-top">
+			<div class="wrap-left">
+				<img src="/web/assets_new/img/www.rutadeltransporte.com/logos/logo-www.rutadeltransporte.com-color.png" alt="www.rutadeltransporte.com">
+				<h3>Suscríbete a nuestras listas de difusión</h3>
+				<!-- listado info movil -->
+				<ul class="list-info list-info-movil">
+					<li><span>📢</span>No te pierdas ninguna noticia clave de tu sector.</li>
+					<li><span>💡</span>Sé el primero en enterarte de primicias, análisis y tendencias.</li>
+					<li><span>📩</span>Recibe en tu email la información más valiosa.</li>
+					<li><span>✅</span>Rápido, fácil y sin spam. Solo lo que realmente importa.</li>
+					<li><span>🚀</span>Regístrate ahora gratis. Impulsa tu carrera y tu empresa.</li>
+				</ul>
+				<!-- listado info movil -->
+			</div>
+			<div class="wrap-right">
+
+				<div class="listado">
+					<p>listas de difusión</p>
+					<ul>
+													<li>
+								<div class="form-check form-check-inline oculto-ayuda-unica">
+									<input class="form-check-input cantidad" type="checkbox" name="newsletter[]" value="16" id="boletin-16">
+									<label class="form-check-label" for="boletin-16">Ruta del Transporte</label>
+								</div>
+							</li>
+						<!-- end bucle -->
+					</ul>
+				</div>
+				<div class="listado">
+					<p>alertas última hora</p>
+					<ul>
+													<li>
+								<div class="form-check form-check-inline oculto-ayuda-unica">
+									<input class="form-check-input cantidad" type="checkbox" name="newsletter[]" value="28" id="alerta-28">
+									<label class="form-check-label" for="alerta-28">Alertas Ultima Hora</label>
+								</div>
+							</li>
+						<!-- end bucle -->
+					</ul>
+				</div>
+
+			</div>
+		</div>
+		
+		<div class="wrap-center-full">
+			<!-- listado info oredenador -->
+			<ul class="list-info list-info-ordenador">
+				<li><span>📢</span>No te pierdas ninguna noticia clave de tu sector.</li>
+				<li><span>💡</span>Sé el primero en enterarte de primicias, análisis y tendencias.</li>
+				<li><span>📩</span>Recibe en tu email la información más valiosa.</li>
+				<li><span>✅</span>Rápido, fácil y sin spam. Solo lo que realmente importa.</li>
+				<li><span>🚀</span>Regístrate ahora gratis. Impulsa tu carrera y tu empresa.</li>
+			</ul>
+			<!-- listado info ordenador -->
+		</div>
+
+		<div class="wrap-mid">
+			<form id="formulario_registro" onsubmit="return false;">
+
+				<div class="paso-uno">
+					<div class="wrap-left">
+						<p>DATOS DE MI CUENTA</p>
+
+						<div class="form-control">
+							<div class="input-field">
+								<input type="text" id="nombre-usuario" name="nombre-usuario" placeholder="Nombre de usuario*">
+							</div>
+							<div class="input-field">
+								<input type="email" id="email" name="email" placeholder="Correo electrónico*">
+							</div>
+							<div class="input-field field_pw">
+								<input type="password" id="password" name="password" placeholder="Contraseña*">
+								<!-- view -->
+								<svg class="view_pw" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM144 256a144 144 0 1 1 288 0 144 144 0 1 1 -288 0zm144-64c0 35.3-28.7 64-64 64c-7.1 0-13.9-1.2-20.3-3.3c-5.5-1.8-11.9 1.6-11.7 7.4c.3 6.9 1.3 13.8 3.2 20.7c13.7 51.2 66.4 81.6 117.6 67.9s81.6-66.4 67.9-117.6c-11.1-41.5-47.8-69.4-88.6-71.1c-5.8-.2-9.2 6.1-7.4 11.7c2.1 6.4 3.3 13.2 3.3 20.3z"/></svg>
+								<!-- non_view -->
+								<svg class="non_view_pw" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c8.4-19.3 10.6-41.4 4.8-63.3c-11.1-41.5-47.8-69.4-88.6-71.1c-5.8-.2-9.2 6.1-7.4 11.7c2.1 6.4 3.3 13.2 3.3 20.3c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zM373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5L373 389.9z"/></svg>
+							</div>
+							<div class="input-field field_pw">
+								<input type="password" id="repetir-password" name="repetir-password" placeholder="Repetir password*">
+								<!-- view -->
+								<svg class="view_pw" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM144 256a144 144 0 1 1 288 0 144 144 0 1 1 -288 0zm144-64c0 35.3-28.7 64-64 64c-7.1 0-13.9-1.2-20.3-3.3c-5.5-1.8-11.9 1.6-11.7 7.4c.3 6.9 1.3 13.8 3.2 20.7c13.7 51.2 66.4 81.6 117.6 67.9s81.6-66.4 67.9-117.6c-11.1-41.5-47.8-69.4-88.6-71.1c-5.8-.2-9.2 6.1-7.4 11.7c2.1 6.4 3.3 13.2 3.3 20.3z"/></svg>
+								<!-- non_view -->
+								<svg class="non_view_pw" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c8.4-19.3 10.6-41.4 4.8-63.3c-11.1-41.5-47.8-69.4-88.6-71.1c-5.8-.2-9.2 6.1-7.4 11.7c2.1 6.4 3.3 13.2 3.3 20.3c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zM373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5L373 389.9z"/></svg>
+							</div>
+							<div style="display: flex;width: 100%;gap: 6px;flex-direction: column;">
+								<div class="error" id="error-email">
+									<label for="">Ingrese un correo electrónico válido</label>
+								</div>
+								<div class="error" id="error-password">
+									<label for="">El campo "Contraseña" y "Repetir contraseña" deben coincidir.</label>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="wrap-right">
+						<p>DATOS DE usuario</p>
+
+						<div class="form-control">
+							<div class="input-field">
+								<input type="text" id="nombre" name="nombre" placeholder="Nombre y Apellido*">
+							</div>
+							<div class="input-field">
+								<input type="text" id="telefono" name="telefono" placeholder="Telefono*">
+							</div>
+							<div class="input-field">
+								<input type="text" id="pais" name="pais" placeholder="País*">
+							</div>
+							<div class="input-field">
+								<input type="text" id="provincia" name="provincia" placeholder="Provincia*">
+							</div>
+							<div class="input-field">
+								<input type="text" id="localidad" name="localidad" placeholder="Localidad*">
+							</div>
+							<div class="input-field">
+								<input type="text" id="direccion" name="direccion" placeholder="Dirección*">
+							</div>
+							<div class="input-field">
+								<input type="text" id="codigo-postal" name="codigo-postal" placeholder="Código postal*">
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<div class="paso-dos">
+					<div class="wrap-left">
+						<button id="bnt_regresar_paso_anterior" class="btn_ btn_periodico_color_1">
+							< VOLVER ATRÁS</button>
+								<p>DATOS PROFESIONALES</p>
+
+								<!-- Formulario -->
+								<div class="form-control">
+									<!-- Perfil -->
+									<div class="input-field">
+										<select id="perfil" name="perfil" class="select2">
+											<option value="" disabled selected>Seleccione un perfil</option>
+											<option value="Director">Director</option>
+											<option value="Director departamento">Director departamento</option>
+											<option value="Mando intermedio">Mando intermedio</option>
+											<option value="Otro">Otro</option>
+										</select>
+									</div>
+
+									<!-- Cargo -->
+									<div class="input-field">
+										<input type="text" id="cargo" name="cargo" placeholder="Cargo*">
+									</div>
+
+									<!-- Empresa -->
+									<div class="input-field">
+										<input type="text" id="empresa" name="empresa" placeholder="Empresa*">
+									</div>
+
+									<!-- Actividad -->
+									<div class="input-field">
+										<select id="actividad" name="actividad" class="select2">
+																							<option value="" disabled selected>Seleccione una actividad</option>
+												<option value="Transportista">Transportista</option>
+												<option value="Operador logístico">Operador logístico</option>
+												<option value="Cargador">Cargador</option>
+												<option value="Venta y/o postventa de vehículos">Venta y/o postventa de vehículos</option>
+												<option value="Otro">Otro</option>
+																					</select>
+									</div>
+
+									
+									<!-- texto legal inscripcion -->
+									<div class="texto-legal-inscripcion">
+										<p>
+											De conformidad con la normativa europea y nacional en protección de datos, se
+											te informa de que, en caso de estar interesado en darse de alta en nuestras
+											listas de difusión, debes completar los campos al efecto con información veraz,
+											siendo responsable de la actualización de los mismos.
+										</p>
+										<ul>
+											<li>
+												Responsable del Tratamiento: Infocap Communication &amp; Publishing S.L. -
+												Calle Albasanz, 35. 28037 Madrid - Tel. 913603173.
+											</li>
+											<li>
+												Finalidad: Gestionar tu suscripción a nuestra newsletter y enviarte información
+												sobre novedades, promociones y contenidos de interés.
+											</li>
+											<li>
+												Legitimación: Consentimiento del interesado.
+											</li>
+											<li>
+												Destinatarios: No se cederán datos a terceros, salvo obligación legal o
+												proveedores de servicios bajo contrato de encargo de tratamiento.
+											</li>
+											<li>
+												Derechos: Puedes ejercer tus derechos de acceso, rectificación, supresión,
+												oposición, limitación y portabilidad enviando una solicitud a <a href="mailto:dpo@infocap.es" target=_blank>dpo@infocap.es</a>.
+											</li>
+											<li>
+												Más información: Consulta nuestra <a href="/politica-privacidad/" target="_blank">Política de Privacidad</a>
+											</li>
+										</ul>
+										<p>
+											Al hacer clic en suscribirme, aceptas recibir nuestra newsletter conforme a
+											la política de privacidad expuesta.
+										</p>
+									</div>
+									<!-- texto legal inscripcion -->
+
+								</div>
+
+								<button type="button" id="suscribirme" class="btn_ btn_periodico_color_1 btn_full_width disabled" onclick="registrarCuenta()">SUSCRIBIRME</button>
+
+					</div>
+				</div>
+
+				<button type="button" id="siguiente" class="btn_ btn_line btn_full_width disabled">SIGUIENTE ></button>
+
+			</form>
+		</div>
+
+	</div>
+</div>
+<!-- modal registro -->
+
+<!-- modal recuperar contrasenia -->
+<div id="modal-pass" class="modal modalNew modal-trigger">
+	<div class="modal-content">
+		<h4>Recuperar contraseña</h4>
+		<p>Introduce la dirección de correo electrónico con la que te registraste y te enviaremos una nueva clave de acceso.</p>
+		<form id="formulario_recuperarpass" onsubmit="return false;" class="Formulario">
+			<div class="input-field">
+				<input placeholder="Correo electrónico" id="email_recuperar" name="email_recuperar" type="email" class="validate">
+			</div>
+		</form>
+	</div>
+	<div class="modal-footer right-align">
+		<button type="button" class="btn_primary" onclick="recuperarPass()">
+			<span>Recuperar contraseña</span>
+			<svg class="icon-acceso-lg" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M1.41494 10.7744L0.8125 10.172L9.63316 1.33447H1.50244V0.459473H11.1274V10.0845H10.2524V1.95375L1.41494 10.7744Z" fill="white" />
+			</svg>
+		</button>
+	</div>
+	<a href="javascript:void(0);" class="modal-action modal-close"><i class="material-icons">close</i></a>
+</div>
+<!-- modal recuperar contrasenia -->
+
+
+<!-- modal formulario de pago revista -->
+<div id="modal-pago" class="modal  modal-trigger">
+	<div class="modal-content">
+	<a href="javascript:void(0);" class="modal-action modal-close"><i class="material-icons">close</i></a>
+		<form id="formulario-pago" onsubmit="return false;" class="Formulario">
+			<input type="hidden" id="id_revista" name="id_revista" value="">
+			<input type="hidden" id="hidden_pro" name="hidden_pro" value="0">
+			<input type="hidden" id="hidden_ejemplar_revista" name="hidden_ejemplar_revista" value="0">
+			<p>Datos de usuario</p>
+			<div class="input-field">
+				<input type="text" id="nombre_revista" name="nombre_revista" placeholder="Nombre y Apellido*">
+			</div>
+			<div class="input-field">
+				<input type="text" id="nif_revista" name="nif_revista" placeholder="N.I.F./C.I.F.*">
+			</div>
+			<div class="input-field">
+				<input type="text" id="telefono_revista" name="telefono_revista" placeholder="Telefono*">
+			</div>
+			<div class="input-field">
+				<input type="text" id="empresa_revista" name="empresa_revista" placeholder="Empresa">
+			</div>
+
+			<div class="input-field">
+				<input type="email" id="email_revista" name="email_revista" placeholder="Email*">
+			</div>
+			<p>Dirección de envío</p>
+			<div class="input-field">
+				<input type="text" id="direccion_revista" name="direccion_revista" placeholder="Calle, número, piso, letra, etc...*">
+			</div>
+			<div class="input-field">
+				<input type="text" id="ciudad_revista" name="ciudad_revista" placeholder="Ciudad*">
+			</div>
+			<div class="input-field">
+				<input type="text" id="codigo_postal_revista" name="codigo_postal_revista" placeholder="Código postal*">
+			</div>
+			<div class="form-check form-check-inline oculto-ayuda-unica">
+				<input class="form-check-input" type="checkbox" name="direccion_diferente" value="1" id="direccion_diferente">
+				<label class="form-check-label pl-4" for="direccion_diferente">Haz clic aquí si la dirección de facturación es diferente a la dirección de envío.</label>
+
+			</div>
+			<div class="direccion_facturacion">
+				<p>Dirección de facturación</p>
+				<div class="input-field">
+					<input type="text" id="direccion_facturacion_revista" name="direccion_facturacion_revista" placeholder="Calle, número, piso, letra, etc...*">
+				</div>
+				<div class="input-field">
+					<input type="text" id="ciudad_facturacion_revista" name="ciudad_facturacion_revista" placeholder="Ciudad*">
+				</div>
+				<div class="input-field">
+					<input type="text" id="codigo_postal_facturacion_revista" name="codigo_postal_facturacion_revista" placeholder="Código postal*">
+				</div>
+			</div>
+			<p>PRECIO</p>
+			<div class="form-check form-check-inline oculto-ayuda-unica">
+				<input class="" type="radio" name="precio" value="1" id="precio1">
+				<label class="form-check-label pl-4 black-text fw-bold" for="precio1">España (salvo Canarias) 111,32 €</label>
+
+			</div>
+			<div class="form-check form-check-inline oculto-ayuda-unica">
+				<input class="" type="radio" name="precio" value="1" id="precio2">
+				<label class="form-check-label pl-4 black-text fw-bold" for="precio2">Canarias 111,32 €</label>
+
+			</div>
+			<div class="form-check form-check-inline oculto-ayuda-unica">
+				<input class="" type="radio" name="precio" value="1" id="precio3">
+				<label class="form-check-label pl-4 black-text fw-bold" for="precio3">Fuera de España 111,32 €</label>
+			</div>
+			<span class="iva" style="color: #6e6e6e!important; font-size: 12px!important;" >* España (salvo Canarias): IVA incluido</span>
+			<br>
+			<br>
+			<div id="bloque_pago">
+				<span class="iva">ELIGE MÉTODO DE PAGO</span>
+				<div class="form-check form-check-inline">
+					<input type="radio" name="metodo_pago" id="paypal" value="paypal"> 
+					<label class="form-check-label black-text pl-4" for="paypal">Paypal o tarjeta</label>
+				</div>
+
+				<div class="form-check form-check-inline">
+					<input type="radio" name="metodo_pago" id="domiciliacion" value="domiciliacion"> 	
+					<label class="form-check-label black-text pl-4" for="domiciliacion">Transferencia</label>
+				</div>
+			</div>
+
+			<div id="bloque_pago2">
+				<span class="iva">ELIGE MÉTODO DE PAGO</span>
+				<div class="form-check form-check-inline">
+					<input type="radio" name="metodo_pago" id="paypal_2" value="paypal_2"> 
+					<label class="form-check-label black-text pl-4" for="paypal_2">Paypal</label>
+				</div>
+
+				<div class="form-check form-check-inline">
+					<input type="radio" name="metodo_pago" id="transferencia" value="transferencia"> 	
+					<label class="form-check-label black-text pl-4" for="transferencia">Domiciliación</label>
+				</div>
+			</div>
+
+			<!-- <div class="form-check form-check-inline">
+				<input type="radio" name="metodo_pago" id="transferencia" value="transferencia"> 
+				<label class="form-check-label pl-4" for="transferencia">Transferencia</label>
+			</div> -->
+
+			<!-- <button class="btn_ btn_periodico_color_1 btn_dinamico adquirir_ejemplar" onclick="adquirirEjemplar()"> Adquirir Ejemplar</button>
+			<div id="paypal-button-container"></div> -->
+
+			<div id="recaptcha" name="recaptcha" class="g-recaptcha" data-sitekey="6LfGyOkrAAAAAES6Nb6hCeA77U8TXzaXH3lPdvqs"></div>
+
+			<div id="transferencia-container" class="btn-container">
+				<br>
+				<div class="border-bottom">
+					<div class="input-field">
+						<input type="text" id="iban_revista" name="iban_revista" placeholder="IBAN*">
+					</div>
+					<p>
+						En un plazo de dos días, se procederá a la domiciliación del importe indicado.
+					</p>
+					<p>
+						<strong>
+							Instrucciones:
+						</strong>
+					</p>
+					<p>
+						- Ahorro frente a la compra del ejemplar suelto
+					</p>
+					<p>
+						- Envío gratuito por mensajería en un plazo de 3 a 5 días hábiles.
+					</p>
+					<p>
+						- Renovación automática, que puedes cancelar en cualquier momento con un
+						aviso mínimo de un mes antes del vencimiento.
+					</p>
+					<p>
+						<strong>
+							Política de privacidad:
+						</strong>
+					</p>
+					<p>
+						Tus datos se almacenarán en un fichero de Infocap Communication &amp; Publishing, S.L.. De acuerdo con la Ley Orgánica 15/1999, de 13 de diciembre,puedes acceder, modificar o cancelar tus datos notificándolo por escrito.
+					</p>
+					<p>
+						Cuenta Bancaria: ES36 - 0049 - 4468 - 26 - 2310005044
+					</p>
+					<p>
+						Recuerda indicar en el asunto de la transferencia tu nombre y apellidos.
+					</p>
+				</div>
+				<button class="btn_ btn_periodico_color_1 btn_dinamico adquirir_ejemplar" onclick="adquirirEjemplar('subscripcion')"> Suscribirme</button>
+			</div>
+
+			<!-- Botón para Domiciliación -->
+			<div id="domiciliacion-container" class="btn-container">
+			 	<div class="border-bottom">
+					<p>
+						En un plazo de dos días, se procederá a la domiciliación del importe indicado.
+					</p>
+					<p>
+						Cuenta Bancaria: ES36 - 0049 - 4468 - 26 - 2310005044
+					</p>
+					<p>
+						Recuerda indicar en el asunto de la transferencia tu nombre y apellidos.
+					</p>
+				</div>
+				<button class="btn_ btn_periodico_color_1 btn_dinamico adquirir_ejemplar" onclick="adquirirEjemplar('adquirir')"> Adquirir ejemplar</button>
+			</div>
+
+			<!-- Contenedor de PayPal -->
+			<div id="paypal-container" class="btn-container">
+				<div id="paypal-button-container"></div>
+			</div>
+
+			<!-- Contenedor de Transferencia -->
+			<!-- <div id="transferencia-container" class="btn-container">
+				<button class="btn_ btn_transferencia">Pagar con Transferencia</button>
+			</div> -->
+
+		</form>
+
+		<div class="exito">
+			<h3>¡SOLICITUD ENVIADA CON ÉXITO!</h3>
+
+			<p>Ahora recuerda hacer la transferencia a la cuenta arriba señalada. No te olvides de indicar en el asunto de la transferencia tu nombre y apellidos</p>
+		</div>
+	</div>
+
+
+</div>
+<!-- modal formulario de pago revista -->
+
+
+<!-- -------------------------------------------------------------------------------->
+<!-- ------------------------------- // MODALES ------------------------------------->
+<!-- -------------------------------------------------------------------------------->
+<!-- MODAL + COOKIES -->
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script>
+	$(document).ready(function() {
+		if (Cookies.get('cookieApp') === 'true') {
+			// console.log( "YES!" );
+			$('#simple-overlay').hide();
+		} else {
+			Cookies.set('cookieApp', 'true', {
+				expires: 1
+			});
+			// console.log( "NO!" );
+			$('#simple-overlay').show();
+		}
+
+		$(".simple-hide a.close").click(function() {
+			$('#simple-overlay').hide();
+		});
+
+	});
+
+</script>
+<!-- // MODAL + COOKIES -->
+<!-- MODAL URGENTE + cookies -->
+<script>
+
+	$(document).ready(function() {
+
+		var inThirtyMinutes = new Date(new Date().getTime() + 30 * 60 * 1000);
+		if (Cookies.get('cookieURG') === 'true') {
+			// console.log( "Cookie exists! - dont show" );
+		} else {
+			Cookies.set('cookieURG', 'true', {
+				expires: inThirtyMinutes
+			});
+			// console.log( "NO cookie! showing urgent" );
+			setTimeout(function() {
+				$('#modal-urgente').modal('open');
+			}, 1000);
+		}
+
+		$("input[name='metodo_pago']").change(function() {
+			// Ocultar todos los contenedores de botones
+			$("#paypal-container, #domiciliacion-container, #transferencia-container").hide();
+
+			let metodoSeleccionado = $("input[name='metodo_pago']:checked").val();
+
+			if(metodoSeleccionado === "paypal_2") {
+				console.log("PAYPAL2");
+				$("#paypal-container").show();
+				let formData = validarForm();
+				if (formData) {
+					$("#paypal-button-container").show();
+					renderPayPalButton(formData.precio, formData, "ocultar");
+				}
+			} else if (metodoSeleccionado === "paypal") {
+				console.log("PAYPAL");
+				$("#paypal-container").show();
+				let formData = validarForm();
+				if (formData) {
+					$("#paypal-button-container").show();
+					renderPayPalButton(formData.precio, formData, "mostrar");
+				}
+				//renderPayPalButton(); // Función para cargar el botón de PayPal
+			} else if (metodoSeleccionado === "domiciliacion") {
+				$("#domiciliacion-container").show();
+			} else if (metodoSeleccionado === "transferencia") {
+				$("#transferencia-container").show();
+			}
+		});
+
+
+		function validarForm() {
+			var nombre= $("#nombre_revista").val().trim();
+			var nif = $("#nif_revista").val().trim();
+			var telefono = $("#telefono_revista").val().trim();
+			var empresa = $("#empresa_revista").val().trim();
+			var email = $("#email_revista").val().trim();
+			var direccion = $("#direccion_revista").val().trim();
+			var ciudad = $("#ciudad_revista").val().trim();
+			var cp = $("#codigo_postal_revista").val().trim();
+			var direccion_fact = $("#direccion_facturacion_revista").val().trim();
+			var ciudad_fact = $("#ciudad_facturacion_revista").val().trim();
+			var cp_fact = $("#codigo_postal_facturacion_revista").val().trim();
+			var id_revista = $("#id_revista").val();
+			var precio = $('input[name="precio"]:checked').val();
+			var hidden_pro = $("#hidden_pro").val();
+			var hidden_ejemplar_revista = $("#hidden_ejemplar_revista").val();
+
+			var direccion_diferente_fact = $("#direccion_diferente").is(':checked') ? 1 : 0;
+
+			var recaptcha = grecaptcha.getResponse();
+
+			var guardar = true;
+			var errores = [];
+
+			// Validaciones con regex
+			if(nombre.length < 3) { guardar = false; errores.push("Nombre inválido"); }
+			if(!/^[0-9A-Z]{7,9}$/i.test(nif)) { guardar = false; errores.push("NIF inválido"); }
+			if(!/^[0-9]{9}$/.test(telefono)) { guardar = false; errores.push("Teléfono inválido"); }
+			if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { guardar = false; errores.push("Email inválido"); }
+			if(direccion.length < 5) { guardar = false; errores.push("Dirección inválida"); }
+			if(ciudad.length < 2) { guardar = false; errores.push("Ciudad inválida"); }
+			if(!/^[0-9]{5}$/.test(cp)) { guardar = false; errores.push("Código postal inválido"); }
+
+			// Validar facturación si hay dirección diferente
+			if(direccion_diferente_fact) {
+				if(direccion_fact.length < 5) { guardar = false; errores.push("Dirección de facturación inválida"); }
+				if(ciudad_fact.length < 2) { guardar = false; errores.push("Ciudad facturación inválida"); }
+				if(!/^[0-9]{5}$/.test(cp_fact)) { guardar = false; errores.push("CP facturación inválido"); }
+			}
+
+			// Validar precio
+			if(!precio) {
+				guardar = false; 
+				errores.push("Debes seleccionar un precio");
+			}
+
+			if(!guardar) {
+				alert("Errores en el formulario:\n- " + errores.join("\n- "));
+				return null;
+			}
+
+			if(recaptcha.length == 0) {
+				alert("Por favor, confirma que no eres un robot.");
+				return null; // No seguimos si no hay reCAPTCHA
+			}
+
+			return {
+				nombre, nif, telefono, empresa, email,
+				direccion, ciudad, cp,
+				id_revista, precio,
+				direccion_fact, ciudad_fact, cp_fact,
+				direccion_diferente_fact, hidden_pro, hidden_ejemplar_revista, recaptcha
+			};
+		}
+
+
+		function renderPayPalButton(price, formData, metodo) {
+			console.log("PRECIO"+parseFloat(price.replace(',', '.')).toFixed(2));
+            $("#paypal-button-container").empty(); // Limpiar botón anterior
+
+			if(metodo == "ocultar")
+			{
+				paypal.Buttons({
+					fundingSource: paypal.FUNDING.PAYPAL, // Mostrar solo PayPal
+					createOrder: function(data, actions) {
+						return actions.order.create({
+							purchase_units: [{
+								amount: {
+									value: parseFloat(price.replace(',', '.')).toFixed(2),
+									// value: 0.01,
+									currency_code: "EUR" // Configurar pagos en euros
+								}
+							}]
+						});
+					},
+					onApprove: function(data, actions) {
+						return actions.order.capture().then(function(details) {
+							console.log(JSON.stringify(details));
+							// alert("Pago exitoso, gracias " + details.payer.name.given_name);
+
+							var recaptcha = grecaptcha.getResponse();
+
+							if (!recaptcha.length) {
+								alert("Por favor, confirma que no eres un robot.");
+								return;
+							}
+
+							$.ajax({
+								type: "POST",
+								xhrFields: {
+									withCredentials: true
+								},
+								url: `https://api.rutadeltransporte.com/api/adquirir_ejemplar.php?t=` + generarCadenaAlfanumerica(),
+								data: {
+									nombre: formData.nombre,
+									nif: formData.nif,
+									telefono: formData.telefono,
+									empresa: formData.empresa,
+									email: formData.email,
+									direccion: formData.direccion,
+									ciudad: formData.ciudad,
+									cp: formData.cp,
+									id_revista: formData.id_revista,
+									precio: formData.precio,
+									direccion_fact: formData.direccion_fact,
+									ciudad_fact: formData.ciudad_fact,
+									cp_fact: formData.cp_fact,
+									direccion_diferente_fact: formData.direccion_diferente_fact,
+									hidden_pro: formData.hidden_pro,
+									hidden_ejemplar_revista: formData.hidden_ejemplar_revista,
+									tipo: "PayPal", 
+									token_pay: details.purchase_units[0].payments.captures[0].id,
+									recaptcha: recaptcha
+								},
+								success: function(data) {
+									if(data == 1)
+									{
+										setTimeout(function() {
+											$('#formulario-pago').hide();
+											$('.exito').css('display', 'block');
+											$('#modal-pago .modal-close').css('display', 'flex');
+										}, 2000);
+									}
+									else
+									{
+
+									}
+								},
+								error: function(request, error) {
+									console.log(error);
+								}
+							});
+						});
+					}
+				}).render("#paypal-button-container");
+			}
+			else
+			{
+				paypal.Buttons({
+					createOrder: function(data, actions) {
+						return actions.order.create({
+							purchase_units: [{
+								amount: {
+									value: parseFloat(price.replace(',', '.')).toFixed(2),
+									// value: 0.01,
+									currency_code: "EUR" // Configurar pagos en euros
+								}
+							}]
+						});
+					},
+					onApprove: function(data, actions) {
+						return actions.order.capture().then(function(details) {
+							console.log(JSON.stringify(details));
+							// alert("Pago exitoso, gracias " + details.payer.name.given_name);
+
+							var recaptcha = grecaptcha.getResponse();
+							if (!recaptcha.length) {
+								alert("Por favor, confirma que no eres un robot.");
+								return;
+							}
+
+							$.ajax({
+								type: "POST",
+								xhrFields: {
+									withCredentials: true
+								},
+								url: `https://api.rutadeltransporte.com/api/adquirir_ejemplar.php?t=` + generarCadenaAlfanumerica(),
+								data: {
+									nombre: formData.nombre,
+									nif: formData.nif,
+									telefono: formData.telefono,
+									empresa: formData.empresa,
+									email: formData.email,
+									direccion: formData.direccion,
+									ciudad: formData.ciudad,
+									cp: formData.cp,
+									id_revista: formData.id_revista,
+									precio: formData.precio,
+									direccion_fact: formData.direccion_fact,
+									ciudad_fact: formData.ciudad_fact,
+									cp_fact: formData.cp_fact,
+									direccion_diferente_fact: formData.direccion_diferente_fact,
+									hidden_pro: formData.hidden_pro,
+									hidden_ejemplar_revista: formData.hidden_ejemplar_revista,
+									tipo: "PayPal", 
+									token_pay: details.purchase_units[0].payments.captures[0].id,
+									recaptcha: recaptcha
+								},
+								success: function(data) {
+									if(data == 1)
+									{
+										setTimeout(function() {
+											$('#formulario-pago').hide();
+											$('.exito').css('display', 'block');
+											$('#modal-pago .modal-close').css('display', 'flex');
+										}, 2000);
+									}
+									else
+									{
+
+									}
+								},
+								error: function(request, error) {
+									console.log(error);
+								}
+							});
+						});
+					}
+				}).render("#paypal-button-container");
+			}
+
+        }
+
+        // Detectar cuando se selecciona un radio button y actualizar PayPal
+        // $("input[name='precio']").change(function() {
+        //     let formData = validarForm();
+        //     if (formData) {
+        //         $("#paypal-button-container").show();
+        //         renderPayPalButton(formData.precio, formData, "");
+        //     }
+        // });
+
+        // Renderizar botón inicial si hay un radio seleccionado por defecto
+        // let initialPrice = $("input[name='precio']:checked").val();
+		// if (initialPrice) {
+		// 	renderPayPalButton(initialPrice);
+		// }
+
+	});
+</script>
+<!-- // MODAL URGENTE + cookies -->
+
+<script>
+	$(document).on('click', '.modal-trigger', function () {
+
+		$('#formulario-pago').show();
+		$('.exito').css('display', 'none');
+		$('#modal-pago .modal-close').css('display', 'flex');
+
+		// Obtén los valores de data-* del botón que disparó el modal
+		var precio1 = $(this).data('precio1');
+		var precio2 = $(this).data('precio2');
+		var precio3 = $(this).data('precio3');
+		var tipo = $(this).data('tipo');
+		var pro_revista = $(this).data('pro_revista');
+		var ejemplar_revista = $(this).data('ejemplar_revista');
+
+		// Marca el modal como inicializado
+		$('#modal-pago').data('initialized', true);
+
+		if(tipo == "subscripcion")
+		{
+			console.log("subscripcion");
+			$("#domiciliacion-container").hide();
+			$("#bloque_pago").hide();
+			$("#bloque_pago2").show();
+			$("#paypal-container").hide();
+			$("#transferencia-container").show();
+		}
+		else if(tipo == "adquirir")
+		{
+			console.log("adquirir");
+			$("#transferencia-container").hide();
+			$("#bloque_pago").show();
+			$("#bloque_pago2").hide();
+			$("#domiciliacion-container").show();
+		}
+
+		console.log(precio1, precio2, precio3); // Depuración
+
+		// Encuentra los radios dentro del modal y actualiza sus etiquetas y valores
+		$('#modal-pago').find('#precio1').next('label').text(`España (salvo Canarias) ${precio1} €`);
+		$('#modal-pago').find('#precio2').next('label').text(`Canarias ${precio2} €`);
+		$('#modal-pago').find('#precio3').next('label').text(`Fuera de España ${precio3} €`);
+
+		// Asigna los valores a los radios
+		$('#modal-pago').find('#precio1').val(precio1);
+		$('#modal-pago').find('#precio2').val(precio2);
+		$('#modal-pago').find('#precio3').val(precio3);
+		$('#modal-pago').find('#hidden_pro').val(pro_revista);
+		$('#modal-pago').find('#hidden_ejemplar_revista').val(ejemplar_revista);
+	});	
+
+	$('#modal-pago').on('click', function (event) {
+		if ($(this).data('initialized')) {
+			event.stopPropagation(); 
+		}
+	});
+
+	$(document).ready(function() {
+
+		$('#direccion_diferente').click(function() {
+			if ($('#direccion_diferente').prop('checked')) {
+				$('.direccion_facturacion').css('display', 'block');
+			} else {
+				$('.direccion_facturacion').css('display', 'none');
+			}
+		});
+	});
+
+	// 	$('#modal-pago').on('show.bs.modal', function (event) {
+	// 		var button = $(event.relatedTarget); // Botón que disparó el modal
+	// 		// Obtén los valores de data-* del botón que disparó el modal
+	// 		var precio1 = $(this).data('precio1');
+	// 		var precio2 = $(this).data('precio2');
+	// 		var precio3 = $(this).data('precio3');
+	// 		var pro_revista = $(this).data('pro_revista');
+	// 		var ejemplar_revista = $(this).data('ejemplar_revista');
+
+	// 		// Marca el modal como inicializado
+	// 		$('#modal-pago').data('initialized', true);
+
+	// 		console.log(precio1, precio2, precio3); // Depuración
+
+	// 		// Actualiza las etiquetas de los radio buttons con los precios
+	// 		$('label[for="precio1"]').text(`España (salvo Canarias) ${precio1} €`);
+	// 		$('label[for="precio2"]').text(`Canarias ${precio2} €`);
+	// 		$('label[for="precio3"]').text(`Extranjero ${precio3} €`);
+
+	// 		// Asigna los valores a los radios
+	// 		$('#modal-pago').find('#precio1').val(precio1);
+	// 		$('#modal-pago').find('#precio2').val(precio2);
+	// 		$('#modal-pago').find('#precio3').val(precio3);
+	// 		$('#modal-pago').find('#hidden_pro').val(pro_revista);
+	// 		$('#modal-pago').find('#hidden_ejemplar_revista').val(ejemplar_revista);
+	// 	});	
+
+	// 	function send_form() {
+
+	// 	}
+
+	// 	setTimeout(function() {
+	// 		window.location.reload();
+	// 	}, 2 * 60 * 60 * 1000);
+
+	// 	$(".modal-overlay").focus(function() {
+	// 		$(".modal-overlay").trigger("click");
+	// 	});
+
+	// 	if (!$('.slick_x3_slider').hasClass('slick-initialized')) {
+	// 		$('.slick_x3_slider').slick({
+	// 			//lazyLoad: 'ondemand',
+	// 			slidesToShow: 3,
+	// 			slidesToScroll: 1,
+	// 			infinite: true,
+	// 			responsive: [{
+	// 					breakpoint: 992,
+	// 					settings: {
+	// 						slidesToShow: 3,
+	// 						slidesToScroll: 1
+	// 					}
+	// 				},
+	// 				{
+	// 					breakpoint: 768,
+	// 					settings: {
+	// 						slidesToShow: 2,
+	// 						slidesToScroll: 1
+	// 					}
+	// 				},
+	// 				{
+	// 					breakpoint: 576,
+	// 					settings: {
+	// 						slidesToShow: 1,
+	// 						slidesToScroll: 1
+	// 					}
+	// 				}
+	// 				// You can unslick at a given breakpoint now by adding:
+	// 				// settings: "unslick"
+	// 				// instead of a settings object
+	// 			]
+	// 		});
+	// 	}
+
+	// 	if (!$('.carousel_x3_responsive').hasClass('slick-initialized')) {
+	// 		$('.carousel_x3_responsive').slick({
+	// 			//lazyLoad: 'ondemand',
+	// 			slidesToShow: 3,
+	// 			slidesToScroll: 1,
+	// 			infinite: true,
+	// 			responsive: [{
+	// 					breakpoint: 992,
+	// 					settings: {
+	// 						slidesToShow: 3,
+	// 						slidesToScroll: 1
+	// 					}
+	// 				},
+	// 				{
+	// 					breakpoint: 768,
+	// 					settings: {
+	// 						slidesToShow: 3,
+	// 						slidesToScroll: 1
+	// 					}
+	// 				},
+	// 				{
+	// 					breakpoint: 576,
+	// 					settings: {
+	// 						slidesToShow: 1,
+	// 						slidesToScroll: 1
+	// 					}
+	// 				}
+	// 			]
+	// 		});
+	// 	}
+	// });
+
+	function adquirirEjemplar(tipo){
+
+		console.log(tipo);
+
+		var nombre= $("#nombre_revista").val();
+		var nif = $("#nif_revista").val();
+		var telefono = $("#telefono_revista").val();
+		var empresa = $("#empresa_revista").val();
+		var email = $("#email_revista").val();
+
+		var guardar = true;
+
+		var direccion_diferente_fact = 0;
+
+		var direccion = $("#direccion_revista").val();
+		var ciudad = $("#ciudad_revista").val();
+		var cp = $("#codigo_postal_revista").val();
+
+		var hidden_pro = $("#hidden_pro").val();
+		var hidden_ejemplar_revista = $("#hidden_ejemplar_revista").val();
+
+		var direccion_fact = $("#direccion_facturacion_revista").val();
+		var ciudad_fact = $("#ciudad_facturacion_revista").val();
+		var cp_fact = $("#codigo_postal_facturacion_revista").val();
+
+		var iban_revista = $("#iban_revista").val();
+
+		var recaptcha = grecaptcha.getResponse();
+
+		console.log(recaptcha);
+
+		if(tipo == "subscripcion")
+		{
+			if(iban_revista.length == 0)
+			{
+				guardar = false;
+			}
+		} 
+		else if(tipo == "adquirir")
+		{
+			if(iban_revista.length == 0)
+			{
+				guardar = true;
+			}
+		}
+
+		if($("#direccion_diferente").is(':checked')) 
+		{
+			direccion_diferente_fact = 1;
+		}
+
+		var id_revista = $("#id_revista").val();
+		var precio = $('input[name="precio"]:checked').val();
+
+		if(nombre.length == 0)
+		{	
+			alert("Por favor, confirma el nombre.");
+			guardar = false;
+		}
+
+		if(nif.length == 0)
+		{
+			alert("Por favor, confirma el nif.");
+			guardar = false;
+		}
+
+		if(telefono.length == 0)
+		{
+			alert("Por favor, confirma el telefono.");
+			guardar = false;
+		}
+
+		if(recaptcha.length == 0) {
+			alert("Por favor, confirma que no eres un robot.");
+			guardar = false;
+		}
+
+		if(email.length == 0)
+		{
+			alert("Por favor, confirma el email.");
+			guardar = false;
+		}
+
+		if(direccion.length == 0)
+		{
+			alert("Por favor, confirma la dirección.");
+			guardar = false;
+		}
+
+		if(ciudad.length == 0)
+		{
+			alert("Por favor, confirma la localidad.");
+			guardar = false;
+		}
+
+		if(cp.length == 0)
+		{
+			alert("Por favor, confirma el código postal.");
+			guardar = false;
+		}
+
+		if(guardar)
+		{
+			let tipo = "Domiciliacion";
+			$.ajax({
+				type: "POST",
+				xhrFields: {
+					withCredentials: true
+				},
+				url: `https://api.rutadeltransporte.com/api/adquirir_ejemplar.php?t=` + generarCadenaAlfanumerica(),
+				data: {
+					nombre: nombre,
+					nif: nif,
+					telefono: telefono,
+					empresa: empresa,
+					email: email,
+					direccion: direccion,
+					ciudad: ciudad,
+					cp: cp,
+					id_revista: id_revista,
+					precio: precio,
+					direccion_fact:direccion_fact,
+					ciudad_fact:ciudad_fact,
+					cp_fact:cp_fact,
+					direccion_diferente_fact:direccion_diferente_fact,
+					hidden_pro:hidden_pro,
+					hidden_ejemplar_revista:hidden_ejemplar_revista,
+					iban_revista: iban_revista,
+					tipo:tipo,
+					recaptcha: recaptcha
+				},
+				success: function(data) {
+					if(data == 1)
+					{
+						setTimeout(function() {
+							$('#formulario-pago').hide();
+							$('.exito').css('display', 'block');
+							$('#modal-pago .modal-close').css('display', 'flex');
+						}, 2000);
+					}
+					else
+					{
+
+					}
+				},
+				error: function(request, error) {
+					console.log(error);
+				}
+			});
+		}
+
+	}
+
+</script>
+
+<script>
+	const saveElements = document.querySelectorAll('.save');
+
+	saveElements.forEach(function(element) {
+		element.addEventListener('click', function() {
+			if (this.classList.contains('guardado')) {
+				this.classList.remove('guardado');
+			} else {
+				this.classList.add('guardado');
+			}
+			//console.log(this);
+		});
+	});
+</script>
+
+<script type="text/javascript" src="/web/assets/js/validate-form.js"></script>
+<script type="text/javascript" src="/web/assets/js/main.js"></script>
+
+<script>
+	function generarCadenaAlfanumerica() {
+		let longitud = 8;
+		const caracteres = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+		let resultado = '';
+
+		for (let i = 0; i < longitud; i++) {
+			const indiceAleatorio = Math.floor(Math.random() * caracteres.length);
+			resultado += caracteres[indiceAleatorio];
+		}
+
+		return resultado;
+	}
+
+	function recargar_cabecero_sesion() {
+		$.ajax({
+			url: `https://api.rutadeltransporte.com/api/header-login.php?t=` + generarCadenaAlfanumerica(),
+			xhrFields: {
+				withCredentials: true
+			},
+			success: function(data) {
+				//console.log(data);
+				$("#contenedor-login-header").html(data);
+				
+					// Declarar los textos en JavaScript desde las variables PHP
+					const textos = [
+						"Newsletter",
+						"Suscr\u00edbete",
+						"<span class=\"texto-reducido\">11.000 suscriptores<\/span>"					];
+
+					const boton = document.getElementById("boton-dinamico");
+					let indice = 0;
+
+					function esVisible(elemento) {
+						// Verifica si el elemento es visible en la página
+						return elemento && elemento.offsetParent !== null && 
+							window.getComputedStyle(elemento).visibility !== "hidden";
+					}
+
+					function cambiarTexto() {
+						// Solo ejecuta si el botón está visible
+						if (esVisible(boton)) {
+							indice = (indice + 1) % textos.length; // Cambiar entre textos
+							boton.innerHTML = textos[indice]; // Cambiar el contenido del botón, interpretando HTML
+
+							// Cambiar tiempo según el texto actual
+							setTimeout(cambiarTexto, indice === 0 ? 2000 : 2000);
+						} else {
+							// Si el botón no está visible, verifica nuevamente después de un tiempo
+							setTimeout(cambiarTexto, 1000);
+						}
+					}
+
+					// Iniciar el ciclo de cambio de texto
+					setTimeout(cambiarTexto, 1000);
+				
+			}
+		});
+	}
+
+	function recargar_menu_sesion() {
+		$.ajax({
+			url: `https://api.rutadeltransporte.com/api/menu-login.php?t=` + generarCadenaAlfanumerica(),
+			xhrFields: {
+				withCredentials: true
+			},
+			success: function(data) {
+				//console.log(data);
+				$("#contenedor-menu-usuario").html(data);
+			}
+		});
+	}
+
+	function recargar_comentar_sesion() {
+		$.ajax({
+			url: `https://api.rutadeltransporte.com/api/comentar-login.php?t=` + generarCadenaAlfanumerica(),
+			xhrFields: {
+				withCredentials: true
+			},
+			success: function(data) {
+				//console.log(data);
+				$("#container-registro-comentarios").html(data);
+			}
+		});
+	}
+
+	function recargar_comentar_comentar() {
+		$.ajax({
+			url: `https://api.rutadeltransporte.com/api/comentar-comentar.php?t=` + generarCadenaAlfanumerica(),
+			xhrFields: {
+				withCredentials: true
+			},
+			success: function(data) {
+				//console.log(data);
+				$("#container-comentar-comentarios").html(data);
+			}
+		});
+	}
+
+	function comentar() {
+		var id_articulo = 2000009462;
+		var comentario = "";
+
+		// if(id_padre > 0)
+		// {
+		// 	comentario = $("#caja-comentario-respuesta").val();
+		// }
+		// else
+		// {
+		comentario = $("#caja-comentario").val();
+		// }
+
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			url: `https://api.rutadeltransporte.com/api/comentar.php?t=` + generarCadenaAlfanumerica(),
+			data: {
+				id_articulo: id_articulo,
+				comentario: comentario
+			},
+			success: function(data) {
+				//console.log(data);
+				if (data == 1) { //OK
+					var respuesta = "<div style='background-color: var(--color-periodico-1); padding: 10px; font-weight: 400; color: white; margin-bottom: -15px;font-family: var(--font-1);color: var(--blanco)'>Gracias! tu comentario ha sido publicado. Al recargar la noticia será visible. Recuerda que podrás volver a comentar una noticia dentro de un minuto.</div>";
+					$("#container-comentar-comentarios").html(respuesta);
+				} else if (data == 2) { //TIEMPO
+					var respuesta = "<div style='background-color: var(--color-periodico-1); padding: 10px; font-weight: 400; color: white; margin-bottom: -15px;font-family: var(--font-1);color: var(--blanco)'>Aún no ha pasado un minuto desde tu último comentario. Espera un poco y podrás volver a comentar una noticia.</div>";
+					$("#container-comentar-comentarios").html(respuesta);
+				} else if (data == 3) { //PALABROTA
+					var respuesta = "Por favor, utiliza un lenguaje correcto para poder comentar noticias";
+					Swal.fire({
+						title: respuesta,
+						icon: "warning"
+					});
+				} else { //NO LOGUEADO
+					var respuesta = "Lo sentimos, no parece que tengas una sesión abierta. Vuelve a iniciar sesión y podrás publicar este comentario";
+					Swal.fire({
+						title: respuesta,
+						icon: "warning"
+					});
+				}
+
+			},
+			error: function(request, error) {
+				//console.log(error);
+			}
+		});
+
+	}
+
+	function cargarComentarios(id_articulo) {
+
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			url: `https://api.rutadeltransporte.com/api/comentar-listado.php?t=` + generarCadenaAlfanumerica(),
+			data: {
+				id_articulo: id_articulo
+			},
+			success: function(data) {
+				$("#comment-section").html(data);
+
+				
+			// Comment system
+			
+				const toggleButton = document.querySelector('.toggle-comments');
+				const commentsContainer = document.querySelector('.comments-container');
+				const arrow = document.querySelector('.arrow');
+
+				// Mostrar/ocultar los comentarios al hacer clic en el botón
+				toggleButton.addEventListener('click', function() {
+					commentsContainer.classList.toggle('hidden');
+					arrow.classList.toggle('up');
+				});
+
+				// Manejar clic en el botón de responder
+				document.querySelectorAll('.reply-btn').forEach(function(button) {
+					button.addEventListener('click', function() {
+						const replyForm = this.parentNode.nextElementSibling;
+						replyForm.classList.toggle('hidden');
+					});
+				});
+			
+
+
+			},
+			error: function(request, error) {
+				//console.log(error);
+			}
+		});
+
+	}
+
+	function sumarPositivo(id_comentario, id_usuario) {
+
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			url: `https://api.rutadeltransporte.com/api/sumar_reaccion_comentario.php?t=` + generarCadenaAlfanumerica(),
+			data: {
+				tipo: 'positivo',
+				id_comentario: id_comentario,
+				id_usuario: id_usuario
+			},
+			success: function(data) {
+				//console.log(data);
+				if (data == 1) {
+					var likes = parseInt($("#like_" + id_comentario + " span").text());
+					$("#like_" + id_comentario + " span").text(parseInt(likes + 1));
+				}
+			},
+			error: function(request, error) {
+				//console.log(error);
+			}
+		});
+
+	}
+
+	function sumarNegativo(id_comentario, id_usuario) {
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			url: `https://api.rutadeltransporte.com/api/sumar_reaccion_comentario.php?t=` + generarCadenaAlfanumerica(),
+			data: {
+				tipo: 'negativo',
+				id_comentario: id_comentario,
+				id_usuario: id_usuario
+			},
+			success: function(data) {
+				//console.log(data);
+				if (data == 1) {
+					var dislikes = parseInt($("#dislike_" + id_comentario + " span").text());
+					$("#dislike_" + id_comentario + " span").text(parseInt(dislikes + 1));
+				}
+			},
+			error: function(request, error) {
+				//console.log(error);
+			}
+		});
+	}
+
+	function recargar_widgets_sesion() {
+		recargar_cabecero_sesion();
+		recargar_menu_sesion();
+					recargar_comentar_sesion();
+			recargar_comentar_comentar();
+			}
+	window.load = function (){
+		setTimeout(function () {
+		if ($.trim($("#container-registro-comentarios").html()) === "") {
+			recargar_widgets_sesion();
+		}
+		}, 2000);
+	}
+
+	function iniciarSesion() {
+		var continuar = true;
+		var msg = "";
+		var usuario_log = $("#usuario_log").val();
+		var password_log = $("#password_log").val();
+
+		if (usuario_log.length == 0) {
+			continuar = false;
+			msg += "Debe rellenar el email \n";
+		}
+
+		if (password_log.length == 0) {
+			continuar = false;
+			msg += "Debe rellenar la contraseña \n";
+		}
+
+		if (continuar) {
+			$.ajax({
+				type: "POST",
+				data: $("#formulario_login").serialize(),
+				xhrFields: {
+					withCredentials: true
+				},
+				url: `https://api.rutadeltransporte.com/api/login-user.php?t=` + generarCadenaAlfanumerica(),
+				success: function(data) {
+					//console.log(data);
+					if (data == 1) {
+						recargar_widgets_sesion();
+						$("#modal-login .modal-action.modal-close.close-btn").trigger("click");
+						$("#usuario_log").val("");
+						$("#password_log").val("");
+						if (window.location.href.includes("area-usuario")) {
+							window.location.reload();
+						}
+					} else {
+						var respuesta = "No hemos encontrado ningún usuario registrado en la plataforma con las credenciales proporcionadas. Por favor, vuelve a intentarlo o recupera la contraseña pulsando en '¿Olvidastes tu contraseña?'";
+						Swal.fire({
+							title: respuesta,
+							icon: "warning"
+						});
+					}
+				}
+			});
+		} else {
+			Swal.fire({
+				title: msg,
+				icon: "warning"
+			});
+		}
+	}
+
+	function cerrarSesion() {
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			url: `https://api.rutadeltransporte.com/api/delete-session-user.php?t=` + generarCadenaAlfanumerica(),
+			success: function(data) {
+				//console.log(data);
+				recargar_widgets_sesion();
+				$("#offCanvasClose").trigger("click");
+				if (window.location.href.includes("area-usuario")) {
+					window.location.href = '/';
+				}
+			}
+		});
+	}
+
+	function registrarCuenta() {
+		const pasoUno = document.querySelector(".paso-uno");
+		const pasoDos = document.querySelector(".paso-dos");
+		const btnSiguiente = document.getElementById("siguiente");
+
+		let datosFormulario = $("#formulario_registro").serialize();
+
+		// Verificar si se seleccionó al menos un boletín
+		let seleccionados = [];
+		$('input[name="newsletter[]"]:checked').each(function() {
+			seleccionados.push($(this).val());
+		});
+
+		if (seleccionados.length === 0) {
+			// Mostrar alerta si no se seleccionó ningún boletín
+			Swal.fire({
+				title: "Debes seleccionar al menos una Lista de difusión.",
+				icon: "warning"
+			});
+			return; // Detener la ejecución si no hay boletines seleccionados
+		}
+
+		// Agregar los boletines seleccionados a los datos del formulario
+		if (seleccionados.length > 0) {
+			datosFormulario += '&' + seleccionados.map(val => `newsletter[]=${encodeURIComponent(val)}`).join('&');
+		}
+
+		// Realizar la solicitud AJAX
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			data: datosFormulario,
+			url: `https://api.rutadeltransporte.com/api/register-user.php?t=` + generarCadenaAlfanumerica(),
+			success: function(data) {
+				//console.log(data);
+				if (data == 0) {
+					var respuesta = "El usuario ya existe.";
+					var respuestaInfo = "Utiliza un correo electrónico válido o ve al area de inicio de sesión para recuperar la contraseña";
+					Swal.fire({
+						title: respuesta,
+						html: respuestaInfo,
+						icon: "warning"
+					});
+				} else {
+					var respuesta = "!Enhorabuena! Ya formas parte de la gran comunidad de " + "Ruta del Transporte";
+					var respuestaInfo = "<b>Importante</b> Te hemos enviado un email de confirmación de tu registro.";
+					Swal.fire({
+						title: respuesta,
+						html: respuestaInfo,
+						icon: "success"
+					}).then(() => {
+						// Limpiar el formulario después de cerrar el alerta
+						document.getElementById("formulario_registro").reset();
+						pasoUno.style.display = "flex";
+						pasoDos.style.display = "none";
+						btnSiguiente.style.display = "flex";
+
+						// Asegurarse de que se recargue la página después de la confirmación
+						setTimeout(function() {
+							location.reload(); 
+							// Recargar la página
+						}, 200); 
+						// Añadido un pequeño retraso para asegurarse de que SweetAlert se cierre antes de recargar
+
+					});
+
+					recargar_widgets_sesion();
+				}
+			}
+		});
+	}
+
+	function recuperarPass() {
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			data: $('#formulario_recuperarpass').serialize(),
+			url: `https://api.rutadeltransporte.com/api/reset-pass-user.php?t=` + generarCadenaAlfanumerica(),
+			success: function(data) {
+				//console.log(data);
+				var respuesta = "Revisa tu correo electrónico y sigue las instrucciones para recuperar tu contraseña";
+				Swal.fire({
+					title: respuesta,
+					icon: "info"
+				});
+				$("#modal-pass .modal-action.modal-close").trigger("click");
+				$("email_recuperar").val("");
+			}
+		});
+	}
+
+	function resetearPass() {
+		if ($("#nuevo-pass").val() == $("#nuevo-pass-repeat").val()) {
+			if ($("#nuevo-pass").val().length >= 8) {
+				$.ajax({
+					type: "POST",
+					xhrFields: {
+						withCredentials: true
+					},
+					data: $('#resetear-clave').serialize(),
+					url: `https://api.rutadeltransporte.com/api/resetear-pass.php?t=` + generarCadenaAlfanumerica(),
+					success: function(data) {
+						//console.log(data);
+						$("#email_recuperar").val("");
+						var respuesta = "La contraseña ha sido actualizada. Ya puedes volver a iniciar sesión.";
+						Swal.fire({
+							title: respuesta,
+							icon: "success"
+						}).then((result) => {
+							window.location.href = 'http://www.rutadeltransporte.com/';
+						});
+
+
+
+					}
+				});
+			} else {
+				var respuesta = "La contraseña debe tener un mínimo de 8 caracteres";
+				Swal.fire({
+					title: respuesta,
+					icon: "warning"
+				});
+
+			}
+		} else {
+			var respuesta = "Ambas contraseñas deben coincidir";
+			Swal.fire({
+				title: respuesta,
+				icon: "warning"
+			});
+
+		}
+
+	}
+
+
+	$(document).ready(function() {
+		recargar_widgets_sesion(); //DESCOMENTAR ESTO
+	});
+</script>
+<script>
+	//Este script hace que los sky se peguen siempre al top , calculando el alto del header
+	$(document).ready(function() {
+		// Función para verificar la clase "pinned" y actuar en consecuencia
+		function checkPinnedClass() {
+			if ($(".wrap-HEADER").hasClass("pinned")) {
+				$(".ad-wrapper-side").addClass("fix-top");
+			} else {
+				$(".ad-wrapper-side").removeClass("fix-top");
+			}
+		}
+
+		// Ejecutar la función en el inicio
+		checkPinnedClass();
+
+		// Ejecutar la función en cada scroll
+		$(window).on("scroll", function() {
+			checkPinnedClass();
+		});
+
+		
+		// Observar cambios de clase en el elemento con clase "wrap-HEADER"
+		const targetNode = document.querySelector('.wrap-HEADER');
+		const observer = new MutationObserver(function(mutationsList) {
+			for (let mutation of mutationsList) {
+				if (mutation.attributeName === 'class') {
+					checkPinnedClass();
+				}
+			}
+		});
+		
+		observer.observe(targetNode, {
+			attributes: true
+		});
+		
+		window.onload = function() {
+			recargar_area_usuario();
+		}
+	});
+
+
+	function recargar_area_usuario() {
+		$.ajax({
+			url: `https://api.rutadeltransporte.com/api/user-panel.php?t=` + generarCadenaAlfanumerica(),
+			xhrFields: {
+				withCredentials: true
+			},
+			success: function(data) {
+				//console.log(data);
+				$("#container-area-usuario").html(data);
+				actualizar_area_usuario();
+
+			}
+		});
+	}
+
+	function actualizar_area_usuario() {
+
+		/*//Tab system
+		document.addEventListener('DOMContentLoaded', function() {
+			var tabs = document.querySelectorAll('.inputs');
+			var contents = document.querySelectorAll('.content');
+
+			function showContent(tabId) {
+				contents.forEach(function(content) {
+				if (content.id === 'c' + tabId.slice(-1)) {
+					content.classList.add('active');
+				} else {
+					content.classList.remove('active');
+				}
+			});
+		}
+
+		tabs.forEach(function(tab) {
+				tab.addEventListener('change', function() {
+					showContent(this.id);
+				});
+
+				// Initial load
+				if (tab.checked) {
+					showContent(tab.id);
+				}
+			});
+		});*/
+
+		activarTabC4();
+
+		// Comment system
+		document.addEventListener('DOMContentLoaded', function() {
+			const toggleButton = document.querySelector('.toggle-comments');
+			const commentsContainer = document.querySelector('.comments-container');
+			const arrow = document.querySelector('.arrow');
+
+
+			// Mostrar/ocultar los comentarios al hacer clic en el botón
+			toggleButton.addEventListener('click', function() {
+				commentsContainer.classList.toggle('hidden');
+				arrow.classList.toggle('up');
+			});
+
+			// Manejar clic en el botón de responder
+			document.querySelectorAll('.reply-btn').forEach(function(button) {
+				button.addEventListener('click', function() {
+					const replyForm = this.parentNode.nextElementSibling;
+					replyForm.classList.toggle('hidden');
+				});
+			});
+		});
+
+	}
+
+
+
+	function eliminarCuenta(usuario_id) {
+
+		Swal.fire({
+			title: "¿Estás seguro?",
+			text: "¡Es posible que este cambio sea irreversible!",
+			icon: "warning",
+			showCancelButton: true,
+			confirmButtonText: "Sí",
+			cancelButtonText: "No"
+		}).then((result) => {
+			if (result.isConfirmed) {
+				$.ajax({
+					type: "POST",
+					xhrFields: {
+						withCredentials: true
+					},
+					data: {
+						usuario_id: usuario_id
+					},
+					url: `https://api.rutadeltransporte.com/api/delete-account.php?t=j6dx9LYlmdAuyF4L1rZa`,
+					success: function(data) {
+						//console.log(data);
+						if (data == 1) {
+							Swal.fire({
+								title: "La cuenta de lector ha sido eliminada con éxito",
+								icon: "success"
+							}).then((result) => {
+								window.location.href = 'http://www.rutadeltransporte.com/';
+							});
+						}
+					}
+				});
+			}
+		});
+
+	}
+
+	function guardarPerfil(usuario_id) {
+		var nombre = $("#nombre_perfil").val();
+		var apellido = $("#apellido_perfil").val();
+		var nickname = $("#nickname_perfil").val();
+		var email = $("#correo_perfil").val();
+		var fecha_nacimiento = $("#fecha-nacimiento_perfil").val();
+
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			data: {
+				usuario_id: usuario_id,
+				nombre: nombre,
+				apellido: apellido,
+				email: email,
+				fecha_nacimiento: fecha_nacimiento,
+				nickname: nickname
+			},
+			url: `https://api.rutadeltransporte.com/api/editar-perfil.php?t=i9nBiwaeYl1lji0BHoFH`,
+			success: function(data) {
+				//console.log(data);
+				if (parseInt(data) == 1) {
+					Swal.fire({
+						title: "Los datos de tu perfil han sido modificados con éxito",
+						icon: "success"
+					});
+				} else if (parseInt(data) == 2) {
+					Swal.fire({
+						title: "El email o apodo usado pertenece a otro usuario",
+						icon: "warning"
+					});
+				} else {
+					Swal.fire({
+						title: "Algo ha ido mal, vuelve a intentarlo mas tarde",
+						icon: "warning"
+					});
+				}
+			}
+		});
+	}
+
+	function cambiarPass(usuario_id) {
+		if ($("#nuevo-pass").val() == $("#nuevo-pass-repeat").val()) {
+			if ($("#nuevo-pass").val().length >= 8) {
+				$.ajax({
+					type: "POST",
+					xhrFields: {
+						withCredentials: true
+					},
+					data: {
+						usuario_id: usuario_id,
+						nueva_pass: $("#nuevo-pass").val()
+					},
+					url: `https://api.rutadeltransporte.com/api/cambiar-pass.php?t=eN5GoTxJKpjxSr72ueJY`,
+					success: function(data) {
+						//console.log(data);
+						if (parseInt(data) == 0) {
+							Swal.fire({
+								title: "La contraseña ha sido modificada con exito.",
+								icon: "success"
+							});
+							$("#nuevo-pass").val("");
+							$("#nuevo-pass-repeat").val("");
+						} else {
+							Swal.fire({
+								title: "Algo ha ido mal, vuelve a intentarlo mas tarde.",
+								icon: "warning"
+							});
+						}
+					}
+				});
+			} else {
+				Swal.fire({
+					title: "Las contraseñas deben tener al menos 8 caracteres",
+					icon: "warning"
+				});
+			}
+		} else {
+			Swal.fire({
+				title: "Las contraseñas deben coincidir",
+				icon: "warning"
+			});
+		}
+	}
+
+	function recibir_newsletter(id_portada, usuario_email, nombre_portada, tipo) {
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			data: {
+				id_portada: id_portada,
+				usuario_email: usuario_email
+			},
+			url: `https://api.rutadeltransporte.com/api/recibir-newsletter.php?t=nHf8qMfjAHvUo8k1tvKi`,
+			success: function(data) {
+				//console.log(data);
+				if (parseInt(data) > 0) {
+					$("#newsletter_" + id_portada).remove();
+					$("#no-suscrito-boletin").remove();
+					$("#mis-newsletters").append(`<div id="mi-newsletter_${id_portada}" class="tipo-newsletter">
+							<p class="tipo">${nombre_portada}</p>
+							<a class="btn-simple" onclick="dejar_newsletter(${id_portada}, ${data}, '${usuario_email}', '${nombre_portada}', '${tipo}');"><span class="msg-unsuscribe-lg">Dejar de recibirla</span><span class="msg-unsuscribe-sm"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M170.5 51.6L151.5 80l145 0-19-28.4c-1.5-2.2-4-3.6-6.7-3.6l-93.7 0c-2.7 0-5.2 1.3-6.7 3.6zm147-26.6L354.2 80 368 80l48 0 8 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-8 0 0 304c0 44.2-35.8 80-80 80l-224 0c-44.2 0-80-35.8-80-80l0-304-8 0c-13.3 0-24-10.7-24-24S10.7 80 24 80l8 0 48 0 13.8 0 36.7-55.1C140.9 9.4 158.4 0 177.1 0l93.7 0c18.7 0 36.2 9.4 46.6 24.9zM80 128l0 304c0 17.7 14.3 32 32 32l224 0c17.7 0 32-14.3 32-32l0-304L80 128zm80 64l0 208c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-208c0-8.8 7.2-16 16-16s16 7.2 16 16zm80 0l0 208c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-208c0-8.8 7.2-16 16-16s16 7.2 16 16zm80 0l0 208c0 8.8-7.2 16-16 16s-16-7.2-16-16l0-208c0-8.8 7.2-16 16-16s16 7.2 16 16z"/></svg></span></a>
+						</div>`);
+				} else {
+					Swal.fire({
+						title: "Algo ha ido mal, vuelve a intentarlo mas tarde.",
+						icon: "warning"
+					});
+				}
+			}
+		});
+	}
+
+	function dejar_newsletter(id_portada, id_newsletter, usuario_email, nombre_portada, tipo) {
+		$.ajax({
+			type: "POST",
+			xhrFields: {
+				withCredentials: true
+			},
+			data: {
+				id_newsletter: id_newsletter,
+				usuario_email: usuario_email
+			},
+			url: `https://api.rutadeltransporte.com/api/dejar-newsletter.php?t=Jdc3HRrasrj03WpentOr`,
+			success: function(data) {
+				//console.log(data);
+				if (parseInt(data) > 0) {
+					$("#mi-newsletter_" + id_portada).remove();
+					if ($('#mis-newsletters').find('.tipo-newsletter').length == 0) {
+						$('#mis-newsletters').append(`<p id='no-suscrito-boletin'>Aún no estás suscrito a ninguna lista de difusión.</p>`);
+					}
+					$(`#boletines-tipo-${tipo.toLowerCase()}`).append(`<div id="newsletter_${id_portada}" class="newsletter_">
+							<div class="textos">
+								<h3>${nombre_portada}</h3>
+							</div>
+							<div class="check">
+								<div class="form-check form-check-inline">
+									<input class="form-check-input" type="checkbox" name="check-${id_portada}" id="check-${id_portada}" onclick="recibir_newsletter(${id_portada}, '${usuario_email}', '${nombre_portada}', '${tipo}')">
+									<label for="check-${id_portada}" class="form-check-label">Recibir</label>
+								</div>
+							</div>
+						</div>`);
+				} else {
+					Swal.fire({
+						title: "Algo ha ido mal, vuelve a intentarlo mas tarde.",
+						icon: "warning"
+					});
+				}
+			}
+		});
+	}
+
+	function readURL(input) {
+		if (input.files && input.files[0]) {
+			var reader = new FileReader();
+			reader.onload = function(e) {
+				$('#imagePreview').css('background-image', 'url(' + e.target.result + ')');
+				$('#imagePreview').hide();
+				$('#imagePreview').fadeIn(650);
+			}
+			reader.readAsDataURL(input.files[0]);
+		}
+	}
+	$("#imageUpload").change(function() {
+		readURL(this);
+	});
+
+	//Tab system
+	function activarTabC4() {
+		var tabs = document.querySelectorAll('.inputs');
+		var contents = document.querySelectorAll('.content');
+
+		function showContent(tabId) {
+			contents.forEach(function(content) {
+				if (content.id === 'c' + tabId.slice(-1)) {
+					content.classList.add('active');
+				} else {
+					content.classList.remove('active');
+				}
+			});
+		}
+
+		// Activar la pestaña c4 al cargar
+		var defaultTab = document.querySelector('#c5');
+		if (defaultTab) {
+			defaultTab.checked = true; // Marcar c5 como seleccionada
+			showContent('c5'); // Mostrar el contenido de c5
+			initPasswordToggle();
+		}
+
+		// Agregar eventos de cambio a cada pestaña para gestionar las selecciones
+		tabs.forEach(function(tab) {
+			tab.addEventListener('change', function() {
+				showContent(this.id);
+			});
+		});
+	}
+</script>
+<!-- Scripts -->
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		const breakingNewsSlider = document.querySelector(".breaking-news-slider");
+
+		// Inicializa Slick Slider si hay múltiples contenedores
+		if (breakingNewsSlider && breakingNewsSlider.children.length > 1) {
+			 $(breakingNewsSlider).slick({
+			 	vertical : true, 
+			 	slidesToShow: 1,
+			 	slidesToScroll: 1,
+			 	 Swiping: true, // Mantiene el deslizamiento  
+			 	autoplay: true,
+			 	autoplaySpeed: 4000,
+			 	infinite: true,
+			 	arrows: false,
+			 	touchMove: false, // Desactiva el movimiento táctil
+			 	swipe: false, // Desactiva cualquier tipo de deslizamiento (  u horizontal)
+			 	draggable: false, // Desactiva el arrastre con el mouse
+			 });
+
+			// Escucha el evento `afterChange` de Slick para ajustar la elipsis en el slide visible
+			/* $(breakingNewsSlider).on("afterChange", function () {
+			     adjustEllipsis();
+			 });*/
+		}
+
+		// Ajusta elipsis dinámico para los textos visibles
+		/*function adjustEllipsis() {
+		    const visibleNewsLists = document.querySelectorAll(".slick-active .news-list");
+		    visibleNewsLists.forEach(newsList => {
+		        const links = newsList.querySelectorAll("li a");
+		        links.forEach(link => {
+		            const containerWidth = link.parentNode.offsetWidth;
+		            let text = link.getAttribute("data-full-text") || link.textContent.trim();
+
+		            // Guarda el texto completo si aún no está almacenado
+		            if (!link.getAttribute("data-full-text")) {
+		                link.setAttribute("data-full-text", text);
+		            }
+
+		            // Ajusta el texto hasta que encaje en el ancho del contenedor
+		            while (link.scrollWidth > containerWidth && text.length > 0) {
+		                text = text.slice(0, -1);
+		                link.textContent = text + "...";
+		            }
+		        });
+		    });
+		}*/
+
+		// Ajusta la elipsis inicialmente para el primer slide
+		//adjustEllipsis();
+
+		// Ajusta la elipsis también en eventos de redimensionamiento de la ventana
+		//window.addEventListener("resize", adjustEllipsis);
+	});
+</script>
+<script src="/web/assets/js/principal_js.js?t=2pIIyqAmMXl1cP8c5Ges"></script>
+<!-- <script>
+	$(document).ready(function() {
+		function toggleSliderX3() {
+			if ($(window).width() < 600) {
+				if ($('.30_30_30 .slider-x3').hasClass('slick-initialized')) {
+					$(".30_30_30 .slider-x3").slick("destroy"); // Usamos destroy para asegurarnos que se quite completamente
+				}
+			} else {
+				if (!$('.30_30_30 .slider-x3').hasClass('slick-initialized')) {
+					$(".30_30_30 .slider-x3").slick({
+						autoplay: false,
+						lazyLoad: "ondemand",
+						arrows: true,
+						centerMode: false,
+						slidesToShow: 3,
+						slidesToScroll: 1,
+						adaptiveHeight: true,
+						dots: false,
+						responsive: [{
+								breakpoint: 992,
+								settings: {
+									slidesToShow: 2
+								}
+							},
+							{
+								breakpoint: 600,
+								settings: {
+									slidesToShow: 2
+								}
+							},
+						],
+					});
+				}
+			}
+		}
+		toggleSliderX3(); // Inicializar el slider-x3 según el ancho de ventana actual
+
+		$(window).on('resize', toggleSliderX3);
+	});
+</script> -->
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		const tabs = document.querySelectorAll('.inputs');
+		const contents = document.querySelectorAll('.content');
+
+		// Función para mostrar contenido y reiniciar Slick en el slider activo
+		function showContent(tabId) {
+			contents.forEach(function(content) {
+				if (content.id === 'c' + tabId.slice(-1)) {
+					content.classList.add('active');
+					initializeSlick(content.querySelector('.slider'));
+				} else {
+					content.classList.remove('active');
+					destroySlick(content.querySelector('.slider'));
+				}
+			});
+		}
+
+		// Inicializar o reiniciar el slider en el tab activo
+		function initializeSlick(slider) {
+			if (slider && !$(slider).hasClass('slick-initialized')) {
+				$(slider).slick({
+					slidesToShow: 1,
+					slidesToScroll: 1,
+					arrows: true,
+					dots: false,
+					centerMode: true,
+					variableWidth: true,
+					infinite: true,
+					focusOnSelect: true,
+					cssEase: 'linear',
+					touchMove: true,
+					prevArrow: '<button class="slick-prev"></button>',
+					nextArrow: '<button class="slick-next"></button>',
+				});
+			}
+		}
+
+		// Destruir Slick para evitar duplicados cuando se oculta el tab
+		function destroySlick(slider) {
+			if (slider && $(slider).hasClass('slick-initialized')) {
+				$(slider).slick('unslick');
+			}
+		}
+
+		// Detectar cambios de tab y reiniciar Slick
+		tabs.forEach(function(tab) {
+			tab.addEventListener('change', function() {
+				showContent(this.id);
+			});
+
+			// Cargar Slick en el tab activo al cargar la página
+			if (tab.checked) {
+				showContent(tab.id);
+			}
+		});
+	});
+
+	// Inicialización de componentes de Materialize si es necesario
+	 document.addEventListener('DOMContentLoaded', function() {
+	// Ejemplo: Inicializar menú desplegable
+	 	var modals = document.querySelectorAll('.modal');
+     	// M.Modal.init(modals);
+	});
+
+	function abrirModalMomentaneamente() {
+		// Obtener el modal de Materialize
+		const modal = document.getElementById("modal-registro");
+
+		// Asegurarse de que Materialize lo inicialice
+		const modalInstance = M.Modal.init(modal); 
+
+		// Abrir el modal
+		modalInstance.open();
+	}
+</script>
+<script>
+	$(document).ready(function() {
+		const $newsList = $('.news-list');
+		const $newsItems = $newsList.children('li');
+
+		// Check number of news items
+		if ($newsItems.length > 1) {
+			// Activate Slick slider if more than one item
+			 $newsList.slick({
+			 	vertical : true,
+			 	slidesToShow: 1,
+			 	slidesToScroll: 1,
+			 	 Swiping: true,
+			 	autoplay: true,
+			 	autoplaySpeed: 2000,
+			 	infinite: true,
+			 	arrows: false,
+			 });
+		}
+
+		// Adjust ellipsis dynamically on window resize
+		function adjustEllipsis() {
+			const containerWidth = $('.news-slider').width();
+			$newsItems.each(function() {
+				const $link = $(this).find('a');
+				let text = $link.text();
+
+				// Measure text width
+				$link.text(text); // Reset text
+				while ($link[0].scrollWidth > containerWidth) {
+					text = text.slice(0, -1);
+					$link.text(text + '...');
+				}
+			});
+		}
+
+		adjustEllipsis();
+		//$(window).on('resize', adjustEllipsis);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+		// Referencias a los elementos
+		const pasoUno = document.querySelector(".paso-uno");
+		const pasoDos = document.querySelector(".paso-dos");
+		const btnSiguiente = document.getElementById("siguiente");
+		const btnAtras = document.getElementById("bnt_regresar_paso_anterior");
+		const btnSuscribirme = document.getElementById("suscribirme");
+
+		const inputsPasoUno = pasoUno.querySelectorAll("input");
+		const inputsPasoDos = pasoDos.querySelectorAll("input");
+
+		const errorEmail = document.getElementById("error-email");
+		const labelErrorEmail = errorEmail.querySelector("label");
+
+		const errorContraseña = document.getElementById("error-password");
+		const labelErrorPassword = errorContraseña.querySelector("label");
+
+		// Función para verificar si todos los campos están completos
+		function checkInputs(inputs, button) {
+			let allFilled = true;
+
+			inputs.forEach(input => {
+				if (input.value.trim() === "") {
+					allFilled = false;
+				}
+			});
+
+			if (allFilled) {
+				button.classList.remove("disabled");
+				button.disabled = false;
+			} else {
+				button.classList.add("disabled");
+				button.disabled = true;
+			}
+		}
+
+		// Validación de contraseñas y correo en el paso uno
+		function validatePasoUno() {
+			let valid = true;
+
+			// Validar si las contraseñas coinciden
+			const contraseña = document.getElementById("password");
+			const repetirContraseña = document.getElementById("repetir-password");
+
+			if (contraseña.value !== repetirContraseña.value) {
+				contraseña.classList.add("invalid");
+				repetirContraseña.classList.add("invalid");
+				errorContraseña.style.display = "block"; // Mostrar mensaje de error
+				labelErrorPassword.style.display = "block";
+				valid = false;
+			} else {
+				contraseña.classList.remove("invalid");
+				repetirContraseña.classList.remove("invalid");
+				errorContraseña.style.display = "none"; // Ocultar mensaje de error
+				labelErrorPassword.style.display = "none";
+			}
+
+			// Validar el correo electrónico
+			const correo = document.getElementById("email");
+			const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+			if (!emailPattern.test(correo.value)) {
+				correo.classList.add("invalid");
+				errorEmail.style.display = "block"; // Mostrar mensaje de error
+				labelErrorEmail.style.display = "block";
+				valid = false;
+			} else {
+				correo.classList.remove("invalid");
+				errorEmail.style.display = "none"; // Mostrar mensaje de error
+				labelErrorEmail.style.display = "none";
+			}
+
+			return valid;
+		}
+
+		// Manejar el botón "Siguiente"
+		btnSiguiente.addEventListener("click", function() {
+			if (validatePasoUno()) {
+				pasoUno.style.display = "none";
+				pasoDos.style.display = "flex";
+				btnSiguiente.style.display = "none";
+			}
+		});
+
+		// Manejar el botón "Volver atrás"
+		btnAtras.addEventListener("click", function() {
+			if (validatePasoUno()) {
+				pasoUno.style.display = "flex";
+				pasoDos.style.display = "none";
+				btnSiguiente.style.display = "flex";
+			}
+		});
+
+		// Validar inputs del paso uno y habilitar/deshabilitar botón "Siguiente"
+		inputsPasoUno.forEach(input => {
+			input.addEventListener("input", function() {
+				checkInputs(inputsPasoUno, btnSiguiente);
+			});
+		});
+
+		// Validar inputs del paso dos y habilitar/deshabilitar botón "Suscribirme"
+		inputsPasoDos.forEach(input => {
+			input.addEventListener("input", function() {
+				checkInputs(inputsPasoDos, btnSuscribirme);
+			});
+		});
+
+		// Verificación inicial
+		checkInputs(inputsPasoUno, btnSiguiente);
+		checkInputs(inputsPasoDos, btnSuscribirme);
+	});
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", () => {
+		const counters = document.querySelectorAll(".subs-and-seguidores span");
+
+		counters.forEach(counter => {
+			const target = parseInt(counter.getAttribute("data-target"), 10); // Valor final
+			let count = 0; // Valor inicial
+			const increment = Math.ceil(target / 100); // Incremento basado en el valor final
+			const duration = 2000; // Duración total en ms
+			const interval = Math.floor(duration / (target / increment)); // Intervalo entre incrementos
+
+			const updateCounter = setInterval(() => {
+				count += increment;
+				if (count >= target) {
+					count = target; // Asegurarse de no sobrepasar el valor final
+					clearInterval(updateCounter); // Detener la animación
+				}
+				counter.textContent = count.toLocaleString(); // Actualizar el texto con formato
+			}, interval);
+		});
+	});
+</script>
+<script>
+    function enviar_form_contacto() { 
+    var nombre_form = $("#contacto_nombre").val().trim();
+    var email_form = $("#contacto_email").val().trim();
+    var telefono_form = $("#contacto_telefono").val().trim();
+    var mensaje_form = $("#contacto_mensaje").val().trim();
+    var archivo = $("#contacto_cv")[0].files[0];
+
+    // Expresión regular para validar email
+    var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    var errores = [];
+
+    // Validaciones
+    if (nombre_form === "") {
+        errores.push("El nombre es obligatorio.");
+    }
+    
+    if (email_form === "" || !emailRegex.test(email_form)) {
+        errores.push("Ingrese un email válido.");
+    }
+
+    if (telefono_form === "") {
+        errores.push("El teléfono es obligatorio.");
+    } else if (isNaN(telefono_form)) {
+        errores.push("El teléfono debe contener solo números.");
+    }
+
+    if (mensaje_form === "") {
+        errores.push("El mensaje es obligatorio.");
+    }
+
+    if (errores.length > 0) {
+        Swal.fire({
+            icon: "error",
+            title: "Error en el formulario",
+            html: errores.join("<br>"),
+        });
+        return;
+    }
+
+    var formData = new FormData();
+    formData.append("nombre_form", nombre_form);
+    formData.append("email_form", email_form);
+    formData.append("telefono_form", telefono_form);
+    formData.append("mensaje_form", mensaje_form);
+
+    if (archivo) {
+        formData.append("file", archivo);
+    }
+
+    $.ajax({
+        type: "POST",
+        data: formData, 
+        contentType: false,
+        processData: false,
+        xhrFields: {
+            withCredentials: true
+        },
+        url: `https://api.rutadeltransporte.com/api/enviar_formulario_contacto.php?t=` + generarCadenaAlfanumerica(),
+        success: function(data) {
+            Swal.fire({
+                icon: "success",
+                title: "Enviado",
+                text: "El formulario se ha enviado correctamente.",
+            });
+			// **LIMPIAR FORMULARIO DESPUÉS DEL ENVÍO**
+            $("#contacto_nombre").val("");
+            $("#contacto_email").val("");
+            $("#contacto_telefono").val("");
+            $("#contacto_mensaje").val("");
+            $("#contacto_cv").val(""); // Limpia el input file
+        },
+        error: function(request, error) {
+            Swal.fire({
+                icon: "error",
+                title: "Error",
+                text: "Hubo un problema al enviar el formulario. Inténtelo nuevamente.",
+            });
+        }
+    });
+}
+</script>
+<script>
+    window.onload = function (){
+		$("#actividad").change(function(){
+			if ($(this).val()=="Taller"){
+				$("#tipo-taller-container").show();
+			}else{
+				$("#tipo-taller-container").hide();
+			}
+			var elems = document.querySelectorAll('select');
+			var instances = M.FormSelect.init(elems);
+		});
+		$("#tipo-taller-container").hide();
+	}
+</script>
+<script>
+	$(document).ready(function() {
+		var $stickyAd = $("#content-sticky");
+		var $toggleButton = $("#toggleButton");
+
+		if ($stickyAd.length === 0) {
+			console.error("NO HAY PUBLICIDAD STICKY");
+		} else {
+			var $closeButton = $("<button>", {
+				class: "toggle-button",
+				id: "toggleButton",
+				text: "X"
+			});
+
+			$stickyAd.append($closeButton);
+
+			var $stickyAd = $("#content-sticky");
+			var $toggleButton = $("#toggleButton");
+
+			// Agregar funcionalidad al botón
+			$toggleButton.on("click", function() {
+				if ($stickyAd.hasClass("hidden")) {
+					$stickyAd.removeClass("hidden");
+					$toggleButton.text("X"); // Cambia el texto del botón
+				} else {
+					$stickyAd.addClass("hidden");
+					$toggleButton.text("⬆"); // Cambia el texto del botón
+				}
+			});
+		}
+	});
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const aboutButton = document.querySelector(".about-blog-button");
+        const aboutInfo = document.querySelector(".about-blog-info");
+        const closeButton = document.querySelector(".close-button-blog-info");
+
+        if (aboutButton && aboutInfo) {
+            aboutButton.addEventListener("click", function (event) {
+                aboutInfo.classList.add("visible");
+                event.stopPropagation(); // Evita que el clic se propague al documento
+            });
+
+            closeButton?.addEventListener("click", function () {
+                aboutInfo.classList.remove("visible");
+            });
+
+            document.addEventListener("click", function (event) {
+                if (!aboutInfo.contains(event.target) && event.target !== aboutButton) {
+                    aboutInfo.classList.remove("visible");
+                }
+            });
+        }
+    });
+</script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		let banner = document.getElementById("site-adv-side-banners");
+		let content = document.querySelector(".cd-main-content");
+
+		if (banner && content) {
+			content.insertBefore(banner, content.firstChild);
+		}
+	});
+</script>
+<script>
+	function initPasswordToggle() {
+    document.querySelectorAll(".field_pw").forEach(function (field) {
+        const passwordInput = field.querySelector("input");
+        const viewIcon = field.querySelector(".view_pw");
+        const nonViewIcon = field.querySelector(".non_view_pw");
+
+        if (!passwordInput || !viewIcon || !nonViewIcon) return;
+
+        // Ocultar el ícono "non_view" por defecto
+        nonViewIcon.style.display = "none";
+
+        // Alternar visibilidad de la contraseña
+        viewIcon.addEventListener("click", function () {
+            passwordInput.type = "text";
+            viewIcon.style.display = "none";
+            nonViewIcon.style.display = "inline-block";
+        });
+
+        nonViewIcon.addEventListener("click", function () {
+            passwordInput.type = "password";
+            nonViewIcon.style.display = "none";
+            viewIcon.style.display = "inline-block";
+        });
+    });
+}
+
+// Inicializar la función cuando el DOM esté listo
+document.addEventListener("DOMContentLoaded", initPasswordToggle);
+</script>
+<script>
+	function eliminarUltimoParrafoVacio() {
+		const articulos = document.querySelectorAll(".art-cuerpo");
+
+		if (articulos.length === 0) return; // Si no hay artículos, salir de la función
+
+		articulos.forEach(articulo => {
+			const parrafos = articulo.querySelectorAll("p");
+
+			if (parrafos.length > 0) {
+				const ultimoParrafo = parrafos[parrafos.length - 1];
+				const contenidoLimpio = ultimoParrafo.innerHTML.replace(/&nbsp;|\s|<br>/g, "").trim();
+
+				if (contenidoLimpio === "") {
+					ultimoParrafo.remove();
+				}
+			}
+		});
+	}
+
+// Ejecutar cuando el DOM esté cargado
+document.addEventListener("DOMContentLoaded", eliminarUltimoParrafoVacio);
+</script>
+<script>
+function detectarDobleContenedorDestacado() {
+    // Seleccionar todos los elementos con la clase "wrap-TRIPLE TRIPLE_SUPERIOR"
+    const elementos = document.querySelectorAll(".wrap-TRIPLE.TRIPLE_SUPERIOR");
+
+    elementos.forEach((elemento, index) => {
+        // Obtener todas las clases del elemento actual
+        const clasesElemento = Array.from(elemento.classList);
+        const claseDestacadoActual = clasesElemento.find(clase => clase.startsWith("destacado-"));
+
+        // Obtener el elemento siguiente (hermano en el DOM)
+        const siguienteElemento = elemento.nextElementSibling;
+
+        if (claseDestacadoActual && siguienteElemento) {
+            // Obtener todas las clases del siguiente elemento
+            const clasesSiguiente = Array.from(siguienteElemento.classList);
+            const claseDestacadoSiguiente = clasesSiguiente.find(clase => clase.startsWith("destacado-"));
+
+            // Verificar si el siguiente también es un destacado
+            const siguienteEsDestacado = clasesSiguiente.includes("wrap-TRIPLE") &&
+                                         clasesSiguiente.includes("TRIPLE_SUPERIOR") &&
+                                         claseDestacadoSiguiente;
+
+            // Si ambos cumplen, agregar clases específicas
+            if (siguienteEsDestacado) {
+                elemento.classList.add("tiene-doble-contenedor-destacado");
+                siguienteElemento.classList.add("tiene-doble-contenedor-destacado", "es-segundo-destacado");
+
+                // Si las clases "destacado-" son diferentes, agregar "mt-40-destacado" al segundo
+                if (claseDestacadoActual !== claseDestacadoSiguiente) {
+                    siguienteElemento.classList.add("mt-40-destacado");
+                }
+            }
+        }
+    });
+}
+
+// Ejecutar la función cuando el DOM esté cargado
+document.addEventListener("DOMContentLoaded", detectarDobleContenedorDestacado);
+
+
+function addFirstTripleClass() {
+    const firstTriple = document.querySelector(".wrap-SUPERIOR .TRIPLE_SUPERIOR");
+    
+    if (firstTriple) {
+        firstTriple.classList.add("first-triple");
+    }
+}
+
+// Ejecutar la función cuando el DOM esté cargado
+document.addEventListener("DOMContentLoaded", addFirstTripleClass);
+
+</script>
+<script>
+	// FUNCION PARA DESPLEGAR MENU HORIZONTAL SOLO CON HOVER
+	document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".NAV-Bottom li").forEach(li => {
+        let collapsible = li.querySelector("ul.collapsible");
+        
+        if (collapsible) {
+            let collapsibleBody = collapsible.querySelector(".collapsible-body");
+
+            li.addEventListener("mouseenter", function () {
+                if (collapsibleBody) {
+                    collapsibleBody.style.display = "block";
+                }
+            });
+
+            li.addEventListener("mouseleave", function () {
+                if (collapsibleBody) {
+                    collapsibleBody.style.display = "none";
+                }
+            });
+
+            li.addEventListener("click", function () {
+                if (collapsibleBody) {
+                    collapsibleBody.style.display = "none";
+                }
+            });
+        }
+    });
+});
+</script>
+<script>
+	$(document).ready(function () {
+		$(".art-cuerpo p").each(function () {
+			let $p = $(this);
+			let $img = $p.children("img");
+			let $small = $p.children("small");
+
+			// Eliminamos <br> para no contar espacios vacíos
+			$p.find("br").remove();
+
+			// Obtenemos el texto que no es imagen ni small
+			let texto = $p.contents().not("img, small").text().trim();
+
+			// Condición: debe tener imagen y algún texto, con o sin <small>
+			if ($img.length && texto.length > 0) {
+				// Agregar clase 'has-image-text' al <p>
+				$p.addClass('has-image-text');
+
+				let $figure = $("<div class='image-container'></div>");
+				$p.prepend($figure); // Insertamos antes de la imagen
+				$figure.append($img); // Movemos la imagen al div
+
+				if ($small.length) {
+					$figure.append($small); // Si hay small, lo agregamos también
+				}
+			}
+		});
+	});
+</script>
+<script>
+	$(document).ready(function () {
+		if (window.location.hash === "#registro") {
+			console.error('la URL contiene #registro');
+			setTimeout(function () {
+			$('#modal-registro').modal('open');
+			}, 200); // Le podés poner un pequeño delay por si se está cargando algo
+		}
+	});
+</script>
+<script>
+	//Función para transformar cualquier cita en un H2 dentro de ficha artículo
+		function reemplazarBlockquotesPorH2() {
+		const contenedor = document.querySelector('.art-cuerpo');
+		if (!contenedor) return;
+
+		const blockquotes = contenedor.querySelectorAll('blockquote');
+
+		blockquotes.forEach(bq => {
+			const texto = bq.textContent.trim();
+
+			// Crear nuevo <h2> con el texto
+			const h2 = document.createElement('h2');
+			h2.textContent = texto;
+
+			// Reemplazar el contenido original
+			bq.innerHTML = ''; // vaciamos el blockquote
+			bq.appendChild(h2); // insertamos el nuevo h2
+		});
+	}
+	document.addEventListener('DOMContentLoaded', reemplazarBlockquotesPorH2);
+</script>
+<!-- funcion para sticky publi -->
+<script src="/web/assets/js/sticky-add.js"></script>
+<!-- funcion para sticky publi -->
+ <script>
+	console.log('cache clean 2.0');
+ </script>
+</body>
+
+</html><!-- Host: www.rutadeltransporte.com - Server Name: www.rutadeltransporte.com - Dominio actual: www.rutadeltransporte.com -->

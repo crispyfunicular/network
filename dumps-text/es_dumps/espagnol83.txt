@@ -1,0 +1,810 @@
+    #Redes&Telecom » Feed JSON oEmbed (JSON) oEmbed (XML)
+
+   Ir al contenido principal Ir al footer
+
+   IFRAME: about:blank
+
+   logo logo
+   Nuestros Servicios
+
+   Menú
+   Vai alla homepage di RedesTelecom Vai alla homepage di RedesTelecom
+
+Qué es la red LAN y cómo protegerla: consejos
+
+     * Operadoras
+     * Seguridad
+     * Mercado
+     * Infraestructuras
+     * Comunicaciones
+     * Conectividad
+     * Guía LBC
+
+   ____________________
+
+     * Vai alla homepage di RedesTelecom Vai alla homepage di RedesTelecom
+     * ____________________
+     * Síguenos
+     *
+          + X
+          + linkedin
+          + Rss Feed
+     * ÁREA PREMIUM
+     * Whitepapers
+     * Documentos de valor
+     * CANALES
+     * Noticias
+     * Entrevistas
+     * Opinión
+     * Especiales
+     * Encuentros
+     * Guía LBC
+
+   Noticias Entrevistas Opinión Especiales Encuentros Guía LBC
+
+   especiales
+
+Qué es la red LAN y cómo protegerla: consejos
+     __________________________________________________________________
+
+   Home Seguridad
+     __________________________________________________________________
+
+   Dirección copiada
+     __________________________________________________________________
+
+   Las Local Area Network o redes de área local deben ser capaces de
+   adaptarse a las nuevas necesidades de conectividad. Saber qué tipos de
+   ataques pueden sufrir y cómo atajarlos es decisivo
+   Actualizado el 14 abr 2025
+     __________________________________________________________________
+
+   Cristina Albarrán
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Redes-LAN.-Cable-Ethernet Redes-LAN.-Cable-Ethernet
+     __________________________________________________________________
+
+   Durante diferentes generaciones la tecnología ha seguido cambiando para
+   el beneficio de los usuarios, y las redes LAN empresariales han tenido
+   que evolucionar para adaptarse a sus necesidades. La Internet de las
+   Cosas (IoT) sigue en aumento y los estándares PoE y los sistemas
+   energizados de fibra óptica (aquellos que simplifican la adición de
+   nuevas celdas pequeñas, los puntos de acceso Wi-Fi, cámaras IP,
+   teléfonos VoIP y otros dispositivos al distribuir la energía y fibra a
+   través de un mismo cable hacia cualquier punto en donde se requiera
+   energía y conexión de red) están evolucionando, afectando la
+   infraestructura del cableado.
+
+   Índice de temas
+
+     * Qué es la red LAN
+     * Cómo funcionan las redes LAN
+     * Componentes de una red LAN
+          + Cables
+          + Concentrador o hub
+          + Conmutadores
+          + Enrutadores o routers
+          + Puntos de acceso
+          + Cortafuegos
+          + Bridge o puente
+          + Repetidores de señal para ampliar las señales Wi-Fi
+     * Tipos de LAN
+          + Topología
+          + Cableado
+          + Modelo de conexión
+          + Tecnología
+     * Tipos de ataques que puede recibir una red LAN
+          + ATAQUES DE ESCANEO
+          + ATAQUES DE MODIFICACIÓN-DAÑO
+     * Cómo proteger la red LAN: consejos
+          + Implementar protocolos de contraseña sólidos
+          + Verificación de identidad
+          + Software y hardware siempre actualizados
+          + Segmentación de la LAN
+          + Tráfico de red cifrado
+          + Implementar sistemas de detección y prevención de intrusiones
+          + Educar a los empleados
+          + Apoyarse en herramientas y tecnologías
+     * Preguntas que deben hacerse los administradores de red
+          + ¿Existen pasos que los administradores de red puedan tomar
+            para minimizar los cortes y maximizar la productividad en toda
+            la empresa?
+          + ¿Existen mejores prácticas generales que se recomienden?
+          + ¿Qué deben considerar los administradores de red?
+          + ¿Cómo abordar el tema de la agilidad de red?
+     * Diferencias entre una LAN, WAN y PAN
+     * Ventajas de las redes LAN
+          + Compartición de recursos
+          + Mejora la comunicación y el trabajo en equipo
+          + Acceso seguro a la información
+          + Reducción de costes
+
+Qué es la red LAN
+
+   LAN corresponde a las siglas de Local Area Network o red de área local.
+   Se trata de una red de comunicación entre ordenadores situados en el
+   mismo edificio o en edificios cercanos, de forma que permite a sus
+   usuarios el intercambio de datos y la compartición de recursos. Es,
+   pues, una red que se limita a un área pequeña y localizada, a
+   distancias cortas. Las redes Wi-Fi domésticas y las de pequeñas
+   empresas, por ejemplo, son LAN.
+
+   Este tipo de infraestructuras suelen compartir un único punto central
+   de conexión a Internet y el estándar más frecuente para ellas es
+   Ethernet.
+
+   Si la comunicación entre diferentes computadoras o equipos periféricos
+   -como impresoras, por citar alguno-, no se realiza por cable (cobre o
+   fibra óptica) si no de forma inalámbrica, entonces esta red recibe la
+   designación de Wireless Local Area Network (WLAN). Y estas conexiones
+   se rigen por las normas IEEE 802.11.
+
+Cómo funcionan las redes LAN
+
+   Las redes LAN funcionan conectando los dispositivos (ordenadores,
+   impresoras, teléfonos...) entre sí para que puedan comunicarse y
+   compartir datos y lo hacen a través de un router y una red central. El
+   router puede utilizar Ethernet (cable) y/o Wi-Fi (vía inalámbrica) para
+   conectar dispositivos. En este último caso estaríamos hablando de WLAN
+   (Wireless Local Area Network).
+
+   ¿Y cómo se "hablan" entre ellos? Pues mediante direcciones MAC y
+   direcciones IP. Las primeras son identificadores físicos únicos
+   asignados a cada dispositivo, mientras que las segundas son
+   identificadores lógicos asignados por el router o servidor DHCP.
+
+   El software, como los protocolos de red y los sistemas operativos de
+   los dispositivos, se utiliza para administrar y controlar la
+   comunicación y gestión entre los equipos conectados.
+
+   Algunas empresas configuran varias LAN para gestionar el acceso entre
+   departamentos. Para lograr más alcance, se pueden usar uno o varios
+   enrutadores o conmutadores de red para permitir una entrega de paquetes
+   eficaz y segura entre redes de área local Ethernet.
+
+Componentes de una red LAN
+
+   Para que las redes LAN funcionen y hagan posible que los dispositivos
+   se comuniquen entre sí precisan de una serie de componentes. Hablamos
+   de hardware como cables, conmutadores, enrutadores, puntos de acceso y
+   dispositivos de red. Veamos más características de cada uno de ellos:
+
+Cables
+
+   Tanto los Ethernet como otros tipos de cables transmiten datos entre
+   los dispositivos
+
+Concentrador o hub
+
+   Es el dispositivo que centraliza el cableado de una red en estrella
+   conformando el nodo central de ésta. El hub recibe la señal de una
+   estación de trabajo o segmento de la red que la quiere transmitir y la
+   emite por sus diferentes puertos. Actualmente está en desuso.
+
+Conmutadores
+
+   Son los encargados de gestionar la comunicación entre los dispositivos
+   conectados a la red. Hace la misma función que un hub, pero de forma
+   más eficiente ya que reconoce qué puertos en ese momento tienen
+   actividad y transmitir la señal sólo a éstos, e incluso aprende a qué
+   PC de destino va dirigida.
+
+   También puede actuar como dispositivo de interconexión de redes o
+   segmentos de redes LAN, conectándose a su vez a otro switch o a un hub.
+
+Enrutadores o routers
+
+   Interconectan segmentos de red o redes enteras, aunque éstas tengan
+   distintas tecnologías o especificaciones, siempre y cuando utilicen el
+   mismo protocolo. Conecta una red LAN a Internet o una LAN a otras LAN.
+
+Puntos de acceso
+
+   Permiten la conexión de forma inalámbrica a la red de los dispositivos
+   de una LAN. También se les conoce como puntos de acceso inalámbricos
+   (WAP).
+
+Cortafuegos
+
+   También denominados firewall, impiden que intrusos de otras redes
+   accedan a la LAN.
+
+Bridge o puente
+
+   Un bridge o puente puede unir segmentos o grupos de trabajo LAN,
+   además, puede dividir una red para aislar el tráfico o los problemas.
+
+Repetidores de señal para ampliar las señales Wi-Fi
+
+   Se trata de un dispositivo hardware encargado de amplificar o regenerar
+   la señal de transmisión. Opera solamente de forma física para permitir
+   que los bits viajen a mayor distancia a través de los medios. Eso sí,
+   su uso está limitado por la distancia máxima de la red y el tamaño
+   máximo de cada uno de los segmentos de red conectados.
+
+Tipos de LAN
+
+   Existen diferentes tipos de LAN que pueden clasificarse por su
+   topología, cableado, modelo de conexión o tecnología:
+
+Topología
+
+   En este ámbito podemos aludir a los modelosde la arquitectura de red
+   entre los que destacan los de formaAnillo, Bus o barra, Estrella,
+   Árbol.
+
+Cableado
+
+   Podemos diferenciar la clásica LAN cableada, que usa cables físicos
+   para conectar dispositivos, y la LAN inalámbrica o WLAN que usa
+   tecnologías inalámbricas como Wi-Fi.
+
+Modelo de conexión
+
+   En cuanto al modelo de conexión estarían:
+     * LAN cliente-servidor, donde un servidor central gestiona el acceso
+       a archivos, aplicaciones, dispositivos y tráfico de red. Bajo este
+       sistema, un dispositivo, o servidor, recibe y responde a las
+       consultas de uno o varios dispositivos, o clientes. Es un tipo de
+       LAN idónea para grandes organizaciones en tanto en cuanto la
+       seguridad y otras configuraciones son sencillas de gestionar para
+       cada usuario.
+
+     * LAN peer-to-peer o punto a punto (P2P), que se usa en entornos
+       domésticos. Cada dispositivo puede compartir y solicitar
+       información.
+
+Tecnología
+
+     * Virtual LAN (VLAN). Permite segmentar una red física en subredes
+       lógicas independientes. Emplena tecnología en el conmutador de red
+       para controlar el tráfico entre dispositivos de modo que parezcan
+       agrupados en redes separadas, aunque físicamente formen parte de la
+       misma LAN.
+
+     * Ethernet. Este modelo permite que los dispositivos de red de datos
+       cableados se comuniquen entre sí y, por lo tanto, forman una red e
+       intercambian paquetes de datos. Una red de área local se suele
+       crear mediante este tipo de conexiones Ethernet.
+
+     * Token Ring y Token Bus. Las redes Token Ring fueron populares en
+       los años 80, pero desde entonces se han sustituido por tecnologías
+       Ethernet superiores. Las redes Token Ring están conectadas como un
+       circuito, y los datos se transmiten alrededor del anillo de un
+       dispositivo a otro.
+
+     * Arcnet. La Attached Resource Computter NETwork se trata de una red
+       de fácil instalación que posibilita diferentes configuraciones
+       topológicas para adaptarse a las estaciones de trabajo de una
+       empresa. Es como una red de caminos para transmitir información
+       entre computadoras.
+
+Tipos de ataques que puede recibir una red LAN
+
+   Las redes LAN, tan habituales en oficinas y hogares, no están exentas
+   de riesgos de seguridad. Sus vulnerabilidades pueden manifestarse de
+   varias maneras, como protocolos de contraseña débiles, software
+   obsoleto o hardware sin parches. Los ciberdelincuentes aprovechan estas
+   debilidades para obtener acceso no autorizado, lanzar ataques o robar
+   información confidencial. Como resultado, las empresas pueden sufrir
+   importantes pérdidas financieras, daños a su reputación e implicaciones
+   legales.
+
+     Malware, escuchas activas, suplantación de DNS y modificación de
+     datos son algunos de los principales ataques a una red LAN
+
+   Así, entre los principales ataques que puede recibir una red LAN
+   podemos mencionar los siguientes:
+
+ATAQUES DE ESCANEO
+
+   Los ataques de escaneo se realizan para la recopilación de información
+   sobre posibles puertas de acceso a la red. Consisten en recopilar la
+   información de qué puertos están escuchando en la red para
+   posteriormente acceder a los recursos a través de ellos.
+
+   Ataques de escaneo TCP: El protocolo TCP/IP utiliza puertos virtuales
+   para realizar el envío y recepción de los datos por la red adoptando la
+   estrategia cliente/servidor, escucha permanente por determinados
+   puertos para recibir los datos que se van a transmitir de un equipo a
+   otro.
+
+   Ataque por fragmentación: Consiste en fragmentar los paquetes de
+   ataques SYN y FIN para que los filtros de la red no puedan detectarlos.
+   Es poco efectivo ya que genera tal cantidad de pequeños paquetes que
+   son enviados a la víctima, que pueden llegar a bloquear tanto los
+   recursos del atacante como saturar las colas de los posibles filtros de
+   la red (firewalls).
+
+   Snnifing: Se considera un ataque pasivo, porque realmente sólo recopila
+   y almacena la información que circula por la red. Estas herramientas se
+   pueden instalar tanto en quipos de la red como en equipos de
+   comunicaciones de la red.
+
+   Snooping: También es pasivo y escucha en la red todo el tráfico, pero a
+   diferencia del anterior, este ataque permite acceder a datos e incluso
+   descargar los mismos para una manipulación posterior.
+
+ATAQUES DE MODIFICACIÓN-DAÑO
+
+   Este tipo de ataques son los más peligrosos porque actúan sobre los
+   datos o los programas instalados, modificando o borrando los archivos.
+   Necesitan primero de los anteriores para obtener la información
+   necesaria de la red y normalmente es el objetivo final de un intruso.
+
+   Tampering o Data Diddling: Con este tipo de ataques se puede hacer
+   mucho daño a entidades como bancos, ya que, al acceder al sistema, si
+   se han conseguido los permisos oportunos, deja libre al atacante para
+   crear por ejemplo cuentas falsas o modificar las existentes y desviar
+   dinero de una a otra. El uso de virus en sistemas también es
+   considerado como un ataque de modificación o daño, por ejemplo, los
+   troyanos ocultos en programas que efectúan operaciones de modificación
+   y borrado sin el control del usuario que los está usando.
+
+   Obtención de password Cracking: Consiste en obtener las claves de
+   acceso a los equipos a través de herramientas que realizan todas las
+   combinaciones posibles, hasta dar con la correcta. Son conocidos como
+   ataques por fuerza bruta. Poner password demasiado evidentes, o no
+   cambiar nunca la palabra de paso hace más sencillo este tipo de ataque.
+
+   En definitiva, todos estos tipos de ataques se traducen principalmente
+   en malware, escuchas activas, suplantación de DNS y modificación de
+   datos.
+
+Cómo proteger la red LAN: consejos
+
+   Asegurar las redes informáticas es cada vez más importante porque
+   compromete la continuidad de las operaciones de las empresas. Por ello,
+   para protegerse contra las vulnerabilidades de las LAN, las
+   organizaciones deben implementar medidas de seguridad sólidas, como
+   monitoreo regular de la red, controles de acceso y actualizaciones del
+   sistema.
+   Asegurar las redes informáticas es cada vez más importante porque
+   compromete la continuidad de las operaciones de las empresas.
+
+   Y este asunto hay que tomárselo en serio porque cada vez es mayor el
+   número de atacantes y cada vez están más organizados, por lo que van
+   adquiriendo día a día habilidades más especializadas que les permiten
+   obtener mayores beneficios. Tampoco deben pasarse por alto los fallos
+   de seguridad provenientes del interior mismo de la organización. Para
+   prevenir tales ataques y/o posibles fallas en la administración de la
+   red es necesario un buen sistema de seguridad. Pero no es la única
+   herramienta a nuestro alcance ya que proteger una LAN requiere un
+   enfoque multifacético que combine controles técnicos, educación de los
+   empleados y evaluaciones periódicas.
+
+Implementar protocolos de contraseña sólidos
+
+   Hay que utilizar contraseñas únicas y complejas habilitando, siempre
+   que sea posible, la autenticación de dos factores. Además, conviene
+   cambiar periódicamente las credenciales predeterminadas en los
+   dispositivos de red y aplicar requisitos de complejidad de contraseñas.
+
+Verificación de identidad
+
+   Con el fin de confirmar que quienes acceden al sistema son quienes
+   dicen ser, debemos establecer datos de autenticación. Además del
+   usuario y la contraseña, que pueden ser robados en algún momento, otros
+   sistemas como la huella digital o el lector de retina pueden complicar
+   el acceso a la red LAN de intrusos.
+
+Software y hardware siempre actualizados
+
+   Otro punto muy importante es actualizar periódicamente el software y el
+   firmware para corregir las vulnerabilidades de seguridad. A tal fin se
+   puede establecer un proceso para monitorear y aplicar actualizaciones
+   de forma rápida. En este sentido, existe la opción de implementar un
+   sistema automatizado de administración de parches para agilizar este
+   mecanismo.
+
+Segmentación de la LAN
+
+   Una herramienta muy interesante para salvaguardar las redes LAN es
+   dividir esta infraestructura en segmentos separados según la función o
+   departamento. Esta tarea puede realizarse mediante firewalls o VLAN
+   para contener posibles infracciones y limitar el movimiento lateral
+   dentro de la red.
+
+Tráfico de red cifrado
+
+   Para cifrar el tráfico de red pueden utilizarse protocolos de cifrado,
+   como Secure Sockets Layer (SSL) o Transport Layer Security (TLS), para
+   proteger los datos confidenciales transmitidos a través de la LAN. Esto
+   evita las escuchas y la interceptación de datos por parte de personas
+   no autorizadas.
+
+Implementar sistemas de detección y prevención de intrusiones
+
+   Instalar estos sistemas basados en la red (IDS/IPS) permite monitorear
+   el tráfico de la red en busca de actividades sospechosas y bloquear
+   automáticamente amenazas potenciales. Eso sí, hay que actualizar y
+   ajustar periódicamente estos sistemas para adelantarse a las amenazas
+   emergentes.
+
+Educar a los empleados
+
+   El empleado/usuario es el eslabón más débil de la cadena en una
+   empresa. Gran parte de los agujeros de seguridad que se producen en las
+   organizaciones tienen su origen en un error humano. Para evitarlo no
+   hay otra solución: educar al trabajador sobre las mejores prácticas de
+   ciberseguridad. Mediante sesiones de capacitación periódicas sobre
+   ataques de phishing, técnicas de ingeniería social y hábitos de
+   navegación segura.
+
+Apoyarse en herramientas y tecnologías
+
+   Existen en el mercado soluciones que nos pueden ayudar en la tarea de
+   proteger la LAN como las herramientas de monitoreo de red; de escaneo
+   de vulnerabilidades; sistemas de prevención y detección de intrusiones
+   (IDS/IPS); soluciones de control de acceso a la red (NAC) que imponen
+   políticas de acceso a los dispositivos LAN, o de gestión de eventos e
+   información de seguridad (SIEM) que recopilan y analizan registros de
+   varios dispositivos de red para identificar incidentes de seguridad,
+   correlacionar eventos y generar información procesable para la
+   respuesta a incidentes.
+
+Preguntas que deben hacerse los administradores de red
+
+   Para Andrés Mariño, Field Application Engineer en CommScope, el rol de
+   la red LAN empresarial es hoy más valioso que nunca: "Además de TI, es
+   compatible con prácticamente todas las funciones críticas de los sitios
+   de trabajo: comunicaciones inalámbricas, control de acceso y seguridad,
+   gestión de instalaciones, iluminación inteligente y una creciente lista
+   de dispositivos IoT. Dentro de este contexto ampliado, los problemas de
+   confiabilidad de la red y continuidad del negocio adquieren una mayor
+   importancia".
+
+   Si un problema de conectividad afecta a cualquiera de estas funciones,
+   el impacto podría ser sumamente costoso ya que podría implicar cortes
+   de red no planificados, afectando la continuidad del negocio.
+
+   Al respecto, Mariño señala que para que exista una red más confiable en
+   su edificio hay algunas preguntas que debe hacerse para conocer el
+   estado de su infraestructura, y saber si las soluciones que se están
+   implementando son o no las adecuadas. Estas son algunas:
+
+¿Existen pasos que los administradores de red puedan tomar para minimizar los
+cortes y maximizar la productividad en toda la empresa?
+
+   Sí, siempre que se quiera expandir el enfoque más allá de la
+   redundancia y de la administración de la infraestructura automatizada.
+   Aunque diseñar redundancia completa en la red e implementar
+   inteligencia basada en AIM para administrar la red son dos aspectos
+   fundamentales, en la actualidad eso es solo el inicio.
+
+¿Existen mejores prácticas generales que se recomienden?
+
+   La respuesta es sí, pero hay que considerar que cada red empresarial
+   requiere de un conjunto único de soluciones acorde a sus necesidades.
+   Un primer paso podría ser estandarizar el cableado Categoría 6A, lo que
+   simplifica el diseño de red garantizando mayores velocidades y mayor
+   ancho de banda, además de permitir la alimentación remota vía Ethernet
+   (PoE).
+
+¿Qué deben considerar los administradores de red?
+
+   Los administradores de red deben valorar varias cosas, por ejemplo,
+   cómo aumenta la confiabilidad de red PoE de bajo voltaje al mismo
+   tiempo que admite más dispositivos. Un segundo aspecto será considerar
+   si su red inalámbrica al interior del edificio soportará tecnologías
+   Wi-Fi, LTE, 5G. Finalmente, un tercer aspecto será desarrollar una
+   buena estrategia de migración hacia alta velocidad. "Aunque son solo
+   algunas de las áreas a considerar, existen muchas otras que también
+   deben tenerse en cuenta. La idea es tener un panorama general de la
+   confiabilidad de la red en todos sus aspectos".
+
+¿Cómo abordar el tema de la agilidad de red?
+
+   Ante los cambios que se van dando en las redes de los edificios, la
+   infraestructura debe ser capaz de adaptarse a nuevos requerimientos. Lo
+   básico es contar con una topología de cableado estructurado bien
+   planificada, que permita escalar según la demanda sin tener que tocar
+   el cableado troncal. Después, se deberán utilizar componentes modulares
+   que puedan conectarse y desconectarse de manera sencilla y rápida, de
+   forma tal que permita transportar nuevas tecnologías y velocidades más
+   rápidas en la red principal.
+
+   Al igual que estas cuestiones, existen otras que deben considerarse
+   para garantizar una red confiable y, por ende, la continuidad del
+   negocio. "También aspectos como la administración automatizada de la
+   infraestructura tienen que ser primordiales. Un buen sistema de
+   administración automatizada le brinda visibilidad en toda la capa
+   física", concluye el experto.
+
+Diferencias entre una LAN, WAN y PAN
+
+   En función del tamaño y del alcance de la red de ordenadores (área de
+   cobertura), se pueden encontrar diferentes tipos de redes que han sido
+   diseñadas para ámbitos de aplicación concretos.
+
+   Como hemos visto, una red LAN es una red de área local o Local Area
+   Network. Permite la comunicación entre ordenadores ubicados en el mismo
+   edificio o en edificios cercanos, por lo que se limita a un área
+   pequeña y localizada, en otras palabras, a distancias cortas. Las Wi-Fi
+   domésticas se incluirían dentro de esta modalidad, al igual que las que
+   se emplean en pequeñas empresas. Comparten un único punto central de
+   conexión a Internet y el estándar más frecuente para ellas es Ethernet.
+
+   Por otro lado, están las WAN (Wide Area Network o red de área extensa),
+   que son una red privada de telecomunicaciones geográficamente
+   distribuida, es decir, que se extiende por una gran zona geográfica que
+   abarca países o continentes y que, normalmente, interconecta múltiples
+   redes de área local (LAN). Suelen utilizarlas las grandes empresas para
+   conectar sus redes de oficinas. En este sentido, cada oficina o
+   sucursal suele tener su propia red LAN y estas se conectan a través de
+   WAN.
+
+   En el otro extremo de las WAN nos encontramos con las PAN: Personal
+   Area Network. Dispositivos como smartphones, portátiles, sobremesa o
+   tabletas permiten asociarse ad hoc a una red para realizar el
+   intercambio de datos. Esto puede llevarse a cabo por cable y adoptar la
+   forma de una red de área personal. El ámbito de estas conexiones se
+   limita, por lo general, a unos pocos metros por lo que no las hace
+   aptas para establecer la conexión con dispositivos que se encuentran en
+   habitaciones o edificios diferentes. Las PAN sirven, por ejemplo, para
+   conectar auriculares inalámbricos, videoconsolas o cámaras digitales.
+
+Ventajas de las redes LAN
+
+   Como gran ventaja de las redes LAN podemos mencionar que permiten el
+   acceso a Internet de varios dispositivos en un área local a través de
+   una única conexión a Internet. Unida a esta podemos mencionar otras:
+
+Compartición de recursos
+
+   Por sus características, estas redes hacen posible compartir recursos
+   entre varios dispositivos. Además, permite el acceso a una conexión a
+   Internet compartida. Ambas opciones redundan en un ahorro de costes y
+   eficiencia.
+
+Mejora la comunicación y el trabajo en equipo
+
+   Los usuarios pueden compartir datos, información y recursos de forma
+   rápida, cómoda y eficiente. Esto redunda en un aumento de productividad
+   y en una disminución de los tiempos de respuesta.
+
+   Además, estas redes pueden ser configuradas de acuerdo a las
+   necesidades específicas de una organización, lo que aporta gran
+   flexibilidad.
+
+Acceso seguro a la información
+
+   Las redes LAN facilitan el acceso seguro a información restringida en
+   archivos compartidos para ayudar a mantener protegida la información
+   crítica. Estas infraestructuras pueden mantenerse protegidas de
+   posibles atacantes con el uso de autenticación, cortafuegos y un
+   IDS/IPS (sistema de detección/prevención de intrusiones). Asimismo, al
+   tener una conexión a Internet compartida, es posible instalar software
+   de seguridad centralizado que proteja a todos los dispositivos
+   conectados a la red
+
+Reducción de costes
+
+   Las redes LAN también pueden ayudar a reducir los costes de una
+   organización simplemente por el hecho de compartir recursos como una
+   impresora o una conexión a Internet, unida a sus posibilidades de
+   personalización y flexibilidad.
+   Publicado originalmente en 19 jun 2019
+   @REPRODUCCIÓN CONFIDENCIAL
+
+   ¿Qué te ha parecido este artículo?
+     *
+     *
+     *
+     *
+
+   (BUTTON)
+
+   Tu opinión es importante para nosotros.
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) ENVIAR
+
+   Suscríbete a la newsletter para recibir información de valor de su
+   interés
+   email ____________________
+
+   Al hacer clic en "SUSCRÍBETE A LA NEWSLETTER", declaro que he leído la
+   política de privacidad y deseo recibir la Newsletter
+   [ ] Autorizo el envío de comunicaciones promocionales y comerciales en
+   nombre de tercerosLos terceros pertenecen a los siguientes sectores:
+   servizi (incluidos TIC/digital), industria manufacturera, comercio,
+   administración pública.
+   (BUTTON) SUSCRíBETE A LA NEWSLETTER
+
+Cristina Albarrán
+
+Leer también:
+
+     * Lowi presenta su nuevo servicio de televisión con más de 100
+       canales
+     * Opera lanza un nuevo sistema para gestionar pestañas en iOS
+     * Qué es Wi-Fi 7, para qué sirve y novedades
+     __________________________________________________________________
+
+   Temas
+     * D
+       Dispositivos
+     * E
+       Especiales
+     * E
+       Ethernet
+     * P
+       Productividad
+     * R
+       Redes
+     * S
+       Soluciones
+     __________________________________________________________________
+
+   Canales
+     * Especiales Especiales
+       Especiales
+     * Seguridad Seguridad
+       Seguridad
+
+Artículos relacionados
+
+     *
+     * Lowi entra en la televisión: más de 100 canales por 5 EUR/mes con
+       Lowi TV Lowi entra en la televisión: más de 100 canales por 5
+       EUR/mes con Lowi TV
+     * operadoras
+
+Lowi presenta su nuevo servicio de televisión con más de 100 canales
+       19 Ago 2025
+       por Redacción RedesTelecom
+       Compartir el post
+          +
+          +
+          +
+          +
+       Compartir
+
+     *
+     * Opera lanza un nuevo sistema para gestionar pestañas en iOS Opera
+       lanza un nuevo sistema para gestionar pestañas en iOS
+     * noticias
+
+Opera lanza un nuevo sistema para gestionar pestañas en iOS
+       11 Sep 2025
+       por Redacción RedesTelecom
+       Compartir el post
+          +
+          +
+          +
+          +
+       Compartir
+
+     *
+     * El estándar Wi-Fi 7 es oficial. El estándar Wi-Fi 7 es oficial.
+     * especiales
+
+Qué es Wi-Fi 7, para qué sirve y novedades
+       06 Jun 2025
+       por Cristina Albarrán
+       Compartir el post
+          +
+          +
+          +
+          +
+       Compartir
+
+   [69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABvBoT4AAFLNxwlAAAAAEl
+   FTkSuQmCC] [newsletter.png]
+   logo logo
+
+   Tu contenido, tu privacidad!
+
+   En esta página web utilizamos cookies técnicas que son necesarias para
+   la navegación y la prestación del servicio. También utilizamos cookies
+   para ofrecerle una mejor experiencia de navegación, para facilitar la
+   interacción con nuestras funciones sociales y para permitirle recibir
+   comunicaciones de marketing que coincidan con sus hábitos de navegación
+   e intereses.
+
+   Puede expresar su consentimiento a la instalación de cookies de
+   perfiles haciendo haciendo clic en ACEPTAR. Para rechazar puede hacer
+   clic en RECHAZAR. Puede configurar las preferencias de cookies haciendo
+   clic en CONFIGURAR.
+
+   Siempre puede gestionar sus preferencias entrando en nuestro CENTRO DE
+   COOKIES y obtener más información sobre las cookies que utilizamos
+   visitando nuestra POLÍTICA DE COOKIES.
+   CONFIGURAR
+   RECHAZAR
+   ACEPTAR
+
+   Cookie Center
+   ACEPTAR TODO
+   RECHAZAR TODO
+
+   A través de nuestro Centro de cookies, tiene la posibilidad de
+   seleccionar/deseleccionar las categorías individuales de cookies que se
+   utilizan en los sitios web.
+
+   Para saber más sobre las cookies que utilizamos, puedes profundizar en
+   la Política de Cookies.
+   ACEPTAR TODO
+   RECHAZAR TODO
+
+   COOKIES TÉCNICAS
+   Estrictamente necesario
+
+   Las cookies técnicas son necesarias para el funcionamiento del sitio
+   web porque permiten funciones que facilitan la navegación del usuario,
+   por ejemplo, el usuario puede acceder a su perfil sin tener que iniciar
+   sesión cada vez o puede seleccionar el idioma que desea utilizar para
+   navegar en la web sin tener que configurarlo cada vez.
+
+   COOKIES ANALÍTICAS
+   [ ]
+
+   Las cookies analíticas, que pueden ser propias o de terceros, se
+   instalan para recoger información sobre el uso del sitio web. En
+   particular, son útiles para analizar estadísticamente los accesos o las
+   visitas al propio sitio y para permitir al propietario mejorar su
+   estructura, su lógica de navegación y sus contenidos.
+
+   COOKIES DE PERFIL Y PLUGINS DE REDES SOCIALES
+   [ ]
+
+   Las cookies de perfil y los plugins de redes sociales, que pueden ser
+   propias o de terceros, se utilizan para seguir la navegación del
+   usuario, analizar su comportamiento con fines de marketing y crear
+   perfiles sobre sus gustos, hábitos, elecciones, etc. De esta manera es
+   posible, por ejemplo, enviar mensajes publicitarios teniendo en cuenta
+   los intereses del usuario y de acuerdo con las preferencias expresadas
+   por éste al navegar por Internet.
+   GUARDAR Y SALIR
+
+     * Vai alla homepage di RedesTelecom Vai alla homepage di RedesTelecom
+     * Síguenos Suscríbete a la newsletter Suscríbete a la newsletter
+     * Nosotros Etiquetas Rss Feed Aviso Legal Privacidad Cookie Cookie
+       Center
+
+   digital360-iberia digital360-iberia
+   Digital360 Iberia, filial iberica del Grupo italiano Digital360, es un
+   grupo de empresas especializada en el marketing B2B para el mercado
+   tecnológico, entre otros sectores, y una red de medios digitales
+   dedicados a los temas de Transformación Digital e Innovación
+   Empresarial.
+   Business-Publications-Spain Business-Publications-Spain
+   BPS (Business Publications Spain), editora de Redes&Telecom, es una
+   compañía del Grupo Digital360 Iberia.
+   Dirección
+   Calle Azcona 12, Bajo B, 28028 Madrid
+   España
+   Contactos
+   info@bps.com.es
+   +91 313 79 00
+
+   BPS está inscrita en el Registro Mercantil de Madrid, Volumen 24.100,
+   Folio 172, Página M-433036 - Número de Identificación Fiscal:
+   B-85062503
+
+   © 2025 BPS Business Publications Spain S.L. Todos los derechos
+   reservados.
+
+   Mapa del Sitio
+   close
+
+Código Rss
+
+   Para copiar el enlace RSS en el portapapeles, haga clic en el botón.
+   RSS link https://www.redestel
+   Copiar enlace
+   close
+
+Código Rss
+
+   Para copiar el enlace RSS en el portapapeles, haga clic en el botón.
+   RSS link https://www.redestel
+   Copiar enlace

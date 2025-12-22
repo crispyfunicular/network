@@ -1,0 +1,95 @@
+               o Grandes Empresas
+          + Particulares
+          + Redes y tecnología
+     * Sala de comunicación (BUTTON)
+       Sala de comunicación
+--
+          + Blog
+          + Reportes
+          + Redes sociales
+     * Accionistas e Inversores (BUTTON)
+       Accionistas e Inversores
+--
+     Servicios
+
+                               Redes y tecnología
+
+   La conectividad es el primer requisito para acceder al mundo digital.
+   Las redes de telecomunicaciones constituyen la plataforma
+   transformadora más poderosa de la Tierra. Nunca antes había habido una
+   tecnología que llegase a tanta gente tan rápidamente.
+--
+   Las compañías de telecomunicaciones son la columna vertebral de nuestra
+   sociedad y solo pueden cumplir con su papel si disponen de las mejores
+   redes, de la mejor tecnología. Nuestro esfuerzo se enfoca en que todos,
+   personas y negocios, puedan acceder a la conectividad y a la
+   digitalización.
+--
+   a prueba de futuro, fiable, resiliente y segura.
+
+   Una red fundamentada en las tecnologías de fibra, FTTH y en la
+   evolución de las tecnologías móviles 4G y 5G. Garantizando una
+   conectividad Wi-Fi excelente en el hogar.
+
+   Una red escalable, innovadora, capaz de gestionar cada vez más tráfico,
+   un mayor número servicios y una mayor complejidad en la propuesta de
+   valor ofrecida tanto en el ámbito B2C como en el B2B.
+
+   Una red flexible y eficiente gracias a una gestión y operación cada vez
+   más automatizada y que evoluciona hacia el concepto zero-touch.
+
+   Una red más sostenible, alimentada por fuentes renovables, que ha
+   conseguido estabilizar el consumo energético y eléctrico desde 2015 a
+   pesar de que el tráfico gestionado por nuestras redes ha aumentado más
+   de cinco veces en ese periodo de tiempo.
+
+   Una red que ha demostrado su robustez y estabilidad absorbiendo el gran
+   crecimiento de tráfico generado por la crisis Covid-19 en el año 2020
+   sin incidentes significativos ni saturación.
+--
+
+   Además, la tecnología de fibra nos permite optimizar el despliegue de
+   las redes 5G, soportar el backhaul de las estaciones base y acoger
+   nuevas capacidades, como el Edge computing.
+
+   Somos conscientes del papel esencial de nuestras infraestructuras en el
+   momento actual y hemos cerrado el año 2020 con 48 millones de unidades
+   inmobiliarias pasadas con nuestra propia red de fibra, liderando el
+   despliegue de FTTH en Europa y Latam.
+
+--
+   virtualización y softwarización de la red, el paradigma telco cloud y
+   las arquitecturas OpenRAN en el ámbito de las redes móviles y Open
+   Broadband en las redes fijas. También las arquitecturas abiertas y
+   modulares en el ámbito IT, así como la evolución a 5G con tecnologías
+   de edge computing y network slicing, entre otras.
+--
+Un Nuevo Modelo Operativo
+
+   Los diferentes segmentos de la red, fija y móvil, y el conjunto de los
+   sistemas se encuentran en pleno proceso de transformación para
+   conseguir una mayor flexibilidad, eficiencia y orientación al cliente.
+   La complejidad de las redes 5G aumentará rápidamente en los próximos
+   años y administrarlas manualmente será inviable. La automatización es
+   absolutamente obligatoria porque sin ella la red no podrá crecer para
+   ofrecer nuevos servicios. En Telefónica estamos trabajando en la
+   transformación de los modelos operativos a medida que implementamos
+--
+   password de acceso.
+
+Actualidad sobre Redes y Tecnología
+
+   Redes y Tecnología
+   Blog
+   04/12/2025
+   Redes y Tecnología
+
+Crowdsourcing: el aliado invisible para mejorar la experiencia de la red
+
+   Fotografía de Víctor Iglesias
+--
+
+La optimización radio intenta que los usuarios tengan la mejor experiencia de
+cliente de la red móvil
+
+   Fotografía de María Ángeles Núñez

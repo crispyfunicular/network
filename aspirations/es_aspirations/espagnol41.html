@@ -1,0 +1,126 @@
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Página web bloqueada</title>
+
+  <style>
+    .content-notfound {
+      position: relative;
+      display: flex;
+      background-color: #fff;
+      height: 100%;
+    }
+
+    .content-notfound .notfound {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 100%;
+      max-width: 960px;
+      padding-right: 15px;
+      padding-left: 15px;
+      line-height: 1.4;
+      text-align: center;
+      transform: translate(-50%, -50%);
+      box-sizing: border-box;
+    }
+
+    .content-notfound .notfound-500 {
+      position: absolute;
+      top: 0;
+      left: 50%;
+      z-index: -1;
+      height: 100px;
+      transform: translateX(-50%)
+    }
+
+    .content-notfound .notfound-500 h1 {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin: 0;
+      color: #ececec;
+      font-family: Encode_Sans, Arial, sans-serif;
+      font-weight: 900;
+      font-size: 162px;
+      transform: translate(-50%, -50%)
+    }
+
+    .content-notfound .notfound-500 h1::before {
+      display: none
+    }
+
+    @media (width >=1020px) {
+      .content-notfound .notfound-500 h1 {
+        font-size: 276px
+      }
+    }
+
+    .content-notfound .notfound h2 {
+      margin: 0;
+      color: #000000;
+      font-family: Encode_Sans, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 26px;
+      text-transform: uppercase
+    }
+
+    @media (width >=1020px) {
+      .content-notfound .notfound h2 {
+        font-size: 40px;
+      }
+    }
+
+    .content-notfound .notfound p {
+      margin-top: 25px;
+      color: #000;
+      font-family: Encode_Sans, Arial, sans-serif;
+      font-weight: 400;
+      font-size: 18px;
+    }
+
+    
+
+    .content-notfound .notfound hr {
+      width: 6%;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      border: solid 2px #000000;
+      border-radius: 12px;
+    }
+
+    .logotipo {
+      background-color: #FFDB00;
+      display: inline-flex;
+      margin-top: 30px;
+      padding: 12px;
+    }
+
+    .logotipo img {
+      max-height: 80px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="content-notfound">
+    <div class="notfound">
+      <div class="notfound-500">
+        <h1>403</h1>
+      </div>
+      <h2>Página web bloqueada.</h2>
+      <hr>
+      <p>Lo sentimos, los sistemas de seguridad han bloqueado la web a la que intenta acceder por motivos de seguridad. Por favor, intente acceder nuevamente más tarde.</p>
+      <div class="logotipo">
+        <img src="https://cdn.transportes.gob.es/portal-web-transportes/Plantillas-403-404/logo-ministerio.svg" alt="Logotipo del Ministerio de Transportes y Movilidad Sostenible">
+      </div>
+      
+    </div>
+  </div>
+</body>
+
+</html>

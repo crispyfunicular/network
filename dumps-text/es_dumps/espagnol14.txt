@@ -1,0 +1,5 @@
+   REFRESH(360 sec):
+   file://localhost/var/folders/fl/1bsp5ls92j56z8p0gtbyyh140000gn/T/L92749
+   -8721TMP.html
+
+   Enable JavaScript and cookies to continue

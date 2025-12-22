@@ -1,0 +1,321 @@
+   [tr?id=28837981099181242&ev=PageView&noscript=1] #The HUB Formación
+   Profesional » Feed The HUB Formación Profesional » Feed de los
+   comentarios oEmbed (JSON) oEmbed (XML) JSON
+   [tr?id=28837981099181242&ev=PageView&noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NLKSMQP2
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NLKSMQP2
+
+   Ir al contenido
+
+     * 976 240 308
+     * 621 151 911
+     * hola@thehubfp.es
+
+     *
+     *
+     *
+     *
+
+   Logo The Hub FP color
+
+     * FP Zaragoza
+          + Marketing y Publicidad
+          + DAM
+          + ASIR
+          + Gráfica Interactiva
+     * Orientador FP
+     * Método Steam
+     * Blog
+     * Contacto
+
+     * FP Zaragoza
+          + Marketing y Publicidad
+          + DAM
+          + ASIR
+          + Gráfica Interactiva
+     * Orientador FP
+     * Método Steam
+     * Blog
+     * Contacto
+
+   campus online
+
+   SETAM y Hedy Lamarr
+
+   HEDY LAMARR
+     * abril 11, 2024
+
+¿Qué y por qué son importantes las Redes Informáticas?
+
+   ¿Qué son las redes informáticas y por que son importantes?
+
+   En el mundo en el que vivimos estar "ON" es más una necesidad que una
+   opción. Y, aunque estés navegando en Instagram, viendo un video en
+   YouTube o enviando un meme por WhatsApp, todo esto es posible gracias a
+   las redes informáticas.
+
+   Si alguna vez te has preguntado cómo funciona esta magia digital, estás
+   en el lugar correcto. Hoy en The Hub Kings Corner vamos a sumergirnos
+   en los fundamentos de las redes, específicamente diseñado para ti,
+   porque sabemos que valoras el contenido rápido, claro y, sobre todo,
+   útil.
+
+¿Qué es una red informática?
+
+   Una red informática no es más que un grupo de ordenadores y otros
+   dispositivos conectados entre sí. ¿El objetivo? Compartir recursos e
+   información.
+
+   Imagina que la red es como tu grupo de amigos en WhatsApp; solo que, en
+   lugar de compartir memes y dramas, los ordenadores comparten datos y
+   recursos como impresoras, archivos, y por supuesto, acceso a Internet.
+
+Tipos de redes
+
+   Dentro de este universo conectado, existen diferentes tipos de redes,
+   cada una con su propio propósito y escala.
+     * Redes LAN (Local Area Network)
+
+   Piénsalo como tu casa o tu cafetería favorita con WiFi. Es una red en
+   un área pequeña donde todos los dispositivos están relativamente cerca.
+     * Redes WAN (Wide Area Network)
+
+   Esto es a gran escala, piensa en cómo el Internet conecta tu casa con
+   el mundo.
+     * Redes MAN (Metropolitan Area Network)
+
+   Imagina una red que cubre una ciudad entera, es más grande que una LAN
+   pero más pequeña que una WAN.
+
+Cómo funcionan las redes. El modelo TCP/IP
+
+   Hablemos de cómo estas redes realmente funcionan. El modelo TCP/IP es
+   esencialmente el conjunto de reglas que las computadoras siguen para
+   comunicarse en Internet. Piensa en TCP/IP como el idioma que tus
+   dispositivos hablan cuando están en línea.
+     * TCP (Transmission Control Protocol)
+
+   Se asegura de que los datos enviados lleguen correctamente. Si envías
+   un mensaje de texto a un amigo, TCP es como el servicio de entrega que
+   se asegura de que tu mensaje llegue íntegro.
+     * IP (Internet Protocol)
+
+   Se encarga de la dirección. Al igual que necesitas una dirección para
+   enviar una carta, cada dispositivo en una red necesita una dirección IP
+   para enviar y recibir información.
+
+Seguridad en redes
+
+   Hoy en día, la seguridad en línea es más importante que nunca. Los
+   ataques cibernéticos no son solo cosas de películas; pueden afectarte
+   directamente. Aquí tienes algunas maneras de mantenerte seguro:
+     * Firewalls
+
+   Decide qué tráfico de Internet puede entrar y salir de tu red.
+     * Antivirus
+
+   Esencial para proteger tus dispositivos contra software malicioso.
+     * VPN (Virtual Private Network)
+
+   Crea un túnel seguro para tu tráfico de Internet, protegiendo tu
+   identidad y datos en línea.
+
+¿Necesito ser un experto en TI para entender las redes?
+
+   No, definitivamente no. Entender los fundamentos puede ayudarte a
+   navegar mejor en el mundo digital y tomar decisiones informadas sobre
+   tu seguridad en línea.
+
+¿Por qué es importante la seguridad en las redes?
+
+   Con el crecimiento exponencial de la información en línea, proteger tus
+   datos personales es crucial para evitar el robo de identidad, fraudes,
+   y otros riesgos de seguridad.
+
+¿Cómo puedo mejorar la velocidad de mi conexión a Internet?
+
+   Comienza por verificar la calidad de tu equipo y tu plan de Internet. A
+   veces, un simple reinicio del router puede hacer maravillas. Considera
+   también la posibilidad de usar conexiones por cable para dispositivos
+   fijos y mantener tu firmware actualizado.
+
+   Navegar por el vasto mar de la red puede parecer desalentador al
+   principio, pero entender los fundamentos es como aprender a nadar; te
+   abre un mundo de posibilidades. Las redes informáticas son una
+   herramienta poderosa en nuestras vidas cotidianas, permitiéndonos
+   conectarnos, aprender, trabajar y jugar.
+
+   Al cuidar la seguridad de tus dispositivos y conocer cómo funciona la
+   magia detrás de escenas, estás no solo protegiéndote sino también
+   aprovechando al máximo este recurso increíble. Así que, ya sea que
+   estés twitteando, strimeando o simplemente navegando, recuerda que todo
+   esto es posible gracias a las redes informáticas. Y ahora, ¡estás un
+   paso más cerca de ser un experto en la materia!
+
+   Arquitecturas de Red Avanzadas
+
+Arquitecturas de Red Avanzadas
+
+   Blockchain y Seguridad
+
+Blockchain y Seguridad
+
+   Análisis de Tráfico de Red
+
+Análisis de Tráfico de Red
+
+   ASIR o Administración de Sistemas Informáticos en Red
+
+¿Qué es ASIR o Administración de Sistemas Informáticos en Red?
+
+   Seguridad de Datos. Estrategias Críticas para Proteger Datos en Redes
+   Informáticas
+
+Seguridad de Datos. Estrategias Críticas para Proteger Datos en Redes
+Informáticas
+
+   Linux para administradores
+
+Linux para Administradores
+
+   Ayúdanos a compartir este artículo
+   Facebook
+   X
+   LinkedIn
+   WhatsApp
+
+Grado Superior en
+
+Administración de Sistemas Informáticos en Red
+
+   En The Hub Kings Corner, queremos llevarte al "next level" tecnológico
+   con el Grado Superior en Administración de Sistemas Informáticos en Red
+   (ASIR). Si sueñas con ser un crack en redes y sistemas, este es tu
+   sitio. No solo aprenderás, transformarás tu curiosidad en una carrera
+   llena de posibilidades, innovación y éxito. ¿Listo para ser el experto
+   en sistemas que el futuro necesita?
+
+Titulación oficial
+
+Metodología STEAM
+
+Bilingüe
+
+Certificaciones
+oficiales
+
+   Más información
+   SETAM y Hedy Lamarr
+   Solicita información
+
+   Para cursar el Grado Superior en Administración de Sistemas
+   Informáticos en Red en The Hub Kings Corner
+
+   Logo_TheHub Kings Corner
+
+   The Hub FP es tu centro de Formación Profesional Oficial en el centro
+   de Zaragoza.
+     *
+     *
+     *
+     *
+
+   nuestras fps
+     * Marketing y Publicidad
+     * DAM
+     * ASIR
+     * Gráfica Interactiva
+     * Transporte y Logística
+     * Administración y finanzas
+
+   De interés
+     * Recomendador FP
+     * Blog
+
+   Contacta
+     * 976 240 308
+     * 621 151 911
+     * hola@thehubfp.es
+     * C.C. El Caracol. Entrada C/ Cádiz 9, 50004, Zaragoza
+
+     * Política de Cookies
+     * Política de Privacidad
+     * Aviso Legal
+
+   Copyright © 2025 Kings Corner | Desarrollado con cH por Kings Corner
+   (BUTTON)
+
+     * FP Zaragoza (BUTTON) Alternar menú
+          + Marketing y Publicidad
+          + DAM
+          + ASIR
+          + Gráfica Interactiva
+     * Orientador FP
+     * Método Steam
+     * Blog
+     * Contacto
+
+   Más información
+   Más información
+   Acceso campus
+   Acceso campus
+
+     * FP Zaragoza (BUTTON) Alternar menú
+          + Marketing y Publicidad
+          + DAM
+          + ASIR
+          + Gráfica Interactiva
+     * Orientador FP
+     * Método Steam
+     * Blog
+     * Contacto
+
+   Consentimiento sobre las cookies
+   Para ofrecer las mejores experiencias, utilizamos tecnologías como las
+   cookies para almacenar y/o acceder a la información del dispositivo. El
+   consentimiento de estas tecnologías nos permitirá procesar datos como
+   el comportamiento de navegación o las identificaciones únicas en este
+   sitio. No consentir o retirar el consentimiento, puede afectar
+   negativamente a ciertas características y funciones.
+   Funcional [ ] Funcional Siempre activo
+   El almacenamiento o acceso técnico es estrictamente necesario para el
+   propósito legítimo de permitir el uso de un servicio específico
+   explícitamente solicitado por el abonado o usuario, o con el único
+   propósito de llevar a cabo la transmisión de una comunicación a través
+   de una red de comunicaciones electrónicas.
+   Preferencias [ ] Preferencias
+   El almacenamiento o acceso técnico es necesario para la finalidad
+   legítima de almacenar preferencias no solicitadas por el abonado o
+   usuario.
+   Estadísticas [ ] Estadísticas
+   El almacenamiento o acceso técnico que es utilizado exclusivamente con
+   fines estadísticos. El almacenamiento o acceso técnico que se utiliza
+   exclusivamente con fines estadísticos anónimos. Sin un requerimiento,
+   el cumplimiento voluntario por parte de tu proveedor de servicios de
+   Internet, o los registros adicionales de un tercero, la información
+   almacenada o recuperada sólo para este propósito no se puede utilizar
+   para identificarte.
+   Marketing [ ] Marketing
+   El almacenamiento o acceso técnico es necesario para crear perfiles de
+   usuario para enviar publicidad, o para rastrear al usuario en una web o
+   en varias web con fines de marketing similares.
+     * Administrar opciones
+     * Gestionar los servicios
+     * Gestionar {vendor_count} proveedores
+     * Leer más sobre estos propósitos
+
+   (BUTTON) Aceptar (BUTTON) Denegar (BUTTON) Ver preferencias (BUTTON)
+   Guardar preferencias Ver preferencias
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Consentimiento sobre las cookies
+
+   Escríbenos :)
+
+   ¡Gracias!
+   En The Hub Kings Corner estamos emocionados por tu interés en nuestro
+   curso «Hackea tus estudios». ¡Pronto nos pondremos en contacto!

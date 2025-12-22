@@ -1,0 +1,33 @@
+Bike
+
+     * Red ciclista/ciclable
+     * Cómo circular
+     * Aparcamiento
+--
+    3. / Bicicleta
+
+Red ciclista/ciclable
+
+   Todas las calles, carriles bici y otros espacios de la ciudad que están
+   pensados para circular por ellos en bicicleta. Incluye la red ciclista,
+   las calles 30, las calles de plataforma única, los ejes pacificados y
+   los parques, entre otros espacios.
+--
+   aunque no se recomienda su uso por la seguridad de las personas
+   ciclistas y por una mejor convivencia entre los diversos medios de
+   transporte.  Por eso no se las incluye en la red ciclista.
+
+   Sumando todos los recorridos, calles y carriles bici aptos para
+--
+   siguiente. También puede hacer clic sobre el elemento que desea
+   visualizar.
+   Red Ciclista Ciclable
+   (BUTTON) Ir al elemento anterior de la galería (BUTTON) Ir al siguiente
+   elemento de la galería
+     * (BUTTON) Red Ciclista Ciclable
+
+   Diapositiva 1 de 1
+
+Mapa de la red ciclista
+
+   Descargar mapa (PDF)

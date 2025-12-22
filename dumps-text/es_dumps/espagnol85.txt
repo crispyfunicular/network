@@ -1,0 +1,1015 @@
+    #Redes&Telecom » Feed JSON oEmbed (JSON) oEmbed (XML)
+
+   Ir al contenido principal Ir al footer
+
+   IFRAME: about:blank
+
+   logo logo
+   Nuestros Servicios
+
+   Menú
+   Vai alla homepage di RedesTelecom Vai alla homepage di RedesTelecom
+
+Qué es 5G, cómo funciona y futuro de la tecnología
+
+     * Operadoras
+     * Seguridad
+     * Mercado
+     * Infraestructuras
+     * Comunicaciones
+     * Conectividad
+     * Guía LBC
+
+   ____________________
+
+     * Vai alla homepage di RedesTelecom Vai alla homepage di RedesTelecom
+     * ____________________
+     * Síguenos
+     *
+          + X
+          + linkedin
+          + Rss Feed
+     * ÁREA PREMIUM
+     * Whitepapers
+     * Documentos de valor
+     * CANALES
+     * Noticias
+     * Entrevistas
+     * Opinión
+     * Especiales
+     * Encuentros
+     * Guía LBC
+
+   Noticias Entrevistas Opinión Especiales Encuentros Guía LBC
+
+   especiales
+
+Qué es 5G, cómo funciona y futuro de la tecnología
+     __________________________________________________________________
+
+   Home Especiales
+     __________________________________________________________________
+
+   Dirección copiada
+     __________________________________________________________________
+
+   En este artículo sabrás qué es la quinta generación de redes móviles,
+   por qué es importante, cómo funciona y cuáles son sus ventajas y
+   aplicaciones
+   Actualizado el 5 dic 2025
+     __________________________________________________________________
+
+   Cristina Albarrán
+     __________________________________________________________________
+     __________________________________________________________________
+
+   5G, la quinta generación de redes móviles. 5G, la quinta generación de
+   redes móviles. 5G, la quinta generación de redes móviles.
+     __________________________________________________________________
+
+   5G es la quinta generación de redes móviles, una tecnología inalámbrica
+   que se propaga por enlaces radio. En 2018 se completó la primera norma
+   5G en una versión inicial del Release 15 del 3GPP (3rd Generation
+   Partnership Project, una organización de estándares de
+   telecomunicaciones), avanzando enormemente en la definición de nuevas
+   capacidades técnicas para esta generación y permitiendo que el
+   despliegue de redes comenzara ya desde finales de dicho año.
+   Posteriormente, esta asociación fue lanzando nuevas actualizaciones a
+   esta norma inicial (Release 16, 17 y beyond).
+
+   Pero, ¿por qué se habla tanto de 5G?,¿qué es 5G o la tecnología 5G?,
+   ¿qué hace tan especial a esta actualización frente a sus predecesoras?,
+   ¿cuál es su funcionamiento y características? En este artículo
+   respondemos a estas preguntas y muchas más.
+
+   Índice de temas
+
+     * Qué es el 5g
+     * ¿Por qué es importante 5G?
+     * ¿Cómo funciona la tecnología 5G?
+     * Espectro del 5g
+          + 5G de banda baja (por debajo de 1GHz)
+          + 5G de banda media (1GHz a 6GHz)
+          + 5G de banda alta (24,25 GHz a 86 GHz)
+     * 5G: Características principales
+          + OFDM
+          + Ondas milimétricas (mmWaves)
+          + Torres más pequeñas
+          + Segmentación de la red o network slicing
+          + Conformación de haces
+     * Características principales de 5G
+     * Ventajas de 5G para las empresas
+          + Soluciones de movilidad autónoma
+          + Coche conectado
+          + Fábricas inteligentes
+          + Realidad virtual
+          + Smart homes
+          + Edge computing
+     * Ventajas de 5G en la telefonía móvil
+          + Menor consumo energético
+          + Mayor ancho de banda
+          + Teleeducación
+     * Ventajas de la tecnología 5G de un vistazo
+     * Otras aplicaciones de 5G
+          + De ciudades inteligentes al todo conectado: IoT
+          + Telemedicina
+          + Streaming y mundo del directo
+          + Teletrabajo
+          + Casos de uso punteros de la tecnología 5G
+     * Diferencias entre 5G, 4G y 3G
+          + Redes 3G (HSPA, UMTS)
+          + Redes 4G
+          + Redes 5G
+     * Peligros de 5G
+     * Cuándo llegó 5G a España
+     * Qué países disponen de tecnología 5G
+     * El futuro de 5G: nuevas tecnologías y 6G
+
+Qué es el 5g
+
+   5G es la quinta generación de redes móviles. Ofrece una conectividad
+   más rápida que 4G (hasta 100 veces más veloz), una latencia ultra-baja
+   y mayor ancho de banda. Además, mejora la precisión del posicionamiento
+   y permite conexiones masivas, lo que aporta nuevas posibilidades para
+   aplicaciones de IoT. A ello se suma una cobertura eficiente mediante la
+   agregación de operadores 5G y el uso compartido de espectro que hacen
+   posible agregar y reutilizar emplazamientos y espectro desplegados,
+   redundando pues en una cobertura más amplia.
+
+¿Por qué es importante 5G?
+
+   Seguro que has oído hablar de 5G. Como hemos comentado al principio de
+   este artículo, se trata de una tecnología inalámbrica, la evolución de
+   4G. ¿Por qué es tan importante? Bien es cierto que ofrece mayores
+   velocidades de carga y descarga, conexiones más consistentes y una
+   capacidad mejorada que las redes anteriores, siendo más veloz y fiable
+   que su generación predecesora. Sin embargo, su verdadero punto fuerte
+   es el potencial transformador que tiene y que hará posible el vehículo
+   autónomo, aplicaciones de juegos más realistas y streaming avanzado,
+   entre otros casos como cirugías remotas o Industria 4.0.
+
+     5G permite dar soporte a la cada vez mayor cantidad de dispositivos
+     conectados a la vez
+
+   No en vano, el crecimiento exponencial y desorbitado de datos
+   incentivado por la extrema digitalización de la sociedad y la aparición
+   de tecnologías como la Inteligencia Artificial y la Internet de las
+   cosas están provocando un aumento masivo de los datos, con volúmenes
+   que crecerán en varios cientos de zettabyates. Y eso es mucho, mucho,
+   mucho para que la infraestructura móvil anterior pueda soportarlo, pero
+   con 5G cambia la película gracias a la alta velocidad y baja latencia
+   que brinda.
+
+¿Cómo funciona la tecnología 5G?
+
+   5G es una tecnología radio y como tal emplea torres de
+   telecomunicaciones con antenas que transmiten datos a través de ondas
+   de radio. Dichos emplazamientos se conectan o bien inalámbricamente o
+   por cable.
+   5G es una tecnología radio que depende de torres de telecomunicaciones.
+
+   Las redes actuales -anteriores a 5G-, dependen de grandes torres
+   celulares de alta potencia, las cuales envían señales de baja
+   frecuencia (menos 6 GHz) a largas distancias. El problema es que estas
+   frecuencias de radio no pueden transmitir datos con la rapidez
+   suficiente para admitir las altas velocidades que se supone que
+   alcanzará el servicio 5G. Además, la cantidad de dispositivos que se
+   conectan es cada vez mayor, lo cual reduce aún más las velocidades y
+   requiere el empleo de nuevas tecnologías.
+
+   Ante esta situación, las redes 5G son capaces de minimizar la potencia
+   de transmisión, lo que permite optimizar los niveles de los campos
+   electromagnéticos y garantiza el uso mínimo de energía de los
+   dispositivos adaptados a esta tecnología para completar una
+   comunicación satisfactoria, llegando a alcanzar hasta un 90% en el
+   ahorro de energía.
+
+   Mientras la red 4G transmite en una frecuencia de entre 800 y 1800 Mhz,
+   5G utiliza frecuencias de 700 MHz y 3,5 GHz, y se apoya en las redes de
+   LTE (Long Term Evolution, es decir, Evolución a Largo Plazo), una
+   tecnología de conectividad inalámbrica que ofrece también alta
+   velocidad y estabilidad.
+
+   Para dar soporte, se ha diseñado una nueva arquitectura avanzada de
+   radio muy eficiente a través del uso de antenas Massive MIMO, que ayuda
+   a minimizar las transmisiones de las redes 5G y adaptarse a los
+   requisitos del servicio. Esto es posible, entre otras cosas, gracias a
+   que las antenas dan cobertura sólo donde se necesita.
+
+   Recapitulando, 5G se sustenta en ondas de radio de alta frecuencia,
+   para recibir y transmitir datos y así mantener la conectividad. Se
+   trata de micro frecuencias que, aunque poseen un gran ancho de banda,
+   se debilitan rápidamente a largas distancias, por lo que implican la
+   instalación de múltiples torres con antenas para el soporte de red y la
+   transmisión y rebote de señal. Esta nueva tecnología de transmisión
+   inalámbrica se sostiene en la infraestructura ya existente que soporta
+   la red 4G, y le suma nuevas antenas para asignar una frecuencia más
+   alta y ampliar la señal, moviendo la información a una velocidad mayor,
+   casi instantánea y en tiempo real.
+
+Espectro del 5g
+
+   Esta generación de redes móviles incorpora nuevas bandas de frecuencia
+   en el rango de espectro medio y alto. De esta manera, combinadas junto
+   con las frecuencias de banda baja 3GPP existentes, 5g puede ofrecer la
+   cobertura, calidad y capacidad necesarias para nuevos servicios como
+   banda ancha móvil mejorada, IoT, automatización industrial y casos de
+   negocio de misión crítica.
+
+   Estas son las bandas de frecuencia de 5G:
+
+5G de banda baja (por debajo de 1GHz)
+
+   Proviene de una combinación de espectro reagrupado de las primeras
+   generaciones móviles (1G, 2G) y bandas no utilizadas anteriormente.
+
+5G de banda media (1GHz a 6GHz)
+
+   Combina buenas características de propagación (cobertura) y anchos de
+   banda más amplios (capacidad). Esto incluye las bandas 3G/4G
+   existentes, así como nuevo espectro con licencia para servicios
+   móviles.
+
+5G de banda alta (24,25 GHz a 86 GHz)
+
+   Es completamente nuevo para 5G y permite el lanzamiento de servicios 5G
+   de alto rendimiento en zonas dedicadas. Los servicios que dependen de
+   la banda alta 5G requieren implementaciones más densas de soluciones de
+   small cell para lograr la cobertura interior y exterior de alta
+   capacidad requerida.
+
+5G: Características principales
+
+   5G es una evolución de 4G, pero con mayores capacidades. De hecho,
+   podemos mencionar una serie de tecnologías asociadas y que la hacen
+   diferente de otras generaciones:
+
+OFDM
+
+   La multiplexación por división de frecuencia ortogonal (OFDM) es una
+   parte esencial de la tecnología 5G. OFDM es un formato de modulación
+   que codifica las ondas aéreas de banda alta incompatibles con 4G y
+   ofrece una menor latencia y una mayor flexibilidad en comparación con
+   las redes LTE.
+
+Ondas milimétricas (mmWaves)
+
+   Son ondas a frecuencias muy altas (de los 20 a los 100 GHz) que pueden
+   transmitir señales a velocidades increíbles. Desgraciadamente, no
+   pueden recorrer largas distancias, hacer giros ni atravesar paredes.
+   Para evitar esos problemas, se utilizan las frecuencias de banda media
+   y baja. Sin embargo, si se instalan nodos de mmWave dentro de la línea
+   de visión, las ondas de mayor frecuencia pueden saltar de un punto a
+   otro y ofrecer el máximo de cobertura inalámbrica 5G con una latencia
+   más baja.
+
+Torres más pequeñas
+
+   La tecnología 5G también utiliza transmisores más pequeños colocados en
+   edificios y otras infraestructuras. La tecnología 4G y las anteriores
+   dependían de torres móviles independientes. La capacidad de hacer
+   funcionar la red desde pequeños emplazamientos celulares permitirá
+   utilizar muchos dispositivos a velocidades superiores.
+
+Segmentación de la red o network slicing
+
+   Los operadores de redes móviles utilizan la tecnología 5G para
+   desplegar múltiples redes virtuales independientes sobre la misma
+   infraestructura. Es lo que se conoce como network slicing o
+   segmentación de la red. Para algunas personas es la característica
+   distintiva de la tecnología 5G, la cual permite que los proveedores
+   dediquen segmentos virtuales de sus redes a usos específicos. En virtud
+   de este desarrollo, se puede personalizar cada corte de red para
+   diferentes servicios y casos de empresa, como los servicios de
+   streaming o tareas empresariales. Al formar una colección de funciones
+   de red 5G para cada caso de uso o modelo de negocio específico, puede
+   dar soporte a diferentes requisitos de todos los sectores verticales.
+   La separación de servicios significa que los usuarios se benefician de
+   una experiencia más fiable y una mayor eficiencia en sus dispositivos.
+
+     Para algunas personas la segmentación de la red o network slicing es
+     la característica distintiva de la tecnología 5G
+
+   Por poner un ejemplo, los datos que se utilizan para el
+   entretenimiento, la comunicación e Internet harán uso de un segmento de
+   la red, mientras que la transmisión de datos de máquina a máquina
+   tendrá su propio segmento específico. Los datos esenciales, como los
+   que se necesitan para los vehículos sin conductor, los servicios de
+   emergencia y otras infraestructuras clave, tendrán un acceso exclusivo
+   a la red 5G que no podrá ser utilizado por el resto de los servicios.
+
+Conformación de haces
+
+   Las torres celulares emiten sus señales en todas las direcciones, lo
+   cual puede generar mucha interferencia. La conformación de haces
+   funciona como un semáforo, ya que modera las señales y se enfoca en un
+   solo flujo de datos para un usuario específico en un momento
+   determinado. Una vez que se transfieren los datos, la señal se mueve
+   hacia otro lugar, para poder cumplir con lo que solicitó otro usuario.
+   Esta señal personalizada puede reducir considerablemente las
+   interferencias entre las celdas celulares y lograr que la transmisión
+   de datos sea más rápida y eficiente.
+
+Características principales de 5G
+
+     * Una tasa de datos de hasta 10Gbps - > de 10 a 100 veces mejor que
+       las redes 4G y 4.5G
+     * Latencia de 1 milisegundo
+     * Banda ancha 1.000 veces más rápida por unidad de área
+     * Hasta 100 dispositivos más conectados por unidad de área (en
+       comparación con las redes 4G LTE)
+     * Disponibilidad del 99.999%
+     * Cobertura del 100%
+     * Reducción del 90% en el consumo de energía de la red
+     * Hasta 10 diez años de duración de la batería en los dispositivos
+       IoTde baja potencia
+
+Ventajas de 5G para las empresas
+
+   Aunque cada vez hay más móviles capacitados para 5G, lo cierto es que
+   esta tecnología tendrá un mayor uso en empresas. Ya hemos comentado
+   otras veces que se trata de una tecnología horizontal que no va
+   propiamente orientada a usuarios particulares, sino a todos los
+   sectores de actividad empresarial transformando diferentes áreas como
+   sanidad, energía o entretenimiento, entre otras.
+
+   Tal y como comentaba Arturo Azcorra en una entrevista concedida a
+   Redes&Telecom,las necesidades del usuario individual se satisfacen en
+   un 99% con 4G y LTE-A. Como explicaba, los ciudadanos de a pie van a
+   "notar 5G" por los servicios verticales que va a tener: lo van a notar
+   porque su vehículo va a conducir solo o porque va a tener una sanidad
+   monitorizada (tratamientos médicos adaptados a cada uno de nosotros).
+
+   Las capacidades flexibles de la 5G habilitan un amplio abanico de
+   modelos de negocios, entre ellos el acceso fijo-inalámbrico, banda
+   ancha móvil optimizada, y soporte para IoT. La norma tecnológica para
+   5G brinda las especificaciones para utilizar nuevo espectro de ondas
+   milimétricas (mmWave) que nunca antes había sido empleado para
+   comunicaciones por tecnología celular.
+
+   La 5G va a ser, pues, otra revolución industrial y estas serán las
+   ventajas para las empresas.
+
+Soluciones de movilidad autónoma
+
+   Hasta ahora, los automóviles completamente autónomos no se consideraban
+   viables debido al tiempo que tarda un vehículo en enviar y recibir
+   información. Sin embargo, la baja latencia de 5G significa que
+   podríamos ver cómo se generalizan los coches de conducción autónoma,
+   con carreteras conectadas con transmisores y sensores que envían y
+   reciben información a los vehículos en una milésima de segundo. El
+   tiempo reducido es fundamental para que la IA y la tecnología de radar
+   interpreten lo que ven (otros coches, peatones, señales de stop) y
+   controlen el coche en consecuencia.
+
+Coche conectado
+
+   La evolución de las redes 5g y el desarrollo de IoT son los grandes
+   motores del coche conectado. El objetivo de estas tecnologías es
+   convertir a los coches en dispositivos conectados capaces de
+   comunicarse con aquello que les rodea a través de la red. La mayoría de
+   los nuevos modelos de vehículos ya cuentan con conexión a Internet como
+   una parte más del equipamiento, integrando de fábrica. Aquellos que no
+   disponen de esta instalación para conectarse, pueden comunicarse bien a
+   través de un smartphone o a través de dispositivos que se instalan
+   directamente al coche. En su futuro desarrollo, 5g será el principal
+   impulsor.
+
+Fábricas inteligentes
+
+   Las redes móviles 5G son una oportunidad para que los fabricantes creen
+   fábricas inteligentes hiperconectadas. 5G es compatible con la Internet
+   de las cosas, lo que significa que las fábricas pueden conectar de
+   forma inalámbrica varios miles de dispositivos inteligentes, como
+   cámaras y sensores, para recopilar automáticamente datos en tiempo
+   real. Las fábricas pueden analizar y procesar estos datos para que las
+   operaciones sean más eficientes y rentables aportando información sobre
+   la renovación de equipos, su mantenimiento y otras variables.
+   Las fábricas inteligentes hiperconectadas serán posible gracias a las
+   redes 5G.
+
+Realidad virtual
+
+   La tecnología de realidad virtual y realidad aumentada (RV/RA) permite
+   que los móviles, los auriculares, las gafas inteligentes y otros
+   dispositivos conectados agreguen superposiciones digitales a las vistas
+   en vivo. La tecnología de RV/RA tiene una gran cantidad de casos de
+   uso, como el mantenimiento guiado, reparaciones, operaciones en
+   instalaciones industriales, formación en el lugar de trabajo, ventas y
+   marketing, y colaboración en tiempo real. La baja latencia y gran ancho
+   de banda de la tecnología móvil 5G hará que la RV y RA sea accesible a
+   más empresas y casos de uso haciendo posible una experiencia inmersiva
+   auténtica.
+
+Smart homes
+
+   La implementación de la tecnología 5g hará que las conexiones sean más
+   rápidas y estables entre dispositivos domésticos, lo que posibilitará
+   una transmisión de datos en tiempo real más veloz y el desarrollo de
+   las casas inteligentes o smart homes.
+
+Edge computing
+
+   La computación de periferia se entiende como el proceso de ofrecer
+   capacidades de almacenamiento y análisis de datos más cerca de sus
+   puntos de conexión. Permite crear aplicaciones de alto rendimiento que
+   pueden procesar y almacenar datos cerca de donde se generan, gracias a
+   una latencia ultrabaja y una capacidad de respuesta inteligente y en
+   tiempo real. Con la calidad cada vez mayor de los casos de uso de la
+   informática de borde y los requisitos de datos, es necesaria una red de
+   alta velocidad para satisfacer la necesidad de una capacidad de
+   respuesta casi en tiempo real. Y eso lo ofrece 5G.
+
+Ventajas de 5G en la telefonía móvil
+
+   Aunque 5G se plantea como una tecnología más centrada en el ámbito
+   corporativo, también aporta interesantes ventajas para la telefonía
+   móvil y que repercuten directamente en el consumidor.
+   Aunque es una tecnología orientada a empresas, 5G también aporta
+   ventajas para el ciudadano.
+
+   Entre ellas podemos mencionar la siguientes:
+
+Menor consumo energético
+
+   Se estima que la tecnología 5G es capaz de reducir el consumo
+   energético de los dispositivos, permitiendo una mayor durabilidad de la
+   batería, extendiendo su vida útil.
+
+Mayor ancho de banda
+
+   5G permite un aumento significativo del ancho de banda de las redes,
+   haciendo posible una mayor capacidad para procesar grandes volúmenes de
+   datos en un solo instante. De esta forma, al utilizar dispositivos
+   móviles 5G, mejorará la conectividad, independiente del lugar en que se
+   encuentre el usuario.
+
+Teleeducación
+
+   En el mundo de la educación esta generación hará factible nuevos
+   métodos de aprendizaje, más didácticos y prácticos para los estudiantes
+   a través de la realidad aumentada y realidad virtual.
+
+Ventajas de la tecnología 5G de un vistazo
+
+     * Disminución bestial de la latencia
+     * Incremento del ancho de banda
+     * Mejora del rendimiento
+     * Menor saturación de las redes
+     * Mayor autonomía de los dispositivos conectados
+     * Tecnología impulsora de IoT, smart cities e Industria 4.0
+     * Acceso en tiempo real a información
+     * Habilitador de nuevos modelos de negocio como el coche conectado y
+       autónomo, la cirugía remota o la agricultura y ganadería
+       inteligentes
+     * Tecnología horizontal orientada a todos los sectores de actividad
+       empresarial
+
+Otras aplicaciones de 5G
+
+De ciudades inteligentes al todo conectado: IoT
+
+   Las ciudades inteligentes se basan en dispositivos de IoT para
+   recopilar datos del tráfico, las personas e infraestructuras en tiempo
+   real. Al analizar esos datos, los planificadores urbanos toman
+   decisiones mejor informadas, reducen las emisiones, mejoran los
+   servicios públicos, reducen el tráfico y mejoran la calidad del aire.
+   La aparición del 5G podría ser el catalizador para que las principales
+   ciudades del mundo estén realmente conectadas.
+
+   Pero la Internet de las cosas no sólo fomentará el desarrollo de smart
+   cities, también será el habilitador de smart industries y smart
+   buildings, además de ser una herramienta de gran ayuda en telemedicina.
+
+Telemedicina
+
+   Las redes 5G pueden aportar un gran valor añadido a la tecnología
+   sanitaria. Por ejemplo, la baja latencia permitirá compartir
+   información en tiempo real a través de videos de alta definición, lo
+   que podría hacer más común la cirugía a distancia. También se prevé que
+   los wearables se hagan más comunes y proporcionen a los profesionales
+   sanitarios datos de retroalimentación. El seguimiento en tiempo real
+   dará lugar a una asistencia sanitaria cada vez más personalizada para
+   los pacientes y ayudará a los médicos a detectar antes los signos de
+   enfermedad. Será, pues, una gran aliada para la telemedicina.
+
+Streaming y mundo del directo
+
+   La red 5G también permite realizar retransmisiones de eventos
+   deportivos y espectáculos en directo, nuevas fórmulas de visitar museos
+   y viajar a otros mundos y otras épocas, con funcionalidades de Realidad
+   Virtual e Inteligencia Artificial, entre otras muchas posibilidades.
+   5G está mejorando considerablemente la experiencia de usuario en el
+   streaming de contenido.
+
+   El streaming de contenido es una de las aplicaciones más utilizadas en
+   los dispositivos móviles, y 5G está mejorando significativamente la
+   experiencia de usuario en este ámbito. Los usuarios pueden transmitir
+   contenido sin interrupciones ni retrasos. Además, con se puede
+   descargar contenido más rápido.
+
+   Por otra parte, los proveedores de servicios de streaming pueden
+   atender a un mayor número de usuarios simultáneamente sin afectar la
+   calidad del servicio. La mayor capacidad de red también significa que
+   los usuarios pueden transmitir contenido en áreas de alta densidad de
+   población sin experimentar interrupciones.
+
+Teletrabajo
+
+   Igualmente, este tipo de redes al ser más potentes, rápidas y con menor
+   latencia, mejoran la calidad de las comunicaciones necesarias para el
+   teletrabajo. Y es que, hacen posible transmitir imágenes, audio y vídeo
+   de alta resolución y, además, los trabajadores a distancia tienen una
+   conectividad inmediata más expedita, conectividad que les permite un
+   mejor acceso al software de acceso remoto y les facilita la
+   colaboración entre colegas, las operaciones en línea y el intercambio
+   de archivos en la nube.
+
+   Además, como la 5G permite habilitar la realidad virtual (VR) mediante
+   la combinación de tecnologías de realidad aumentada y mixta en lo que
+   se conoce como XR (Extended Reality), las reuniones de trabajo remotas
+   son como reuniones presenciales, fortaleciendo la integración del
+   personal y el mantenimiento de la cultura corporativa.
+
+Casos de uso punteros de la tecnología 5G
+
+   Cirugía remota
+
+   Ya hemos visto trabajar a robots quirúrgicos manejados por cirujanos in
+   situ, realizando intervenciones mínimamente intrusivas con una
+   precisión extrema gracias al control de varios brazos por un operador
+   humano desde una consola. El cambio que aporta la llegada de 5G es que
+   haya un cirujano a cientos de kilómetros controlando cada movimiento
+   del robot en tiempo real. Esto permitirá el trabajo de diferentes
+   profesionales de otros países realizando operaciones sin que estén
+   presentes físicamente.
+
+   Coches autónomos con una red 5G
+
+   La conducción sin ningún tipo de asistencia humana o sólo en ciertas
+   circunstancias será posible al despliegue de 5G. Mediante esta red los
+   coches autónomos podrán comunicarse entre sí, con las señales de
+   tráfico o los sensores en carretera y con los satélites con una
+   latencia muy reducida. Esos milisegundos son los que pueden suponer la
+   diferencia entre un viaje seguro y un accidente.
+
+   Desactivación de explosivos
+
+   Otro campo en el que los robots han ido adquiriendo protagonismo es en
+   la desactivación de bombas. Este es un terreno en el que la precisión
+   milimétrica y, por supuesto, la capacidad de reacción inmediata pueden
+   ser una cuestión de vida o muerte. Gracias a la tecnología 5G, estos
+   robots podrían operar en zonas de guerra de forma segura gracias a
+   operadores a distancia.
+
+Diferencias entre 5G, 4G y 3G
+
+   Existen diferencias significativas entre las generaciones de redes
+   móviles 3G, 4G y 5G. Básicamente podríamos hablar de que 5G ofrece
+   velocidades más rápidas (10 gigabits por segundo, lo que las hace 10
+   veces más rápidas que las redes 4G); ultra baja latencia (un
+   milisegundo); y mayor ancho de banda (baja, media y alta con
+   disponibilidad de megahercios en diferentes espectros de frecuencia
+   desde 3.5 GHz, 700 Mhz y 800 Mhz y banda de 26 Ghz).
+
+   Pero veamos en detalle que aporta cada generación:
+
+Redes 3G (HSPA, UMTS)
+
+   Son las redes móviles de tercera generación. La principal diferencia
+   entre la red 2G y la red 3G es que ésta ofrece una mayor velocidad de
+   navegación (alcanzado hasta 2 Mbps).
+
+   Representó un salto en la telefonía a la era digital; entre los cambios
+   que trajo está la transmisión de datos, videos y voz sin necesidad de
+   cables. Con una red 3G en un smartphone o tablet pueden funcionar al
+   mismo tiempo los servicios de voz y datos. También permitió la
+   posibilidad de conectarse a internet a través de un módem USB.
+
+   En años posteriores se implementaron mejoras, conocidas como 3.5G o
+   HSDPA High Speed Downlink Packet Access o acceso ascendente de paquetes
+   a alta velocidad, en español (por eso aparece una "H" o "H+" en los
+   celulares), con las que se puede alcanzar una velocidad de hasta 14
+   Mbps.
+
+Redes 4G
+
+   Estas redes representan el siguiente paso a 3G. Con ellas la red de
+   datos mejora en calidad y velocidad, permitiendo velocidades de hasta
+   75 Mbps de bajada (descarga) y 25 Mbps de subida.
+
+   Es la que actualmente se utiliza en muchos países y también se conoce
+   como LTE, siglas de Long Term Evolution. No sólo está presente en
+   smartphones, sino que también es la que permite reproducir contenidos
+   en HD en las smart TV. La velocidad 4G brinda ventajas como la
+   facilidad de realizar transmisiones en directo desde un smartphone,
+   tiempos de carga de páginas y descargas en menor tiempo.
+
+   La principal diferencia entre 3G y 4G es su velocidad de navegación y
+   descarga, además de sus protocolos de funcionamiento: mientras 3G
+   utiliza el UMTS (Universal Mobile Telecommunications System), 4G emplea
+   el protocolo IP o protocolo de internet.
+
+Redes 5G
+
+   Es la tecnología del milisegundo. La velocidad de transferencia del 5G
+   es un 133% más rápida que con 4G. Permite navegar mucho más deprisa y
+   descargar archivos en segundos, visualizar y bajar vídeos en ultra HD,
+   ver videos en 3D, utilizar realidad aumentada y realidad virtual
+   prácticamente sin ningún inconveniente.
+
+   Otra de sus ventajas es que tendrás menor latencia (menos cortes e
+   interrupciones en la conexión).
+
+   Asimismo, trae la posibilidad de conectar hasta 100 dispositivos por
+   unidad de área; su velocidad y bajo consumo de energía beneficiará a la
+   expansión de la Internet de las cosas. Sus aplicaciones alcanzarán
+   incluso el campo de la medicina, permitiendo realizar operaciones
+   teledirigidas, como hemos comentado antes.
+
+Peligros de 5G
+
+   El surgimiento de 5G ha traído consigo muchos bulos. Durante la
+   pandemia de Covid-19 se decía que las compañías estaban aprovechando el
+   confinamiento para instalar las antenas y sistemas capacitados para
+   ofrecer esta nueva conexión, entre otras cosas para propagar el virus
+   como un mecanismo de control de la población.
+
+   Asimismo, continuamente se habla de los efectos nocivos para la salud
+   como consecuencia de las ondas que emiten y reciben estas antenas. Este
+   miedo ha ido provocando ataques contra empleados de telecomunicaciones
+   en todos los países de la UE mientras los trabajadores reparaban redes
+   existentes o instalaban equipos, además de la provocación de incendios
+   contra infraestructuras críticas.
+
+   Para acabar con estas falsas informaciones, la Comisión Internacional
+   de Protección contra la Radiación No Ionizante (ICNIRP) ha realizado
+   diversos estudios, avalados por la OMS, en los que concluyen que la
+   radiación de las ondas 5G no es perjudicial. Además de la ICNIRP, el
+   Comité Científico sobre Riesgos para la Salud Emergentes y
+   Recientemente Identificados (SCENIHR) también recalca que las antenas
+   móviles no representan riesgos para la salud. O el Comité Científico
+   Asesor en Radiofrecuencias y Salud (CCARS) que en su informe sobre
+   Radiofrecuencias y Salud 2016-2019 en que se destaca igualmente que no
+   hay evidencias científicas de que 5G suponga un riesgo para la salud.
+
+   Es más, según los expertos de la GSMA, cuando usamos un móvil solo
+   recibimos un 1% de la radiación permitida por la ICNIRP, que es la
+   institución que establece los rangos seguros de emisión de frecuencias.
+
+   Pero, frente a estas supuestas "amenazas", existe un riesgo real en lo
+   que concierne a la ciberseguridad. De ahí la puesta en marcha de la Ley
+   de Ciberseguridad 5G. Obviamente, con un mayor número de objetos y
+   personas conectadas, la seguridad de esas conexiones y la privacidad de
+   las mismas son un asunto candente sobre el que, al cierre de estas
+   líneas, se continúa trabajando.
+
+Cuándo llegó 5G a España
+
+   Aunque se alude a 2020 cuando la 5G llegó a España, lo cierto es que la
+   hoja de ruta de esta tecnología en nuestro país se inició en 2017, fue
+   en 2018 cuando se licitaron las bandas de frecuencia y ya en 2019-2020
+   se hicieron los primeros pilotos, iniciándose el despliegue de la red
+   en 2020-2021. Como consecuencia de la Covid-19 se retrasó la licitación
+   en la franja de los 700 MHZ por lo que la implementación completa de la
+   red móvil de quinta generación no llegó a finales de 2021 aunque ya en
+   2019 los fabricantes comenzaron a vender smartphones habilitados para
+   la nueva conectividad.
+
+   Teniendo en cuenta estas apreciaciones, a grandes rasgos se puede
+   afirmar que la implantación de 5G en España dio comienzo en el último
+   cuatrimestre de 2020 en las principales ciudades del país a través de
+   los grandes operadores nacionales (Telefónica, Orange Vodafone y
+   MásMóvil), mediante la modalidad 5G NSA (Non Stand Alone), es decir,
+   actualizando el software de la red de antenas 4G ya existente.
+
+   Ha sido en 2023 cuando se ha iniciado y acelerado el despliegue de la
+   5G pura (5G SA o Stand Alone), con una fibra óptica independiente y con
+   mayor velocidad.
+
+   No obstante, su implantación acelerada por parte de los operadores de
+   telecomunicaciones está siguiendo un ritmo desigual, avanzando en la
+   infraestructura, pero no en los servicios, y con velocidades de
+   transferencia y latencias alejadas de lo que se supone que ha de
+   permitir 5G. Además, se está circunscribiendo a núcleos de población
+   grandes, por lo que estamos lejos de contar con un despliegue masivo de
+   5G. De acuerdo con las previsiones de los expertos, en 2025 los
+   municipios con más de 20.000 habitantes podrán contar con esta
+   tecnología. La proyección apunta a que en el 2025 el 75% de la
+   población española tenga acceso a la cobertura 5G SA.
+
+Qué países disponen de tecnología 5G
+
+   El despliegue de 5G en el mundo sigue avanzado a tal ritmo que se dice
+   que es la tecnología móvil que más rápido está evolucionando en
+   comparación con las generaciones anteriores disparándose las
+   previsiones de crecimiento trimestre tras trimestre. Según Statista,
+   los pronósticos indican que 5G podría llegar a 1.000 millones de
+   usuarios tan solo tres años y medio después de su entrada al mercado.
+   Se trata de un tiempo récord, tomando en cuenta que 4G le tomó cuatro
+   años alcanzar ese número de usuarios, y al 3G hasta doce años lograr lo
+   mismo.
+
+   Corea del Sur fue el primer país del mundo en desplegar la red 5G. En
+   Europa, Suiza fue el país pionero; ya en enero de 2020, el 90% de su
+   población podía disfrutar de esta tecnología. En América, en cambio,
+   Estados Unidos y Canadá se encuentran a la cabeza. Hoy en día 5G
+   también está presente en multitud de países como los Emiratos Árabes,
+   Finlandia, Reino Unido, España, Italia, Alemania, Japón, Irlanda,
+   China, Rumanía, Suecia, Austria, Tailandia y Bélgica, entre otros
+   tantos. Y la India que ha empezado fuerte con el despliegue y ya está
+   en el pódium. Como suele ocurrir, África se encuentra en último lugar
+   con apenas despliegues.
+
+   Actualmente hay tres países liderando su expansión: Estados Unidos (que
+   ya tenían una gran posición en 4G); China (buscando la supremacía y
+   llevando a cabo grandes proyectos en sectores verticales); e India, un
+   país que acaba de entrar al terreno de juego, pero que lo ha hecho
+   levantando un vendaval a su paso gracias a un profundo plan de
+   digitalización estatal y una fuerte consolidación de operadores.
+
+   En el caso de Europa, España está destinando grandes esfuerzos a
+   dominar el mercado gracias a proyectos como los planes ÚNICO, puestos
+   en marcha por el Gobierno y que están inyectado los suficientes fondos
+   públicos para que nuestro país tenga el mayor 5G real en Europa,
+   liderando en despliegues en la banda media. De hecho, nuestro país está
+   haciendo los deberes, acelerando la implantación a marchas forzadas.
+   Las principales operadoras ya cubren prácticamente el 90% de la
+   población y comenzamos a ver iniciativas de redes privadas 5G en
+   algunas industrias. Según un informe de Ookla, nuestras redes 5G
+   funcionan muy bien ofreciendo un mejor rendimiento que las de Alemania
+   o Reino Unido.
+
+El futuro de 5G: nuevas tecnologías y 6G
+
+   Todavía no se han desplegado completamente las redes 5G autónomas en el
+   mundo y ya se tiene en mente la sexta generación de redes móviles. Sin
+   embargo, eso no significa que ya esté operativa. La agenda estipulada
+   es que para 2030 se lance comercialmente la 6G, aunque algunos países
+   como Corea del Sur o China prevén que esté disponible en 2026.
+
+   Este panorama invita a algunos expertos a vaticinar que algunos países
+   puedan llegar a pasar de 4G a 6G directamente, porque se solapen los
+   tiempos de implantación de 5G y 6G y sea más lógico y viable ir
+   directamente a 6G.
+
+   El impulso del Gobierno de España al desarrollo de 5G ya incluye el
+   desarrollo de la sexta generación de redes móviles. Es más, proveedores
+   y laboratorios de investigación ya están manos a la obra. Se trata de
+   una apuesta por la inversión en I+D+i para que España desempeñe un
+   papel protagonista en el despliegue de la tecnología 6G.
+
+   Por otra parte, a nivel europeo actúa el consorcio Hexa-X, para
+   investigar y desarrollar estándares en torno a esta tecnología. Con un
+   presupuesto de casi 12 millones de euros, su objetivo es definir un
+   ecosistema totalmente nuevo en el que se conectan el mundo digital,
+   humano y físico con elementos clave para el desarrollo de la sexta
+   generación.
+
+   No es la única iniciativa al respecto. La ITU ha anunciado, durante la
+   celebración de la Asamblea de Radiocomunicaciones, un programa para el
+   desarrollo de 6G, al igual que la ETSI que ha creado un nuevo grupo
+   para investigar en este desarrollo. Asimismo, se han ido conociendo más
+   proyectos relacionados con este avance como la iniciativa europea
+   SUSTAIN-6G, por ejemplo. Además de un mayor número de anuncios de
+   colaboración entre Estados Unidos y Europa o entre el viejo continente
+   y otros países como La India.
+
+   Estas son algunos ejemplos, pero en los próximos años veremos más a
+   medida que la 5G standalone vaya cubriendo el mundo.
+   Publicado originalmente en 4 ene 2024
+   @REPRODUCCIÓN CONFIDENCIAL
+
+   ¿Qué te ha parecido este artículo?
+     *
+     *
+     *
+     *
+
+   (BUTTON)
+
+   Tu opinión es importante para nosotros.
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) ENVIAR
+
+   Suscríbete a la newsletter para recibir información de valor de su
+   interés
+   email ____________________
+
+   Al hacer clic en "SUSCRÍBETE A LA NEWSLETTER", declaro que he leído la
+   política de privacidad y deseo recibir la Newsletter
+   [ ] Autorizo el envío de comunicaciones promocionales y comerciales en
+   nombre de tercerosLos terceros pertenecen a los siguientes sectores:
+   servizi (incluidos TIC/digital), industria manufacturera, comercio,
+   administración pública.
+   (BUTTON) SUSCRíBETE A LA NEWSLETTER
+
+Cristina Albarrán
+
+Leer también:
+
+     * Contact center: qué es. Comunicaciones cliente-empresa a pedir de
+       boca
+     * Portabilidad móvil: cómo cambiar de compañía móvil con seguridad
+     * Infobip integra llamadas de voz en WhatsApp Business
+     * Las 5 claves tecnológicas para empresas en la transformación
+       digital
+     __________________________________________________________________
+
+   Temas
+     * 5G 5G
+       5G
+     * C
+       Conectividad
+     * N
+       Negocio
+     * R
+       Redes
+     * T
+       Tendencias
+     __________________________________________________________________
+
+   Canales
+     * Especiales Especiales
+       Especiales
+     * Infraestructuras Infraestructuras
+       Infraestructuras
+
+Artículos relacionados
+
+     *
+     * Contact center: comunicaciones cliente-empresa a pedir de boca
+       Contact center: comunicaciones cliente-empresa a pedir de boca
+     * especiales
+
+Contact center: qué es. Comunicaciones cliente-empresa a pedir de boca
+       04 Sep 2025
+       por Cristina Albarrán
+       Compartir el post
+          +
+          +
+          +
+          +
+       Compartir
+
+     *
+     * CAmbio operador tarjeta SIM. Adobe Stock. CAmbio operador tarjeta
+       SIM. Adobe Stock.
+     * especiales
+
+Portabilidad móvil: cómo cambiar de compañía móvil con seguridad
+       18 Dic 2024
+       por Cristina Albarrán
+       Compartir el post
+          +
+          +
+          +
+          +
+       Compartir
+
+     *
+     * Infobip integra llamadas de voz en WhatsApp Business Infobip
+       integra llamadas de voz en WhatsApp Business
+     * noticias
+
+Infobip integra llamadas de voz en WhatsApp Business
+       05 Ago 2025
+       por Redacción RedesTelecom
+       Compartir el post
+          +
+          +
+          +
+          +
+       Compartir
+
+     *
+     * eNP_Tendencias-1 eNP_Tendencias-1
+     * noticias
+
+Las 5 claves tecnológicas para empresas en la transformación digital
+       18 Dic 2024
+       por Redacción RedesTelecom
+       Compartir el post
+          +
+          +
+          +
+          +
+       Compartir
+
+   [69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABvBoT4AAFLNxwlAAAAAEl
+   FTkSuQmCC] [newsletter.png]
+   logo logo
+
+   Tu contenido, tu privacidad!
+
+   En esta página web utilizamos cookies técnicas que son necesarias para
+   la navegación y la prestación del servicio. También utilizamos cookies
+   para ofrecerle una mejor experiencia de navegación, para facilitar la
+   interacción con nuestras funciones sociales y para permitirle recibir
+   comunicaciones de marketing que coincidan con sus hábitos de navegación
+   e intereses.
+
+   Puede expresar su consentimiento a la instalación de cookies de
+   perfiles haciendo haciendo clic en ACEPTAR. Para rechazar puede hacer
+   clic en RECHAZAR. Puede configurar las preferencias de cookies haciendo
+   clic en CONFIGURAR.
+
+   Siempre puede gestionar sus preferencias entrando en nuestro CENTRO DE
+   COOKIES y obtener más información sobre las cookies que utilizamos
+   visitando nuestra POLÍTICA DE COOKIES.
+   CONFIGURAR
+   RECHAZAR
+   ACEPTAR
+
+   Cookie Center
+   ACEPTAR TODO
+   RECHAZAR TODO
+
+   A través de nuestro Centro de cookies, tiene la posibilidad de
+   seleccionar/deseleccionar las categorías individuales de cookies que se
+   utilizan en los sitios web.
+
+   Para saber más sobre las cookies que utilizamos, puedes profundizar en
+   la Política de Cookies.
+   ACEPTAR TODO
+   RECHAZAR TODO
+
+   COOKIES TÉCNICAS
+   Estrictamente necesario
+
+   Las cookies técnicas son necesarias para el funcionamiento del sitio
+   web porque permiten funciones que facilitan la navegación del usuario,
+   por ejemplo, el usuario puede acceder a su perfil sin tener que iniciar
+   sesión cada vez o puede seleccionar el idioma que desea utilizar para
+   navegar en la web sin tener que configurarlo cada vez.
+
+   COOKIES ANALÍTICAS
+   [ ]
+
+   Las cookies analíticas, que pueden ser propias o de terceros, se
+   instalan para recoger información sobre el uso del sitio web. En
+   particular, son útiles para analizar estadísticamente los accesos o las
+   visitas al propio sitio y para permitir al propietario mejorar su
+   estructura, su lógica de navegación y sus contenidos.
+
+   COOKIES DE PERFIL Y PLUGINS DE REDES SOCIALES
+   [ ]
+
+   Las cookies de perfil y los plugins de redes sociales, que pueden ser
+   propias o de terceros, se utilizan para seguir la navegación del
+   usuario, analizar su comportamiento con fines de marketing y crear
+   perfiles sobre sus gustos, hábitos, elecciones, etc. De esta manera es
+   posible, por ejemplo, enviar mensajes publicitarios teniendo en cuenta
+   los intereses del usuario y de acuerdo con las preferencias expresadas
+   por éste al navegar por Internet.
+   GUARDAR Y SALIR
+
+     * Vai alla homepage di RedesTelecom Vai alla homepage di RedesTelecom
+     * Síguenos Suscríbete a la newsletter Suscríbete a la newsletter
+     * Nosotros Etiquetas Rss Feed Aviso Legal Privacidad Cookie Cookie
+       Center
+
+   digital360-iberia digital360-iberia
+   Digital360 Iberia, filial iberica del Grupo italiano Digital360, es un
+   grupo de empresas especializada en el marketing B2B para el mercado
+   tecnológico, entre otros sectores, y una red de medios digitales
+   dedicados a los temas de Transformación Digital e Innovación
+   Empresarial.
+   Business-Publications-Spain Business-Publications-Spain
+   BPS (Business Publications Spain), editora de Redes&Telecom, es una
+   compañía del Grupo Digital360 Iberia.
+   Dirección
+   Calle Azcona 12, Bajo B, 28028 Madrid
+   España
+   Contactos
+   info@bps.com.es
+   +91 313 79 00
+
+   BPS está inscrita en el Registro Mercantil de Madrid, Volumen 24.100,
+   Folio 172, Página M-433036 - Número de Identificación Fiscal:
+   B-85062503
+
+   © 2025 BPS Business Publications Spain S.L. Todos los derechos
+   reservados.
+
+   Mapa del Sitio
+   close
+
+Código Rss
+
+   Para copiar el enlace RSS en el portapapeles, haga clic en el botón.
+   RSS link https://www.redestel
+   Copiar enlace
+   close
+
+Código Rss
+
+   Para copiar el enlace RSS en el portapapeles, haga clic en el botón.
+   RSS link https://www.redestel
+   Copiar enlace

@@ -1,0 +1,15 @@
+          + Madrid en bici
+               o Información Relacionada
+               o Red de estacionamientos de bicicletas
+               o Red de Itinerarios para Bicicletas
+               o Sistema de préstamo de bicicletas
+          + Rutas Verdes
+--
+     * Por municipio
+
+La Red de Cercanías ferroviarias
+
+   La red ferroviaria de Madrid, nacida a mediados del siglo XIX, se ha
+   convertido en una moderna red de Cercanías de 391 km de longitud, 92
+   estaciones y 9 líneas, que transporta 820.000 viajeros diarios.
+   Información de la red de Cercanías

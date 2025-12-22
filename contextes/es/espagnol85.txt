@@ -1,0 +1,211 @@
+    #Redes&Telecom » Feed JSON oEmbed (JSON) oEmbed (XML)
+
+   Ir al contenido principal Ir al footer
+--
+
+   5G, la quinta generación de redes móviles. 5G, la quinta generación de
+   redes móviles. 5G, la quinta generación de redes móviles.
+     __________________________________________________________________
+
+--
+   telecomunicaciones), avanzando enormemente en la definición de nuevas
+   capacidades técnicas para esta generación y permitiendo que el
+   despliegue de redes comenzara ya desde finales de dicho año.
+   Posteriormente, esta asociación fue lanzando nuevas actualizaciones a
+   esta norma inicial (Release 16, 17 y beyond).
+--
+          + Casos de uso punteros de la tecnología 5G
+     * Diferencias entre 5G, 4G y 3G
+          + Redes 3G (HSPA, UMTS)
+          + Redes 4G
+          + Redes 5G
+     * Peligros de 5G
+     * Cuándo llegó 5G a España
+--
+   4G. ¿Por qué es tan importante? Bien es cierto que ofrece mayores
+   velocidades de carga y descarga, conexiones más consistentes y una
+   capacidad mejorada que las redes anteriores, siendo más veloz y fiable
+   que su generación predecesora. Sin embargo, su verdadero punto fuerte
+   es el potencial transformador que tiene y que hará posible el vehículo
+--
+   5G es una tecnología radio que depende de torres de telecomunicaciones.
+
+   Las redes actuales -anteriores a 5G-, dependen de grandes torres
+   celulares de alta potencia, las cuales envían señales de baja
+   frecuencia (menos 6 GHz) a largas distancias. El problema es que estas
+--
+   ahorro de energía.
+
+   Mientras la red 4G transmite en una frecuencia de entre 800 y 1800 Mhz,
+   5G utiliza frecuencias de 700 MHz y 3,5 GHz, y se apoya en las redes de
+   LTE (Long Term Evolution, es decir, Evolución a Largo Plazo), una
+   tecnología de conectividad inalámbrica que ofrece también alta
+--
+   Para dar soporte, se ha diseñado una nueva arquitectura avanzada de
+   radio muy eficiente a través del uso de antenas Massive MIMO, que ayuda
+   a minimizar las transmisiones de las redes 5G y adaptarse a los
+   requisitos del servicio. Esto es posible, entre otras cosas, gracias a
+   que las antenas dan cobertura sólo donde se necesita.
+--
+   transmisión y rebote de señal. Esta nueva tecnología de transmisión
+   inalámbrica se sostiene en la infraestructura ya existente que soporta
+   la red 4G, y le suma nuevas antenas para asignar una frecuencia más
+   alta y ampliar la señal, moviendo la información a una velocidad mayor,
+   casi instantánea y en tiempo real.
+--
+   que codifica las ondas aéreas de banda alta incompatibles con 4G y
+   ofrece una menor latencia y una mayor flexibilidad en comparación con
+   las redes LTE.
+
+Ondas milimétricas (mmWaves)
+--
+   edificios y otras infraestructuras. La tecnología 4G y las anteriores
+   dependían de torres móviles independientes. La capacidad de hacer
+   funcionar la red desde pequeños emplazamientos celulares permitirá
+   utilizar muchos dispositivos a velocidades superiores.
+
+Segmentación de la red o network slicing
+
+   Los operadores de redes móviles utilizan la tecnología 5G para
+   desplegar múltiples redes virtuales independientes sobre la misma
+   infraestructura. Es lo que se conoce como network slicing o
+   segmentación de la red. Para algunas personas es la característica
+   distintiva de la tecnología 5G, la cual permite que los proveedores
+   dediquen segmentos virtuales de sus redes a usos específicos. En virtud
+   de este desarrollo, se puede personalizar cada corte de red para
+   diferentes servicios y casos de empresa, como los servicios de
+   streaming o tareas empresariales. Al formar una colección de funciones
+   de red 5G para cada caso de uso o modelo de negocio específico, puede
+   dar soporte a diferentes requisitos de todos los sectores verticales.
+   La separación de servicios significa que los usuarios se benefician de
+--
+   Por poner un ejemplo, los datos que se utilizan para el
+   entretenimiento, la comunicación e Internet harán uso de un segmento de
+   la red, mientras que la transmisión de datos de máquina a máquina
+   tendrá su propio segmento específico. Los datos esenciales, como los
+   que se necesitan para los vehículos sin conductor, los servicios de
+   emergencia y otras infraestructuras clave, tendrán un acceso exclusivo
+   a la red 5G que no podrá ser utilizado por el resto de los servicios.
+
+Conformación de haces
+--
+
+     * Una tasa de datos de hasta 10Gbps - > de 10 a 100 veces mejor que
+       las redes 4G y 4.5G
+     * Latencia de 1 milisegundo
+     * Banda ancha 1.000 veces más rápida por unidad de área
+--
+
+   Tal y como comentaba Arturo Azcorra en una entrevista concedida a
+   Redes&Telecom,las necesidades del usuario individual se satisfacen en
+   un 99% con 4G y LTE-A. Como explicaba, los ciudadanos de a pie van a
+   "notar 5G" por los servicios verticales que va a tener: lo van a notar
+--
+Fábricas inteligentes
+
+   Las redes móviles 5G son una oportunidad para que los fabricantes creen
+   fábricas inteligentes hiperconectadas. 5G es compatible con la Internet
+   de las cosas, lo que significa que las fábricas pueden conectar de
+--
+   la renovación de equipos, su mantenimiento y otras variables.
+   Las fábricas inteligentes hiperconectadas serán posible gracias a las
+   redes 5G.
+
+Realidad virtual
+--
+Mayor ancho de banda
+
+   5G permite un aumento significativo del ancho de banda de las redes,
+   haciendo posible una mayor capacidad para procesar grandes volúmenes de
+   datos en un solo instante. De esta forma, al utilizar dispositivos
+--
+Telemedicina
+
+   Las redes 5G pueden aportar un gran valor añadido a la tecnología
+   sanitaria. Por ejemplo, la baja latencia permitirá compartir
+   información en tiempo real a través de videos de alta definición, lo
+--
+Streaming y mundo del directo
+
+   La red 5G también permite realizar retransmisiones de eventos
+   deportivos y espectáculos en directo, nuevas fórmulas de visitar museos
+   y viajar a otros mundos y otras épocas, con funcionalidades de Realidad
+--
+   Por otra parte, los proveedores de servicios de streaming pueden
+   atender a un mayor número de usuarios simultáneamente sin afectar la
+   calidad del servicio. La mayor capacidad de red también significa que
+   los usuarios pueden transmitir contenido en áreas de alta densidad de
+   población sin experimentar interrupciones.
+--
+Teletrabajo
+
+   Igualmente, este tipo de redes al ser más potentes, rápidas y con menor
+   latencia, mejoran la calidad de las comunicaciones necesarias para el
+   teletrabajo. Y es que, hacen posible transmitir imágenes, audio y vídeo
+--
+Diferencias entre 5G, 4G y 3G
+
+   Existen diferencias significativas entre las generaciones de redes
+   móviles 3G, 4G y 5G. Básicamente podríamos hablar de que 5G ofrece
+   velocidades más rápidas (10 gigabits por segundo, lo que las hace 10
+--
+   Pero veamos en detalle que aporta cada generación:
+
+Redes 3G (HSPA, UMTS)
+
+   Son las redes móviles de tercera generación. La principal diferencia
+   entre la red 2G y la red 3G es que ésta ofrece una mayor velocidad de
+   navegación (alcanzado hasta 2 Mbps).
+
+   Representó un salto en la telefonía a la era digital; entre los cambios
+   que trajo está la transmisión de datos, videos y voz sin necesidad de
+   cables. Con una red 3G en un smartphone o tablet pueden funcionar al
+   mismo tiempo los servicios de voz y datos. También permitió la
+   posibilidad de conectarse a internet a través de un módem USB.
+--
+   Mbps.
+
+Redes 4G
+
+   Estas redes representan el siguiente paso a 3G. Con ellas la red de
+   datos mejora en calidad y velocidad, permitiendo velocidades de hasta
+   75 Mbps de bajada (descarga) y 25 Mbps de subida.
+--
+   el protocolo IP o protocolo de internet.
+
+Redes 5G
+
+   Es la tecnología del milisegundo. La velocidad de transferencia del 5G
+--
+   en 2020-2021. Como consecuencia de la Covid-19 se retrasó la licitación
+   en la franja de los 700 MHZ por lo que la implementación completa de la
+   red móvil de quinta generación no llegó a finales de 2021 aunque ya en
+   2019 los fabricantes comenzaron a vender smartphones habilitados para
+   la nueva conectividad.
+--
+   los grandes operadores nacionales (Telefónica, Orange Vodafone y
+   MásMóvil), mediante la modalidad 5G NSA (Non Stand Alone), es decir,
+   actualizando el software de la red de antenas 4G ya existente.
+
+   Ha sido en 2023 cuando se ha iniciado y acelerado el despliegue de la
+--
+       Negocio
+     * R
+       Redes
+     * T
+       Tendencias
+--
+   estructura, su lógica de navegación y sus contenidos.
+
+   COOKIES DE PERFIL Y PLUGINS DE REDES SOCIALES
+   [ ]
+
+   Las cookies de perfil y los plugins de redes sociales, que pueden ser
+   propias o de terceros, se utilizan para seguir la navegación del
+   usuario, analizar su comportamiento con fines de marketing y crear
+--
+   Empresarial.
+   Business-Publications-Spain Business-Publications-Spain
+   BPS (Business Publications Spain), editora de Redes&Telecom, es una
+   compañía del Grupo Digital360 Iberia.
+   Dirección

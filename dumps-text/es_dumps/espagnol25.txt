@@ -1,0 +1,1096 @@
+   #Ciudadano 2.0 » Feed Ciudadano 2.0 » Feed de los comentarios Ciudadano
+   2.0 » Comentario ¿Qué es un blog y qué lo diferencia de una página web?
+   del feed JSON oEmbed (JSON) oEmbed (XML)
+
+   Saltar al contenido
+
+   Ciudadano 2.0
+
+   (BUTTON) Menú
+
+   (BUTTON) Menú
+     * ¿Nuevo por aquí?
+          + Cómo crear una Web desde cero
+          + Cómo crear una Tienda Online
+          + Cómo crear un blog profesional
+          + Trucos para WordPress
+          + Cómo crear un canal de YouTube
+          + Cómo emprender online
+     * Blog
+     * Hosting
+          + Cupones Hosting
+          + Hosting Wiki
+     * Contacto
+          + General
+          + Autores invitados
+     * Acerca
+          + Acerca de Ciudadano 2.0
+          + Acerca de Berto
+          + Acerca de Raquel
+          + Aviso legal
+
+¿Qué es un blog y qué lo diferencia de una página web?
+
+   por Berto López
+   89
+     *
+     *
+     *
+     *
+     *
+
+   Un blog es un tipo de sitio web muy popular donde, a modo de revista,
+   su autor (muchas veces un particular) publica periódicamente contenidos
+   (llamados "posts", "entradas" o "artículos") a los que los lectores
+   puedan añadir comentarios.
+
+   que es un blog y diferencia página web
+
+   Imagen de Shutterstock - © Foxy Burrow
+
+   Si querías tener una definición rápida de lo que es un blog, la
+   definición de arriba resume todo lo esencial. Pero debería saber que
+   los blogs son mucho más que eso.
+
+   El concepto apareció por primera vez a mediados de los años noventa
+   como una especie de bitácora personal que los autores usaban
+   prácticamente como un diario íntimo expuesto al público en Internet.
+
+   Pero las cosas han evolucionado mucho desde entonces. Se ha
+   descubierto, por ejemplo, que sirven como potentísimas herramientas de
+   marketing digital, tanto que han supuesto una revolución en el mundo
+   profesional por haber democratizado el acceso a los negocios en
+   Internet.
+
+   ¿Qué encontrarás aquí?
+     * ¿Para qué sirve un blog, para qué se hace y qué lo caracteriza?
+          + ¿Qué diferencia hay entre un blog y una página web?
+          + Un blog puede ser un simple hobby o una potente herramienta
+            profesional
+          + Por qué los blogs funcionan tan bien en el marketing digital
+          + ¿Y no sería mejor crear un canal de YouTube?
+     * Qué tipos de blogs existen y cuáles son sus características
+          + Blog personal
+          + Blog profesional y de marca personal
+          + Blogs de empresa
+          + Blogs y webs de nicho
+     * Ejemplos de blogs de éxito e ideas de qué se pueden hacer
+     * ¿Cómo puedo crear entonces yo mi blog?
+     * Más dudas frecuentes sobre blogs, resueltas
+
+   Este mismo blog, Ciudadano 2.0, es un ejemplo perfecto: lo fundé en el
+   año 2011 como un mero hobby, un sitio de divulgación sobre temas que me
+   gustaban, con alguna perspectiva también de generar ingresos vía
+   publicidad, pero sin esperar mucho más que una modesta ayudita extra al
+   mes.
+
+   5 años después de fundarlo (en el 2016), el blog había evolucionado de
+   tal manera que se había convertido (junto con otras webs que siguieron
+   después) en una empresa familiar de las que somos propietarios mi mujer
+   Raquel y yo: Wenova Online, S.L.
+
+¿Para qué sirve un blog, para qué se hace y qué lo caracteriza?
+
+   ¿He captado tu interés con este ejemplo? Pues hablemos ahora de los
+   aspectos que hacen de un blog un blog, para qué sirve y cómo se puede
+   llevar a un punto como el de nuestro caso.
+
+¿Qué diferencia hay entre un blog y una página web?
+
+   Mucha gente se pregunta qué diferencia hay entre un blog y una página
+   web.
+
+   Pues bien, lo que debes tener claro es que un blog no es algo diferente
+   como tal, es una página web más, pero con algunas características
+   específicas, funcionalidades que son las que hacen de ella un blog
+   propiamente dicho.
+
+   Estas funcionalidades vienen implementadas en aplicaciones web o
+   plataformas (software que se instala en un servidor web) y servicios en
+   la nube como Blogger o WordPress que, gracias a ello, hacen de la
+   creación de blog algo bastante sencillo y rápido.
+   Aprende a redactar textos irresistibles
+   Banner image Banner image
+
+   Con este eBook gratuito de plantillas de copywriting crearás titulos
+   que dispararán los clics en tus contenidos y contenido que mantendrá a
+   tus lectores enganchados:
+     * 77 Plantillas de títulos probados que multiplicarán los clics.
+     * Sacarás infinitas ideas para crear tus propios títulos.
+     * Con las palabras "mágicas" redactarás textos irresistibles.
+     * Vale para todo: blogs, tiendas online, redes sociales, etc.
+
+   Anímate, ¡que ya somos +50.000!
+   (BUTTON) ¡Lo quiero ya!
+
+   Pero, además, las más importante, Blogger y WordPress, son gratuitas,
+   una razón fundamental en el tremendo éxito de estas plataformas. Tan
+   sólo basadas en WordPress (el líder) se tiene constancia de, al menos,
+   unos 25 millones de sitios web en este momento.
+
+   Además, estas plataformas no sirven exclusivamente para crear blogs,
+   sirven para prácticamente cualquier web de complejidad baja o mediana.
+   Tanto es así que existen incluso grandes marcas como Sony o Walt Disney
+   cuyas webs están basadas en WordPress.
+
+   Bien, ¿qué es entonces lo que hace de un blog un blog? Veámoslo:
+
+Publicación periódica
+
+   Los blogs publican contenido de una manera periódica, similar a una
+   revista tradicional que publica nuevos números cada X tiempo. Los blogs
+   que se precien intentan ser rigurosos con ello publicando con una
+   periodicidad fija de, típicamente, una o varias veces por semana.
+
+   Las plataformas para blogs incluyen una funcionalidad de feed que
+   permite que con lectores de feeds como, por ejemplo, Feedly, que los
+   lectores, de un solo vistazo, puedan estar fácilmente al tanto de las
+   novedades en todos los blogs que siguen.
+
+Interacción con los lectores y comunidad
+
+   Los blogs fueron de las primeras webs, sino las primeras que, a través
+   de los comentarios, introdujeron la posibilidad de interactuar de
+   manera directa con el autor y otros lectores.
+
+   Eso produjo una sensación de cercanía entre ellos y con ello una
+   experiencia antes desconocida para los lectores que ha sido muy exitosa
+   y ha inspirado la web 2.0. Fue la base para desarrollar ideas basadas
+   en ese concepto como, por ejemplo, las redes sociales.
+
+   Por otra parte, forjo el concepto de comunidad web, un grupo de
+   personas que siguen el blog en cuestión formando la comunidad de
+   seguidores con una identidad de grupo que se articula en torno a los
+   intereses comunes reflejados en la temática del blog, etc.
+
+   Hoy en día este tipo de comunidades se forman del mismo modo en torno a
+   canales de YouTube o los "influencers" en redes sociales.
+
+Marcado toque informal y personal
+
+   Dentro de ese espíritu de buscar la cercanía con los seguidores también
+   resulta lógica un trato más informal con los lectores. Eso se refleja,
+   por ejemplo, en que la norma es hablarles de "tú" a tus lectores.
+
+   En buen blog, en definitiva, debería buscar siempre un ambiente
+   parecido al que hay entre un grupo de amigos. Tanto es así que, incluso
+   muchos de los blogs corporativos bien hechos también mantienen ese
+   estilo de comunicación en sus blogs.
+
+Los posts (entradas) y páginas de los blogs
+
+   Junto con los blogs se introdujo también el concepto de "post" que
+   luego se ha llevado también a otros ámbitos como, por ejemplo, las
+   redes sociales.
+
+   Un post, entrada o artículo es el contenido por excelencia en un blog,
+   son las páginas de nuevo contenido que un blog va publicando
+   periódicamente cada X tiempo. Todos los blogs cuenta con una página con
+   un listado de sus posts.
+   ejemplo lista posts blog ejemplo lista posts blog Todos los blogs
+   cuentan con una página de listado de sus posts. Es una seña de
+   identidad típica de un blog.
+
+   En este sentido, se ha aplicado el mismo término también a otros
+   ámbitos. Un "post" en Facebook, por ejemplo, sería una nueva
+   publicación en Facebook.
+
+   Sin embargo, cuando se habla de "páginas" en un blog, aunque
+   técnicamente son lo mismo que un post, va implícita la noción de
+   contenido estático, es decir, contenido que no varía o varían muy poco
+   en el tiempo.
+
+   Ejemplos de esto serían páginas de productos y servicios o páginas como
+   "Acerca de", "Aviso legal" o "Contacto". Estas páginas articulan la
+   estructura básica del sitio. Mientras que los posts son ese "reguero"
+   de nuevos contenidos que hace de un blog un sitio fresco y dinámico.
+
+Organización del contenido por categorías y etiquetas
+
+   Un último punto muy característico de los blogs es la organización de
+   sus contenidos por categorías y etiquetas.
+
+   Es normal que un blog, al cabo de unos años, acumule cientos de posts.
+   Semejante cantidad de contenidos necesita algo de organización que es
+   para lo que se han inventado las categorías y las etiquetas en los
+   blogs.
+
+   Las categorías con una división de grano grueso de los contenidos que
+   debe ser coherente con la temática. Lo suyo es que sean pocas
+   categorías, como norma general, no más de diez, menos al ser posible.
+   categorias ciudadano 2.0 categorias ciudadano 2.0 Estas son algunas de
+   las categorías que tenemos en el blog de Ciudadano 2.0.
+
+   Este mismo blog, que tiene como ámbito general el marketing online,
+   cuenta con las categorías que puedes ver arriba en la captura de
+   pantalla de la sección en nuestra portada que muestra una lista de las
+   categorías para organizar sus contenidos.
+
+   Las etiquetas son una división mucho más de grano fino que las
+   categorías. Además, a diferencia de las categorías donde, normalmente,
+   un contenido pertenece a una única categoría, es bastante normal que un
+   contenido tenga asociadas varias etiquetas.
+
+   Tomemos como ejemplo este post:
+   elegir plantilla wordpress perfecta elegir plantilla wordpress perfecta
+   Privado: Cómo elegir la plantilla WordPress perfecta para tu web
+
+   Si entras en este post, verás que pertenece a la categoría de WordPress
+   y en cuanto a etiquetas, tiene asociadas las etiquetas como diseño web,
+   diseño wordpress, plantillas, etc.
+
+Un blog puede ser un simple hobby o una potente herramienta profesional
+
+   Junto con la capacidad para conectar con los lectores, otro de los
+   aspectos más importantes en un blog es su enorme versatilidad. Y no me
+   refiero tanto a la temática, sino para qué emplearlo.
+
+   Esto, en realidad, se debe al propio concepto de página web, que
+   permite difundir una determinada información potencialmente a millones
+   de personas.
+
+   A estas alturas de la web, ya estamos muy acostumbrados a ello, pero
+   hay que recordar lo absolutamente revolucionario que fue este hecho
+   cuando allá por el año 95, más o menos, Internet empezó a llegar a los
+   hogares de todo el mundo.
+
+   La aportación más importante de los blogs (de sus plataformas como
+   Blogger o WordPress) fue la de hacer de la creación de una web algo
+   gratis y muy sencillo, al alcance de todo el mundo.
+
+   Con ello, todo el mundo podía aprovechar este potencial, aunque se
+   tardó años en que los particulares (y las empresas) aprendiesen cómo
+   aprovecharlo a fondo.
+
+Por qué los blogs funcionan tan bien en el marketing digital
+
+   El potencial profesional tan grande de los blogs reside, básicamente,
+   en que son, por su propia naturaleza, una herramienta de marketing
+   ideal.
+
+   Los blogs hacen posible, y de una manera muy sencilla, lo que Seth
+   Godin consideraba era el modo ideal de hacer marketing, el "marketing
+   de permiso" y que ahora ha ido evolucionando hacia el concepto de
+   inbound marketing:
+   que es el inbound marketing que es el inbound marketing Privado: ¿Qué
+   es el Inbound Marketing o Marketing de Atracción?
+
+   Esto es así por varios motivos: primero, permiten atraer de una manera
+   natural (no forzada e intrusiva como en la publicidad) un público con
+   interés en una determinada temática a través de los buscadores y otras
+   fuentes de tráfico (redes sociales, etc.).
+
+   Pero, además, las plataformas potentes como WordPress, junto con las
+   herramientas de email marketing como Mailrelay (que dispones también de
+   opciones gratuitas) cuentan con las herramientas para fidelizar a esos
+   lectores que han llegado a tu web y conseguir su contacto (email).
+
+   Para atraer a este público simplemente tenemos que crear y publicar
+   contenidos de valor para estas personas y posicionarlos en Google
+   (junto con otras acciones como publicaciones en las redes sociales, por
+   ejemplo).
+
+   Y es aquí donde está el verdadero desafío: en crear contenidos de esta
+   calidad y lograr posicionarlos en Google. Pero ambas cosas son más una
+   cuestión de capacidad personal y trabajo que económica porque las
+   herramientas son prácticamente gratuitas. Y el conocimiento de cómo
+   hacer todo esto está ahí fuera también gratis, en webs como este mismo
+   blog.
+
+   Por tanto, si lo quieres usar así, un blog puede ser una potente
+   herramienta que va generando poco a poco una base de clientes
+   cualificados (clientes seleccionados por sus intereses), en modo
+   autopiloto y con un coste prácticamente cero.
+   como ganar dinero con una pagina web como ganar dinero con una pagina
+   web Cómo ganar dinero con una página web: Las 10 fórmulas más usadas
+
+   Hay muchísimas maneras de ganar dinero con una página web, pero todas
+   tienen sus intringulis particulares. Aquí repaso las 10 fórmulas más
+   importantes.
+
+   Con el tiempo esta estrategia de base se ha ido articulando a través de
+   muchas técnicas y tácticas. Por eso, te recomiendo la lectura del post
+   de arriba para que entiendas el detalle de cómo hacer de una web,
+   aprovechando los principios que acabo de explicar, una fuente de
+   ingresos.
+
+¿Y no sería mejor crear un canal de YouTube?
+
+   En los últimos años, como plataforma de contenidos, YouTube le está
+   haciendo sombra a los blogs. Ahora, es más "cool" tener un canal de
+   YouTube que un blog.
+
+   Y tiene mucho sentido: la mayoría de la gente encuentra el vídeo más
+   atractivo que el texto y las cifras en torno a YouTube con YouTubers
+   que cuentan con decenas de millones de seguidores suscritos a su canal
+   o las más de 5 billones de vídeos vistos al día son aplastantes. Son
+   cifras de las que los mejores blogs tan sólo pueden soñar.
+
+   De hecho, te recomiendo encarecidamente crear tu propio canal de
+   YouTube. Aquí puedes aprender cómo se hace:
+   Cómo crear un canal de YouTube atractivo en 5 simples pasos
+
+   Crear un canal YouTube es muy fácil hoy en día. Incluso hacerlo
+   "bonito" es más fácil de lo que crees. Aquí te enseño cómo desde cero.
+
+   Pero ojo: las cosas no son tan obvias como puede parecer a primera
+   vista y descartar ahora automáticamente un blog en favor de un canal de
+   YouTube sin más consideraciones sería un grave error. Siempre deberías
+   tener una web propia y un blog es la fórmula más simple.
+
+   ¿Por qué?
+
+   Aquí van unos puntos importantes sobre los que reflexionar:
+
+   En primer lugar, dar los blogs por muertos sería como si en los años
+   veinte (cuando se inventó la TV) a la gente le hubiese dado por pensar
+   que en pocos años los libros iban a desaparecer. No tiene sentido, son
+   medios muy diferentes y tienen su espacio ambos.
+
+   Ahora bien, lo anterior no quiere decir que no se note la
+   "competencia". Por ejemplo: en muchos blogs las visitas han ido incluso
+   mejorando, los tiempos de estancia en las páginas se han acortado
+   claramente. Y es que el tiempo es finito y hay que repartirlo...
+
+   Pero aún mucho más importante como criterio en tus decisiones considero
+   a este aspecto: en YouTube y cualquier otra plataforma que sea
+   propiedad de un tercero (Facebook, Instagram, etc.) estás completamente
+   cautivo. Te tienen agarrado por el cuello.
+
+   Esto se refleja en muchos aspectos, el más importante, que no tienes el
+   contacto real de tus seguidores. Tienes "seguidores" o "suscriptores",
+   sí, pero no tienes un contacto real como un simple email, esos datos se
+   los guarda a plataforma para ella.
+
+   Algo tan simple como comunicar algo a todos tus seguidores no lo puedes
+   hacer. Incluso en la publicación de nuevos contenidos, todas las
+   plataformas, incluidas YouTube, limitan seriamente el alcance orgánico
+   (seguidores a los que se les hace llegar). Sólo llegas a una fracción
+   de tu público total.
+
+   Si tu canal de YouTube es nada más que un hobby, puede que esto no sea
+   demasiado trágico, pero si tienes intención de convertirlo en un
+   negocio (aunque sólo sea para generar un pequeño extra al mes), la cosa
+   cambia y mucho.
+
+   En este caso, tienes que tener muy claro que el mayor activo de tu
+   negocio son estas personas que te siguen. Si quieres sacarle el
+   potencial a tu negocio, necesitas su contacto sí o sí.
+
+   La única manera de garantizar esto es tener una web propia, es decir,
+   que la plataforma sea tuya, administrada por ti, con tu propio dominio
+   y en tu propio hosting, como lo es, por ejemplo, un blog WordPress con
+   hosting.
+
+   Si necesitas un hosting para tu web o tienda online, ¡actúa!
+     * Ionos: 88% de descuento aquí
+     * Ionos: 88% dto. aquí
+     * Hostinger: 78% de descuento aquí
+     * Hostinger: 78% dto. aquí
+     * SiteGround: 81% de descuento aquí
+     * SiteGround: 81% dto. aquí
+     * Webempresa: 50% de descuento aquí
+     * Webempresa: 50% dto. aquí
+     * LucusHost: 30% de descuento aquí
+     * LucusHost: 30% dto. aquí
+     * Raiola Networks: 20% de descuento aquí
+     * Raiola Networks: 20% dto. aquí
+     * Sered: 10% de descuento aquí
+     * Sered: 10% dto. aquí
+
+   Aviso: estas ofertas son válidas ahora, pueden vencer en unos pocos
+   días.
+
+   Aquí puedes montar una captación de leads en condiciones y todo lo
+   demás que se necesita para tener realmente el contacto de tus
+   seguidores y, como vimos, salvo el hosting (que no te costará mucho más
+   de en torno a 5EUR al mes), puedes hacer todo esto gratis.
+
+   ¿Estoy diciendo con esto que un canal YouTube es una mala opción?
+
+   En absoluto, un canal de YouTube es algo potentísimo y más que
+   recomendable.
+
+   Pero mi consejo es que, tarde o temprano, acompañes ese canal con un
+   blog con hosting (que es una plataforma propia) y lista de correo que
+   te permita contrarrestar la cautividad a que te somete el estar en una
+   plataforma de terceros donde el control lo tienen ellos y no tú.
+
+   Y si ya tienes un canal de YouTube y estas reflexiones han hecho que te
+   estés preocupando, tranquilidad, no entres en pánico: estás a tiempo
+   para corregir la situación.
+   como conseguir suscriptores youtube como conseguir suscriptores youtube
+   Cómo conseguir miles de suscriptores en YouTube desde cero
+
+   Conseguir mucho suscriptores en YouTube es imprescindible para tener
+   éxito. Aquí te enseño de todas las estrategias que existen, las
+   mejorcitas.
+
+   Existen estrategias eficaces para llevar, al menos, una gran parte de
+   tus seguidores de tu canal a una lista de correo que explico en el post
+   sobre YouTube justo encima de este párrafo.
+
+Qué tipos de blogs existen y cuáles son sus características
+
+   Veamos entonces cuales son los tipos de blog que existen para que
+   puedas ver si alguno de ellos puede encajar contigo.
+
+Blog personal
+
+   Los blogs personales son eso: personales. Son blogs en los que el autor
+   habla de los temas que le interesan, experiencia, su día a día, temas
+   políticos y de otras inquietudes personales, etc.
+
+   Los primeros blogs eran prácticamente todos personales porque el propio
+   concepto de blog se concebía así entonces, una especie de diario íntimo
+   abierto al público.
+
+   Mi recomendación aquí es que si volcar este tipo de contenidos en
+   público realmente te satisface y motiva para realizar el trabajo diario
+   que conlleva un blog, bien, pero ten en cuenta que, salvo que seas ya
+   un personaje famoso, estos blogs lo tienen complicado para conseguir
+   éxito.
+
+   La razón de esto es que este tipo de blogs tienen muy poco potencial
+   para conseguir un público grande (que es lo que te permite hacer cosas
+   "potentes"), al fin y al cabo, si no eres una persona conocida, habrá
+   poca gente a la que le interesa tu vida. Es algo frío decirlo así, pero
+   así es.
+
+Blog profesional y de marca personal
+
+   Con el tiempo, los bloggers se empezaron a dar cuenta de una cosa que
+   es, en realidad, es sentido común básico: conseguían mucho más éxito
+   con contenidos que interesaban a los demás que con contenidos centrados
+   en su propia persona.
+
+   Pero, además, descubrieron que todo esto conllevaba un "efecto
+   secundario" muy positivo y muy potente: publicar contenido útil sobre
+   una determinada temática le generaba reputación al autor de ese
+   contenido en esa materia.
+
+   Así es cómo se descubrieron los blogs como la herramienta ideal para
+   crear una marca personal sólida, en menos tiempo y con menos esfuerzo
+   que por vías tradicionales (ponencias, edición de libros, etc.):
+   que es la marca personal que es la marca personal ¿Qué es eso de la
+   "marca personal"?
+
+   En una situación de exceso de profesionales es vital diferenciarse para
+   sobrevivir, crear una marca personal es la mejor manera de hacerlo.
+
+   Aplicado todo esto a temáticas relacionados con tu profesión o tu
+   negocio, el blog se convierte en una excelente herramienta profesional
+   para promocionar tu carrera, mejorar tu empleabilidad o apoyar a tu
+   negocio.
+
+   Con el auge de YouTube, esto mismo es muy cierto también para YouTube,
+   tanto que incluso funciona aún mejor para esto porque el ser visual
+   produce más cercanía con el autor y tiene por ello más potencial de
+   conexión ("engagement") que un blog.
+
+Blogs de empresa
+
+   Como no podría ser de otra manera, las empresas se percataron de lo que
+   estaba pasando con los blogs y querían también su "trocito del pastel".
+   Así que empezaron a surgir secciones de blog en las webs corporativas
+   como setas.
+
+   Pero muchas empresas, diría que la mayoría, lo hicieron realmente mal:
+   ponían un blog, con un esfuerzo mínimo, contenidos triviales que no
+   aportan valor y muchas veces actualizado tan solo de Pascuas a Ramos.
+
+   Esto refleja perfectamente lo que pasa tantas veces en los entornos
+   corporativos ven un fenómeno, van a explotarlo, pero lo hacen rápido,
+   superficial y sin entender "de qué va" realmente. El resultado: un
+   montón de blogs corporativos que no le interesan a nadie.
+
+   Mi recomendación: si tienes una empresa, que sepas que un blog en una
+   web de empresa bien lleva, funciona. Pero igual que en el caso de los
+   autores individuales, hay que llevarlo con cariño, esforzándose en
+   aportar valor en los contenidos, cuidando la relación con los lectores
+   y mantener una disciplina total en la periodicidad de las
+   publicaciones.
+
+Blogs y webs de nicho
+
+   Una última variante que mucha gente ha descubierto como una oportunidad
+   para un pequeño negocio son las webs de nicho, webs que muchas veces
+   son blogs o están montadas con plataformas de blogs.
+
+   Podríamos estar hablando, dentro de mundo salud y fitness, en un blog
+   de yoga, por ejemplo, o, dentro del mundo de la jardinería, por
+   ejemplo, en un blog especializado en el mundo bonsái.
+   blog postres sin leche blog postres sin leche El blog "Postres sin
+   leche" de Sonia Hahnkamm, destinado a personas con alergia a le
+   proteína de lecha es un ejemplo típico de blog de nicho
+   hiper-especializado.
+
+   Este tipo de sitios tienen la ventaja de que pueden competir en Google
+   con sitios mucho más grandes en búsquedas muy especializadas (que los
+   sitios grandes suelen descuidar) y conseguir visibilidad para estas
+   búsquedas.
+
+   Esto es algo que en el posicionamiento web se conoce como la "larga
+   cola" ("long tail" en inglés):
+   SEO Long tail SEO Long tail Qué es el 'SEO Long Tail' y cómo usarlo
+   para subir RÁPIDO
+
+   El 'SEO Long Tail' es la manera más rápida de posicionar una web. Las
+   razones son puro sentido común. Descubre aquí cómo hacerlo.
+
+   A partir de esta visibilidad, hay muchas fórmulas para hacer de este
+   tipo de sitios una fuente de ingresos, desde fórmulas de ingresos
+   pasivas como el marketing de afiliación hasta fórmulas tradicionales
+   como la prestación de servicios profesionales.
+
+   Aquí puedes aprender cuáles existen y cómo se implementan:
+   como ganar dinero con un blog como ganar dinero con un blog Cómo ganar
+   dinero con un blog - Todo lo que necesitas saber
+
+   ¿Cómo ganar dinero con un blog? Seguro que ya te lo habrás preguntado
+   alguna vez. Aquí encontrarás las mejores fórmulas para hacerlo.
+
+Ejemplos de blogs de éxito e ideas de qué se pueden hacer
+
+   Hemos realizado muchas entrevistas a bloggers en Ciudadano 2.0. Como la
+   intención de estas entrevistas es la de inspirarte con el éxito de
+   estos blogs y con las ideas que te pueden dar, la condición para ser
+   entrevistado ha sido la de generar, al menos, unos ingresos de 300EUR
+   mensuales.
+
+   Quizás te parezca una cifra muy modesta para hablar de "éxito", pero,
+   aparte de parecernos que es un éxito conseguir estos ingresos extra con
+   una actividad que te gusta, ha sido muy intencionado mantener los pies
+   en el suelo, no hablar de los "megaéxitos", casos que no suelen ser
+   realistas como meta y con los que es difícil conectar.
+   casos exito zona vip casos exito zona vip El área de casos de éxito en
+   nuestra Zona VIP.
+
+   El resultado final ha sido una horquilla amplia de casos que se mueven
+   entre proyectos modestos que han servido para generar un sobresueldo a
+   casos en los que el autor ha logrado convertir la actividad en su blog
+   en su nueva profesión facturando cifras de 6 dígitos al año.
+
+   Todos estos casos los puedes encontrar en el área de casos de éxito de
+   nuestra Zona VIP, nuestro sitio de membresía gratuito para los
+   suscriptores del blog.
+
+¿Cómo puedo crear entonces yo mi blog?
+
+   Si todo lo que has leído ha servido para animarte a que empieces, te
+   preguntarás cómo empezar.
+
+   El mejor tutorial y también el más completo que te puedo recomendar es
+   el que viene a continuación en el que aprendes desde cero a crear una
+   web WordPress con un diseño atractivo.
+
+   Aquí, además, se crea una web con un diseño de blog moderno, el más
+   recomendable, con una portada tipo página de aterrizaje y el blog
+   integrado en una de las páginas (menús) de la web:
+
+   IFRAME: https://www.youtube.com/embed/MxfbfmefGTQ
+
+   Para profundizar más en los aspectos técnicos y estratégicos de un
+   blog, te recomiendo, además, estos dos posts:
+   como crear un blog como crear un blog Cómo crear un blog paso a paso
+   desde cero
+
+   Crear un blog es fácil. Aquí lo aprenderás desde cero + Cómo crear
+   buenos contenidos, posicionar tu web, monetizar tu blog y mucho más...
+   7 pasos clave gran blog 7 pasos clave gran blog 7 Pasos claves para
+   hacer de tu blog un gran blog
+
+   ¿Qué es lo que determina el éxito y fracaso en un blog? No es nada
+   evidente. Aquí te cuento los pasos que tienes que dar para ir por buen
+   camino.
+
+Más dudas frecuentes sobre blogs, resueltas
+
+   Y, por último, si aún te quedan dudas sobre los blogs, te recomiendo
+   nuestra FAQ de preguntas y respuestas sobre blogging:
+   blogging faq blogging faq Nuestra Blogging FAQ - Dudas y Respuestas
+   sobre Blogging
+
+   Cuando empiezas con el blogging, estás hecho un mar de dudas. Por
+   suerte, el 99% de ellas se repite. Aquí encuentras las respuestas que
+   necesitas.
+     *
+     *
+     *
+     *
+     *
+
+   ¿Te gustaría leer más sobre esta temática? Busca aquí:
+   ____________________
+
+Acerca del autor: Berto López
+
+   Soy autor y fundador de este blog, e Ingeniero en Informática de
+   formación con amplia experiencia: he trabajado como empleado,
+   empresario, incluso funcionario. Vamos, que he probado de todo De todo
+   ello, lo que me apasiona de verdad, es el emprendimiento, combinado con
+   la tecnología, algo que he podido retomar con mi proyecto web actual al
+   cual pertenece, entre otras, esa web. Aparte de mi propia experiencia
+   emprendedora, mi contacto profesional con pymes y pequeños
+   emprendedores me ha generado un gran interés en el marketing online.
+   Emprendí muy joven y eso hizo que todo el desarrollo inicial de las
+   redes sociales, WordPress, SEO, etc. ya lo viví con esa experiencia. Me
+   fascinó cómo cambió las reglas del juego para bien, sobre todo, para
+   los pequeños emprendedores. Esto me parece algo tan importante, de
+   tanto calado social, que este blog nace con la vocación de ser un sitio
+   de divulgación de este conocimiento y con la intención de motivar sus
+   lectores para que aprovechen al máximo el potencial de estas
+   disciplinas.
+   logo twitter logo twitter logo facebook logo facebook logo linkedin
+   logo linkedin logo instagram logo instagram logo pinterest logo
+   pinterest
+     __________________________________________________________________
+
+   ¿Te ha gustado esta lectura?
+
+   Pues únete a la "Zona VIP" de Ciudadano 2.0. Es gratis :)
+   Ya somos +50.000. Haz clic en el botón y descubre todo lo que te
+   ofrece.
+   (BUTTON) Descúbrelo aquí
+
+89 comentarios en «¿Qué es un blog y qué lo diferencia de una página web?»
+
+Navegación de comentarios
+
+   <- Comentarios anteriores
+    1.
+   Dalia Monsalve
+       16 de julio del 2023 a las 15:57
+       Hola Berto, Un gusto. Recién leí completamente tu blog. Y lo
+       encontré muy profesional, sencillo, buen explicado los conceptos
+       nuevos, por tanto muy entendible y se sintió el calor humano de
+       querer que los nuevos aprendamos a manejar y negociar a través de
+       este medio. Gracias y felicidades por compartir. Estoy iniciándome
+       en este apasionante mundo de lo digital para convertir mi pasión en
+       algo que pueda ganar dinero extra. BUEN TRABAJO. Me ha sido muy
+       útil.
+       Responder
+          +
+        Berto López
+            16 de julio del 2023 a las 16:18
+            Muchas gracias por tus amables palabras.
+            ¡Un saludo!
+            Berto
+            Responder
+    2.
+   Norma Castro
+       20 de noviembre del 2022 a las 4:01
+       La verdad es que poseer un blog en la web creo que es una opción
+       muy buena.
+       Te ayuda a conectar más con tu audiencia, contar lo que haces y
+       ofrecer una buena información a la gente que está interesada en lo
+       que haces.
+       Gracias por la información!
+       Responder
+          +
+        Berto López
+            21 de noviembre del 2022 a las 15:15
+            Hola Norma,
+            Es un gran "truco" para traer tráfico adicional a cualquier
+            tipo de página web, incluida una tienda online.
+            ¡Un saludo!
+            Berto
+            Responder
+    3.
+   Oscar C. Guadarrama Almaraz
+       14 de octubre del 2022 a las 21:15
+       Me ha servido esta información para empezar a salir de mi
+       analfabetismo informático. Me agrada encontrar definiciones de
+       palabras que he leído, sin saber su significado. MUCHAS GRACIAS!!!
+       Responder
+          +
+        Berto López
+            14 de octubre del 2022 a las 23:55
+            Me alegro de que te haya sido útil
+            ¡Un saludo!
+            Berto
+            Responder
+    4.
+   Hybo
+       20 de junio del 2022 a las 17:57
+       Muy buen articlo
+       Responder
+          +
+        Berto López
+            24 de junio del 2022 a las 10:29
+            Me alegro de que te haya sido útil
+            ¡Un saludo!
+            Berto
+            Responder
+    5.
+   Jorge Araneda Previtali
+       31 de mayo del 2022 a las 17:40
+       Hola.
+       Muy interesante, explicativo y consolida muchos términos, consejos
+       y buenas prácticas.
+       Felicitaciones!!
+       Responder
+          +
+        Berto López
+            1 de junio del 2022 a las 16:24
+            Me alegro de que te haya sido útil
+            ¡Un saludo!
+            Berto
+            Responder
+    6.
+   Felix
+       8 de mayo del 2022 a las 19:07
+       Muy interesante!!!!
+       Responder
+          +
+        Berto López
+            8 de mayo del 2022 a las 19:36
+            Me alegro de que te haya sido útil
+            ¡Un saludo!
+            Berto
+            Responder
+    7.
+   Alba Ramírez
+       29 de octubre del 2021 a las 12:59
+       La verdad es que poseer un blog en la web creo que es una opción
+       muy buena.
+       Te ayuda a conectar más con tu audiencia, contar lo que haces y
+       ofrecer una buena información a la gente que está interesada en lo
+       que haces.
+       Gracias por la información!
+       Responder
+          +
+        Lucía Berlanga
+            3 de noviembre del 2021 a las 14:19
+            Hola Alba,
+            Muchas gracias a ti por leernos
+            ¡Un saludo!
+            Lucía
+            Responder
+    8.
+   Henry vasquez s
+       16 de septiembre del 2021 a las 3:28
+       Gracias Berto. Estoy empezando a conocer.con vuestra ayuda pienso
+       en pocos dias crear mi blog. Felicidades
+       Responder
+          +
+        Berto López
+            16 de septiembre del 2021 a las 14:37
+            Muchas gracias por tus amables palabras
+            ¡Un saludo!
+            Berto
+            Responder
+    9.
+   Sofia
+       19 de julio del 2021 a las 7:27
+       Excelente información. Gracias Berto. Me has inspirado para crear
+       mi propio blog.
+       Responder
+   10.
+   Antonio Pacheco
+       16 de julio del 2021 a las 14:22
+       Muy interesante , muy completo ademas de este articulo ser el
+       ejemplo perfecto de porque el blog sera la herramienta fundamental
+       del marketing digital en los próximos años, las plataformas de
+       redes sociales cada día están mas confusas en cuanto a los
+       criterios de publicación, haciendo del blog el camino correcto a la
+       valoración del trabajo creativo digital.
+       Responder
+          +
+        Lucía Berlanga
+            2 de agosto del 2021 a las 10:22
+            Hola Antonio,
+            Me alegro de que te haya sido útil
+            ¡Un saludo!
+            Lucía
+            Responder
+   11.
+   Tati san
+       28 de marzo del 2021 a las 23:41
+       Thanks for the concept it is very productive and necessary
+       Responder
+          +
+        Lucía Berlanga
+            30 de marzo del 2021 a las 11:34
+            Thank you Tati
+            Responder
+
+Navegación de comentarios
+
+   <- Comentarios anteriores
+
+Deja un comentario Cancelar la respuesta
+
+   !!! Importante: por respeto a esta comunidad, sigue estas pautas al
+   dejar tu comentario:
+     * Usa tu nombre personal, ni nombres inventados, ni el de tu web, ni
+       el de tu empresa.
+     * Cuida la redacción: separa párrafos y no escribas en mayúsculas
+       (equivale a gritar).
+     * No dejes enlaces a tu web en el comentario, dispones del campo
+       "sitio web" para ello.
+     * Eliminaremos comentarios con insultos, ofensivos o con lenguaje
+       soez.
+
+   Comentario
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   Nombre ______________________________ Correo electrónico
+   ______________________________ Web ______________________________
+
+   Enviar comentario [ ] Acepto la política de privacidad (necesario)
+
+   Current ye@r * 7.4.0_______________
+   Leave this field empty ____________________
+
+   D
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Al rellenar el formulario estás dando el consentimiento expreso al
+   tratamiento de tus datos (guardar tu comentario y datos del formulario
+   en el blog) conforme al Reglamento General de Protección de Datos
+   (RGPD).
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario de tus datos es Webempresa (el hosting de este blog,
+   ubicado en España) y podrás ejercer tus derechos de acceso,
+   rectificación, limitación o supresión de tus datos (ver la política de
+   privacidad).
+
+   Legal
+     * Aviso legal
+     * Política de privacidad
+     * Política de cookies
+
+   Comparativas
+     * Mejor Hosting WordPress
+     * Mejor Hosting barato
+     * Mejor Hosting España
+     * Mejor Hosting Argentina
+     * Mejor Hosting México
+     * Mejor Hosting Colombia
+
+   Recursos
+     * Cupón descuento Webempresa
+     * Cupón descuento Raiola Networks
+     * Cupón descuento Hostinger
+     * Cómo crear una Página Web
+     * Mejores temas WordPress
+     * Ayuda para WordPress
+
+   Nuestras otras webs
+     * Office a Tope (Tutoriales & Trucos)
+     * Deutsch GO! (Aprender alemán)
+
+   Copyright © 2025 Ciudadano 2.0
+
+   DMCA.com Protection Status DMCA.com Protection Status
+
+   Accede a este material aquí
+
+   Regístrate con tu email para que te podamos dar acceso
+
+   Y sí, es 100% gratis
+   ____________________ ____________________ ____________________ [ ]
+   Acepto la política de privacidad (necesario) Acceder
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario es Mailrelay nuestro proveedor de email ubicado en
+   España. Podrás ejercer tus derechos de acceso, rectificación,
+   limitación o supresión de tus datos (ver la política de privacidad).
+   (BUTTON) X
+
+   Apúntate a este training aquí
+
+   Regístrate con tu email para que te podamos dar acceso
+
+   Y sí, es 100% gratis
+   ____________________ ____________________ ____________________ [ ]
+   Acepto la política de privacidad (necesario) Acceder
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario es Mailrelay nuestro proveedor de email ubicado en
+   España. Podrás ejercer tus derechos de acceso, rectificación,
+   limitación o supresión de tus datos (ver la política de privacidad).
+   (BUTTON) X
+
+   Apúntate a este training aquí
+
+   Regístrate con tu email para que te podamos dar acceso
+
+   Y sí, es 100% gratis
+   ____________________ ____________________ ____________________ [ ]
+   Acepto la política de privacidad (necesario) Acceder
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario es Mailrelay nuestro proveedor de email ubicado en
+   España. Podrás ejercer tus derechos de acceso, rectificación,
+   limitación o supresión de tus datos (ver la política de privacidad).
+   (BUTTON) X
+
+   Obtén tu eBook aquí
+
+   Apúntate a nuestra Zona VIP y descárgate tu eBook ya
+
+   Y sí, es 100% gratis
+   ____________________ ____________________ ____________________ [ ]
+   Acepto la política de privacidad (necesario) Acceder
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario es Mailrelay nuestro proveedor de email ubicado en
+   España. Podrás ejercer tus derechos de acceso, rectificación,
+   limitación o supresión de tus datos (ver la política de privacidad).
+   (BUTTON) X
+
+   Obtén tu eBook aquí
+
+   Apúntate a nuestra Zona VIP y descárgate tu eBook ya
+
+   Y sí, es 100% gratis
+   ____________________ ____________________ ____________________ [ ]
+   Acepto la política de privacidad (necesario) Acceder
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario es Mailrelay nuestro proveedor de email ubicado en
+   España. Podrás ejercer tus derechos de acceso, rectificación,
+   limitación o supresión de tus datos (ver la política de privacidad).
+   (BUTTON) X
+
+   Accede a este material aquí
+
+   Regístrate con tu email para que te podamos dar acceso
+
+   Y sí, es 100% gratis
+   ____________________ ____________________ ____________________ [ ]
+   Acepto la política de privacidad (necesario) Acceder
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario es Mailrelay nuestro proveedor de email ubicado en
+   España. Podrás ejercer tus derechos de acceso, rectificación,
+   limitación o supresión de tus datos (ver la política de privacidad).
+   (BUTTON) X
+
+   Apúntate a nuestra "Zona VIP"
+
+   ... y accederás gratis a cursos de emprendimiento, creación de webs y
+   tiendas online, eBooks de SEO, Copywriting, a plantillas legales y a
+   más descargas exclusivas
+
+   Y sí, todo 100% gratis
+   ____________________ ____________________ ____________________ [ ]
+   Acepto la política de privacidad (necesario) Acceder
+
+   El responsable de este sitio es Wenova Online S.L.. La finalidad de
+   este formulario es la divulgación en marketing online y emprendimiento,
+   legitimado con tu consentimiento expreso.
+
+   El destinatario es Mailrelay nuestro proveedor de email ubicado en
+   España. Podrás ejercer tus derechos de acceso, rectificación,
+   limitación o supresión de tus datos (ver la política de privacidad).
+   (BUTTON) X
+
+   Usamos cookies para ofrecerte la mejor experiencia en nuestra web.
+   Haciendo clic en "Aceptar" das tu consetimiento para usar estas
+   cookies.
+   Puedes realizar un consentimiento pormenorizado en "Ajustes".
+   Aceptar todoAjustes de Cookies
+
+   Gestionar consentimiento
+
+   (BUTTON) Cerrar
+
+Privacy Overview
+
+   This website uses cookies to improve your experience while you navigate
+   through the website. Out of these, the cookies that are categorized as
+   necessary are stored on your browser as they are essential for the
+   working of basic functionalities of the website. We also use
+   third-party cookies that help us analyze and understand how you use
+   this website. These cookies will be stored in your browser only with
+   your consent. You also have the option to opt-out of these cookies. But
+   opting out of some of these cookies may affect your browsing
+   experience.
+   Necessary
+   [X] Necessary
+   Siempre activado
+   Necessary cookies are absolutely essential for the website to function
+   properly. These cookies ensure basic functionalities and security
+   features of the website, anonymously.
+   Cookie Duración Descripción
+   cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookie is used to store the user consent for
+   the cookies in the category "Analytics".
+   cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR
+   cookie consent to record the user consent for the cookies in the
+   category "Functional".
+   cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookies is used to store the user consent
+   for the cookies in the category "Necessary".
+   cookielawinfo-checkbox-others 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookie is used to store the user consent for
+   the cookies in the category "Other.
+   cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookie is used to store the user consent for
+   the cookies in the category "Performance".
+   viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie
+   Consent plugin and is used to store whether or not user has consented
+   to the use of cookies. It does not store any personal data.
+   Functional
+   [ ] Functional
+   Functional cookies help to perform certain functionalities like sharing
+   the content of the website on social media platforms, collect
+   feedbacks, and other third-party features.
+   Performance
+   [ ] Performance
+   Performance cookies are used to understand and analyze the key
+   performance indexes of the website which helps in delivering a better
+   user experience for the visitors.
+   Analytics
+   [ ] Analytics
+   Analytical cookies are used to understand how visitors interact with
+   the website. These cookies help provide information on metrics the
+   number of visitors, bounce rate, traffic source, etc.
+   Advertisement
+   [ ] Advertisement
+   Advertisement cookies are used to provide visitors with relevant ads
+   and marketing campaigns. These cookies track visitors across websites
+   and collect information to provide customized ads.
+   Others
+   [ ] Others
+   Other uncategorized cookies are those that are being analyzed and have
+   not been classified into a category as yet.
+   GUARDAR Y ACEPTAR

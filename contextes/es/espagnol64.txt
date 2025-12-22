@@ -1,0 +1,100 @@
+       Ir al detalle
+     * Transporte
+       Desarrollamos y mantenemos la red de transporte eléctrico para
+       garantizar un suministro eléctrico de calidad a toda la sociedad
+       (BUTTON) Volver
+          + Red de transporte
+            (BUTTON) Volver
+               o Nuestras infraestructuras
+--
+       Línea de alta tensión con nieve y hielo
+       Nuestras infraestructuras
+       Desarrollamos y mantenemos las infraestructuras de la red
+       necesarias para transportar electricidad en alta tensión.
+       Saber más
+--
+       Ir al detalle
+     * Sostenibilidad
+       Gestionamos la red de transporte de forma sostenible
+       (BUTTON) Volver
+          + Integración en el territorio
+--
+          + Balance eléctrico
+          + Mercados
+          + Red de transporte
+          + Panorama europeo
+          + Publicaciones
+--
+               o Gestión de tus medidas eléctricas
+               o Acceso a tu liquidación
+               o Solicita un trabajo en la red de transporte
+               o Comunicación de tus indisponibilidades
+               o Mecanismo de minoración
+--
+               o Acceso a tu liquidación
+               o Participación en el servicio de interrumpibilidad
+               o Solicitud de un trabajo en la red de transporte
+               o Consumidores electrointensivos
+          + Representante
+--
+               o Acceso y conexión a la red
+               o Puesta en servicio de tu instalación
+               o Solicita un trabajo en la red de transporte
+               o Gestión de tus medidas eléctricas
+          + Titular de almacenamiento
+--
+    1. Home
+    2. Transporte de energía eléctrica
+    3. Red de transporte de electricidad
+    4. Nuestras infraestructuras
+
+   Nuestras infraestructuras
+
+   Dotamos a la red de transporte de las infraestructuras necesarias para
+   transportar la energía eléctrica en alta tensión de la forma más
+   eficiente y con el máximo nivel de calidad.
+
+   Una red robusta, mallada y segura
+   La red de transporte de Red Eléctrica está formada por un conjunto de
+   instalaciones que configuran un sistema mallado para que la
+   electricidad sea accesible a toda la sociedad. Como los centros de
+   generación y los puntos de demanda no se encuentran en el mismo lugar,
+   es necesaria una red robusta que vertebre el territorio para
+   transportar esa energía de la forma más eficiente y segura y llevarla
+   allí donde se necesita.
+--
+
+   Somos los promotores de las obras de construcción de las instalaciones
+   de la red de transporte de electricidad que se recogen en la
+   Planificación eléctrica y somos los responsables de ponerlas en
+   servicio de forma sostenible y siempre con el foco en la seguridad y la
+--
+
+   La Planificación Eléctrica es el instrumento normativo que establece
+   las necesidades de desarrollo de la red de transporte de electricidad.
+   En concreto, a través de la Planificación 2021-26, ya se están
+   reforzando las infraestructuras existentes y se están promoviendo
+--
+   económica del sistema eléctrico.
+
+   En Red Eléctrica contamos con equipos multidisciplinares que diseñan
+   las instalaciones considerando las variables técnicas y reglamentarias
+   necesarias desde un punto de vista de ciclo de vida. Desde las primeras
+--
+   red_de_transporte
+
+   Mantenimiento inteligente de la red (SAGA)
+
+   Utilizamos un sistema de gestión de activos basado en inteligencia
+--
+   Los datos del sistema eléctrico
+
+   Logo Red Eléctrica
+
+TSO_Menú footer
+--
+     * Canal ético y de cumplimiento
+
+Contacta con Red Eléctrica
+
+     * Dígame

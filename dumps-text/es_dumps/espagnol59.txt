@@ -1,0 +1,286 @@
+   #alternate alternate SICE » Feed SICE » Feed de los comentarios
+   alternate alternate alternate
+
+   Ir al contenido
+
+   Elige idioma
+
+     * Español Español
+     * English English
+
+   Search
+   Search
+   ____________________
+
+     * Presencia Multinacional
+
+     * Cultura y Vida
+
+     * Empleo
+
+     * Sostenibilidad
+
+     * Contacto
+
+     * Busca en la web
+
+     * Español
+
+   Logo SICE
+
+   (BUTTON)
+     * CORPORATIVO
+       (BUTTON)
+     * SOLUCIONES
+       (BUTTON)
+     * PLATAFORMAS DE GESTIÓN
+       (BUTTON)
+     * ACTUALIDAD
+       (BUTTON)
+     * I+D+I
+     * PROYECTOS
+
+     * Sobre SICE
+     * Historia
+     * Grupo empresarial
+     * Certificaciones
+     * Programa de cumplimiento corporativo
+
+   Nuestras Soluciones
+
+   SICE es una empresa especializada en la integración de tecnologías para
+   la gestión de infraestructuras públicas. Desarrollamos soluciones y
+   aplicaciones integradas, basadas en tecnologías de última generación.
+   Icono Peaje
+   ITS&TÚNELES
+   Tráfico Interurbano
+   Gestión Integral de Túneles
+   Icono Tuneles
+   PEAJE
+   Peaje Free-Flow
+   Peaje Convencional
+   Peaje en Sombra
+   Icono Transporte
+   TRANSPORTE
+   Ferrocarril
+   Metros y Tranvías
+   Autobuses
+   Ticketing
+   Puertos y Aeropuertos
+   Icono Movilidad Urbana
+   MOVILIDAD URBANA
+   Tráfico Urbano
+   Zonas de Bajas Emisiones
+   Calidad del Aire
+   Seguridad Urbana
+   Icono Alumbrado
+   ALUMBRADO
+   Alumbrado
+   ESEs
+   Cargadores Eléctricos
+   Eficiencia energética en edificios
+   Plantas Fotovoltaicas
+   Icono Agua
+   AGUA
+   Hidrología y Recursos Hídricos
+   Infraestructuras Hidráulicas
+   Icono Procesos
+   CONTROL DE PROCESOS
+   Automatización y Robotización
+   Gas y Petróleo
+   Icono DataScience
+   DATA SCIENCE
+   Centro de operaciones de seguridad SOC
+   Servicios Cloud
+     * SIDERA UNIQ
+     * SIDERA ANALYTICS
+     * SIDERA ITS&TUNNELS
+     * SIDERA RAIL
+
+     * SIDERA LIGHTING
+     * SIDERA TRAFFIC
+     * SIDERA TOLLING
+     * SIDERA AFC
+
+     * Noticias
+     * Insights
+     * Eventos
+
+   Consultoría y asistencia técnica para la mejora de la gestión de la Red
+   de Carreteras del Estado a través de la adquisición, explotación y
+   visualización de información viaria mediante herramientas Big Data.
+   ITS y túneles
+   España
+   Dirección General de Carreteras
+   2025-2029
+
+   La Dirección General de Carreteras inicia un ambicioso proyecto que
+   busca mejorar la gestión de la Red de Carreteras del Estado mediante la
+   utilización de herramientas de Big Data e IA. El proyecto, de 4 años de
+   duración, integra tecnologías avanzadas para garantizar una
+   infraestructura viaria más eficiente y segura.
+
+   Uno de los componentes clave del proyecto es la plataforma SIDERA
+   Analytics, diseñada para analizar y mostrar el comportamiento real de
+   los usuarios de las carreteras, las condiciones de la infraestructura y
+   su entorno, a través de datos multiorigen y actualizaciones dinámicas e
+   instantáneas.
+
+   Innovación y tecnología al servicio de las carreteras
+
+   SIDERA Analytics es una plataforma avanzada que muestra y analiza el
+   comportamiento real de los usuarios de las carreteras. A través de la
+   explotación de datos multiorigen, incluidos los Floating Car Data y los
+   datos de vehículos conectados, esta herramienta proporciona una visión
+   detallada sobre cómo se desplazan los usuarios, su velocidad, los
+   patrones de estacionamiento y la duración de sus paradas.
+
+   Mediante la actualización dinámica e instantánea de los datos, SIDERA
+   Analytics ofrece analíticas bajo demanda, permitiendo generar informes
+   de movilidad de diferentes complejidades y estudios específicos para
+   diversos casos de uso. La plataforma también analiza las condiciones de
+   la infraestructura, sus activos y su entorno, brindando a los gestores
+   viarios una perspectiva integral y precisa de la situación actual y
+   futura de las carreteras.
+   Bloques CGT
+
+   Datos adicionales del proyecto
+
+   Este tipo de datos permite además analizar las condiciones de la
+   infraestructura, sus activos y su entorno a través de los sensores de
+   los vehículos que circulan por las carreteras. La plataforma dispone de
+   filtros para el tipo de datos a mostrar, espaciales, temporales, tipo
+   vehículos y atributos, booleanos o secuenciales, entre otros.
+
+   Integrando estos datos con otros de otras fuentes, mapeándolos en la
+   plataforma y analizándolos, la plataforma genera informes de movilidad
+   de las diferentes complejidades, así como los estudios específicos para
+   cada caso de uso.
+
+   La plataforma brinda analíticas bajo demanda gracias a la actualización
+   dinámica e instantánea de los datos que se muestran y analizan,
+   pudiendo personalizar cada usuario sus diferentes cuadros de mando y
+   formatos de visualización y análisis en función de sus propias
+   necesidades, para lo cual no se requieren conocimientos de «Data
+   Analyst».
+   Datos CGT proyecto
+
+   Un proyecto estratégico para el futuro de la movilidad
+
+   La iniciativa dirigida por SICE no solo mejora la gestión de las
+   carreteras, sino que también plantea una serie de beneficios
+   colaterales. La explotación de datos viarios a través de SIDERA
+   Analytics permite mejorar la seguridad de los usuarios, optimizar la
+   planificación de nuevas infraestructuras y reducir los tiempos de
+   respuesta ante incidencias y emergencias.
+
+   Además, la plataforma ayuda a identificar patrones de movilidad que
+   pueden ser utilizados para desarrollar estrategias de sostenibilidad,
+   contribuyendo a la reducción de emisiones y fomentando un uso más
+   eficiente de los recursos.
+
+   Objetivos generales del proyecto
+
+   El proyecto integra datos de los equipos y sistemas propios de la
+   Dirección General de Carreteras, AEMET, fabricantes de vehículos, datos
+   de telefonía móvil y otros proveedores, proporcionando así una visión
+   más completa y precisa de la situación viaria. Mediante herramientas de
+   análisis Big Data, se cubrirán todos los procesos de ETL
+   (Extract-Transformation-Load), facilitando la transformación de datos
+   agregados en inteligencia procesable. Esta inteligencia procesable será
+   generada por algoritmos de Machine Learning y motores de analítica de
+   datos que emplean técnicas avanzadas como data mining y clustering.
+
+   La visualización geográfica de datos será sencilla e intuitiva gracias
+   a la integración GIS, permitiendo una toma de decisiones más informada.
+   Además, el proyecto incluye la generación de reportes sobre diversas
+   variables e indicadores, así como la creación de cuadros de mando y
+   KPIs en distintos formatos, adaptándose a las necesidades específicas
+   de cada usuario. En resumen, el proyecto busca ofrecer una solución
+   integral y avanzada para la gestión eficiente y efectiva de la Red de
+   Carreteras del Estado.
+   Pantallas CGT
+
+   Logo SICE
+   INSIGHTS
+   CONTACTO
+   PRESENCIA MULTINACIONAL
+   TRABAJA CON NOSOTROS
+   CANAL ÉTICO
+   AVISO LEGAL
+   POLÍTICA DE PRIVACIDAD
+   POLÍTICA DE COOKIES
+   COPYRIGHT © SICE - TODOS LOS DERECHOS RESERVADOS
+
+   Logo SICE
+
+     * CORPORATIVO
+          + Sobre SICE
+          + Historia
+          + Grupo empresarial
+          + Certificaciones
+          + Programa de Cumplimiento Corporativo
+     * SOLUCIONES
+     * PLATAFORMAS DE GESTIÓN
+          + SIDERA UNIQ
+          + SIDERA ITS&Tunnels
+          + SIDERA Rail
+          + SIDERA Lighting
+          + SIDERA Traffic
+          + SIDERA Tolling
+          + SIDERA AFC
+     * ACTUALIDAD
+          + Noticias
+          + Insigths
+          + Eventos
+     * I+D+I
+     * PROYECTOS
+
+     * Presencia Multinacional
+     * Carrera / RRHH
+     * Sostenibilidad
+     * Contacto
+
+     * Español
+
+   Elige idioma
+
+     * Español Español
+     * English English
+
+   Logo SICE
+
+     * CORPORATIVO
+          + Sobre SICE
+          + Historia
+          + Grupo empresarial
+          + Certificaciones
+          + Programa de Cumplimiento Corporativo
+     * SOLUCIONES
+     * PLATAFORMAS DE GESTIÓN
+          + SIDERA UNIQ
+          + SIDERA ITS&Tunnels
+          + SIDERA Rail
+          + SIDERA Lighting
+          + SIDERA Traffic
+          + SIDERA Tolling
+          + SIDERA AFC
+     * ACTUALIDAD
+          + Noticias
+          + Insigths
+          + Eventos
+     * I+D+I
+     * PROYECTOS
+
+     * Multinational Presence
+     * Culture and Life
+     * Employment
+     * Sustainability
+     * Contact
+
+     * English
+
+   Choose language
+
+     * Español Español
+     * English English

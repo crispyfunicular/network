@@ -1,0 +1,18 @@
+   plantas solares, eólicas, hidráulicas y térmicas. Los distribuidores,
+   son aquellos que se encargan de transportar la electricidad desde los
+   generadores hasta los consumidores finales mediante una red de
+   infraestructura; y los comercializadores, que adquieren la electricidad
+   en el mercado mayorista para luego venderla a los usuarios, ofreciendo
+--
+   principales, las cuales desempeñan roles esenciales para garantizar que
+   el sistema actúe de manera eficiente:
+     * Red Eléctrica de España (REE): Opera y garantiza el equilibrio
+       entre oferta y demanda, gestionando la red de transporte de alta
+       tensión.
+
+--
+       tecnologías para garantizar el suministro continuo.
+
+     * Infraestructura: La red debe adaptarse para integrar grandes
+       cantidades de generación renovable.
+

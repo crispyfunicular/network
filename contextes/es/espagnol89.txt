@@ -1,0 +1,96 @@
+                        2. Universidades
+                        3. Membresías
+                        4. Red Excelencia I+D+I
+                        5. Otras colaboraciones con el sector TIC
+               o Canal de denuncias
+--
+                        2. Mediación parental
+                        3. La ciberseguridad en tu mochila
+                        4. Redes sociales
+                        5. Mi mundo digital
+                        6. Menores y sexting
+--
+               o Teletrabajo
+               o BYOD
+               o Redes Sociales
+               o Autenticación
+               o Comercio electrónico
+--
+                        2. Universidades
+                        3. Membresías
+                        4. Red Excelencia I+D+I
+                        5. Otras colaboraciones con el sector TIC
+               o Canal de denuncias
+--
+                        2. Mediación parental
+                        3. La ciberseguridad en tu mochila
+                        4. Redes sociales
+                        5. Mi mundo digital
+                        6. Menores y sexting
+--
+               o Teletrabajo
+               o BYOD
+               o Redes Sociales
+               o Autenticación
+               o Comercio electrónico
+--
+    2. EMPRESAS
+    3. Blog
+    4. Seguridad en redes wifi: una guía de aproximación para el
+       empresario
+
+Seguridad en redes wifi: una guía de aproximación para el empresario
+
+   Fecha de publicación 14/05/2019
+   Autor
+   INCIBE (INCIBE)
+   Seguridad en redes wifi: una guía de aproximación para el empresario
+
+   Desde Protege tu Empresa nos hemos propuesto que sigas reforzando y
+   aumentando tus conocimientos en ciberseguridad, concretamente sobre
+   redes wifi. Y para conseguirlo, te proponemos esta nueva guía:
+   Seguridad en redes wifi: una guía de aproximación para el empresario.
+
+   Hasta no hace mucho, para la interconexión de dispositivos tecnológicos
+--
+   concebiría ser dependientes de cables para poder consultar el correo
+   electrónico, dar de alta productos en una tienda online o gestionar las
+   redes sociales.
+
+   Precisamente, esta inclusión de la tecnología inalámbrica en el trabajo
+--
+   varias políticas de seguridad de cara a prevenir fallos de seguridad y
+   fugas de información que puedan poner en peligro su integridad. En este
+   punto, las redes inalámbricas no están exentas de cumplir con esta
+   normativa interna. Además, se deberán complementar con aquellos
+   mecanismos tecnológicos que contribuyan a garantizar esta protección y
+--
+   Con este documento pretendemos ofrecer una guía básica de buenas
+   prácticas que te ayuden a comprender y mejorar la seguridad de tus
+   redes inalámbricas. El propio desarrollo tecnológico nos hace pensar
+   que este tipo de comunicaciones seguirá desarrollándose, por lo que
+   esta guía quedará supeditada a la aprobación de nuevos estándares y
+--
+   Si queremos proteger la información que discurre a través de los
+   canales de comunicación de cualquier empresa, tendremos que configurar
+   de forma segura la red inalámbrica. Si aún no te has preocupado por
+   implementar este tipo de seguridad o tienes dudas sobre cuáles son los
+   procedimientos necesarios y cómo ponerlos en marcha, descarga esta guía
+--
+     * Malware
+     * Web
+     * Comunicaciones y redes
+     * Ingeniería social
+     * Microsoft
+--
+     * Confiabilidad
+     * DNS
+     * Redes sociales
+     * Tratamiento de aguas
+     * Industria química
+--
+     * Central nuclear
+     * PayPal
+     * Redes
+     * Biometría
+     * VMware

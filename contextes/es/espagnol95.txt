@@ -1,0 +1,52 @@
+    1. Inicio
+    2. Artículos
+    3. Las redes informáticas y sus componentes
+
+Las redes informáticas y sus componentes
+
+   En este artículo te contamos brevemente cuáles son los principales
+   componentes de las redes informáticas y en qué consiste su
+   funcionamiento.
+   Las redes informáticas y sus componentes
+
+   Las redes informáticas son un conjunto de dispositivos interconectados
+   entre sí a través de un medio. Uno de los objetivos de las redes
+   informáticas consiste en compartir recursos y permitir el intercambio
+--
+   enormemente el trabajo en hogares y oficinas.
+
+Principales componentes de las redes informáticas
+
+   Para crear una red informática se requieren ciertos componentes
+   específicos tales como un emisor, un codificador, una línea, un
+   decodificador y un receptor.
+--
+   - Codificador: este componente se encarga de codificar la señal para
+   que se transmita a través del cable. El codificador puede ser una
+   tarjeta de red que convierte la petición enviada en un formato que se
+   pueda transmitir.
+
+   - Línea: en las redes alámbricas los medios de transmisión son los
+   cables de red, en cambio en las redes inalámbricas los medios de
+   transmisión son las ondas de radiofrecuencia. Es decir que las líneas
+   conducen la información recibida a la dirección del dispositivo que se
+--
+   propio sistema para convertir las señales eléctricas en datos que pueda
+   procesar el ordenador. Los decodificadores entonces son los adaptadores
+   de red o PCI que suelen venir integrados en la placa madre.
+
+   - Receptor: este componente se encarga de recibir la señal que ha
+--
+   básicos de una red informática, sin embargo existen muchas redes que
+   emplean además otros componentes tales como un router, un switch o un
+   puente de red, que son los que reciben y envían la señal a sus
+   respectivos receptores.
+
+   Hasta aquí hemos visto cuáles son los principales componentes de una
+   red informática, si te gustaría aprender mucho más sobre esta temática
+   en particular, te invitamos a realizar nuestro curso de Redes
+   Informáticas a distancia. A lo largo de este curso 100% online podrás
+   aprender a instalar y configurar diferentes tipos de redes como placas
+   de red, grupos de trabajo y placas inalámbricas. Además podrás adquirir
+   las herramientas necesarias para manejar con seguridad las normas de
+   cableado, los comandos de MS-DOS y el soporte remoto.

@@ -1,0 +1,125 @@
+   características y usos
+
+Conexiones de red: tipos, características y usos
+
+     * Javier Nava
+     * Julio 22, 2025
+
+   En el mundo hiperconectado actual, las conexiones de red son la base
+   invisible que hace posible la comunicación entre dispositivos,
+   servidores, servicios en la nube y usuarios. Ya sea en una oficina, una
+--
+   una profesional con portátil.
+
+   Las conexiones de red son los enlaces físicos o virtuales que permiten
+   que dos o más dispositivos puedan comunicarse e intercambiar datos
+   entre sí. Están formadas por una combinación de hardware (routers,
+--
+   controladores).
+
+   Se pueden establecer dentro de una red local (LAN), a través de
+   internet, o entre dispositivos móviles mediante tecnologías
+   inalámbricas. Su función es garantizar que los datos lleguen del punto
+--
+   entornos tecnológicos modernos»
+
+Tipos principales de conexiones de red
+
+1. Conexiones cableadas
+--
+     * Bluetooth: Conexiones de corto alcance entre dispositivos
+       personales.
+     * 4G/5G: Redes móviles que ofrecen alta velocidad y baja latencia.
+     * LoRaWAN o Zigbee: Usadas en IoT por su bajo consumo energético.
+
+3. Redes híbridas
+
+   Muchas infraestructuras modernas combinan redes cableadas e
+   inalámbricas para lograr resiliencia, cobertura total y redundancia.
+
+Características de las conexiones de red
+
+   Las conexiones de red presentan una serie de características clave que
+   determinan su rendimiento, fiabilidad y adecuación a distintos
+   entornos. A continuación, repasamos las más relevantes:
+--
+
+   Algunas tecnologías incorporan cifrado, autenticación y protección
+   frente a accesos no autorizados. Las VPN y las redes privadas ofrecen
+   un plus en este aspecto.
+
+5. Escalabilidad
+
+   Especialmente relevante en redes inalámbricas, donde la ubicación del
+   router o las interferencias afectan la calidad de la señal.
+
+--
+   En el artículo sobre IA aplicada a la experiencia del cliente, se
+   aborda cómo tecnologías como la inteligencia artificial dependen de
+   conexiones de red estables para funcionar correctamente.
+
+Aplicaciones reales de conexiones de red
+
+     * Empresas tecnológicas conectan centros de datos distribuidos
+       globalmente mediante fibra óptica y SD-WAN.
+     * Industrias usan redes privadas (LAN industriales) con topologías
+       específicas para conectar sensores, máquinas y robots.
+     * Retail físico y digital conecta puntos de venta con plataformas
+       logísticas, CRM y sistemas de pago.
+     * Entornos educativos utilizan redes híbridas para dar soporte a
+       aulas virtuales, videoconferencias y plataformas LMS.
+
+--
+     * DNS, DHCP, NAT: Imprescindibles para traducir direcciones, asignar
+       IPs y gestionar tráfico.
+     * VPN: Redes privadas virtuales que garantizan seguridad y acceso
+       remoto.
+     * SD-WAN: Red definida por software, ideal para entornos corporativos
+       dinámicos.
+     * QoS (Quality of Service): Prioriza el tráfico más sensible (como
+--
+Formación recomendada
+
+   Las conexiones de red son mucho más que "cables" o "Wi-Fi". Son el
+   sistema nervioso digital que hace posible casi todo lo que ocurre en
+   entornos tecnológicos modernos. Comprender su funcionamiento,
+--
+
+   Máster en Ciberseguridad con DXC Technology
+   Domina redes, seguridad, análisis de vulnerabilidades y protocolos
+   avanzados de protección digital.
+   Testimonials 2
+--
+   Aquí encontrarás las respuestas a las dudas más comunes sobre el
+   programa, para ayudarte a tomar la mejor decisión en tu formación sobre
+   Conexiones de red.
+   ¿Qué es una conexión de red?
+
+--
+   ¿Qué diferencia hay entre una red cableada y una inalámbrica?
+
+   La red cableada ofrece mayor estabilidad y velocidad, mientras que la
+   inalámbrica ofrece movilidad y flexibilidad.
+   ¿Qué tipo de conexión es mejor para una empresa?
+
+   Depende del entorno: lo ideal suele ser una red híbrida con fibra
+   óptica + Wi-Fi y redundancia.
+
+--
+   ¿Qué es una VPN y para qué sirve?
+
+   Es una red virtual segura que permite conectarse a recursos
+   empresariales de forma remota, cifrando el tráfico.
+
+--
+   priorización como MPLS.
+
+   Etiquetado cloud computing, conexiones de red, formación UCM,
+   infraestructura IT, Máster Cloud e IA, Máster en Ciberseguridad DXC,
+   tecnología
+--
+   explícitamente solicitado por el abonado o usuario, o con el único
+   propósito de llevar a cabo la transmisión de una comunicación a través
+   de una red de comunicaciones electrónicas.
+   Preferencias [ ] Preferencias
+   El almacenamiento o acceso técnico es necesario para la finalidad

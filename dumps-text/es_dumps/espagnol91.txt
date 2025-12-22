@@ -1,0 +1,417 @@
+   #prev next alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate
+
+   [ ] [ ]
+
+   Saltar a contenido
+
+   logo logo
+
+   Privacy Guides
+   Redes Alternativas
+
+   ____________________
+
+   (BUTTON)
+   Inicializando búsqueda
+
+   (BUTTON) es
+     * en English
+     * es Español
+     * fr Français
+     * he E+iB+R+iJ+T+
+     * it Italiano
+     * nl Nederlands
+     * zh-Hant ­ ()
+     * zh-TW ­ (,°£)
+     * ru Russkij
+
+   (*) ( ) ( )
+
+     * Página Principal
+     * Base de Conocimientos
+     * Recomendaciones
+     * Artículos
+     * Vídeos
+     * Foro
+     * Wiki
+     * Acerca de
+
+   logo logo Privacy Guides
+     * Página Principal
+     * [ ] Base de Conocimientos
+   Base de Conocimientos
+          + Por Qué es Importante la Privacidad
+          + ¿Qué son los modelos de amenaza?
+          + Amenazas comunes
+          + Conceptos Erróneos Comunes
+          + Creación de Cuenta
+          + Eliminación de Cuenta
+          + [ ] Aspectos Tecnológicos Esenciales
+        Aspectos Tecnológicos Esenciales
+               o Introducción a las Contraseñas
+               o Autenticación Multifactor
+               o Eligiendo Tu Hardware
+               o Seguridad del correo electrónico
+               o Vista General de VPN
+          + [ ] Temas avanzados
+        Temas avanzados
+               o Resumen DNS
+               o Resumen de Tor
+               o Pagos Privados
+               o Tipos de redes de comunicación
+          + [ ]
+            Sistemas Operativos
+        Sistemas Operativos
+               o Resumen de Android
+               o Resumen de iOS
+               o Resumen de Linux
+               o Resumen de macOS
+               o Resumen de Qubes
+               o [ ]
+                 Windows
+             Windows
+                    # Configuración de las Directivas de Grupo
+     * [X] Recomendaciones
+   Recomendaciones
+          + Herramientas de Privacidad
+          + [ ]
+            Self-Hosting
+        Self-Hosting
+               o Filtrado de DNS
+               o Servidores de Correo Electrónico
+               o Gestión de Archivos
+          + [ ] Navegación por Internet
+        Navegación por Internet
+               o Tor Browser
+               o Navegadores de Escritorio
+               o Navegadores Móviles
+               o Extensiones de Navegador
+          + [ ] Proveedores
+        Proveedores
+               o Almacenamiento en la Nube
+               o Servicios de Eliminación de Datos
+               o Solucionadores DNS
+               o Alias de correo electrónico
+               o Servicios de Correo Electrónico
+               o Servicios Financieros
+               o Gestión de Fotografías
+               o Motores de Búsqueda
+               o Servicios de VPN
+          + [ ] Software
+        Software
+               o Chat IA
+               o Sincronización del Calendario
+               o Criptomonedas
+               o Edición de Datos y Metadatos
+               o Colaboración en Documentos
+               o Clientes de Correo Electrónico
+               o Software de Cifrado
+               o Compartir y sincronizar archivos
+               o Interfaces de usuario
+               o Salud y Bienestar
+               o Herramientas Lingüísticas
+               o Mapas y Navegación
+               o Autenticación Multifactor
+               o Agregadores de Noticias
+               o Blocs de Notas
+               o Suites de ofimática
+               o Administradores de Contraseñas
+               o Pastebins
+               o Comunicación en Tiempo Real
+               o Redes Sociales
+          + [ ] Hardware
+        Hardware
+               o Teléfonos celulares
+               o Llaves de seguridad
+          + [ ] Sistemas Operativos
+        Sistemas Operativos
+               o [ ]
+                 Android
+             Android
+                    # Distribuciones alternativas
+                    # Aplicaciones Generales
+                    # Obtener Aplicaciones
+               o Escritorio/PC
+               o Firmware del Router
+          + [X] Avanzado
+        Avanzado
+               o [ ] Redes Alternativas Redes Alternativas
+             Tabla de contenidos
+                    # Redes anonimizadoras
+                         @ Tor
+                              - Orbot
+                              - Snowflake
+                         @ I2P (El Proyecto de Internet Invisible)
+               o Integridad del Dispositivo
+     * Artículos
+     * Vídeos
+     * Foro
+     * Wiki
+     * [ ] Acerca de
+   Acerca de
+          + Sobre Privacy Guides
+          + Donar
+          + Miembros del Equipo
+          + [ ] Políticas
+        Políticas
+               o Criterios Generales
+               o Política de Aceptación de Donaciones
+               o Política Ejecutiva
+               o Política de Privacidad
+               o Avisos y Descargos de Responsabilidad
+          + [ ] Comunidad
+        Comunidad
+               o Puestos de Trabajo
+               o Colaboradores
+               o Servicios en línea
+               o Código de Conducta
+               o Estadísticas de tráfico
+          + [ ] Contribuir
+        Contribuir
+               o [ ] Guía de Redacción
+             Guía de Redacción
+                    # Estilo de Escritura
+                    # Advertencias
+                    # Directrices de Marca
+                    # Traducciones
+               o [ ] Guías Técnicas
+             Guías Técnicas
+                    # Subir Imágenes
+                    # Recomendaciones de Git
+                    # Mensajes de commit
+                    # Comentar en los PR
+
+   Tabla de contenidos
+     * Redes anonimizadoras
+          + Tor
+               o Orbot
+               o Snowflake
+          + I2P (El Proyecto de Internet Invisible)
+
+    1. Página Principal
+
+     Recomendaciones
+
+     Avanzado
+
+
+
+                               Redes Alternativas
+
+   Protege contra la(s) siguiente(s) amenaza(s):
+     * Proveedores de Servicios
+     * Vigilancia Masiva
+     * Capitalismo de Vigilancia
+
+Redes anonimizadoras
+
+   Cuando se trata de redes anonimizadoras, querenos destacar que Tor es
+   nuestra primera opción. Es la red anónima más utilizada, fuertemente
+   estudiada y activamente desarrollada. Utilizar otras redes podría poner
+   en peligro tu Anonimato, a menos que sepas lo que estás haciendo.
+
+Tor
+
+   Tor logo
+
+   La red Tor es un grupo de servidores operados por voluntarios que te
+   permiten conectarte de manera gratuita, además de mejorar tu privacidad
+   y seguridad en Internet. Individuos y organizaciones también pueden
+   compartir información a través de la red Tor con los "servicios ocultos
+   .onion" sin comprometer su privacidad. Dado que el tráfico de Tor es
+   difícil de bloquear y rastrear, Tor es una eficaz herramienta de
+   elusión de la Censura.
+
+   La manera recomendada de acceder a la red Tor es por medio del
+   Navegador Tor, que explicamos más a detalle en una página dedicada:
+
+   Información del Navegador Tor Revisión detallada de Tor
+
+   Puedes acceder a la red Tor utilizando otras herramientas; tomar esta
+   decisión depende de tu modelo de amenaza. Si eres un usuario ocasional
+   de Tor y no te preocupa que tu ISP recopile pruebas contra ti, usar
+   aplicaciones como Orbot o aplicaciones de navegador móvil para acceder
+   a la red Tor probablemente esté bien. Aumentar el número de personas
+   que usan Tor a diario ayuda a reducir el mal estigma de Tor, y
+   disminuye la calidad de las "listas de usuarios de Tor" que los ISP y
+   los gobiernos pueden compilar.
+
+   ¡Pruébalo!
+
+   Puedes acceder a Privacy Guides a través de tor en
+   xoe4vn5uwdztif6goazfbmogh6wh5jc4up35bqdflu6bkdc5cas5vjqd.onion.
+
+Orbot
+
+   Orbot logo
+
+   Orbot es una aplicación móvil que enruta el tráfico de cualquier
+   aplicación en tu dispositivo a través de la red Tor.
+
+   Página Principal
+   Downloads "Descargas"
+     * Google Play
+     * App Store
+     * GitHub
+     * F-Droid
+
+   Anteriormente recomendamos activar la preferencia Aislar Direcciones de
+   Destino en los ajustes de Orbot. Aunque esta configuración puede
+   mejorar teóricamente la privacidad forzando el uso de un circuito
+   diferente para cada dirección IP a la que te conectes, no proporciona
+   una ventaja práctica para la mayoría de las aplicaciones (especialmente
+   navegación web), puede conllevar una penalización significativa del
+   rendimiento, y aumenta la carga en la red Tor. Ya no recomendamos
+   modificar el valor predeterminado de este ajuste, a menos que estés
+   seguro de que lo necesitas.^1
+
+   === "Android"
+Orbot puede hacer de proxy para aplicaciones individuales si son compatibles con
+ SOCKS o proxy HTTP. También puede hacer de proxy para todas tus conexiones de r
+ed utilizando [VpnService] (https://developer.android.com/reference/android/net/
+VpnService) y se puede utilizar con el kill switch VPN en :gear: **Ajustes** ->
+**Red e Internet** -> **VPN** -> :gear: -> **Bloquear conexiones sin VPN**.
+
+Orbot suele estar desactualizado en Google Play y en el repositorio F-Droid de G
+uardian Project, así que considera descargarlo directamente del repositorio de G
+itHub en su lugar. Todas las versiones están firmadas usando la misma firma, por
+ lo que deberían ser compatibles entre sí.
+
+   === "iOS"
+En iOS, Orbot tiene algunas limitaciones que posiblemente podrían causar cuelgue
+s o filtraciones: iOS no tiene una característica efectiva a nivel de sistema op
+erativo para bloquear conexiones sin una VPN como hace Android, e iOS tiene un l
+ímite de memoria artificial para extensiones de red que hace que sea un reto eje
+cutar Tor en Orbot sin cuelgues. Actualmente, siempre es más seguro usar Tor en
+un ordenador de sobremesa que en un dispositivo móvil.
+
+Snowflake
+
+   Snowflake logo Snowflake logo
+
+   Snowflake te permite donar ancho de banda al Proyecto Tor, operando un
+   "proxy de Snowflake" desde tu navegador.
+
+   Las personas censuradas pueden usar los proxies de Snowflake para
+   conectarse a la red Tor. Snowflake es una gran manera de contribuir a
+   la red, incluso si no tienes los conocimientos técnicos para operar un
+   nodo o puente de Tor.
+
+   Página principal
+
+   Puedes activar Snowflake en tu navegador al abrirlo en otra pestaña y
+   activar el interruptor. Puedes dejarlo corriendo de fonto mientras
+   navegas para contribuir con tu conexión. No recomendamos instalar
+   Snowflake como una extensión del navegador, porque agregar extensiones
+   de terceros puede aumentar tu superficie de ataque.
+
+   Ejecuta Snowflake en tu navegador
+
+   Snowflake no aumenta tu privacidad de ninguna manera, ni se utiliza
+   para conectar con la red Tor desde tu navegador personal. Sin embargo,
+   si tu conexión a Internet no está censurada, deberías considerar
+   ejecutarlo para ayudar a mejorar la privacidad de las personas en redes
+   censuradas. No es necesasrio preocuparte sobre cuales páginas acceden
+   las personas a través de tu proxy--su dirección IP visible coincidirá
+   con su nodo de salida de Tor, no el tuyo.
+
+   Ejecutar un proxy Snowflake tiene poco riesgo, incluso menos que
+   ejecutar un relé Tor o un puente, que de por sí no son actividades
+   especialmente arriesgadas. Sin embargo, el tráfico de proxy pasa a
+   través de tu red, lo que puede impactar de varias maneras,
+   especialmente si el tráfico de tu red es limitado. Asegúrate de
+   comprender cómo funciona Snowflake antes de tomar la decisión de
+   ejecutar un proxy.
+
+I2P (El Proyecto de Internet Invisible)
+
+   logo de I2P logo de I2P
+
+   I2P es una capa de red que cifra tus conexiones y las enruta a través
+   de una red de ordenadores distribuidos por todo el mundo. Está enfocada
+   principalmente en crear una red alternativa que protege la privacidad,
+   en vez de anonimizar las conexiones regulares a Internet.
+
+   Página principal
+   Downloads "Descargas"
+     * Google Play
+     * Android
+     * Windows
+     * macOS
+     * Linux
+
+   A diferencia de Tor, todo el tráfico de I2P es interno a la red I2P, lo
+   que significa que los sitios web regulares de Internet no se pueden
+   acceder directamente desde I2P. En su lugar, puedes conectarte a sitios
+   web que son alojador de manera anónima y directamente en la red I2P,
+   que son llamados "eepsites" y tienen dominios terminados en .i2p.
+
+   ¡Pruébalo!
+
+   Puedes tratar de conectarte a Privacy Guides a través de I2P en
+   privacyguides.i2p.
+
+   Además, a diferencia de Tor, cada nodo de I2P retransmite el tráfico
+   para otros usuarios por defecto, en vez de depender de voluntarios
+   dedicados a la retransmisión para ejecutar los nodos. Hay
+   aproximadamente 10,000 repetidores y puentes en la red Tor, comparador
+   a los ~50,000 en I2P, significando que hay potenciamente más formas de
+   enrutar tu tráfico para maximizar el anonimato. I2P también tiende a
+   ser más eficiente que Tor, aunque esto es probablemente un efecto
+   secundario de que Tor está más centrado en el tráfico regular de
+   Internet «superficial» y por lo tanto utiliza más nodos de salida con
+   cuellos de botella. El rendimiento del servicio oculto es, por lo
+   general, considerado mucho mejor en I2P a comparación de Tor. Mientras
+   la ejecución de aplicaciones como BitTorrent es complicado en Tor (y
+   puede impactar masivamente el rendimiento de la red Tor), es muy fácil
+   y eficiente en I2P.
+
+   Sin embargo, I2P presenta sus desventajas. La dependencia de Tor en
+   nodos de salida dedicados significa que más personas en entornos menos
+   seguros pueden usarlo, y los repetidores que existen en Tor son
+   probablemente más eficientes y estables, porque generalmente no son
+   ejecutados en conexiones residenciales. Tor también está más enfocado
+   en la privacidad del navegador (ej: protección ante las huellas
+   dactilares), con un Navegador Tor dedicado para anonimizar la actividad
+   de navegación lo máximo posible. I2P es usado a través de tu navegador
+   regular de Internet y mientras puedes configurar tu navegador para que
+   proteja mejor tu privacidad, probablemente tu navegador no tiene la
+   misma huella dactilar que otros usuarios de I2P (no hay una "multitud"
+   para camuflarte).
+
+   Es probable que Tor sea más resistente a la censura, debido a su
+   robusta red de puentes y diversos transportes conectables. Por otro
+   lado, I2P usa servidores de directorio para la conexión inicial, que
+   pueden ser variables/no fiables y ejecutados por voluntarios, a
+   comparación de los codificados/fiables que Tor usa y probablemente son
+   más fáciles de bloquear.
+     __________________________________________________________________
+
+    1. El ajuste IsolateDestAddr se discute en la Tor mailing list y
+       documentación de Stream Isolation de Whonix, donde ambos proyectos
+       sugieren que no suele ser un buen enfoque para la mayoría de la
+       gente. &#8617;
+
+   ¿Esta página fue útil?
+
+   (BUTTON) (BUTTON)
+   ¡Gracias por tus comentarios!
+   ¡Gracias por compartir tu opinión! Si quieres decirnos algo más, puedes
+   crear una publicación en nuestro foro.
+
+   Estás visitando la copia en Español de Privacy Guides, traducida por
+   nuestro fantástico equipo traductor en Crowdin. ¡Si encuentras un error
+   o ves algunas secciones sin traducir en esta página, por favor
+   considera ayudar! Visita Crowdin
+
+   You're viewing the Spanish copy of Privacy Guides, translated by our
+   fantastic language team on Crowdin. If you notice an error, or see any
+   untranslated sections on this page, please consider helping out!
+
+   Privacy Guides es un sitio web sin fines de lucro y con fines sociales
+   que proporciona información sobre la protección de la seguridad y
+   privacidad de tus datos.
+   No obtenemos dinero al recomendar ciertos productos y no utilizamos
+   enlaces de afiliado.
+   2019-2025 Privacy Guides y colaboradores. Aviso de privacidad.

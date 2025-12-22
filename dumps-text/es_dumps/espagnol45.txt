@@ -1,0 +1,312 @@
+   #alternate alternate alternate alternate prev up next
+
+   Pasar al contenido principal
+
+   >> Sitio del Asociación Mundial de la Carretera
+
+Menu du compte de l'utilisateur
+
+     * Iniciar sesión
+
+   Utilice su nombre de usuario PIARC.
+   You must have JavaScript enabled to use this form.
+   Inicio de sesión _______________
+   Ingrese su nombre de usuario Manual de Seguridad Vial - Asociación
+   Mundial de Carreteras (PIARC).
+   Contraseña _______________
+   Introduzca la contraseña que acompaña a su nombre de usuario.
+   Iniciar sesión
+     * Crear nueva cuenta
+     * ¿Olvidaste tu contraseña?
+
+   Select your language [Español]
+   Español
+   Inglés
+   Español
+   Ir
+   RNO/ITS - PIARC (Asociación Mundial de Carreteras)
+
+   Manual Explotación de la Red Vial
+   & Sistemas Inteligentes de Transporte
+   Guía para profesionales!
+
+Menu
+
+   (BUTTON)
+     * Conceptos Básicos
+          + Operaciones de la Red Vial
+               o Qué significa RNO?
+               o Necesidades del Usuario Vial
+               o Operaciones Integradas
+          + Sistemas Inteligentes de Transporte
+               o Qué significa ITS?
+               o Beneficios de ITS
+               o Tecnologías ITS
+     * Operaciones de la Red Vial
+          + Monitoreo de la Red
+               o Actividades de Monitoreo
+               o Tecnologías de Monitoreo
+          + Operaciones de la Red
+               o Actividades operación
+               o Sistemas de Información al Viajero
+               o Protección de la Red
+          + Control de la Red
+               o Gestión del Tránsito
+               o Gestión de la Demanda
+               o Seguridad Vial
+          + Servicios al Usuario
+               o Pago Electrónico
+               o Servicios al Viajero
+               o Ayuda al Conductor
+               o Transporte de Pasajeros
+               o Transporte Comercial y de Mercancías
+     * Temas fundamentales
+          + Sistemas y Estándares
+               o Arquitectura ITS
+               o Ingeniería De Sistemas
+               o Estándares ITS
+               o Factores Humanos
+          + Planificación e Implementación
+               o Planificación Estratégica
+               o Valorización de Proyectos
+               o Financiación y Contratos
+               o Evaluación de Proyectos
+               o Marco Legal y Normativo
+               o Futuros ITS
+     * Economías emergentes
+          + Iniciando ITS
+               o Construcción de la Capacidad de ITS
+               o Estrategias de Implementación de ITS
+     * Útiles
+          + ITS Terminología
+          + Acrónimos
+
+   ______________________________
+   Tipología [Tipología_______]
+   Capítulos del manual [Capítulo______________________]
+   Fecha de publicación [Año_]
+   [Mes]
+   Buscar
+
+Ruta de navegación
+
+    1. Home
+    2. Planificación e Implementación
+    3. Futuros ITS
+    4. Inteligencia en Transporte
+    5. Visión de Operaciones de una Red Inteligente
+
+   Book navigation
+     * Planificación e Implementación
+          + Planificación Estratégica
+          + Valuación de Proyectos
+          + Financiación y Contratos
+          + Evaluación de Proyectos
+          + Marco Legal y Normativo
+          + Futuros ITS
+               o Pensando en el Futuro
+               o Desafíos y Oportunidades
+               o Inteligencia en Transporte
+                    # Visión de Operaciones de una Red Inteligente
+                    # Visión de Viajeros Inteligentes
+                    # Visión de Vehículos Inteligentes
+                    # Visión de Autopistas Automatizadas
+
+   facebook Facebook linkedin LinkedIn twitter Tweet
+   pdf PDF
+     * Página actual
+     * Entire chapter
+
+   mail Mail
+   print Print
+
+Visión de operaciones de una red inteligente
+
+   A medida que las ciudades se expandan, aumentará la presión para
+   racionalizar las prioridades en competencia para el espacio vial. Será
+   vital aprovechar ITS para una variedad de medidas de gestión del
+   transporte. En las áreas metropolitanas, las operaciones integradas de
+   transporte público que interactúen con los sistemas de gestión del
+   tránsito serán cada vez más importantes. Ofrecerán servicios de
+   transporte público confiables y reducirán la carga del tránsito y la
+   carga ambiental. Las necesidades de ciclistas, peatones y otros
+   usuarios vulnerables de la vía también deben considerarse e
+   integrarse. Ver Seguridad de los Usuarios Viales Vulnerables y Usuarios
+   Viales Vulnerables
+
+   En las operaciones de redes viales, ITS ayuda a mejorar la toma de
+   decisiones en tiempo real por parte de los controladores de redes de
+   transporte y otros usuarios, mejorando así el funcionamiento de todo el
+   sistema de transporte. En el futuro, los sistemas de autoreconocimiento
+   tendrán un papel en la gestión del tránsito, la sustitución de viajes y
+   los controles "inteligentes" de acceso, teniendo en cuenta las
+   características individuales del vehículo, la carga y el propósito del
+   viaje.
+
+   En nuestras carreteras, se necesita una mejor lógica, conectividad y
+   conocimiento de los requisitos espaciales para la asignación dinámica
+   de las prioridades de tránsito en el tiempo y en el espacio. Éste es
+   también el caso de la planificación de viajes, la distribución de
+   mercancías y la logística de mercancías y los modos de transporte
+   colectivo que responden a la demanda. La autopista automatizada o una
+   intersección "inteligente" también requerirá una capacidad cinestésica.
+
+   Las herramientas de gestión del tránsito apuntan a optimizar el
+   funcionamiento de las redes de transporte en tiempo y en espacio. A
+   pesar de que hay claros beneficios de la administración del tránsito
+   "inteligente", también introduce el riesgo del atasco y una
+   "supercongestión" en caso de falla del sistema, empeorando las cosas.
+   Los sistemas futuros deben ser lo suficientemente robustos e
+   inteligentes como para enfrentar los peores escenarios posibles. Ésto
+   es particularmente así si los vehículos mismos están automatizados.
+
+   Existen otros motivos para incorporar más inteligencia en los sistemas
+   integrados de transporte por carretera y en la gestión de la
+   movilidad.. See Gestión de la Demanda
+
+   En primer lugar, los sistemas actuales de gestión y control del
+   tránsito muestran limitaciones cuando se enfrentan a condiciones
+   críticas de tránsito y de congestión generalizada. Éste es un problema
+   casi permanente en muchas áreas metropolitanas y urbanas y, a menudo,
+   es causado por un análisis de comportamiento del tránsito concebido
+   localmente, cuando se requieren métodos de control más estratégicos y
+   de alto nivel, como la gestión de la demanda.
+
+   En segundo lugar, el papel de los operadores humanos en los centros de
+   gestión del tránsito sigue siendo crucial en las operaciones diarias.
+   No importa cuán sofisticada y avanzada sea la tecnología de control de
+   tránsito, el paradigma de "persona en el circuito" todavía prevalece
+   hoy en la mayoría de los sistemas centralizados de control de
+   tránsito. Ver Performance Humana and Centros de Control del Tránsito
+
+   Thirdly, the introduction and progressive integration of extended
+   monitoring and management facilities in the new generation of ITS
+   architectures (for example improved road condition monitoring, traffic
+   monitoring, incident detection, collective and individual route
+   guidance systems) has prompted demand for increased, on-line operator
+   support tools. These are to help cope with the complexity of the data
+   to be managed and the resulting, integrated traffic management
+   schemes. See Monitoreo de la Red
+
+   En tercer lugar, la introducción e integración progresiva de
+   instalaciones de supervisión y gestión extendidas en la nueva
+   generación de arquitecturas ITS (por ejemplo, mejora de la supervisión
+   de las condiciones de las carreteras, supervisión del tránsito,
+   detección de incidentes, sistemas de guía de rutas individuales y
+   colectivas) ha provocado una demanda en aumento de herramientas de
+   soporte del operador. Éstos son para ayudar a lidiar con la complejidad
+   de los datos que se administrarán y los esquemas de gestión de tránsito
+   integrados resultantes. Ver Estrategias de Gestión del
+   Tránsito y Monitoreo de Sistemas
+
+   CARRETERAS INTELIGENTES - SMART ROADS
+
+   "Smart Roads" - un informe de la Junta Internacional de Investigación
+   Vial (IR2B) del 2013 proporciona un buen ejemplo de cómo visualizar una
+   carretera inteligente y qué debe implementarse desde una perspectiva de
+   investigación para producir Carreteras Inteligentes (Smart Roads). El
+   diagrama al final del informe demuestra que las Carreteras Inteligentes
+   no sólo poseen una infraestructura y un problema técnico, sino que
+   involucran a una amplia gama de problemas e interdependencias,
+   incluidos los desafíos sociales, económicos y ambientales, así como las
+   expectativas de los usuarios.
+
+   Se requerirán futuros sistemas dinámicos de gestión de tránsito para
+   admitir la gestión proactiva del tránsito en toda la red y para
+   reemplazar la gestión reactiva del tránsito orientada a la comunidad
+   que es común en la actualidad. También se necesitará más y mejor
+   inteligencia para manejar la enorme cantidad de datos de tránsito en
+   tiempo real generados por los detectores y otras fuentes (por ejemplo,
+   los vehículos flotantes (de sondeo) que están equipados para informar
+   su posición y las condiciones del tránsito en tiempo real). Los datos
+   deben ser interpretados y analizados por los operadores para apoyar el
+   proceso de toma de decisiones.
+
+   Multimedia kit
+
+   Videos (1)
+
+Envíanos tus comentarios
+
+   You must have JavaScript enabled to use this form.
+
+   Civilidad
+
+   (*) Sr
+   ( ) Sra
+
+   Nombre
+
+   Nombre primero
+   ____________________________________________________________
+   Nombre ____________________________________________________________
+
+   Email ____________________________________________________________
+
+   País
+
+   País [- Ninguno -_________________________________]
+
+   Mensaje
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   RGPD [ ]
+   He leído y acepto los avisos legales relacionados con el uso de mis
+   datos personales.
+
+   CAPTCHA
+
+   This question is for testing whether or not you are a human visitor and
+   to prevent automated spam submissions.
+
+   Enviar
+
+Main navigation
+
+   (BUTTON)
+     * Conceptos Básicos
+          + Operaciones de la Red Vial
+          + Sistemas Inteligentes de Transporte
+     * Operaciones de la Red Vial
+          + Monitoreo de la Red
+          + Operaciones de la Red
+          + Control de la Red
+          + Servicios al Usuario
+     * Temas fundamentales
+          + Sistemas y Estándares
+          + Planificación e Implementación
+     * Economías emergentes
+          + Iniciando ITS
+     * Útiles
+          + ITS Terminología
+          + Acrónimos
+
+¡ Envíanos sus comentarios !
+
+   ¡ Envíe una opinión,
+   un comentario o una sugerencia
+   a los autores del Manual !
+   (BUTTON) Enviar
+
+¿Eres un investigador,
+un estudiante o un profesional?
+
+   Crea tu cuenta gratuita para acceder a material adicional y recibir
+   alertas cuando se publiquen nuevos contenidos.
+
+   Registrar
+
+Pied de page
+
+     * Contactos
+     * Mapa del sitio
+     * Exigencias técnicas
+     * Créditos
+     * Política de privacidad y protección de datos personales
+
+   [liIc.gif] [twIc.png]
+   (BUTTON) Top

@@ -1,0 +1,1453 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate
+
+   Skip to content Skip to navigation Skip to footer
+
+     * (BUTTON) DEMOSTRACIÓN GRATIS DEL PRODUCTO
+     * (BUTTON) SERVICES
+     * (BUTTON) SUPPORT
+     * (BUTTON) DESCARGAS
+     * INICIO DE SESIÓN FORTICLOUD
+       username
+     * (BUTTON) Búsqueda ____________________
+     * (BUTTON)
+          + USA (English)
+          + UK & Ireland (English)
+          + Germany (Deutsch)
+          + France (Français)
+          + Italy (Italiano)
+          + Mainland China
+            (­)
+          + Taiwan (­)
+          + Korea (­´)
+          + Japan (¥¬)
+          + Brazil (Portugués)
+          + Latin America
+            (Español)
+
+   (BUTTON)
+   Página de inicio de Fortinet
+     * Página de inicio de Fortinet
+     * (BUTTON) Productos
+          + (BUTTON) La plataforma de Fortinet
+            Firewall de malla híbrida
+               o Firewalls de próxima generación
+               o Servicios de seguridad impulsados por IA
+            (BUTTON) Más
+            Redes empresariales
+          + Switches ethernet seguros
+          + LAN inalámbrica segura
+       (BUTTON) Más
+       Seguridad de la IA
+          + Información general de FortiAI
+          + IA generativa y AIOPs
+       Unified SASE
+          + SASE
+          + Secure SD-WAN
+       (BUTTON) Más
+
+   Seguridad en la nube
+     * NGFW en la nube
+     * CNAPP
+
+   (BUTTON) Más
+   Operaciones de seguridad
+     * Plataforma SOC
+     * Agente unificado
+
+   (BUTTON) Más
+   Tecnología operacional
+     * Seguridad OT modernizada
+     * Productos reforzados
+
+   (BUTTON) Más
+
+   Más información sobre Seguridad GenAI »
+
+     (BUTTON) Seguridad de red
+
+   Firewall de red
+     * Dispositivos de firewall
+     * Firewalls de nube
+
+   Servicios
+     * Servicios de seguridad impulsados por IA
+     * FortiGate como servicio
+
+   Administración de NOC
+     * Administración centralizada
+     * GenAI para NOC
+     * Servicio de migración de firewall
+
+   Latest from Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Fortinet es nombrado un Líder en el Cuadrante Mágico(TM) de Gartner® de
+   2025 para Hybrid Mesh Firewall
+   Obtenga el informe
+   Más información sobre Redes seguras »
+
+     (BUTTON) Redes empresariales
+
+   LAN
+     * Switching
+     * WLAN
+     * NAC
+
+   Administración de NOC
+     * Administración de LAN basada en la nube
+     * Administración centralizada
+     * AIOps
+     * GenAI para NOC
+
+   WAN
+     * Secure SD-WAN
+     * WAN inalámbrica 5G/LTE
+
+   Latest from Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Fortinet nombrado un Líder en el Cuadrante Mágico(TM) de Gartner® de
+   2025 en infraestructura LAN empresarial inalámbrica y por cable
+   Obtenga el informe
+   Más información sobre Redes seguras »
+
+     (BUTTON) Unified SASE
+
+   SASE
+     * SASE
+     * Secure SD-WAN
+     * ZTNA universal
+
+   Servicios
+     * Servicios de seguridad impulsados por IA
+
+   Administración de NOC
+     * Administración centralizada
+     * GenAI para NOC
+     * DEM
+
+   Latest from Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Fortinet reconocido como un Líder en el Cuadrante Mágico(TM) de
+   Gartner® de 2025 para plataformas SASE
+   Obtenga el informe
+   Más información sobre Unified SASE »
+
+     (BUTTON) Seguridad en la nube
+
+   Seguridad de red en la nube
+     * Firewalls de nube
+
+   Protección de aplicación web / Protección de API
+     * Plataforma WAAP unificada
+     * WAF
+     * Entrega de aplicaciones y equilibrio de carga del servidor
+
+   Protección nativa de nube
+     * CNAPP
+     * Protección de la carga de trabajo de IA en la nube
+
+   Proveedores de servicios en la nube
+     * Descripción general de CSP
+
+   Servicios
+     * Servicios de consultoría de seguridad en la nube
+
+   Latest from Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Fortinet reconocida por su liderazgo en tres categorías de
+   KuppingerCole CNAPP Compass
+   Obtenga el informe
+   Más información sobre Seguridad en la nube »
+
+     (BUTTON) Operaciones de seguridad
+
+   Administración de riesgos y seguridad
+     * SOC llave en mano
+     * SIEM
+     * SOAR
+     * SOCaaS
+     * GenAI para SOC
+
+   Punto final
+     * Agente unificado
+     * EDR
+
+   Protección de datos
+     * Prevención de pérdida de datos
+
+   Identidad
+     * IAM
+     * PAM
+     * Identidad-aaS
+
+   Detección de red
+     * NDR
+     * Tecnología de engaño
+     * Zona protegida
+
+   Gestión continua de la exposición a amenazas
+     * Gestión de la exposición a amenazas
+
+   Seguridad de correo electrónico y espacio de trabajo
+     * Seguridad de correo electrónico
+     * Seguridad de espacio de trabajo
+
+   Servicios
+     * Respuesta a incidentes
+     * MDR
+
+   Latest from Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Validadas por Enterprise Strategy Group (ESG), las soluciones de
+   Fortinet reducen el tiempo de respuesta a incidentes hasta en un 99 %,
+   ahorran hasta 1,9 millones de dólares al año y ofrecen un ROI de hasta
+   el 1093 %.
+   Descargue el informe
+   Más información sobre Operaciones de seguridad »
+
+     (BUTTON) Tecnología operacional
+
+   Información general
+     * Tecnología operacional segura
+
+   Redes seguras
+     * Productos reforzados
+     * Servicio de seguridad de OT
+
+   Zero Trust
+     * NAC para OT
+
+   Operaciones de seguridad para OT
+     * Análisis del SOC
+     * NDR
+
+   Ecosistema
+     * Alianza tecnológica de OT
+
+   Latest from Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Fortinet nombrado líder absoluto en el informe IT/OT Network Protection
+   Platform Navigator 2025 de Westlands Advisory
+   Obtenga el informe
+   Más información sobre Fortinet Security Fabric »
+
+     (BUTTON) Servicios FortiGuard AI
+
+   Suscripciones impulsadas por IA
+     * Cartera de servicios de seguridad de FortiGuard
+     * Servicio de seguridad de OT
+
+   SaaS, datos y protección contra amenazas de día cero
+     * Prevención de pérdida de datos
+     * Prevención de malware en línea
+     * Clasificación de seguridad
+
+   Seguridad web/DNS
+     * Filtrado de URL
+     * Filtrado de DNS
+
+   Seguridad de redes y archivos
+     * Servicio de prevención de intrusiones
+     * Antivirus
+
+   Novedades de Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   El último informe de FortiGuard Labs revela cómo la IA, la
+   automatización y la dark web producen ciberataques más rápidos e
+   inteligentes, y cómo combatirlos.
+   Descargue el informe
+
+     Ver todos los productos
+
+     (BUTTON) Soluciones
+
+     * (BUTTON) Empresa
+       Redes seguras
+       Modernización de la red
+          + Información general
+          + Simplifique sus operaciones
+          + Transformación de la infraestructura
+          + Protección de la Tecnología Operacional
+       Seguridad de IA generativa
+       Transformación segura de la IA
+
+     * Información general
+     * Protección contra amenazas de la IA
+     * Automatización de SOC y NOC
+     * Infraestructura segura de IA
+
+   Unified SASE
+
+   Acceso seguro en todas partes
+
+     * Información general
+     * Fuerza laboral híbrida segura
+     * Optimización de la experiencia digital
+     * Una experiencia de confianza cero
+
+   Trayectoria del código a la nube
+
+     * Trayectoria segura de las aplicaciones en la nube
+     * Plataforma de protección de aplicaciones nativa de la nube
+     * Next-generation firewall (NGFW) nativo de la nube
+
+   Operaciones de seguridad
+
+   Transformación de seguridad
+
+     * Información general
+     * Automatización de las operaciones de seguridad
+     * Administración de la superficie de ataque
+     * Protección contra violaciones de seguridad
+
+     (BUTTON) Pequeñas y medianas empresas
+
+   Información general
+     * Pequeñas y medianas empresas
+
+   Casos de uso
+     * Seguridad de usuarios
+     * Seguridad de oficinas
+     * Seguridad de aplicaciones
+
+   Productos
+     * Firewall de próxima generación
+     * Firewall virtual de próxima generación
+     * Switching
+     * LAN inalámbrica (WLAN)
+     * Gestión e informes
+     * Secure Access Service Edge (SASE)
+
+   Servicios
+     * Catálogo de servicios de seguridad de FortiGuard
+     * FortiConverter
+     * Servicios de soporte de FortiCare
+     * Capacitación y concientización en materia de seguridad
+     * Evaluación de ciberamenazas
+     * Servicios de asesoría en la nube
+
+   Servicios expertos
+     * SOC como servicio (SOCaaS)
+     * Servicio administrado de FortiGate
+     * Overlay como servicio (OaaS)
+     * FortiGate como servicio (FGaaS)
+
+   Novedades de Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Informe global del panorama de amenazas de 2025
+
+   El último informe de FortiGuard Labs revela cómo la IA, la
+   automatización y la dark web producen ciberataques más rápidos e
+   inteligentes, y cómo combatirlos.
+   Descargue el informe
+
+     (BUTTON) Tecnología operacional
+
+   Información general
+     * Tecnología operacional segura
+
+   Redes seguras
+     * Productos reforzados
+     * Servicio de seguridad de OT
+
+   Zero Trust
+     * NAC para OT
+
+   Operaciones de seguridad para OT
+     * Análisis del SOC
+     * NDR
+
+   Ecosistema
+     * Alianza tecnológica de OT
+
+   Latest from Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Fortinet nombrado líder absoluto en el informe IT/OT Network Protection
+   Platform Navigator 2025 de Westlands Advisory
+   Obtenga el informe
+   Más información sobre Fortinet Security Fabric »
+
+     (BUTTON) Industrias
+
+   TI/OT
+     * Tecnología operacional
+     * Manufactura
+     * SCADA/ICS
+     * Petróleo y gas
+     * Servicios de energía
+
+   Salud y medicina
+     * Cuidado de la salud
+     * Farmacéutica
+
+   Educación
+     * Educación superior
+     * Distritos escolares de educación primaria y secundaria
+
+   Consumidor
+     * Servicios financieros
+     * Comercio minorista
+     * Hotelería
+
+   Todas las industrias
+     * Ver todo
+
+   Novedades de Fortinet
+   [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN
+   kYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+   Tres veces líder en seguridad OT. Una plataforma de confianza.
+
+   Fortinet ocupó la primera posición en dirección estratégica y capacidad
+   de plataforma en el informe Westlands Advisory IT/OT Network Protection
+   Platform Navigator 2025(TM).
+   Descargue el informe
+
+     (BUTTON) Proveedores de servicios
+
+     * (BUTTON) Servicios gestionados
+       Soluciones
+          + Ciberseguridad para el MSSP
+          + SD-WAN administrada para proveedores de servicios
+          + Servicio SOC administrado
+          + Servicio administrado de seguridad en la nube
+          + Servicio WAF administrado
+       Casos de estudio
+          + Servicios empresariales de Orange
+          + Comunicaciones GTT
+          + Spark NZ
+          + Ver todo
+     * (BUTTON) Proveedor de servicios móviles
+       Información general
+          + Ciberseguridad para redes y ecosistemas móviles
+       Novedades de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Seguridad eficiente en energía y espacio en redes de
+       telecomunicaciones
+       Proteja su infraestructura mientras reduce los costos de energía y
+       el impacto ambiental general
+       Descargue el White Paper
+
+     (BUTTON) Soporte
+
+     * (BUTTON) Soporte FortiCare
+       Soporte técnico
+          + Póngase en contacto con el servicio de atención al cliente de
+            FortiCare
+          + ¿Es nuevo en Fortinet? Comience ahora
+       Servicios de soporte
+          + Soporte al cliente y RMA
+          + Soporte avanzado
+       Recursos
+          + ¿Ha sufrido una intrusión?
+          + Biblioteca de documentos
+          + Comunidad Fortinet
+       Últimas noticias de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Informe global del panorama de amenazas de 2025
+       El último informe de FortiGuard Labs revela cómo la IA, la
+       automatización y la dark web producen ciberataques más rápidos e
+       inteligentes, y cómo combatirlos.
+       Descargue el informe
+     * (BUTTON) Servicios profesionales de FortiCare
+       Servicios
+          + Servicios profesionales
+          + Servicios de asesoría en la nube
+       Últimas noticias de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Informe global del panorama de amenazas de 2025
+       El último informe de FortiGuard Labs revela cómo la IA, la
+       automatización y la dark web producen ciberataques más rápidos e
+       inteligentes, y cómo combatirlos.
+       Descargue el informe
+     * (BUTTON) Servicios y entrenamiento de Fortinet
+       Servicios expertos
+          + Respuesta a incidentes
+          + Detección y respuesta administradas (MDR)
+          + Servicios de asesoría en ransomware
+          + Servicios de asesoría en seguridad
+          + SOC como servicio (SOCaaS)
+          + Servicio administrado de FortiGate
+          + FortiGate como servicio (FGaaS)
+       Capacitación para empleados
+          + Capacitación gratuita y laboratorios bajo demanda
+          + Capacitación y concientización en seguridad
+          + Simulación de suplantación de identidad
+       Novedades de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       El último informe de FortiGuard Labs revela cómo la IA, la
+       automatización y la dark web producen ciberataques más rápidos e
+       inteligentes, y cómo combatirlos.
+       Descargue el informe
+
+     (BUTTON) Socios
+
+     * (BUTTON) Para socios
+       Partner Portal
+          + Iniciar sesión
+       Recursos
+          + Estudios de casos de socios
+       Programas para socios
+          + Socios tecnológicos
+          + Socios de reventa
+          + Integradores de sistemas globales
+          + Servicios gestionados
+          + Proveedor de servicios móviles
+       Novedades de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Desarrolle su negocio con el programa Fortinet Engage Partner
+       El programa ofrece a nuestra comunidad global de socios una amplia
+       gama de oportunidades de crecimiento a través de modelos de consumo
+       flexibles, habilitación técnica galardonada y más.
+       Lea el artículo
+     * (BUTTON) Convertirse en socio
+       Únase a nuestro ecosistema
+          + Conviértase en un socio tecnológico
+          + Conviértase en un socio de canal
+       Novedades de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Desarrolle su negocio con el programa Fortinet Engage Partner
+       El programa ofrece a nuestra comunidad global de socios una amplia
+       gama de oportunidades de crecimiento a través de modelos de consumo
+       flexibles, habilitación técnica galardonada y más.
+       Lea el artículo
+     * (BUTTON) Encuentre un socio
+       Partner Portal
+          + Iniciar sesión
+       Programas para socios
+          + Directorio de socios tecnológicos
+          + Directorio de socios de canal
+       Novedades de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Desarrolle su negocio con el programa Fortinet Engage Partner
+       El programa ofrece a nuestra comunidad global de socios una amplia
+       gama de oportunidades de crecimiento a través de modelos de consumo
+       flexibles, habilitación técnica galardonada y más.
+       Lea el artículo
+
+     (BUTTON) Empresa
+
+     * (BUTTON) Empresa
+       Fortinet
+          + Acerca de nosotros
+          + Dirección ejecutiva
+          + Relaciones con inversionistas
+          + Centro de información para ejecutivos
+          + Sala de prensa
+          + Blogs
+          + Responsabilidad social
+       La vida en Fortinet
+          + Carreras
+       Conéctese con nosotros
+          + Comunidad Fortinet
+          + Centro de preferencias de correo electrónico
+       Confianza
+          + Centro de confianza Fortinet
+          + Certificaciones de seguridad
+          + Certificaciones de productos
+          + Informes de analistas
+       Consejos consultivos
+          + Consejo asesor estratégico de Fortinet
+          + Consejo asesor del programa para veteranos
+       Recursos
+          + Historias de clientes
+          + Centro de Recursos
+          + Hub sobre ransomware
+          + Fortinet TV
+          + Ciberglosario
+          + Biblioteca de íconos de Fortinet
+          + Biblioteca de videos de Fortinet
+          + Guías de pedidos
+       Eventos y seminarios web
+          + Eventos
+          + Seminarios web
+          + Seminarios web a demanda
+     * (BUTTON) Capacitación
+       Información general
+          + Instituto de capacitación
+          + Programa de certificación
+          + Capacitación gratuita y laboratorios a demanda
+          + Centros de capacitación autorizados
+          + Entrenamiento en concientización de seguridad
+       Plataforma
+          + Portal del Instituto de capacitación
+       Programas y servicios
+          + Programa para socios académicos
+          + Programa de extensión educativa
+          + Programas para veteranos
+          + Capacitación y concientización en materia de seguridad
+       Servicio de concientización sobre seguridad
+          + Para todas las escuelas
+       Novedades de Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Un estudio de Fortinet revela que más del 80 % de las
+       organizaciones sufren ciberataques dirigidos a sus empleados
+       Dado que la mayoría de las ciberamenazas se dirigen directamente a
+       las personas, este informe revela la necesidad de contar con un
+       programa efectivo de capacitación y concientización en
+       ciberseguridad para todos los empleados.
+       Lea el comunicado de prensa
+
+     (BUTTON) Contacto
+
+     * (BUTTON) Comuníquese con el departamento de Ventas
+       VENTAS
+          + Comuníquese con un experto en seguridad
+          + Solicitar un presupuesto
+          + Programar una reunión
+       RESPUESTA A INCIDENTES
+          + ¿Ha sufrido una intrusión?
+          + Evalúa tus redes en busca de amenazas cibernéticas
+       Latest from Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Fortinet reconocida por Forbes como una de las 10 empresas más
+       fiables de Estados Unidos
+       Basado en la confianza de los empleados, los clientes, los
+       inversores y la opinión de los medios de comunicación.
+       Más información
+     * (BUTTON) Encontrar un revendedor
+       ENCONTRAR UN REVENDEDOR
+          + Norteamérica
+          + EMEA
+          + América Latina y el Caribe
+          + APAC, Australia y Nueva Zelanda
+       Latest from Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Informe global de capacitación y concientización en seguridad 2024
+       La investigación del nuevo informe destaca la relación entre el
+       aumento de la concienciación cibernética de los empleados y la
+       disminución del riesgo organizacional.
+       Lea el comunicado de prensa
+     * (BUTTON) Soporte
+       SOPORTE
+          + Póngase en contacto con el servicio de atención al cliente
+            FortiCare
+          + Comunidad Fortinet: Foro de soporte
+       Latest from Fortinet
+       [png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR
+       42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=]
+       Informe 2024 sobre la brecha de habilidades en ciberseguridad
+       global
+       Un hallazgo clave es que el 87% de los encuestados experimentó una
+       o más violaciones de seguridad en el último año. Lea los detalles,
+       las causas y las formas de mitigar la brecha en el nuevo informe.
+       Lea el comunicado de prensa
+
+   Inteligencia de amenazas de FortiGuard Labs
+
+¿Qué es la seguridad de red?
+
+   Descubra los tipos de seguridad de red y cómo puede ayudar a proteger
+   sus redes.
+   LISTA DE VERIFICACIÓN DE LA ARQUITECTURA DE RED INFORME DEL PANORAMA DE
+   AMENAZAS PARA 2025
+
+   FL
+   Definición de seguridad de red
+   Tipos de soluciones
+   Tecnologías relacionadas
+   Tendencias de seguridad de red
+   Preguntas frecuentes
+   FL (BUTTON) Definición de seguridad de red
+   Definición de seguridad de red
+   Tipos de soluciones
+   Tecnologías relacionadas
+   Tendencias de seguridad de red
+   Preguntas frecuentes
+
+Definición: ¿Qué es la seguridad de red?
+
+   La seguridad de red se refiere a las tecnologías, políticas, personas y
+   procedimientos que defienden cualquier infraestructura de comunicación
+   de ciberataques, acceso no autorizado y pérdida de datos. Además de la
+   red en sí, también protegen el tráfico y los activos accesibles a la
+   red tanto en el borde de la red como dentro del perímetro.
+
+¿Cómo funciona la seguridad de red?
+
+   La aceleración digital allanó el camino para la eficiencia empresarial,
+   las reducciones de costos y las mejoras de productividad. Sin embargo,
+   también ha llevado a una superficie de ataque expandida a través del
+   creciente borde de la red. Desde redes de área local (LAN) y redes de
+   área amplia (WAN) hasta el IoT (IoT) y la computación en la nube, cada
+   nueva implementación da lugar a otra vulnerabilidad potencial.
+
+   Peor aún, los ciberdelincuentes cada vez más sofisticados aprovechan
+   las vulnerabilidades de la red a una velocidad alarmante. Malware,
+   ransomware, ataques de denegación de servicio distribuido (DDoS) e
+   innumerables otras amenazas están desafiando a los equipos de TI a
+   fortalecer sus defensas.
+
+
+   panorama de amenazas
+   Haga clic para ampliar la imagen
+
+
+   A su vez, las empresas tienen mucho que ganar al fortalecer sus
+   protecciones de red:
+     * Reducción del riesgo cibernético: Las medidas de seguridad sólidas
+       y sólidas ayudan a garantizar que sus datos siempre permanezcan
+       protegidos.
+     * Privacidad de datos mejorada: La eliminación de vectores de
+       amenazas garantiza que la información confidencial esté protegida
+       contra el acceso no autorizado mientras atraviesa la red, lo que
+       protege los datos de los clientes y mantiene el cumplimiento.
+     * Mejor continuidad del negocio: Las redes protegidas son más
+       resistentes contra posibles interrupciones y experimentan un tiempo
+       de inactividad mínimo, lo que conduce a una productividad óptima.
+     * Mejor rendimiento de red: La seguridad evita que los actores
+       maliciosos desactiven la red, lo que garantiza que los recursos
+       críticos estén siempre disponibles.
+
+Dispositivos esenciales para proteger la infraestructura de red
+
+   El hardware desempeña un papel vital en la protección de la
+   infraestructura. Tres dispositivos, en particular, son relevantes para
+   la seguridad de la red:
+    1. Switches Ethernet: El switching garantiza una seguridad adecuada en
+       el borde de la red al facilitar el filtrado de tráfico y el control
+       de acceso a nivel de puerto, lo que permite a los administradores
+       aplicar políticas en segmentos de red granulares.
+    2. Puntos de acceso (AP) Wi-Fi: Los AP inalámbricos implementan
+       protocolos de cifrado y mecanismos de autenticación, protegiendo
+       los datos en tránsito. También admiten listas de control de acceso
+       (ACL), lo que restringe la conexión de dispositivos no autorizados
+       a la red.
+    3. Puertas de enlace: Las puertas de enlace 5G y LTE son clave para
+       enlaces redundantes y principales a sucursales y campus por igual.
+       El alojamiento de estos dispositivos bajo el mismo paraguas de
+       seguridad que el resto de la red garantiza una configuración común,
+       reduciendo así la superficie de ataque.
+
+   Soluciones de seguridad de redes para adelantarse a las ciberamenazas
+
+   Descubra los componentes clave de seguridad de red para lograr una
+   aceleración digital segura.
+   (BUTTON) Descargue ahora
+
+Tipos de soluciones de seguridad de red
+
+1. Firewalls
+
+   Tipos de firewall
+   Haga clic para ampliar la imagen
+
+
+   Un firewall es un dispositivo que monitorea, filtra y controla el
+   tráfico de red entrante y saliente basado en reglas de seguridad
+   predefinidas. Actuando como una barrera entre redes internas y externas
+   no confiables, funciona inspeccionando paquetes de datos y eligiendo
+   bloquearlos o permitirlos.
+
+   Por ejemplo, una institución financiera podría configurar su firewall
+   para bloquear el tráfico que proviene de direcciones IP no autorizadas
+   mientras permite que pase el tráfico legítimo. Esto mitiga una posible
+   violación sin interrumpir las operaciones principales.
+
+   Next-Generation Firewall (NGFW) es una iteración moderna que va más
+   allá de las soluciones tradicionales, incorporando una inspección más
+   profunda de paquetes para una protección más sólida. Los NGFW a menudo
+   combinan muchas capacidades esenciales de seguridad de red en una
+   oferta integral, que incluye prevención de intrusiones, antivirus y
+   sandboxing de archivos, filtrado web y DNS, y más.
+
+   Con una arquitectura de malla híbrida, la próxima evolución del
+   firewall, las organizaciones pueden centralizar el control y la
+   visibilidad de herramientas anteriormente dispares. Esto facilita la
+   coordinación y el control de políticas en firewalls locales y basados
+   en la nube, sin mencionar las múltiples sucursales y ubicaciones de
+   campus.
+
+2. Sistemas de prevención de intrusiones (IPS)
+
+   Los sistemas de prevención de intrusiones detectan y bloquean amenazas
+   conocidas y sospechadas antes de que puedan afectar el núcleo de la red
+   o los dispositivos en su borde. Además de la inspección profunda de
+   paquetes norte/sur y este/oeste, incluida la inspección del tráfico
+   cifrado, también pueden proporcionar parches virtuales, lo que mitiga
+   las vulnerabilidades a nivel de red.
+
+   Con un IPS, las organizaciones pueden detectar rápidamente firmas de
+   ataque y comportamientos anormales. El sistema toma medidas
+   automáticamente para bloquear el tráfico malicioso mientras alerta a
+   los administradores para una investigación adicional.
+
+3. Antivirus y sandboxing
+
+   Las herramientas de antivirus y sandboxing son clave para determinar si
+   un archivo es malicioso. Mientras que el antivirus bloquea las amenazas
+   de malware conocidas, el sandboxing proporciona un entorno seguro para
+   analizar archivos sospechosos.
+
+   Supongamos que un usuario descarga un archivo de un archivo adjunto de
+   correo electrónico. El software antivirus lo escanea en busca de firmas
+   y comportamientos de ataque conocidos. Si se trata de una amenaza
+   confirmada, el software pone en cuarentena o elimina el archivo. Para
+   un archivo desconocido, el sandboxing lo aísla en un espacio protegido
+   donde se puede probar para determinar si es malicioso.
+
+   Algunos proveedores de seguridad están aprovechando estas capacidades
+   junto con la IA, lo que les permite realizar un análisis de menos de un
+   segundo de amenazas nunca antes vistas.
+
+4. Filtrado web y DNS
+
+   El filtrado del sistema de nombres de dominio (DNS) permite a las
+   organizaciones detener los ataques basados en dominio, como el
+   secuestro de DNS, la tunelización, etc. Del mismo modo, el filtrado de
+   URL evita que los usuarios y las aplicaciones accedan a URL
+   sospechosas, que podrían estar vinculadas a sitios web maliciosos.
+   Estas herramientas de seguridad web ayudan a las empresas a aplicar
+   políticas de uso aceptable mientras las protegen del contenido dañino.
+
+   Por ejemplo, si un usuario intenta acceder a un sitio web malicioso, el
+   filtro web verifica su base de datos de sitios categorizados. Si el
+   dominio ha sido marcado, bloqueará el acceso por completo.
+
+5. Administración de la superficie de ataque
+
+   Algunas soluciones de firewall ahora incluyen herramientas de
+   administración de superficie de ataque de ciberactivos que pueden
+   ayudar a las organizaciones a identificar automáticamente los activos
+   de TI, OT e IoT de la red y evaluar esos activos para detectar posibles
+   riesgos. Las herramientas también pueden evaluar la infraestructura de
+   seguridad existente y los controles para detectar configuraciones
+   incorrectas y configuraciones menos que óptimas que luego se pueden
+   actualizar para fortalecer la postura de seguridad de una organización.
+
+6. VPN de acceso remoto
+
+   Las VPN de acceso remoto permiten a los usuarios acceder de forma
+   segura a la red corporativa desde fuera de la oficina de su
+   organización. Crean una conexión privada y cifrada desde una red Wi-Fi
+   pública, lo que permite a los empleados utilizar de manera segura
+   recursos críticos desde sus dispositivos personales independientemente
+   de la ubicación.
+
+   Estas soluciones son especialmente útiles en entornos de trabajo
+   híbridos, lo que permite a los trabajadores remotos mantenerse
+   productivos con la seguridad de que sus datos están a salvo de la
+   intercepción maliciosa.
+
+7. Control de acceso a red (NAC)
+
+   El control de acceso a la red rige el acceso a la red, lo que garantiza
+   que solo los dispositivos autorizados y compatibles obtengan entrada.
+   Las soluciones NAC identifican y autentican dispositivos, otorgando
+   acceso solo si cumplen con las políticas de cumplimiento predefinidas.
+
+   Por ejemplo, las empresas podrían configurar su NAC para bloquear
+   ciertos tipos de dispositivos. Esto evita que los usuarios accedan a la
+   red en dispositivos personales sin protección, pero también puede
+   ayudar a la empresa a administrar las implementaciones de IoT y
+   tecnología operativa (OT).
+
+   El hardware que no cumpla con los criterios puede ponerse en
+   cuarentena, redirigirse a una red de corrección o denegarse por
+   completo.
+
+Tecnologías de seguridad de red relacionadas
+
+   Aunque no es compatible directamente con la red, existen tecnologías de
+   ciberseguridad relacionadas que ayudan a proteger la infraestructura:
+
+Detección y respuesta de endpoint (EDR)
+
+   Las soluciones de seguridad de detección y respuesta de endpoint (EDR)
+   monitorean continuamente todas las actividades de usuarios y endpoint
+   para protegerlos de amenazas y detectar comportamientos sospechosos.
+   También ofrecen capacidades de investigación y respuesta a incidentes,
+   que erradican la amenaza y aíslan el sistema afectado para que no
+   afecte al resto de la red.
+
+Seguridad de correo electrónico
+
+   La seguridad del correo electrónico protege a los empleados de
+   ciberamenazas y ataques de ingeniería social, que incluyen suplantación
+   de identidad, suplantación de identidad dirigida y otras tácticas
+   basadas en correo electrónico. Funciona examinando el correo
+   electrónico entrante para detectar posibles factores de riesgo. Por
+   ejemplo, puede identificar comunicaciones que contienen malware,
+   enlaces sospechosos, contenido e imágenes cuestionables y otras
+   anomalías, bloqueando el correo electrónico para que no llegue a la
+   bandeja de entrada del usuario.
+
+Prevención de pérdida de datos (DLP)
+
+   Las soluciones DLP identifican información confidencial en todos los
+   sistemas en la nube, mitigan el intercambio accidental de datos y
+   evitan la exfiltración de datos. Aumentan la visibilidad de los
+   almacenes de datos, ayudando a las empresas a rastrear y corregir las
+   violaciones de políticas, mejorando así el cumplimiento interno.
+
+Protección frente a DDoS
+
+   La protección frente a DDoS defiende contra ataques de denegación de
+   servicio, cuyo objetivo es abrumar la red corporativa e interrumpir las
+   operaciones. FortiDDoS, por ejemplo, inspecciona rápidamente los
+   paquetes de datos y bloquea automáticamente el tráfico ilegítimo para
+   que no inunde la red.
+
+Seguridad de aplicaciones
+
+   Las herramientas de seguridad de aplicaciones permiten a los
+   administradores reconocer el tráfico generado por aplicaciones
+   conocidas y personalizadas. Mediante decodificadores de protocolo IPS,
+   analiza el tráfico para identificar aplicaciones, lo que permite a los
+   administradores formar rápidamente políticas para permitir, denegar o
+   restringir el acceso a aplicaciones específicas o categorías completas
+   de estas. Esto optimiza la utilización del ancho de banda al mismo
+   tiempo que mitiga el malware, las transferencias de archivos no
+   autorizadas y otros riesgos.
+
+Agente de seguridad de acceso a la nube (CASB)
+
+   Las soluciones CASB proporcionan seguridad a aplicaciones, usuarios y
+   datos de software como servicio (SaaS). CASB en línea ofrece
+   visibilidad, cumplimiento y protección contra amenazas para los datos
+   en movimiento y en reposo en aplicaciones en la nube, pero también crea
+   informes de TI en la sombra, evaluaciones de riesgos y más.
+
+   Las interfaces de programación de aplicaciones (API) permiten que los
+   CASB de arquitectura abierta se integren directamente con los
+   proveedores de SaaS. Esto permite a los administradores escanear
+   configuraciones en la nube, garantizando que sus usuarios sean
+   monitoreados y protegidos sin importar qué dispositivo estén
+   utilizando.
+
+Soluciones de seguridad de red empresarial
+
+   La seguridad de la red es inherentemente más compleja en entornos de TI
+   más grandes y complicados. Afortunadamente, hay varias soluciones
+   adecuadas para la protección de la red a escala:
+
+Información de seguridad y Administración de eventos (SIEM)
+
+   Los centros de operaciones de seguridad (SOC) modernos requieren un
+   enfoque centralizado para la administración de eventos. Sin ella,
+   carecen del contexto o la visibilidad para proteger a la organización
+   de manera efectiva.
+
+   Las soluciones SIEM proporcionan una visión unificada de la seguridad
+   en toda la empresa, recopilando información de la red, el endpoint, la
+   nube y otros productos de seguridad. También ofrecen detección de
+   amenazas basada en el comportamiento impulsada por IA, investigación,
+   informes de cumplimiento y más. En resumen, SIEM reduce la complejidad
+   de la administración de las operaciones de red y seguridad.
+
+Detección y respuesta de red (NDR)
+
+   NDR monitorea el tráfico de red, basando los comportamientos normales y
+   utilizando aprendizaje automático (ML) y otros análisis para detectar
+   malware, tráfico malicioso y patrones anormales que pueden indicar un
+   atacante dentro de la red. También proporciona una capacidad sólida
+   para investigar y tomar medidas inmediatas sobre alertas verificadas.
+
+Detección y respuesta extendida (XDR)
+
+   XDR optimiza la detección y respuesta a amenazas en todo el ecosistema
+   de seguridad de una empresa. Al consolidar datos de endpoints, redes,
+   correos electrónicos y la nube, identifica y vincula actividades
+   sospechosas que las herramientas individuales podrían perderse. Este
+   enfoque integrado permite una rápida investigación y corrección de
+   alertas o incidentes de múltiples pasos a través de acciones
+   automatizadas y manuales. Aprovechando las capacidades de detección y
+   respuesta de endpoint (EDR), XDR proporciona agentes de endpoint,
+   telemetría y bloqueo de endpoint para administrar eficazmente los
+   desafíos mientras mejora las capacidades de detección y respuesta a
+   amenazas.
+
+Servicios administrados de seguridad de red
+
+   La progresión de la detección y respuesta de endpoint (EDR) a la
+   detección y respuesta administradas (MDR) a la detección y respuesta
+   extendidas (XDR) sigue el camino de la aceleración digital con
+   superficies de ataque en constante expansión y una fuerza laboral
+   híbrida.
+
+   Básicamente, la diferencia entre EDR, MDR y XDR es la siguiente:
+     * EDR: La detección y respuesta de endpoint  actúa como un sistema de
+       alarma para una organización. Cuando detecta una amenaza en un
+       endpoint, alerta inmediatamente a la empresa.
+     * MDR:La detección y respuesta  administradas es un enfoque de
+       seguridad que se enfoca en las personas y sus comportamientos.
+       Prioriza la protección de endpoint.
+     * XDR: Extended Detection and Response  lleva el MDR al siguiente
+       nivel con una práctica basada en software que protege toda la
+       infraestructura de una empresa.
+
+   En la actualidad, los bordes de la red están en cualquier lugar donde
+   el usuario se conecta y es posible que las empresas no puedan ampliar
+   la seguridad donde sea necesario. Los proveedores de servicios de
+   seguridad administrados (MSSP) pueden ayudar a cubrir la brecha con la
+   experiencia crítica y la infraestructura requerida de inmediato, a
+   menos costo.
+
+   Por ejemplo, un servicio de detección y respuesta administradas (MDR)
+   puede ser una gran opción para las PYMES que necesitan monitoreo y
+   respuesta a amenazas de nivel empresarial, pero que consideran
+   demasiado caro de construir o de dotar de personal internamente.
+
+   Las organizaciones más grandes que necesitan una protección más
+   integral de un entorno distribuido y no tienen los recursos internos,
+   pueden elegir un servicio XDR para la detección y respuesta entre
+   capas. XDR recopila, normaliza y luego correlaciona datos en una
+   variedad de capas de seguridad, incluidos endpoints, firewalls, correo
+   electrónico, servidores, cargas de trabajo en la nube y la red
+   general.
+
+1 - MDR + XDR
+
+   MDR es un servicio de detección y respuesta a amenazas completamente
+   administrado que ofrece un MSSP subcontratado. Con los servicios de
+   MDR, los equipos de seguridad pueden mejorar su capacidad para
+   detectar, investigar y responder rápidamente a actividades no
+   autorizadas o sospechosas. Algunos servicios de MDR también ofrecen
+   búsqueda de amenazas y recomendaciones para mejorar la postura de
+   seguridad general.
+
+   Algunos MSSP también extienden MDR con XDR que monitorea, detecta y
+   analiza señales de seguridad en endpoints, red, nube, SIEM y sistemas
+   de seguridad de correo electrónico. XDR es un nuevo enfoque alternativo
+   para la detección tradicional y  larespuesta a incidentes, que integra
+   los procedimientos de detección y respuesta en múltiples entornos para
+   reducir el tiempo medio para detectar y reparar ataques.
+
+   XDR es una extensión natural de EDR adecuada para organizaciones que
+   tienen entornos de TI complejos o son altamente vulnerables a los
+   ciberataques. XDR es altamente escalable, admite múltiples fuentes de
+   datos y garantiza la protección de extremo a extremo de las superficies
+   de ataque de una organización.
+
+2 - SOC como servicio administrado (SOCaaS)
+
+   Un centro de operaciones de seguridad (SOC) interno típico requiere un
+   personal dedicado de ingenieros y analistas de seguridad y las
+   herramientas para respaldar su trabajo. El alto costo de ejecutar un
+   SOC internamente compuesto por la escasez de talento en ciberseguridad
+   y el agotamiento que a menudo ocurre, lleva a muchas organizaciones a
+   elegir un SOC como servicio administrado (SOCaaS). Esto les permite
+   subcontratar la búsqueda, el monitoreo, la detección y la corrección de
+   amenazas a un proveedor de servicios MDR o MXDR con la
+   experiencia, infraestructura y herramientas de ciberseguridad, para
+   monitorear activamente las superficies de amenazas de los clientes las
+   24 horas del día, los 7 días de la semana.
+
+3 - Servicio de firewall administrado
+
+   La seguridad en la nube es una responsabilidad compartida. En general,
+   la infraestructura de la nube pública está protegida por el proveedor
+   de servicios, como AWS, Azure o GCP, y las cargas de trabajo que se
+   ejecutan en la infraestructura están protegidas por el cliente. Para
+   satisfacer el imperativo empresarial de la migración a la nube, las
+   organizaciones necesitan una solución de seguridad de red en la nube
+   que ofrezca protección avanzada, flexibilidad y costos predecibles.
+
+   Sin embargo, las organizaciones que aceleran su adopción de la nube
+   pueden no tener los recursos, las habilidades o el tiempo para
+   construir, escalar o adaptar su seguridad en la nube para satisfacer el
+   ritmo de su negocio. Un servicio de firewall administrado permite a las
+   organizaciones descargar el mantenimiento de la infraestructura de
+   seguridad en la nube, obtener una visibilidad profunda, aplicar
+   controles sólidos y optimizar el gasto en seguridad en la nube.
+
+   Un servicio de firewall administrado y nativo de la nube elimina el
+   gran esfuerzo en torno a las operaciones de seguridad de red y
+   proporciona una experiencia sin fricciones para ayudar a los clientes a
+   implementar fácilmente seguridad de nivel empresarial en la nube
+   pública.
+
+   La migración a la nube requiere que las organizaciones protejan los
+   servicios clave en la nube. Un servicio de firewall administrado de
+   próxima generación o un firewall como servicio (FWaaS)  de
+   redsimplifica la administración de seguridad con visibilidad completa
+   en todos los entornos y una amplia protección en todas las cargas de
+   trabajo y aplicaciones en la nube.
+
+   Ya sea un servicio de firewall administrado o una FWaaS de red, es
+   fundamental que las organizaciones garanticen que sus cargas de trabajo
+   en la nube pública estén protegidas por soluciones de seguridad de
+   próxima generación impulsadas por inteligencia integral frente a
+   amenazas.
+
+Inteligencia artificial (IA) y seguridad de red
+
+   Con los actores maliciosos que utilizan cada vez más transformadores
+   generativos previamente entrenados (GPT) y otras tecnologías de IA para
+   crear vulnerabilidades de seguridad y amenazas nuevas y más
+   convincentes más rápido que nunca, los equipos de seguridad también
+   deben aprovechar las tecnologías de IA para combatir el fuego con
+   fuego. La inteligencia frente a amenazas impulsada por IA es
+   posiblemente el caso de uso más importante, ya que puede ayudar a las
+   organizaciones a mantenerse al día con las amenazas emergentes.
+
+   Es por eso que los proveedores de ciberseguridad, incluido Fortinet,
+   están escalando sus capacidades de IA. Para mantenerse a la vanguardia,
+   los líderes de TI deben preguntar a sus proveedores cómo están
+   aplicando la IA, qué tecnologías utilizan sus herramientas de IA y, lo
+   que es más importante, cómo sus aplicaciones contribuyen a uno o más de
+   los siguientes beneficios:
+
+Tendencias de seguridad de red
+
+Firewalls de malla híbrida
+
+   Los entornos de red de TI híbrida incluyen múltiples superficies de
+   amenaza al combinar equipos locales en sitios corporativos, entornos de
+   nube y acceso remoto por parte de usuarios que trabajan desde cualquier
+   lugar, todo lo cual agrega complejidad a la administración de la
+   seguridad de la red.
+
+   Para resolver este problema, un firewall de malla híbrida  aborda la
+   seguridad de la red con una plataforma de seguridad unificada que
+   proporciona protección coordinada en múltiples áreas de TI empresarial,
+   para proteger sitios corporativos como sucursales, campus y centros de
+   datos; nubes públicas y privadas; y puntos de acceso remoto. Para
+   hacerlo, los firewalls de malla híbrida vienen en varios factores de
+   forma, incluidos appliances, máquinas virtuales, firewalls nativos de
+   la nube y Firewall como servicio (FWaaS).
+
+Secure SD-WAN
+
+   La SD-WAN proporciona conectividad segura y confiable entre sucursales
+   y ubicaciones remotas. Secure SD-WAN extiende esa protección a las
+   empresas  globales, sensibles a la seguridad y que priorizan la nube, y
+   a sus fuerzas de trabajo híbridas. Mediante un sistema operativo,
+   Secure SD-WAN consolida funciones en SD-WAN, Next-Generation Firewall
+   (NGFW), enrutamiento avanzado y puerta de enlace de aplicaciones Acceso
+   a la red con zero trust para simplificar la administración y proteger
+   las redes.
+
+   Secure SD-WAN es la base para una transición perfecta a SASE y
+   SD-Branch. Permite a las organizaciones proteger su inversión y
+   simplificar las operaciones a lo largo de su camino hacia una
+   arquitectura de zero trust.
+
+Unified SASE
+
+   Una arquitectura Secure Access Service Edge (SASE) converge redes y
+   varias soluciones Secure Service Edge entregadas en la nube para
+   proteger redes distribuidas con ciberseguridad avanzada en cada
+   endpoint/borde.  La SD-WAN es el componente de red y FWaaS, SWG, CASB y
+   Acceso a la red con zero trust comprenden la seguridad perimetral de
+   SASE.  La ventaja de una arquitectura SASE es que proporciona a los
+   usuarios conexiones seguras sin la latencia que resulta del tráfico de
+   backloging hasta el centro de datos central.
+
+   Una solución Unified SASE integra a la perfección las tecnologías
+   esenciales de red y seguridad que se entregan a través de la nube.
+   Garantiza un acceso seguro para los trabajadores híbridos y protege las
+   aplicaciones y los datos en cualquier nube. Un único sistema operativo
+   unifica los componentes SASE, lo que permite una convergencia perfecta
+   y completa de redes y seguridad.
+
+   Unifed SASE protege el acceso a Internet, los recursos corporativos y
+   las aplicaciones SaaS sin importar las ubicaciones de los usuarios o
+   recursos.
+
+Universal ZTNA
+
+   Según el Instituto Nacional de Estándares y Tecnología (NIST), una
+   arquitectura de confianza cero (ZTA) utiliza principios de confianza
+   cero para planificar infraestructura y flujos de trabajo industriales y
+   empresariales. La confianza cero supone que no hay confianza implícita
+   otorgada a activos o cuentas de usuario basadas únicamente en su
+   ubicación física o de red (es decir, redes de área local frente a
+   Internet) o basadas en la propiedad de activos (empresa o propiedad
+   personal).
+
+   La autenticación y la autorización (tanto del tema como del
+   dispositivo) son funciones discretas que se realizan antes de
+   establecer una sesión a un recurso empresarial.
+
+   La confianza cero es una respuesta a las tendencias de la red
+   empresarial que incluyen usuarios remotos, traer su propio dispositivo
+   (BYOD), IoT y activos basados en la nube que no están ubicados dentro
+   de un límite de red propiedad de la empresa. La confianza cero se
+   enfoca en proteger los recursos (activos, servicios, flujos de trabajo,
+   cuentas de red, etc.), no los segmentos de red, ya que la ubicación de
+   la red ya no se considera el componente principal de la postura de
+   seguridad del recurso.
+
+   El Acceso a la red con zero trust es una capacidad que controla el
+   acceso a las aplicaciones. Prolonga los principios de ZTA para
+   verificar usuarios y dispositivos antes de cada uso de la aplicación.
+   El Acceso a la red con zero trust confirma que cumple con la política
+   de la organización antes de que pueda acceder a esa aplicación. Sin
+   embargo, el Acceso a la red con zero trust puede funcionar de manera
+   diferente, dependiendo de dónde se encuentre un usuario, lo que
+   significa que el acceso a aplicaciones o redes puede funcionar desde
+   una ubicación pero fallar desde otra.
+
+   Por el contrario, el Acceso a la red con zero trust universal permite
+   conexiones seguras independientemente de la ubicación de la red o del
+   usuario. Los usuarios pueden trabajar desde cualquier lugar y los
+   administradores pueden aplicar principios de confianza cero sin tener
+   que preocuparse por la calidad de las conexiones de red. El Acceso a la
+   red con zero trust universal mejora la seguridad y la conectividad
+   independientemente de dónde se encuentren los usuarios, ya sea local o
+   remoto, o del tipo de arquitectura de red.
+
+Preguntas frecuentes sobre seguridad de red
+
+¿Qué es la seguridad de red?
+
+   La seguridad de red está compuesta por una variedad de aplicaciones,
+   configuraciones y herramientas implementadas para proteger la
+   integridad de su red del uso no autorizado.
+
+¿Por qué las empresas necesitan seguridad de red?
+
+   Las vulnerabilidades en la seguridad de su red dan a los piratas
+   informáticos una apertura para causar daños incalculables a su red
+   mientras exponen información potencialmente confidencial. La protección
+   de seguridad de red se desarrolló para implementar medidas para
+   proteger los datos de su red informática contra la pérdida, el robo o
+   la manipulación.
+
+¿Cómo funciona la seguridad de red?
+
+   Una red informática proporciona comunicación y permite compartir
+   información a múltiples usuarios dentro de una red. Las tecnologías de
+   seguridad de red funcionan dentro de varias capas para proteger su red
+   en su conjunto contra cualquier amenaza potencial.
+
+
+Recursos de seguridad de red
+
+     * ¿Qué es el control de acceso?
+     * ¿Qué son las redes de sucursales?
+     * ¿Qué es la administración centralizada?
+     * ¿Qué es la microsegmentación?
+     * ¿Qué es el control de acceso de red?
+     * ¿Qué es una lista de control de acceso de red (ACL)?
+     * ¿Qué es la seguridad de red?
+     * ¿Qué es una vulnerabilidad de seguridad de red?
+     * ¿Qué es la segmentación de red?
+     * ¿Qué es la administración unificada de amenazas?
+     __________________________________________________________________
+
+Enlaces rápidos
+
+     * Productos de Fortinet
+     * Demostraciones de Fortinet
+     * Informes de analistas
+     * Comuníquese con nosotros
+
+Hable con un experto
+
+   Complete el formulario y un representante experto se comunicará con
+   usted en breve.
+   Nombre
+   *
+   ___________________________________
+   Apellido
+   *
+   ___________________________________
+   Función laboral
+   *
+   [Función laboral____________________________]
+   Puesto
+   *
+   [Puesto________________________]
+   Empresa
+   *
+   ___________________________________
+   Correo electrónico del trabajo
+   *
+   ___________________________________
+   Número comercial
+   *
+   ___________________________________
+   País o región
+   *
+   [País o región_______________________________]
+   Estado o provincia
+
+   [Estado o provincia]
+   Zip Code/Postal Code
+
+   ___________________________________
+   Comentarios
+
+   ___________________________________
+
+   [ ] Doy mi consentimiento para recibir comunicaciones promocionales
+   (que pueden incluir teléfono, correo electrónico y redes sociales) de
+   Fortinet. Entiendo que puedo inhabilitar de forma proactiva las
+   comunicaciones con Fortinet en cualquier momento.
+
+   Al hacer clic en Enviar estará aceptando los Términos y condiciones y
+   la Política de privacidad de Fortinet.
+   Enviar
+   address1 ____________________
+
+   Productos
+
+Empresa
+
+     * redes seguras
+     * Seguridad del usuario y del dispositivo
+     * Operaciones de seguridad
+     * Seguridad de aplicaciones
+     * Inteligencia de amenazas FortiGuard Labs
+
+Pequeñas y medianas empresas
+
+     * Información general
+
+Proveedores de servicios
+
+     * MSSP
+     * proveedores de servicios móviles
+
+   Socios
+     * Información general
+     * Ecosistema de alianzas
+     * Encuentre un socio
+     * Conviértase en socio
+     * Inicio de sesión de socio
+
+   Centro de confianza
+     * Productos de confianza
+     * Empresa de confianza
+     * Proceso de confianza
+     * Socios de confianza
+     * Certificaciones de productos
+
+   Más
+     * Acerca de nosotros
+     * Capacitación
+     * Recursos
+     * Hub sobre ransomware
+     * Soporte
+     * Descargas
+     * Ciberglosario
+     * Carreras
+     * Programa de jóvenes talentos
+     * Relaciones con inversionistas
+     * Responsabilidad social
+     * Mapa del sitio
+
+   Introduzca una dirección de correo electrónico. ____________________
+   (BUTTON) Enviar
+
+   ¡Suscripción exitosa!
+
+   La solicitud falló. ¡Inténtelo de nuevo más tarde!
+   [ ]
+
+   Quiero recibir noticias y correos electrónicos de productos. Lea
+   nuestra política de privacidad.
+   address1 ____________________
+   Conéctese con nosotros
+     * Blogs
+     * Comunidad Fortinet
+     * Centro de preferencias de correo electrónico
+     * Comuníquese con nosotros
+
+     * LinkedIn
+     * Twitter
+     * YouTube
+     * Instagram
+     * Facebook
+     * RSS
+
+   Productos
+   Empresa
+     * redes seguras
+     * Seguridad del usuario y del dispositivo
+     * Operaciones de seguridad
+     * Seguridad de aplicaciones
+     * Inteligencia de amenazas FortiGuard Labs
+
+   Pequeñas y medianas empresas
+     * Información general
+
+   Proveedores de servicios
+     * MSSP
+     * proveedores de servicios móviles
+
+   Socios
+     * Información general
+     * Ecosistema de alianzas
+     * Encuentre un socio
+     * Conviértase en socio
+     * Inicio de sesión de socio
+
+   Centro de confianza
+     * Productos de confianza
+     * Empresa de confianza
+     * Proceso de confianza
+     * Socios de confianza
+     * Certificaciones de productos
+
+   Más
+     * Acerca de nosotros
+     * Capacitación
+     * Recursos
+     * Hub sobre ransomware
+     * Soporte
+     * Descargas
+     * Ciberglosario
+     * Carreras
+     * Programa de jóvenes talentos
+     * Relaciones con inversionistas
+     * Responsabilidad social
+     * Mapa del sitio
+
+   Introduzca una dirección de correo electrónico. ____________________
+   (BUTTON) Enviar
+
+   ¡Suscripción exitosa!
+
+   La solicitud falló. ¡Inténtelo de nuevo más tarde!
+   [ ]
+
+   Quiero recibir noticias y correos electrónicos de productos. Lea
+   nuestra política de privacidad.
+   address1 ____________________
+   Conéctese con nosotros
+     * Blogs
+     * Comunidad Fortinet
+     * Centro de preferencias de correo electrónico
+     * Comuníquese con nosotros
+
+   Fortinet
+   Attanasio Romain
+   Asociación entre Fortinet y Juventus
+   Copa Fortinet - PGA Américas
+   Asociación con el Tour Europeo de Fortinet
+   Fortinet y el FC Barcelona se asocian
+   LPGA Fortinet Founders Cup 2026
+
+   Copyright © 2025 Fortinet, Inc. Todos los derechos reservados.
+
+     * Términos de servicio
+     * Política de privacidad
+     * Aviso para residentes de California
+     * No vender ni compartir mi información personal
+     * GDPR
+     * Accesibilidad canadiense
+     * Configuración de cookies
+
+   El contenido de esta página puede haber sido traducido por máquina.
+   Para obtener comentarios, comuníquese con nosotros.

@@ -1,0 +1,585 @@
+   Sumidelec
+   ____________________ (BUTTON)
+   0Compra / Vacío
+   Detalle del pedido (BUTTON) ×
+     __________________________________________________________________
+
+   No hay más productos en tu carrito
+   Iniciar sesión
+     * Mecanismos eléctricos
+          + Mecanismos Simon
+          + Simon 100
+          + Simon 270
+          + Simon 82
+          + Simon 82 Concept
+          + Simon 27
+          + Simon 31
+          + Simon 75
+          + Simon 88
+          + Simon 44 Aqua estanca
+          + Simon 500 Cima
+          + Simon 73 Loft superficie
+          + Mecanismos Niessen
+          + Niessen Vega
+          + Niessen Sky
+          + Niessen Sky Essence
+          + Niessen Zenit
+          + Niessen Alba
+          + Niessen Sky moon
+          + Niessen Olas
+          + Mecanismos Efapel
+          + Mecanismos Efapel Mec21
+          + Efapel Logus 90
+          + Efapel Apolo 5000
+          + Sirius 70
+          + Efapel Quadro 45
+          + Efapel Latina
+          + Mecanismos Schneider
+          + Schneider New Unica
+          + Schneider Sedna
+          + Schneider Elegance
+          + Schneider D-life
+          + Mecanismos Jung
+          + Mecanismos Jung serie LS
+          + Jung LS990
+          + Mecanismos Legrand
+          + Legrand Niloé Step
+          + Legrand Valena Next
+          + Valena Next with Netatmo
+          + Legrand Plexo
+          + Mecanismos Bticino
+          + Bticino Light Now
+          + Bticino Living Now
+          + Bticino Living
+          + Mecanismos Bjc
+          + Bjc Iris
+          + Bjc Viva
+          + Bjc Mega
+          + Bjc Iris Plus
+          + Bjc Siemens Delta Style
+     * Cables eléctricos
+          + Cable unipolar 450/750 voltios
+          + Cable flexible normal
+          + Cable libre de halógenos
+          + Cable unipolar y manguera 0.6/1Kv
+          + Cable unipolares y mangueras 1Kv
+          + Cable de antena para televisión
+          + Cable de antena
+          + Cables para toma de tierra
+          + Cable desnudo toma de tierra
+          + Cable de Red
+          + Cable Ethernet
+          + Cables para hilo musical y teléfono
+          + Cable de hilo musical y teléfono
+     * Material instalación
+          + Tubos eléctricos
+          + Tubo corrugado
+          + Tubo libre halógenos corrugado
+          + Tubo forrado reforzado reflex
+          + Tubo electrico de PVC
+          + Tubo de acero enchufable
+          + Tubo flexible helecoidal
+          + Rejiband
+          + Cajas eléctricas
+          + Cajas enlazables universales mecanismos electricos
+          + Cajas de registro y empalme de empotrar
+          + Cajas estancas eléctricas
+          + Cajas ICT
+          + Cajas de pladur tabique hueco
+          + Arquetas
+          + Cajas de contador y CGP
+          + Cuadros eléctricos
+          + Cuadros eléctricos de empotrar
+          + Cuadros eléctricos de superficie
+          + Cuadros eléctricos estancos
+          + Armarios eléctricos
+          + Armarios eléctricos de acero inoxidable
+          + Armarios eléctricos de poliéster
+          + Cuadros eléctricos para piscinas
+          + Luces de emergencia
+          + Luces de emergencia zemper
+          + Luminarias de emergencia Normalux
+          + Luces de emergencia Legrand
+          + Alumbrado de emergencia Aerlux
+          + Pequeño Material Eléctrico
+          + Bases de enchufe y Clavijas
+          + Regletas de conexion
+          + Bornas conexión
+          + Cinta aislante
+          + Canaletas eléctricas
+          + Material eléctrico estanco
+          + Pilas
+          + Elementos de sujeción, tacos y bridas
+          + Extractores de baño
+          + Tomas de tierra
+          + Alargadores eléctricos
+          + Fusibles y portafusibles
+          + Termoretráctil
+          + Punteras aisladas y terminales para cables eléctricos
+          + Tomas industriales
+     * Porteros automáticos
+          + Porteros automáticos Fermax
+          + Monitores Fermax accesorios repuestos
+          + Videoporteros Fermax
+          + Telefonillos Fermax
+          + Porteros automáticos Tegui
+          + Monitores Tegui accesorios repuestos
+          + Videoporteros Tegui
+          + Porteros automáticos Golmar
+     * Protección control
+          + Interruptores magnetotérmicos
+          + Interruptores automáticos vivienda
+          + Interruptores automáticos industrial
+          + Magnetotérmicos Dpn
+          + Magnetotérmicos caja moldeada
+          + Protectores sobretensiones
+          + Automáticos diferenciales Vigi
+          + Peines de conexión
+          + Repartidores eléctricos
+          + Interruptores diferenciales
+          + Diferenciales vivienda
+          + Diferenciales superinmunizados
+          + Diferenciales rearmables
+          + Diferenciales Industria
+          + Automatización - control
+          + Contactores
+          + Telerruptores
+          + Relés térmicos
+     * Hilo musical
+     * Iluminación led
+          + Bombillas Led
+          + Tubos Led
+          + Halógenos led empotrables
+          + Proyectores Led
+          + Focos empotrables y carriles Led
+          + Campanas Led
+          + Plafones y apliques led
+          + Led downlights
+          + Tiras Led
+          + Reguladores de luz
+     * Aparamenta electrónica
+          + Interruptores horarios
+          + Interruptores horarios digitales
+          + Interruptores crepusculares
+          + Interruptores horarios astronómicos
+          + Sensores de movimiento - detectores de presencia
+          + Automáticos de escalera
+          + Termostatos - Cronotermostatos
+          + Contadores de horas
+          + Temporizadores de monedas y fichas
+          + Timbres
+          + Control de nivel de líquidos
+          + Contadores de energía
+          + Cargadores coches eléctricos
+     * Herramientas electricista
+     * Telecomunicaciones
+          + Antenas Tv accesorios
+          + Antenas TV
+          + Amplificadores de antena
+          + Cables coaxiales de antena
+          + Fuentes de alimentación de antena
+          + Mástiles para antena
+          + Mezcladores de antena
+          + Amplificadores interior vivienda
+          + Tomas de antena tv
+          + Antenas parabólicas
+          + Repartidores-Distribuidores de antena
+          + Garras de antena para mástil
+          + Centrales amplificadoras antena
+          + Redes informáticas
+          + Conectores y bases RJ
+          + Herramientas redes datos
+
+     * Mecanismos eléctricos
+          + Mecanismos Niessen
+               o Niessen Vega
+               o Niessen SKY
+               o Niessen Sky Essence
+               o Niessen Zenit
+               o Niessen Alba
+               o Niessen Skymoon
+               o Niessen Olas
+          + Mecanismos Simon
+               o Simon 100
+               o Simon 270
+               o Simon 82
+               o Simon 82 Concept
+               o Simon 27
+               o Serie Simon 44 Aqua estanca
+               o Simon 75
+               o Serie Simon 73 loft Superficie
+               o Simon 31
+               o Simon 88
+               o Simon 500 Cima
+          + Mecanismos Jung
+               o Funciones mecanismos Jung
+               o Jung LS990
+               o Marcos Jung LS plus y Design
+          + Mecanismos Legrand
+               o Legrand Niloé Step
+               o Legrand Valena Next
+               o Valena Next with Netatmo
+               o Legrand Plexo
+          + Mecanismos Schneider
+               o Schneider New Unica
+               o Schneider Sedna
+               o Schneider Elegance
+               o Schneider D-Life
+               o Puestos de trabajo eléctricos Schneider
+          + Mecanismos Bjc
+               o Funciones Bjc
+               o Bjc Iris
+               o Bjc Mega
+               o Bjc Iris Plus
+               o Bjc Siemens Delta Style
+               o Bjc Viva
+          + Mecanismos Efapel
+               o Funciones Efapel Mec21
+               o Efapel Logus 90
+               o Efapel Apolo 5000
+               o Sirius 70
+               o Efapel Quadro 45
+               o Efapel Latina
+               o Puestos de trabajo eléctricos EFAPEL
+          + Mecanismos Bticino
+               o Bticino Light Now
+               o Bticino Living Now
+               o Bticino Living
+     * Cables eléctricos
+          + Cable flexible Normal
+               o Cable 1.5mm Normal 750V H07V-K
+               o Cable 2,5mm Normal 750V H07V-K
+               o Cable 4mm Normal 750V H07V-K
+               o Cable 6mm Normal 750V H07V-K
+               o Cable 10mm flexible H07V-K
+               o Cable 16mm flexible H07V-K
+          + Cable libre de halógenos
+               o Cable libre halógenos 1.5mm
+               o Cable libre halogenos 2.5mm
+               o Cable libre halógenos 4mm
+               o Cable libre halogenos 6mm
+               o Cable libre halógenos 10mm
+               o Cable libre halogenos 16mm
+               o Cable libre halógenos 25mm
+               o Cable libre halogenos 35mm
+          + Cables unipolares y mangueras
+               o Cables unipolares RV-K 1kv negro
+               o Cables mangueras eléctricas 1Kv
+               o Cable manguera Libre Halógenos
+               o Cable manguera eléctrica 500v
+          + Cable de antena
+          + Cable Ethernet
+          + Cable de hilo musical y teléfono
+          + Cable desnudo toma de tierra
+          + Cable para porteros automáticos
+     * Cajas eléctricas
+          + Cajas enlazables universales mecanismos electricos
+          + Cajas de registro y empalme de empotrar
+          + Cajas estancas eléctricas
+          + Cajas ICT
+          + Cajas de pladur tabique hueco
+          + Arquetas
+          + Cajas de contador y CGP
+     * Tubos eléctricos
+          + Tubo corrugado
+          + Tubo libre halógenos corrugado
+          + Tubo forrado reforzado
+          + Tubo electrico de PVC
+          + Tubo de acero enchufable
+          + Tubo flexible helicoidal
+          + Rejiband
+     * Interruptores magnetotérmicos
+          + Interruptores automáticos Vivienda
+               o Automaticos magnetotermicos 1 Polo
+               o Automaticos 1 Polo + neutro
+               o Automaticos magnetotermicos 2 Polos
+               o Automaticos magnetotermicos 4 Polos
+          + Interruptores automáticos Industrial
+               o Automaticos magnetotérmicos 1 Polo
+               o Magnetotérmicos 1 Polo + Neutro
+               o Automaticos magnetotérmicos 2 Polos
+               o Automaticos magnetotérmicos 3 Polos
+               o Automaticos magnetotérmicos 4 Polos
+          + Automaticos magnetotermicos DPN
+          + Interruptores automáticos de caja moldeada
+          + Protectores sobretensiones
+               o Sobretensiones Transitorias
+               o Sobretensiones permanentes
+          + Automáticos Diferenciales Vigi monobloque
+          + Peines de conexión
+          + Repartidores
+     * Interruptores Diferenciales
+          + Diferenciales Vivienda
+          + Diferenciales superinmunizados
+          + Diferenciales rearmables
+          + Diferenciales Industrial
+     * Cuadros eléctricos
+          + Cuadros eléctricos de empotrar
+               o Cuadros eléctricos empotrar Schneider electric
+               o Cuadros electricos empotrar Solera
+               o Cuadros eléctricos empotrar Hager
+               o Cuadros eléctricos de empotrar Gewiss
+          + Cuadros eléctricos de superficie
+          + Cuadros eléctricos estancos
+          + Armarios eléctricos
+          + Armarios eléctricos de acero inoxidable
+          + Armarios eléctricos de poliéster
+          + Cuadros eléctricos para piscinas
+     * Antenas tv accesorios
+          + Antenas TV
+          + Amplificadores de antena
+          + Cables coaxiales antena
+          + Fuentes de alimentación antena
+          + Mástiles para antena
+          + Mezcladores de antena
+          + Amplificadores interior vivienda
+          + Tomas de antena tv
+          + Antenas parabólicas
+          + Repartidores/ Distribuidores de antena
+          + Garras de antena para mástil
+          + Centrales amplificadoras antena
+     * Porteros Automáticos
+          + Porteros automaticos Fermax
+          + Videoporteros Fermax
+          + Telefonillos Fermax
+          + Porteros automáticos Golmar
+          + Porteros automáticos Tegui
+          + Videoporteros Tegui
+          + Monitores Fermax Accesorios repuestos
+          + Monitores Tegui Accesorios repuestos
+          + Control de accesos
+     * Luces de emergencia
+          + Luces de emergencia Zemper
+               o Luminarias de emergencia Zemper DIANA FLAT
+               o Luces de emergencia Zemper Venus Estanca
+               o Luminarias emergencia Zemper Spazio
+               o Luminarias de emergencia Zemper XENA FLAT
+          + Luminarias de emergencia Normalux
+               o Normalux Dunna LED
+               o Normalux Stylo LED
+               o Normalux Excellence LED
+               o Normalux GS Led
+          + Luces de emergencia Legrand
+               o Luces de emergencia URA NEXT
+               o Luces de emergencia URA ONE
+               o Luces de emergencia URA34
+          + Alumbrado de emergencia Aerlux
+     * Hilo Musical
+          + Kits hilo musical
+          + Centrales hilo musical
+          + Mandos y Marcos hilo musical control
+          + Altavoces hilo musical
+          + Embellecedores y tapas de hilo musical
+          + Hilo musical Hit by Niessen
+               o Módulos Hit by Niessen Mandos mecanismos
+               o Tapas hilo musical Hit by OLAS Niessen
+               o Tapas hilo musical Hit by ZENIT Niessen
+               o Altavoces Hilo Musical Hit by Niessen
+          + Hilo musical Sonido SIMON
+               o Módulos Sonido simon mandos mecanismos
+               o Centrales Sonido Simon hilo musical
+               o Tapas cajas y embellececores sonido simon
+               o Altavoces sonido Simon hilo musical
+     * Iluminación Led
+          + Bombillas LED
+          + Tubos LED
+          + Led Downlights
+          + Proyectores LED
+          + Halógenos led empotrables
+          + Tiras de LED
+          + Focos empotrables y carriles LED
+          + Campanas LED
+          + Accesorios para LED
+          + Plafones y apliques LED
+          + Reguladores de luz
+     * Aparamenta Electrónica
+          + Cargador coche eléctrico
+          + Interruptores horarios analógicos
+          + Interruptores horarios digitales
+          + Timbres
+          + Automáticos de escalera
+          + Temporizadores de monedas y fichas
+          + Interruptores horarios astronómicos
+          + Sensores de movimiento y detectores de presencia
+          + Termostatos y cronotermostatos
+          + Contadores de horas
+          + Control de nivel de líquidos
+          + Contadores de energía
+          + Interruptores crepusculares
+     * Automatización control industrial
+          + Disyuntores guardamotor
+          + Contactores
+          + Variadores de frecuencia
+          + Relés térmicos
+          + Telerruptores
+     * Redes informáticas
+          + Conectores y Bases RJ
+          + Herramientas Redes
+     * Pequeño Material Eléctrico
+          + Bases de enchufe y Clavijas
+          + Regletas de conexion
+          + Cinta aislante
+          + Canaletas eléctricas
+          + Material eléctrico estanco
+               o Mecanismos eléctricos estancos de empotrar
+               o Mecanismos eléctricos estancos de superficie
+          + Elementos de sujeción, tacos y bridas
+          + Extractores de baño
+          + Bornas conexión
+          + Tomas de tierra
+          + Fusibles y portafusibles
+          + Termoretráctil
+          + Punteras aisladas y terminales para cables eléctricos
+          + Alargadores eléctricos
+          + Pilas
+          + Tomas industriales
+     * Outlet
+
+   Sumidelec
+   Menu
+   Buscar
+   ____________________ (BUTTON)
+   Iniciar sesión
+   0 Compra
+
+    1. Material eléctrico
+
+Las redes informáticas y su cableado
+
+   admin https://www.decoraluz.com/img/nombre-tienda-logo-1470476054.jpg
+   decoraluz.com [365.png] 180 300 523 likes 24031 views
+
+REDES INFORMÁTICAS Y CABLEADO
+
+   Las redes informáticas, hoy en día, dejan de ser algo desconocido,
+   pero, ¿ Sabemos realmente qué es una red informática y de que se
+   compone?.
+
+   Las redes informáticas son conjuntos de dispositivos conectados entre
+   sí, que intercambian y comparten información. La comunicación dentro de
+   una red informática se define en los dispositivos conectados, emisor y
+   receptor.
+
+   A través de los cables de red, las redes informáticas son utilizadas
+   entre dispositivos para la gestión de acceso y comunicación, para el
+   usuario final, (textos, hipertextos, imágenes, hojas de cálculo,
+   música, y vídeos entre otros).
+   Redes de informática
+
+   Redes informaticas
+
+   En una red informática, los dispositivos se clasifican en dos tipos:
+     * - Dispositivos de red: que gestionan el acceso y las comunicaciones
+       de la red ( router, switch, access point o bridge).
+     * - Dispositivos que utilizan la red: son los que finalmente utilizan
+       los datos transportados por la red (ordenador portátil, notebook,
+       tablet, impresora, consola de videojuegos o móviles de última
+       generación)
+
+   Los dispositivos que utilizan la red, también pueden clasificar la red
+   por su relación funcional:
+
+   Red cliente/servidor. Servidor es donde el dispositivo da es servicio
+   para todos los que lo quieran utilizar y el cliente es donde el
+   dispositivo utiliza uno o varios servidores.
+
+   También se puede dar el caso de que los dispositivos de una red sean
+   cliente y servidor al mismo tiempo y no se distingue entre los dos, por
+   lo que se denomina punto a punto o peer to peer.
+
+   Los medios de conexión en los dispositivos conectados entre sí pueden
+   clasificarse en dos tipos:
+     * - Guiados o dirigidos, son aquellos que son conducidos por cables:
+       cable coaxial, cable de par trenzado (UTP/STP) y fibra óptica.
+     * - No guiados, son los que no utilizan cables: ondas de radio (WI-FI
+       y Bluetooth), los infrarrojos y las microondas. Los recursos son
+       los que el dispositivo solicita a la red, que puede ser
+       identificado y con acceso directo.
+
+   Se puede tratar de un archivo compartido por otro dispositivo dentro de
+   la red, una impresora que quiere imprimir un documento, espacio en el
+   disco duro o simplemente información. Los dispositivos que dan
+   servicios se denominan servidores.
+
+   Existen servidores de streaming de vídeo, como YouTube en los que
+   podemos ver vídeos online, servidores de streaming de audio, como
+   pueden ser las radios online, servidores de aplicación como Google y
+   otros.
+
+   Clavija RJ45 conexión informática
+
+   Las redes se pueden clasificar por su tamaño:
+     * - PAN ( Personal Area Network) o red de área personal: es una red
+       formada por una sola persona, con unos pocos metros de alcance.
+       WPAN (Wireless Personal Area Network) o red inalámbrica de área
+       personal.
+     * - LAN (Local Area Network) o red de área local: es una red de
+       alcance relativamente pequeño, como una habitación determinada, un
+       avión, etc, Es de uso privado.
+     * - WLAN (Wireless Local Area Network) o red de área local
+       inalámbrica: es una red LAN pero sin cables. Es una de las
+       configuraciones mas utilizada por no necesitar instalación de
+       cableado.
+     * - CAN (Campus Area Network) o red de área de campus: es una red con
+       dispositivos de alta velocidad que conecta varias redes de área
+       local en lugares limitados como una universidad o una base militar.
+       Es de uso privado.
+     * - MAN (Metropolitan Area Network) o red de área metropolitana: es
+       una red de banda ancha (alta velocidad) con una extensión mayor a
+       la CAM pero también limitada.
+     * - WAN (Wire Area Network) o red de área amplia: es una red que
+       comprende un alcance muy amplio de cobertura que utiliza medios
+       poco habituales como satélites, cables interoceánicos o fibra
+       óptica. Es de uso público.
+     * - VLAN (Virtual Local Area Network) o red área lógica: es una red
+       virtual que trabaja sobre una LAN con el fin de aumentar la
+       seguridad y el rendimiento. Hay casos en los que gracias al
+       protocolo 802.11Q (también llamado QinQ) se puede montar redes
+       virtuales sobre redes WAN.
+
+   A todo esto VLAN no se pude confundir con VPN (Virtual Private
+   Network) o red privada virtual que es una red privada que permite
+   una extensión segura en una red local o publica como internet.
+
+   Esquema ejemplo de redes informáticas
+
+   Las conexiones de redes pueden tener diferentes velocidades de
+   transporte de datos según los medios utilizados, la fibra óptica es la
+   más veloz, aproximadamente va a 2 Gbps. Luego está el par trenzado que
+   puede ir de 100 Mbps a 1000 Mbps, y las más lentas son las conexiones
+   WI-FI que pueden ir a una velocidad de 54 Mbps.
+
+   La velocidad de la red siempre puede variar dependiendo de la clase de
+   red que utilicemos. En sumidelec, le asesoramos si necesita comprar
+   cable de red, independientemente de su categoría.
+
+Información
+
+     * Condiciones de compra
+     * Política de privacidad
+     * Aviso Legal
+     * Política de cookies
+     * Sobre nosotros
+
+Sumidelec contacto
+
+     * Teléfono: 926 532 330
+     * Lunes a viernes de 8 a 14h y 15.30 a 17h.
+     *
+     * Contáctenos
+     * Blog
+     * Marcas de material eléctrico
+
+Formas de pago
+
+   Formas de pago Sumidelec
+
+Seguridad y Garantía
+
+   garantía sumidelec
+
+   Copyright © 2011 - 2025 Sumidelec | Servicios Integrales Aljadel, SL |
+   Polígono Industrial El Llano, Calle España 10 | 13630 Socuéllamos
+   (Ciudad Real) | CIF: B-13453535
+
+   (BUTTON)

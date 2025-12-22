@@ -1,0 +1,64 @@
+   Mi cuenta Mis servicios Volver a repsol.com (BUTTON) Cerrar sesión
+
+   redes inteligentes o smart grids
+
+   Todo sobre las Smart Grids
+--
+   surge de la integración de la ingeniería eléctrica con las Tecnologías
+   de la Información y la Comunicación. Podemos definirlo como un sistema
+   de redes de distribución eléctrica que integra la tecnología digital
+   para abastecer la demanda existente con la máxima eficiencia
+   energética.
+
+   Una de las principales diferencias de las redes eléctricas inteligentes
+   respecto a la red eléctrica tradicional es que el sistema smart grid es
+   bidireccional, es decir, transmite la electricidad en ambos sentidos.
+   De esta manera, tanto los hogares como los negocios pueden ser
+--
+   electricidad.
+
+   Estas redes eléctricas inteligentes incorporan un sistema informático
+   que permite responder a las fluctuaciones de la producción de energía y
+   de la demanda de ese momento. Gracias a la información obtenida sobre
+   el consumo de energía, el usuario puede tener una participación activa
+   y monitorizar el comportamiento eléctrico de cada aparato que esté
+   conectado a la red eléctrica.
+
+   Las smart grid son un concepto estratégico clave en la transición
+--
+   Los usuarios no solo son consumidores, sino que también pueden generar
+   energía. A través de las smart grid el excedente de energía se puede
+   almacenar o trasladar a la red eléctrica general para que otros
+   usuarios puedan consumirla.
+   Pictograma Combustibles
+--
+
+   Permiten la incorporación de energía renovable, como solar y eólica, a
+   la red eléctrica, lo que contribuye a un suministro energético más
+   respetuoso con el medioambiente.
+
+   ¿Cómo funcionan las Smart grids?
+
+   El potencial de las redes eléctricas smart grid reside en su capacidad
+   de comunicación y control de consumo. Mediante la implementación de un
+   sistema informático automatizado se da respuesta a las fluctuaciones de
+--
+     * Telegestión: es un conjunto de productos basados en las tecnologías
+       informáticas, electrónicas y de telecomunicaciones para controlar
+       en remoto diferentes instalaciones. Esta funcionalidad de la red
+       inteligente permite recoger datos en tiempo real y conocer los
+       hábitos de consumo para crear tarifas y servicios adaptados a las
+--
+       intervenir rápidamente y dar una solución eficaz en poco tiempo.
+
+   Ventajas de las Smart Grids frente a las redes convencionales
+
+   Las redes eléctricas inteligentes suponen un salto de calidad y de
+   fiabilidad. No solo permiten optimizar el consumo eléctrico, sino que
+   tienen múltiples beneficios para el medioambiente, la economía y la
+--
+   Beneficios económicos
+
+   Un sistema de red eléctrica tan eficiente como las Smart grids tiene
+   beneficios económicos, entre los que destacan:
+     * Accesibilidad de la información. Gracias a la recopilación de estos

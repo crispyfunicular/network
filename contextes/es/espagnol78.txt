@@ -1,0 +1,19 @@
+
+   La ingeniería eléctrica es responsable del diseño y mantenimiento de
+   redes eléctricas que alimentan ciudades enteras. Desde subestaciones
+   hasta plantas de generación, esta disciplina garantiza un suministro
+   energético confiable.
+--
+   impulsar la movilidad sostenible.
+
+3. Smart Grids (Redes eléctricas inteligentes)
+
+   Las redes eléctricas inteligentes utilizan tecnología avanzada para
+   mejorar la eficiencia y la resiliencia de los sistemas eléctricos. Esto
+   incluye el monitoreo en tiempo real, la gestión de demanda y la
+--
+2. Seguridad cibernética
+
+   Con el aumento de las redes inteligentes y los dispositivos conectados,
+   la seguridad cibernética es un desafío crítico. Proteger las
+   infraestructuras eléctricas de posibles ataques es una prioridad.

@@ -1,0 +1,471 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate Ormazabal » Comentario Distribución de energía
+   eléctrica, ¿qué tipos hay y cuáles son sus diferencias? del feed JSON
+   oEmbed (JSON) oEmbed (XML)
+
+   ____________________
+   [ESPAÑOL_______]
+     *
+     *
+     *
+
+   Blog
+
+     * SF6-free
+          + SF6-free
+          + Distribución primaria
+          + Distribución secundaria
+     * SOLUCIONES
+          + Smart & digital grids
+          + Green generation & storage
+          + Green mobility
+          + Sustainable buildings & infrastructures
+          + Data Centers
+          + Casos de éxito
+     * PRODUCTOS
+          + Celdas de distribución primaria
+               o Ver todos los productos
+          + Celdas de distribución secundaria
+               o Ver todos los productos
+          + Transformadores
+               o Ver todos los productos
+          + Cuadros de baja tensión
+               o Ver todos los productos
+          + Centros prefabricados
+               o Ver todos los productos
+          + Protección y automatización
+               o Ver todos los productos
+          + Herramientas
+               o Software ekorsys
+               o Librería BIM
+               o amikit 5.0
+       Toda la información relativa a nuestros productos a tu disposición:
+       Descarga el catálogo de productos.
+     * CONÓCENOS
+          + Quiénes somos
+          + Ormazabal y la sostenibilidad
+          + Innovación
+          + Tecnología
+     * ÚNETE AL EQUIPO
+     * ACTUALIDAD
+          + Noticias
+          + Sala de prensa
+     * Contacto
+
+   [ESPAÑOL_______]
+   ____________________
+     * SF6-free
+          + SF6-free
+          + Distribución primaria
+          + Distribución secundaria
+     * SOLUCIONES
+          + Smart & digital grids
+          + Green generation & storage
+          + Green mobility
+          + Sustainable buildings & infrastructures
+          + Data Centers
+          + Casos de éxito
+     * PRODUCTOS
+          + Celdas de distribución primaria
+               o Ver todos los productos
+          + Celdas de distribución secundaria
+               o Ver todos los productos
+          + Transformadores
+               o Ver todos los productos
+          + Cuadros de baja tensión
+               o Ver todos los productos
+          + Centros prefabricados
+               o Ver todos los productos
+          + Protección y automatización
+               o Ver todos los productos
+          + Herramientas
+               o Software ekorsys
+               o Librería BIM
+               o amikit 5.0
+       Toda la información relativa a nuestros productos a tu disposición:
+       Descarga el catálogo de productos.
+     * CONÓCENOS
+          + Quiénes somos
+          + Ormazabal y la sostenibilidad
+          + Innovación
+          + Tecnología
+     * ÚNETE AL EQUIPO
+     * ACTUALIDAD
+          + Noticias
+          + Sala de prensa
+     * Contacto
+
+     *
+     *
+     *
+
+   InicioBlogDistribución de energía eléctrica, ¿qué tipos hay y cuáles
+   son sus diferencias?
+
+   Blog
+     * copied
+     *
+     *
+     *
+
+   Blog
+
+Distribución de energía eléctrica, ¿qué tipos hay y cuáles son sus
+diferencias?
+
+   Centro de transformación compacto para la distribución de energía
+   eléctrica
+
+La distribución de energía eléctrica es una de las fases principales del
+viaje de la energía desde la generación hasta su consumo
+
+   Detrás de un gesto tan cotidiano como cargar nuestro teléfono móvil,
+   nuestro vehículo eléctrico, o alimentar el frigorífico con la energía
+   necesaria para conservar nuestros alimentos, se esconde toda una
+   compleja maraña de elementos que dan forma a lo que conocemos como red
+   eléctrica; que es la encargada de garantizar que todos los aparatos
+   eléctricos habidos y por haber funcionen correctamente. Para ello, la
+   red se compone de diferentes fases que son fácilmente reconocibles y de
+   las que podemos identificar tres grandes bloques: la generación de la
+   energía , su transporte y, por último, la distribución de energía
+   eléctrica. Si bien los primeros los podemos conocer con mayor precisión
+   -quien más, quien menos, ha visto un parque eólico, una central
+   hidroeléctrica o una red de alta tensión-, la labor de la red de
+   distribución es algo menos visible y conocida. Hoy vamos a arrojar luz
+   sobre esta fase del viaje de la electricidad, ¿nos acompañas?
+
+   Como decíamos, la energía eléctrica ha de recorrer la distancia desde
+   los puntos de generación -muy comúnmente situados a grandes distancias
+   de los lugares de consumo- en alta tensión para, después, ser
+   transformadas en las subestaciones eléctricas a media tensión para su
+   uso industrial o doméstico.
+   Vehículo eléctrico Ormazabal y Centro de Transformación
+
+   La distribución de la energía eléctrica ha experimentado una auténtica
+   revolución con la irrupción del vehículo eléctrico y la necesidad de
+   una amplia red de recarga
+
+   Así, el camino de la energía eléctrica -una vez está adecuado a los
+   valores de tensión seguros para su tránsito por los aledaños de los
+   puntos de consumo- entra en la fase de distribución, que es la que
+   permite aproximar la energía a los consumidores, gracias a una enorme
+   superposición de redes interconectadas, hasta llegar al contador
+   eléctrico previo a su uso.
+
+   Para ello, el reparto de la electricidad se lleva a cabo en lo que
+   dentro del sector se conoce como "red de anillo". Se trata de grandes
+   anillos formados por los circuitos y los centros de transformación,
+   conexión o seccionamiento (como destacados actores de la aparamenta
+   eléctrica), que rodean los grandes centros de consumo; permitiendo que,
+   ante una posible caída del servicio por una situación excepcional en la
+   red, este sea reanudado por la aparamenta localizada en paralelo a la
+   que ha podido verse afectada. De esta manera se garantiza un servicio
+   óptimo para los consumidores.
+
+   Con todo, podemos dividir la distribución de energía eléctrica en dos
+   principales fases para diferenciar su tipología:
+     * Red de distribución primaria: Es la etapa de distribución de la
+       electricidad en la que la energía llega a las subestaciones para
+       ser transformada y distribuida en media tensión hacia la siguiente
+       fase de la red o para su consumo directo en consumidores
+       electro-intensivos como la industria.
+     * Red de distribución secundaria: Se trata de la etapa del sistema de
+       distribución de energía eléctrica en la que se adaptan los valores
+       de tensión de la energía para su aproximación segura y eficiente a
+       los puntos de consumo como nuestros hogares, oficinas,
+       hospitales...  Esta se fundamenta en la labor de los centros de
+       transformación de media tensión, que adaptan la tensión de la
+       energía para su paso a baja y su consiguiente consumo por parte del
+       usuario final.
+
+   De esta manera, se logra una distribución eléctrica, segura y
+   sostenible. La base para cubrir las diferentes demandas energéticas. Lo
+   que ayuda a hacer nuestra vida más fácil.
+
+   IFRAME: https://www.youtube.com/embed/JPmDv3sbP3k?feature=oembed
+
+Principales protagonistas de la aparamenta eléctrica para la distribución
+
+   Ahora que conocemos qué es la red de distribución y cómo funciona, es
+   momento de conocer más de cerca a los principales actores que permiten
+   el correcto funcionamiento de la red.
+     * Cables de alimentación: Se trata de las principales arterias de
+       transporte para la energía eléctrica dentro de la red de
+       distribución primaria. Pese a poder parecer simples cables, están
+       diseñados para soportar relevantes corrientes eléctricas y poder
+       transmitir potencia a otros equipos en condiciones de humedad y
+       altas temperaturas de forma segura.
+
+   Centro de transformación digital de Ormazabal El centro de
+   transformación es un elemento clave para el correcto funcionamiento de
+   la red, ya que transforma y distribuye la energía para los usuarios
+   finales
+
+     * Centros de transformación: Estos centros harían las veces de
+       grandes controladores y repartidores de energía en el gran
+       laberinto que es la red. Situados en las salidas de las
+       subestaciones hacia nuestras redes eléctricas, los CTs -su
+       abreviatura- distribuyen y reparten la energía eléctrica por zonas
+       de consumo gracias a sofisticados sistemas de protección y
+       automatización de la red. Para ello, aglutinan a algunos de los
+       elementos clave en la red de distribución secundaria, como los
+       siguientes:
+     * Transformador: Es el protagonista principal del CT y se trata de un
+       elemento eléctrico que permite aumentar o disminuir la tensión de
+       un circuito eléctrico para su posterior distribución.
+     * Celdas de distribución primaria y secundaria: La celda -que
+       protagoniza la complejidad y el desarrollo tecnológico del centro-
+       se utiliza para diferentes funciones según su tipo, pero vendría a
+       ser un gran interruptor que corta o deja fluir la energía
+       eléctrica. Para ello, es fundamental el desarrollo tecnológico que
+       se ha producido, obteniendo una solución que permite operar la red
+       en valores de media tensión con total seguridad para el operario y
+       la red en las condiciones más adversas.
+     * Unidades de protección, control y automatización: Estos elementos
+       son una de las principales revoluciones de la red de media tensión
+       en los últimos años. Sus funciones, que pasan desde el control
+       remoto de las celdas y de los transformadores de media tensión,
+       pasando por la realización de informes y diagnósticos hasta su
+       automatización, han permitido dotar de inteligencia a la red;
+       haciendo de estos un aliado clave en la smartización de la red.
+     * Cuadro de baja tensión: Aunque técnicamente este es un elemento que
+       trabaja en baja tensión, es el responsable de dividir la corriente
+       para ser transportada, de manera segura, directamente a los puntos
+       de consumo. De esta manera, el cuadro de BT, distribuye y protege
+       la energía hacia nuestros hogares.
+
+Ormazabal, expertos en soluciones eléctricas de distribución en media tensión
+
+   En Ormazabal trabajamos para transformar la red eléctrica en una
+   infraestructura de futuro:  más fiable, resiliente y sostenible. Así,
+   contamos con más de 55 años de experiencia en el diseño y fabricación
+   de soluciones eléctricas para la distribución primaria orientadas a
+   digitalizar la red eléctrica para integrar mayor generación de energía
+   renovable, posibilitar una movilidad más sostenible y garantizar el
+   suministro eléctrico a edificios e infraestructuras con necesidades
+   críticas de energía.
+
+   Dentro de nuestra route to zero, hemos lanzado nuestras innovadoras
+   gamas de productos libres de gases fluorados, basadas en aislamiento en
+   aire natural industrial, para el mercado de distribución primaria y
+   secundaria hasta 24 kV: cgm.zero24 y sbp.zero24.  La solución
+   alternativa al aislamiento en SF6 más completa del mercado y que
+   garantiza zero cambios, zero incertidumbres y una red eléctrica más
+   sostenible.
+
+   ¿Quieres saber más? Contacta para conocer los detalles:
+
+   [¿Con qué área de Ormazabal desea contactar?]
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   [País_____________________________][Provincia]
+   ________________________________________
+
+   ormazabal@ormazabal.com
+
+   Parque Científico y Tecnológico de Bizkaia, Edf. 614, Astondo
+   Bidea,48160, Derio (Bizkaia) España
+
+   +34 94 431 77 77
+
+   Asunto
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   (BUTTON) Enviar
+
+   [ ] He leido y acepto la política de privacidad
+
+   [ ] Deseo recibir comunicaciones para mantenerme actualizado de los
+   productos y servicios de Velatia.
+
+   Inf. básica de protección de datos Los datos recogidos en este sitio
+   web serán tratados por el Grupo VELATIA para dar respuesta a su
+   solicitud de información, recibir el catálogo solicitado o información
+   sobre los productos de su interés. Si desea suscribirse a nuestros
+   boletines y comunicaciones comerciales podremos mantenerle actualizado
+   respecto de los productos y servicios de Velatia. Puede ejercer sus
+   derechos mediante escrito dirigido a dataprivacy@velatia.com. Dispone
+   de más información acerca de sus derechos y de los tratamientos con
+   datos personales en la Política de Privacidad.
+
+   Share this post
+     * copied
+     *
+     *
+     *
+     *
+
+   distribucion primaria
+
+   distribucion secundaria
+
+   tipos de distribucion
+
+   distribución
+
+   energía eléctrica
+
+     * Soluciones
+          + Smart & digital grids
+          + Green generation & storage
+          + Green mobility
+          + Casos de éxito
+     * Productos
+          + Celdas de distribución primaria
+          + Celdas de distribución secundaria
+          + Transformadores
+          + Cuadros de baja tensión
+          + Centros prefabricados
+          + Protección y automatización
+          + Software ekorsys
+          + BIM
+     * Quiénes somos
+          + Quienes somos
+          + Nuestra historia
+          + Ormazabal en el mundo
+          + Innovación y tecnología
+          + Sostenibilidad
+          + Cultura responsable
+          + Equipo y valores
+          + Velatia
+     * Únete al equipo
+          + ¿Por qué Ormazabal?
+          + Áreas de desarrollo profesional
+          + Perfiles que buscamos
+          + Trabajar en Ormazabal
+          + Crecimiento
+          + Ofertas de empleo
+     * Actualidad
+          + Media Kit
+
+     * Quiénes somos
+     * Únete al equipo
+     * Contacto
+
+     *
+     *
+     *
+
+   2025. Ormazabal. Todos los derechos reservados
+     * Aviso legal
+     * Política de privacidad
+     * Política de cookies
+     * Condiciones generales de venta
+
+   Manage Cookie Consent
+   To provide the best experiences, we use technologies like cookies to
+   store and/or access device information. Consenting to these
+   technologies will allow us to process data such as browsing behaviour
+   or unique IDs on this site. Not consenting or withdrawing consent, may
+   adversely affect certain features and functions.
+   Functional [ ] Functional Siempre activo
+   The technical storage or access is strictly necessary for the
+   legitimate purpose of enabling the use of a specific service explicitly
+   requested by the subscriber or user, or for the sole purpose of
+   carrying out the transmission of a communication over an electronic
+   communications network.
+   Preferences [ ] Preferences
+   The technical storage or access is necessary for the legitimate purpose
+   of storing preferences that are not requested by the subscriber or
+   user.
+   Statistics [ ] Statistics
+   The technical storage or access that is used exclusively for
+   statistical purposes. The technical storage or access that is used
+   exclusively for anonymous statistical purposes. Without a subpoena,
+   voluntary compliance on the part of your Internet Service Provider, or
+   additional records from a third party, information stored or retrieved
+   for this purpose alone cannot usually be used to identify you.
+   Marketing [ ] Marketing
+   The technical storage or access is required to create user profiles to
+   send advertising, or to track the user on a website or across several
+   websites for similar marketing purposes.
+   Política de cookies    -    Política de privacidad
+     * Administrar opciones
+     * Gestionar los servicios
+     * Gestionar {vendor_count} proveedores
+     * Leer más sobre estos propósitos
+
+   (BUTTON) Accept (BUTTON) Reject (BUTTON) View preferences (BUTTON) Save
+   preferences View preferences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Gestionar el consentimiento
+
+   Nombre ________________________________________
+
+   Departamento ________________________________________
+
+   Unidad de negocio: ________________________________________
+
+   ¿Por qué te interesa formar parte del equipo LEAP?
+   ________________________________________
+
+   ¿Qué experiencia o perspectiva crees que puedes aportar al equipo?
+   ________________________________________
+
+   ¿Has participado anteriormente en iniciativas relacionadas con la
+   igualdad de género o diversidad?
+   ________________________________________
+
+   ¿Tienes disponibilidad para participar en reuniones periódicas
+   (presenciales o virtuales)? ________________________________________
+
+   £ ¿Hay algo más que te gustaría compartir o proponer en relación con
+   esta iniciativa? (Este espacio es libre para cualquier idea, sugerencia
+   o reflexión que quieras aportar.)
+   ________________________________________
+
+   Enviar
+
+   ________________________________________
+   ________________________________________
+
+   ________________________________________
+
+   ________________________________________
+
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   Send
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   Enviar
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TVB7XQC

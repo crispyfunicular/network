@@ -1,0 +1,513 @@
+   #alternate alternate alternate ADQA » Feed ADQA » Feed de los
+   comentarios ADQA » Comentario ¿Cómo tiene que ser una red informática
+   en una empresa? del feed alternate alternate alternate
+
+   Ir al contenido
+
+     * Área Clientes
+     * Servicio Asistencia Remota
+     * 93 814 73 80
+     * Sobre ADQA
+     * CA
+     * ES
+
+   ADQA
+
+     * Redes (BUTTON) Alternar menú
+          + CONSTRUCCIÓN DE REDES
+            CONSTRUCCIÓN DE REDES
+            (BUTTON) Alternar menú
+               o Diseño e ingeniería
+               o Instalación de redes
+               o Cableado estructurado
+               o Instalación de Fibra Óptica
+               o Certificación de redes
+          + GESTIÓN DE REDES
+            GESTIÓN DE REDES
+            (BUTTON) Alternar menú
+               o Networking
+               o Servicio técnico de redes
+               o Cortafuegos
+     * Informática (BUTTON) Alternar menú
+          + MANTENIMIENTO Y SERVICIO TÉCNICO
+            MANTENIMIENTO Y SERVICIO TÉCNICO
+            (BUTTON) Alternar menú
+               o Mantenimiento informático
+               o Contrato mantenimiento
+               o Servicio técnico informático
+               o Asistencia Remota
+               o Reparación ordenadores
+               o Formación Informática
+               o Consejos de seguridad en correo electrónico
+          + HARDWARE Y SOFTWARE
+            HARDWARE Y SOFTWARE
+            (BUTTON) Alternar menú
+               o Distribución informática
+               o Servidores profesionales
+               o Public ShareFolder
+               o Cámaras termométricas
+     * Cloud (BUTTON) Alternar menú
+          + SERVICIOS DE VIRTUALIZACIÓN
+            SERVICIOS DE VIRTUALIZACIÓN
+            (BUTTON) Alternar menú
+               o Virtualización de servidores
+          + SERVICIOS DE DATACENTER
+            SERVICIOS DE DATACENTER
+            (BUTTON) Alternar menú
+               o Alojamiento cloud
+               o Construcción de centros de datos
+               o Back up remoto
+          + IMPLANTACIÓN GOOGLE WORKSPACE
+            IMPLANTACIÓN GOOGLE WORKSPACE
+            (BUTTON) Alternar menú
+               o Google Workspace
+               o Partners de Google Workspace
+               o Licenciamiento Mixto de Google Workspace
+               o Soporte Google Workspace
+               o Migración a Google Workspace
+               o Formación sobre Google Workspace
+     * Comunicaciones (BUTTON) Alternar menú
+          + CONECTIVIDAD
+            CONECTIVIDAD
+            (BUTTON) Alternar menú
+               o Radioenlaces Wi-Max
+               o Sistemas WIFI
+          + SOLUCIONES EN TELEFONÍA
+            SOLUCIONES EN TELEFONÍA
+            (BUTTON) Alternar menú
+               o Centralitas telefónicas IP
+               o AVAYA Business Partner
+     * Interactiva (BUTTON) Alternar menú
+          + DOMINIOS Y ALOJAMIENTO
+            DOMINIOS Y ALOJAMIENTO
+            (BUTTON) Alternar menú
+               o Hosting
+               o Mantenimiento WordPress
+          + DESARROLLO WEB
+            DESARROLLO WEB
+            (BUTTON) Alternar menú
+               o Diseño Web
+               o Programación Web
+               o Programación WordPress
+               o e-Commerce
+               o Proyectos web realizados
+          + MARKETING ON-LINE
+            MARKETING ON-LINE
+            (BUTTON) Alternar menú
+               o Google Ads
+               o Servicios plenos
+     * Ciberseguridad (BUTTON) Alternar menú
+          + TECNOLOGÍAS Y SERVICIOS
+            TECNOLOGÍAS Y SERVICIOS
+            (BUTTON) Alternar menú
+               o Definición de políticas de seguridad
+               o Implantación de doble factor de autenticación
+               o Endpoint Security
+               o Firewall
+               o Partners de Veeam
+          + MÁS INFORMACIÓN
+            MÁS INFORMACIÓN
+            (BUTTON) Alternar menú
+               o Cuestionario de autoevaluación en ciberseguridad
+               o Cuestionario avanzado de ciberseguridad
+               o Certificado ENS
+
+   Kit Digital
+   Kit Digital
+   ADQA
+   (BUTTON) Main Menu Menú
+
+     ES   |   CA
+
+     |
+
+¿Cómo tiene que ser una red informática en una empresa?
+
+   Una red informática es un sistema en el que dos o más dispositivos
+   informáticos, llamados nodos de red, están conectados entre sí a través
+   de enlaces de red, físicos o inalámbricos, que facilitan, aceleran y
+   aseguran la comunicación y la transferencia de información entre cada
+   nodo de la red. En un contexto empresarial o institucional, las
+   ventajas de contar con una red informática son muchas, lo que no
+   significa que haya que pasar por alto una serie de características a
+   tener en cuenta a la hora de construirla y administrarla.
+
+   En cuanto a las ventajas, son claras: por un lado, la transferencia de
+   información dentro de los nodos de la red, como ordenadores,
+   dispositivos móviles, impresoras o tabletas, se vuelve mucho más segura
+   cuando se trata de una red informática privada, ya que se tiene
+   absoluto control sobre todo el tráfico de datos de la misma; al mismo
+   tiempo, estas transferencias son más rápidas y más estables, lo que
+   potencialmente se traduce en ahorro, tanto de tiempo como de dinero.
+
+   Dicho esto, no todas las redes informáticas son iguales. A la hora de
+   evaluar las características que buscas en una red informática para tu
+   empresa, es importante que prestes atención a estos factores:
+     * Rendimiento: el rendimiento refiere a la velocidad que tarda en
+       ejecutarse un comando específico dentro de la red, y se mide según
+       la cantidad de datos que pueden transferirse por segundo. En
+       general, las redes informáticas con enlaces físicos, como cableados
+       de fibra óptica, por ejemplo, tienen mucho mejor rendimiento que
+       las redes con enlaces inalámbricos.
+     * Seguridad: este es quizás el factor más importante a tener en
+       cuenta dentro de una red informática empresarial. La seguridad
+       refiere a la posibilidad de sufrir interferencias que afecten al
+       normal funcionamiento de la red, ya sean accidentales o maliciosas.
+       En general, las redes inalámbricas son más vulnerables a ataques o
+       intrusiones maliciosas, mientras que las redes físicas son más
+       sensibles a sufrir interferencias. En este sentido, la fibra óptica
+       se vuelve a destacar al ser la forma de enlace de red más segura,
+       ya que, al transportar la información en forma de pulsos lumínicos,
+       no corre riesgos de sufrir interferencias, lo que garantiza una
+       mayor seguridad y estabilidad.
+     * Confiabilidad: la confiabilidad refiere a la probabilidad de que se
+       produzca un fallo en uno de los nodos de la red informática, y el
+       impacto que ese fallo tendría en el funcionamiento de la totalidad
+       de la red. Es un factor importante de considerar, ya que, si las
+       operaciones de la empresa dependen de que la red funcione
+       ininterrumpidamente, un simple fallo en uno de los nodos puede
+       causar, potencialmente, un daño mucho mayor. En estos casos, es una
+       buena idea asegurarse de que la red cuente con un hardware
+       redundante, que le añade una capa extra de confiabilidad.
+     * Escalabilidad: este factor es especialmente importante para las
+       empresas e instituciones en etapa de crecimiento y expansión, ya
+       que refiere a la posibilidad de añadir nodos a la red en el futuro.
+       Ya que cada nodo que se añada a la red influirá sobre otros
+       aspectos de la misma (sobre todo en el rendimiento) es importante
+       planificar a futuro e instalar la red teniendo en cuenta las
+       proyecciones de crecimiento.
+     * Disponibilidad: por último, es fundamental que la red informática
+       esté disponible y funcionando siempre que se la necesite. La
+       disponibilidad se refiere a la capacidad de una red informática de
+       funcionar de forma eficiente ininterrumpidamente.
+
+   Conocer estos aspectos será fundamental a la hora de instalar tu propia
+   red informática en tu empresa. Debes entender, sobre todo, cuáles son
+   tus necesidades, tanto en el presente como a mediano y largo plazo,
+   para poder construir una red informática que se adapte a tus
+   necesidades y prospecciones a futuro.
+
+Compartir:
+
+   Facebook
+   Twitter
+   Pinterest
+   LinkedIn
+
+También te puede interesar
+
+¿Qué es un dominio de internet?
+
+   Un dominio de internet es el nombre, único e irrepetible, de un sitio
+   web.
+
+¿Qué es WordPress, y por qué es el CMS más utilizado?
+
+   WordPress es un sistema de gestión de contenidos, es decir, una
+   plataforma que posibilita la creación y el manejo de sitios web,
+   incluso a personas que no cuentan con ningún conocimiento de
+   programación o diseño web.
+
+¿Qué se tiene que controlar en una auditoría de seguridad?
+
+   A medida que más empresas se vuelcan a la digitalización de sus
+   operaciones, más necesario se vuelve mantener las redes informáticas
+   seguras.
+
+Ver todo el blog
+
+   AntAnterior¿Cómo funciona la fibra óptica?
+   Siguiente¿Qué es el networking?Siguiente
+
+INFÓRMESE AHORA
+
+   Déjenos sus datos y cuéntenos qué necesita. Responderemos rápidamente a
+   sus peticiones de información sin ningún compromiso. Confíe en ADQA.
+
+   "*" indica campos obligatorios
+   Nombre*
+   ____________________
+   Empresa
+   ____________________
+   E-mail*
+   ____________________
+   Teléfono
+   ____________________
+   ¿Qué necesita?
+
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+   __________________________________________________
+
+   RGPD*
+
+   [ ] Acepto la Política de Privacidad*
+
+   CAPTCHA
+   Comments
+   ____________________
+   Este campo es un campo de validación y debe quedar sin cambios.
+   Enviar
+   (BUTTON)
+
+     * Redes (BUTTON) Alternar menú
+          + CONSTRUCCIÓN DE REDES
+            Construcción de redes
+            (BUTTON) Alternar menú
+               o Diseño e ingeniería de redes
+               o Instalación de redes
+               o Cableado estructurado
+               o Instalación de Fibra Óptica
+               o Certificación de redes
+          + GESTIÓN DE REDES
+            Gestión de redes
+            (BUTTON) Alternar menú
+               o Networking
+               o Servicio técnico de redes
+               o Cortafuegos
+     * Informática (BUTTON) Alternar menú
+          + MANTENIMIENTO Y SERVICIO TÉCNICO
+            Mantenimiento y Servicio Técnico
+            (BUTTON) Alternar menú
+               o Mantenimiento informático
+               o Contrato mantenimiento
+               o Servicio técnico informático
+               o Asistencia Remota
+               o Reparación de ordenadores
+               o Formación Informática
+               o Consejos de seguridad en correo electrónico
+          + HARDWARE Y SOFTWARE
+            Hardware y Software
+            (BUTTON) Alternar menú
+               o Distribución informática
+               o Servidores profesionales
+               o Public ShareFolder
+               o Cámaras termométricas
+     * Cloud (BUTTON) Alternar menú
+          + SERVICIOS DE VIRTUALIZACIÓN
+            Servicios de Virtualización
+            (BUTTON) Alternar menú
+               o Virtualización de servidores
+          + SERVICIOS DE DATACENTER
+            Servicios de Datacenter
+            (BUTTON) Alternar menú
+               o Alojamiento cloud
+               o Construcción de centros de datos
+               o Back up remoto
+          + IMPLANTACIÓN GOOGLE WORKSPACE
+            Implantación Google Worksapce
+            (BUTTON) Alternar menú
+               o Google Workspace
+               o Partners de Google Workspace
+               o Soporte Google Workspace
+               o Migración a Google Workspace
+               o Formación sobre Google Workspace
+     * Comunicaciones (BUTTON) Alternar menú
+          + CONECTIVIDAD
+            Conectividad
+            (BUTTON) Alternar menú
+               o Radioenlaces Wi-Max
+               o Sistemas WIFI
+          + SOLUCIONES EN TELEFONÍA
+            Soluciones en telefonía
+            (BUTTON) Alternar menú
+               o Centralitas telefónicas IP
+               o AVAYA Business Partner
+     * Interactiva (BUTTON) Alternar menú
+          + DOMINIOS Y ALOJAMIENTO
+            Dominios y Alojamiento
+            (BUTTON) Alternar menú
+               o Hosting
+               o Mantenimiento WordPress
+          + DESARROLLO WEB
+            Desarrollo web
+            (BUTTON) Alternar menú
+               o Diseño Web
+               o Programación Web
+               o Programación WordPress
+               o e-Commerce
+               o Proyectos web realizados
+          + MARKETING ON-LINE
+            Marketing on-line
+            (BUTTON) Alternar menú
+               o Google Ads
+               o Servicios plenos
+     * Ciberseguridad (BUTTON) Alternar menú
+          + TECNOLOGÍAS Y SERVICIOS
+            Tecnologías y Servicios
+            (BUTTON) Alternar menú
+               o Definición de políticas de seguridad
+               o Implantación de doble factor de autenticación
+               o Endpoint Security
+               o Firewall
+          + MÁS INFORMACIÓN
+            Más información
+            (BUTTON) Alternar menú
+               o Cuestionario de autoevaluación en ciberseguridad
+               o Cuestionario avanzado de ciberseguridad
+               o Certificado ENS
+     * Sobre ADQA
+     * Kit Digital
+     * Kit Consulting
+
+     Área de clientes
+
+     Servicio Asistencia Remota
+
+   Somos partners de
+
+   Nos avalan
+
+
+
+
+     * Política de calidad
+     * Trabaja con nosotros
+     * Área de clientes
+     * Asistencia Remota
+     * ¿Dónde estamos?
+
+   Nuestro operador de telecomunicaciones
+
+   Calle Masia d'en Notari núm. 23, Nave 3 · Polígono Masia d'en Frederic
+   08800 Vilanova i la Geltrú · Barcelona · Spain
+   Tel: 93 814 73 80 · [email protected]
+
+   Sitemap | Aviso legal
+   Política de Privacidad | Política de cookies |
+   Política de seguridad
+   Adherido a la Agencia de Calidad de Internet
+   Diseño y programación web ADQA [2022]
+
+   Scroll al inicio
+
+   Usamos cookies en nuestro sitio web para brindarle la experiencia más
+   relevante recordando sus preferencias y visitas repetidas. Al hacer
+   clic en "Aceptar", acepta el uso de TODAS las cookies. Sin embargo,
+   puede visitar la Configuración de cookies para proporcionar un
+   consentimiento controlado.
+   Configuración de cookiesACEPTAR
+   Administrar el consentimiento
+   (BUTTON) Cerrar
+
+Resumen de privacidad
+
+   Este sitio web utiliza cookies para mejorar su experiencia mientras
+   navega por el sitio web. De estas cookies, las cookies que se
+   clasifican como necesarias se almacenan en su navegador, ya que son
+   esenciales para el funcionamiento de las funcionalidades básicas del
+   sitio web. También utilizamos cookies de terceros que nos ayudan a
+   analizar y comprender cómo utiliza este sitio web. Estas cookies se
+   almacenarán en su navegador solo con su consentimiento. También tiene
+   la opción de optar por no recibir estas cookies. Pero la exclusión
+   voluntaria de algunas de estas cookies puede tener un efecto en su
+   experiencia de navegación.
+   Necesarias
+   [X] Necesarias
+   Siempre habilitado
+   Las cookies necesarias son absolutamente esenciales para que el sitio
+   web funcione correctamente. Estas cookies garantizan las
+   funcionalidades básicas y características de seguridad del sitio web,
+   de forma anónima.
+   Cookie Duración Descripción
+   cf_ob_info pasado La cookie cf_ob_info la configura Cloudflare para
+   proporcionar información sobre el código de estado HTTP que devuelve el
+   servidor web de origen, el identificador de ray de la solicitud fallida
+   original y el centro de datos que sirve el tráfico.
+   cf_use_ob pasado Cloudflare configura esta cookie para mejorar los
+   tiempos de carga de la página y para no permitir cualquier restricción
+   de seguridad basada en la dirección IP del visitante.
+   cookielawinfo-checkbox-analitica 1 año La cookie está configurada por
+   el complemento de consentimiento de cookies de GDPR para registrar el
+   consentimiento del usuario para las cookies en la categoría "Análisis".
+   cookielawinfo-checkbox-analytics 11 meses Esta cookie la establece el
+   conector de consentimiento de cookies de GDPR. La cookie se utiliza
+   para almacenar el consentimiento del usuario para las cookies de la
+   categoría "Analítica".
+   cookielawinfo-checkbox-funcional 1 año Establecido por el complemento
+   de consentimiento de cookies de GDPR para almacenar el consentimiento
+   del usuario para las cookies en la categoría "Funcional".
+   cookielawinfo-checkbox-functional 11 meses La cookie se establece por
+   el consentimiento de la cookie del GDPR para registrar el
+   consentimiento del usuario para las cookies en la categoría
+   "Funcionales".
+   cookielawinfo-checkbox-necessary 11 meses Esta cookie la establece el
+   conector de consentimiento de cookies de GDPR. Las cookies se utilizan
+   para almacenar el consentimiento del usuario para las cookies de la
+   categoría "Necesarias".
+   cookielawinfo-checkbox-others 11 meses Esta cookie la establece el
+   conector de consentimiento de cookies de GDPR. La cookie se utiliza
+   para almacenar el consentimiento del usuario para las cookies de la
+   categoría "Otros.
+   cookielawinfo-checkbox-performance 11 meses Esta cookie la establece el
+   conector de consentimiento de cookies de GDPR. La cookie se utiliza
+   para almacenar el consentimiento del usuario para las cookies de la
+   categoría "Rendimiento".
+   cookielawinfo-checkbox-rendimiento 1 año Establecido por el complemento
+   de consentimiento de cookies de GDPR para registrar el consentimiento
+   del usuario para las cookies en la categoría "Rendimiento".
+   elementor nunca Esta cookie es utilizada por el tema de WordPress del
+   sitio web. Permite al propietario del sitio web implementar o cambiar
+   el contenido del sitio web en tiempo real.
+   viewed_cookie_policy 11 meses La cookie la configura el conector de
+   consentimiento de cookies GDPR y se utiliza para almacenar si el
+   usuario ha consentido o no el uso de cookies. No almacena ningún dato
+   personal.
+   Funcional
+   [ ] funcional
+   Las cookies funcionales ayudan a realizar determinadas funcionalidades,
+   como compartir el contenido del sitio web en plataformas de redes
+   sociales, recopilar comentarios y otras funciones de terceros.
+   Cookie Duración Descripción
+   __cf_bm 30 minutos Esta cookie, establecida por Cloudflare, se utiliza
+   para apoyar a Cloudflare Bot Management.
+   Rendimiento
+   [ ] rendimiento
+   Las cookies de rendimiento se utilizan para entender y analizar los
+   índices clave de rendimiento del sitio web que ayudan a ofrecerle una
+   mejor experiencia de usuario para los visitantes.
+   Analítica
+   [ ] analitica
+   Las cookies analíticas se utilizan para entender cómo interactúan los
+   visitantes con el sitio web. Estas cookies ayudan a proporcionar
+   información sobre métricas de número de visitantes, porcentaje de
+   rebotes, fuente de tráfico, etc.
+   Cookie Duración Descripción
+   _ga 2 años La cookie _ga, instalada por Google Analytics, calcula los
+   datos de visitantes, sesiones y campañas y también realiza un
+   seguimiento del uso del sitio para el informe de análisis del sitio. La
+   cookie almacena información de forma anónima y asigna un número
+   generado aleatoriamente para reconocer a los visitantes únicos.
+   _ga_JFL22D8YEP 2 años Esta cookie es instalada por Google Analytics.
+   _gat_gtag_UA_236591_1 1 minuto Definido por Google para distinguir a
+   los usuarios.
+   _gid 1 dia Instalada por Google Analytics, la cookie _gid almacena
+   información sobre cómo los visitantes utilizan un sitio web, al tiempo
+   que crea un informe analítico del rendimiento del sitio web. Algunos de
+   los datos que se recogen incluyen el número de visitantes, su fuente y
+   las páginas que visitan de forma anónima.
+   Anuncio
+   [ ] anuncio
+   Las cookies de publicidad se utilizan para ofrecer a los visitantes
+   anuncios y campañas de marketing relevantes. Estas cookies realizan un
+   seguimiento de los visitantes a los sitios web y recogen información
+   para ofrecer anuncios personalizados.
+   Otras
+   [ ] otras
+   Altres cookies no categoritzades són aquelles que s'estan analitzant i
+   encara no s'han classificat en una categoria.
+                Cookie               Duración          Descripción
+   cookielawinfo-checkbox-anuncio    1 año    Sin descripción
+   cookielawinfo-checkbox-necesarias 1 año    Sin descripción
+   cookielawinfo-checkbox-otras      1 año    Sin descripción
+   GetLocalTimeZone                  sesión   Sin descripción
+   wp-wpml_current_language          sesión   No hay descripción disponible.
+   Guardar y aceptar
+   Powered by CookieYes Logo CookieYes Logo

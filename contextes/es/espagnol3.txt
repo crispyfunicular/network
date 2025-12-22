@@ -1,0 +1,218 @@
+          + LÍNEAS DE VIDA
+          + LÍNEAS DE VIDA RÍGIDAS
+          + REDES DE SEGURIDAD
+     * TRABAJOS VERTICALES
+          + LIMPIEZA DE PABELLONES
+--
+
+
+   Redes de seguridad
+
+Las redes de seguridad
+
+     * 11/08/2021
+--
+     * 0 comentarios
+
+   Las redes de seguridad son protecciones colectivas que sirven para
+   impedir o limitar la caída de personas de altura. Están soportadas por
+   una cuerda perimetral u otros elementos de sujeción o combinación de
+--
+   seguridad existen?
+
+   Las redes de seguridad pueden clasificarse dentro de la protección
+   colectiva, ya que el objeto de las mismas es la de evitar y limitar la
+   posible caída, no solo de personas, sino también de objetos.
+
+   Las redes de seguridad se regulan por la norma UNE-EN 12636-1:2018 que
+   regula "Equipamiento para trabajos temporales de obra. Redes de
+   seguridad. Parte 1: Requisitos de seguridad y métodos de ensayo".
+
+   El objetivo de las redes de seguridad es la de minimizar el impacto en
+   caso de caída o limitarla para que no se produzca. Debemos decir que la
+   instalación de las redes de seguridad no implica que no se usen equipos
+--
+   En la norma UNE-EN 12636-1:2018 se establecen los requisitos de
+   seguridad, pero estableciendo los limites en la instalación de las
+   redes de seguridad. Por lo tanto, si nos ceñimos a la definición de lo
+   que es una red de seguridad, especificando las características que la
+   califican como tal podemos establecerla en los siguientes puntos:
+
+   o Red que se soporta gracias a una cuerda perimetral.
+   o La cuerda perimetral debe fijarse a una argolla.
+   o El objetivo es el de recoger o minimizar la caída de personas u
+--
+   o Proteger la caída a distinto nivel.
+
+   La red de seguridad se conforma por un conjunto de cuerdas de malla
+   entrelazadas formando una "Q" o cuadrado.
+
+--
+   La elección de la red de seguridad dependerá siempre de los riesgos que
+   conllevan los trabajos que vayan a realizarse. Dando siempre prioridad
+   a la red de seguridad que evita la caída, respecto a los que limitan o
+   atenúan si se produce una caída.
+
+   TIPOS DE REDES DE SEGURIDAD:
+
+   Podemos hacer una clasificación de las redes de seguridad conforme a
+--
+
+   SISTEMA TIPO S:
+   Red de seguridad - Sistema Tipo S
+
+   Es aquella red de seguridad que se fija por medio de cuerda perimetral.
+
+   El sistema S o redes de seguridad bajo forjado son sistemas de
+   protección colectiva que limita o impide cualquier riesgo o posibilidad
+   de caída al forjado inferior o al vacío durante el proceso de
+   encofrado.
+
+   Este tipo de redes de seguridad están reguladas por la norma UNE
+   81652:2013 que es una norma especial o especifica adoptada en España
+   que se encarga de modo particular de regular "Las redes de seguridad
+   bajo forjado. Requisitos y métodos de ensayo".
+
+   Las etapas en las que se utilizan las redes de seguridad bajo forjado
+   son:
+   o Colocación de tableros en los encofrados continuos.
+   o Desplazamiento de operarios en la operación de encofrado.
+
+   Este tipo de redes de seguridad no sustituyen a las redes de protección
+   perimetral.
+
+   Podemos encontrarnos dos tipos de redes de seguridad bajo forjado:
+   o Redes de seguridad de uso único.
+   o Redes de seguridad reutilizables.
+
+   Las redes de seguridad bajo forjado tienen dos tipos de uniones por
+   medio de ganchos:
+   o Ganchos de unión de la red al puntal, cuya conexión se hace por medio
+--
+   o Ganchos de unión de la red al cabezal recuperable.
+
+   El montaje de la red de seguridad bajo forjado se lleva a cabo mediante
+   la fijación de los paños de redes de seguridad por medio de ganchos
+   tipo "S" a los puntales que conforman los pasillos paralelos del
+--
+
+   SISTEMA TIPO T:
+   Red de seguridad - Sistema Tipo T
+
+   Las redes de seguridad con un sistema T, son sistemas de redes de
+   seguridad horizontales que se instalan solapadas entre sí y que están
+   apoyadas en unos largueros.
+--
+   prolongación del forjado.
+
+   o Para el montaje de este tipo de red de seguridad es esencial el paño
+   de red y la cuerda de atado que une la gaza de la esquina de la red con
+   la patilla de los largueros.
+
+   o A la hora de llevar a cabo el enlazado de las redes de seguridad
+   debemos de utilizar una cuerda de unión con el fin de crear todo el
+   conjunto unido. Nunca deberán de dejarse espacio de unión entre redes
+--
+   que hace de soporte, que son elementos metálicos que se fijan al
+   forjado del edificio. Estos largueros hacen de unión entre el sistema
+   de redes de seguridad y el edificio.
+
+   o Los largueros tienen dos partes: La base (fijada al forjado y absorbe
+--
+   edificio.
+
+   o El conjunto que conforma la red de seguridad, los dos soportes,
+   brazos y largueros, son modelos que pueden ir en individual y por lo
+   tanto independiente
+--
+   intermedio.
+
+   o Este tipo de sistema de red de seguridad tipo T puede usarse en dos
+   posiciones:
+     o VERTICAL: Evita la caída de objetos al exterior. En este caso la
+   red de seguridad tipo T se comportaría como una red de seguridad tipo
+   U.
+     o HORIZONTAL: Tiene una inclinación de 10° conforme al forjado
+--
+   hasta 6 m. como máximo.
+
+   o Estas redes de seguridad sistema T no evita la caída de personas y
+   por lo tanto la protección por medio de barandilla perimetral debe ser
+   esencial y complementaria.
+
+   SISTEMA TIPO U
+   Red de seguridad - Sistema Tipo U
+
+   Es toda red de seguridad que se fija a una estructura que sirve de
+   soporte vertical y sirve de protección al borde.
+
+   Es un sistema de redes de seguridad que van fijadas a un mástil que va
+   anclado o embutido en el forjado.
+
+   o Este sistema de redes de seguridad se forma por una conexión de redes
+   compuesta por una cuerda perimetral, cuerda de atado y cuerda de malla.
+
+   o La cuerda perimetral es la cuerda que pasa a través de cada malla
+   situada a los bordes de cada red de seguridad, la cuerda de malla que
+   componen la red de seguridad, la cuerda de atado que une la cuerda
+   perimetral al soporte adecuado, la cuerda de unión que enlaza las redes
+   de seguridad entre sí y la cuerda de ensayo que indica el deterioro de
+   la cuerda debido al envejecimiento y marca la fecha de retirada de la
+   red de seguridad debido a la disminución de las prestaciones.
+
+   o La resistencia exigida a las cuerdas es:
+--
+
+   o El mástil de red de seguridad es la estructura o pieza metálica que
+   soporta la red a 90°. Se compone de dos tramos de 3 m. cada uno y están
+   fabricados en acero tubular protegidos contra la corrosión. Las alturas
+   son de 5-6 m. más o menos.
+
+   o Los ganchos de sujeción es el nexo de unión entre la cuerda
+   perimetral de la red de seguridad y el forjado inferior. Son fabricados
+   en acero.
+
+   SISTEMA TIPO V
+   Red de seguridad - Sistema Tipo V
+
+   Es la red de seguridad que se fija con cuerda perimetral junto a un
+   soporte tipo horca.
+
+   Es una red de seguridad que se fija a un soporte que tiene una forma de
+   horca y que éste está anclado al forjado. Reguladas por las normas
+   UNE-EN 12636-1:2018 y UNE-EN 12636-2:2018.
+
+   o Es una red de seguridad que no evita la caída y por lo tanto deberá
+   ir complementada con una protección colectiva (barandilla) y los
+   trabajadores con sus respectivos EPI anticaídas.
+--
+
+   o La cuerda perimetral que sirve de fijación pasa a través de las
+   mallas de los bordes de la red de seguridad. Esta cuerda se le exige
+   que tenga una resistencia de 20 kN. A la tracción. En cambio, la cuerda
+   de atado, es la zona de la red de seguridad que le sirve de conexión al
+   soporte adecuado para la cuerda perimetral. La resistencia de tracción
+   de esta cuerda es de >= 20 kN. En caso de que la conexión se haga con
+   una cuerda y de >= 10 kN si se hace por medio de dos cuerdas de atado.
+
+   o En el momento de solapar las redes de seguridad para que no haya
+   huecos por donde pueda caer la persona en caso de caída y mantener la
+   tensión en caso de choque, se hace por medio de la cuerda de unión.
+--
+   de 7.5 kN.
+
+   o Estas redes de seguridad tienen mucho desgaste debido a las
+   condiciones del trabajo y a las condiciones atmosféricas que afectan al
+   textil. Este control se hace por medio de la cuerda de ensayo que
+--
+   o La estructura de unión al forjado será la horca, que es una
+   estructura metálica en forma de "L" invertida, que hará de soporte a la
+   red de seguridad. Se compone de dos tramos: el cabezal y la alargadera,
+   que están construidas en hacer con protección ante la corrosión. Las
+   dimensiones de la horca serán: 8-9 m. de altura y 2-4 m. de brazo
+--
+
+   o La fijación al forjado interior se hará por medio de unos ganchos de
+   seguridad que fijan la red de seguridad. Las dimensiones que se
+   recomiendan para estos ganchos son de 7x17x8 cm. de 12 mm. diámetro de
+   grosor.

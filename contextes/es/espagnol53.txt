@@ -1,0 +1,200 @@
+     * 4 Carreteras
+       (BUTTON) Alternar subsección Carreteras
+          + 4.1 Red de Carreteras del Estado
+          + 4.2 Red secundaria de carreteras
+     * 5 Véase también
+     * 6 Referencias
+--
+   [ ] Cambiar a la tabla de contenidos
+
+Red de carreteras de España
+
+   [ ] 1 idioma
+--
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikipedia, la enciclopedia libre
+   [250px-Red_alta_capacidad_espa%C3%B1a.svg.png] Red española de
+   autopistas y autovías
+
+   La red de carreteras de España se compone del conjunto de carreteras
+   que discurren por todo el territorio español, ya sean de titularidad
+   estatal, autonómica, provincial o local.
+--
+   provincia de Zamora
+
+   La red de carreteras está muy condicionada por el medio físico, que en
+   España se caracteriza por un espacio muy compartimentado por las
+   cadenas montañosas y un relieve escarpado. En la península ibérica
+--
+   en la Comunidad de Madrid.
+
+   La Red de carreteras de España tenía, a 31 de diciembre de
+   2015,^[2]&#8203; 166 003 km, de los cuales 26 329 km están gestionados
+   por la Administración Central (Red de Carreteras del Estado) y acogen
+--
+   (DGC).^[cita requerida]
+
+   De la totalidad de la red, 17 021 km son vías de gran
+   capacidad^[2]&#8203; (autopistas de peaje, autopistas libres y
+   autovías), por lo que España sería en 2012 en la actualidad el país de
+--
+   carreteras de doble calzada.
+
+   La red de carreteras de España integra, en función de su titularidad:
+     * Red de Carreteras del Estado: son aquellas carreteras que son
+       competencia del Estado a través del Ministerio de Fomento. Forman
+       parte de ellas tanto las carreteras nacionales, como las autopistas
+       y autovías del Estado.
+     * Red secundaria de carreteras de España: comprenden tanto carreteras
+       como autopistas y autovías e integra, en función de su titularidad:
+          + Red Autonómica: está formada por el conjunto de las carreteras
+            de titularidad autonómica (dependientes de la respectiva
+            comunidad autónoma)
+          + Red Provincial: está formada por el conjunto de las carreteras
+            de titularidad provincial (dependientes de la respectiva
+            diputación provincial)
+          + Red Municipal: está formada por el conjunto de las carreteras
+            de titularidad municipal (dependientes del respectivo
+            ayuntamiento)
+--
+   origen en Madrid. Esta circunstancia se ha ido modificando durante el
+   siglo XX mediante la construcción de ejes transversales, creando una
+   red más mallada.
+
+   El mal estado de la red de carreteras españolas fue criticado por
+   viajeros del siglo XVIII como el británico Henry Swinburne, que sin
+   embargo excluía en sus Travels through Spain in the years 1775 and 1776
+--
+   Por lo que se refiere a su organización territorial, de acuerdo con la
+   distribución constitucional de competencias, cada comunidad autónoma
+   organiza la red de carreteras que discurren por su territorio de
+   acuerdo con sus respectivas leyes de carreteras, mientras que las vías
+   que afectan a más de una comunidad se incluyen en Red de Carreteras del
+--
+   identificativo de la comunidad autónoma, YY es el código identificativo
+   de la provincia y ZZ es el código identificativo de la ciudad:
+     * Red Estatal (carreteras del Estado)
+
+                Autopistas de Peaje («AP-??», blanco sobre fondo azul).
+--
+                doble calzada («ZZ-??», blanco sobre fondo rojo).
+
+     * Red Autonómica (carreteras de la comunidad autónoma)
+
+                Autopistas y Autovías Autonómicas («XX-??», blanco sobre
+--
+                negro sobre fondo amarillo).
+
+     * Red Provincial (carreteras de la Diputación Provincial)
+
+                Red Comarcal («YY-????», blanco sobre fondo verde).
+                Red Local («YY-????», negro sobre fondo amarillo).
+
+     * Red Municipal (carreteras del Ayuntamiento)
+
+                Autopistas y Autovías Municipales de acceso o
+                circunvalación («ZZ-??», blanco sobre fondo azul).
+                Red local, carreteras locales o caminos vecinales
+                («ZZ-????», negro sobre fondo amarillo).
+
+   Cuando la carretera forma parte de un itinerario de la Red Europea, a
+   la señalización se le añade el identificador «E-??» (en blanco, sobre
+   fondo verde) de acuerdo a la numeración establecida por la UNECE. No se
+--
+   [editar]
+
+Red de Carreteras del Estado
+
+   [editar]
+--
+   Artículo principal: Red de Carreteras del Estado
+
+   La Red de Carreteras del Estado (RCE), también llamada Red de Interés
+   General del Estado (RIGE), es competencia del Gobierno de España a
+   través del Ministerio de Fomento, se rige por la Ley 37/2015 de
+--
+   sistema de transporte afecte a más de una comunidad autónoma.
+
+Red secundaria de carreteras
+
+   [editar]
+   Véase también: Anexo:Red secundaria de carreteras de España
+
+   La red secundaria incluye todas aquellas carreteras que no pertenecen a
+   la Red de Carreteras del Estado (RCE), siendo estas las que forman la
+   mayor parte de la red. La red secundaria puede dividirse en varios
+   tipos:
+     * Red autonómica: comprende aquellas carreteras cuya titularidad
+       pertenece al gobierno de una comunidad autónoma. Está presente en
+       todas las comunidades autónomas.
+     * Red provincial: comprende aquellas carreteras cuya titularidad
+       pertenece a las diputaciones provinciales. Está presente en todas
+       las provincias peninsulares a excepción de los territorios forales
+       y las comunidades uniprovinciales.
+     * Red municipal o metropolitana: comprende aquellas carreteras
+       pertenecientes a los ayuntamientos (el caso de la M-30) o entidades
+       metropolitanas (rondas de Barcelona).
+--
+   Carreteras de Aragón^[18]&#8203;
+   [60px-Localizaci%C3%B3n_de_Arag%C3%B3n.svg.png]
+   Principado de Asturias Red de Carreteras del Principado de Asturias Ley
+   del Principado de Asturias 8/2006, de 13 de noviembre, de
+   Carreteras^[19]&#8203; [60px-Localizaci%C3%B3n_de_Asturias.svg.png]
+   Islas Baleares Red de Carreteras de las Islas Baleares Ley 5/1990, de
+   24 de mayo, de Carreteras de la Comunidad Autónoma de las Islas
+   Baleares^[20]&#8203;
+   [60px-Localizaci%C3%B3n_de_las_Islas_Baleares.svg.png]
+   Canarias Red de Carreteras de Canarias Ley 9/1991, de 8 de mayo, de
+   Carreteras de Canarias^[21]&#8203;
+   [60px-Mapa_territorios_Espa%C3%B1a_Canarias.svg.png]
+   Cantabria Red de Carreteras de Cantabria Ley 5/1996, de 17 de
+   diciembre, de Carreteras de Cantabria^[22]&#8203;
+   [60px-Localizaci%C3%B3n_de_Cantabria.svg.png]
+   Castilla-La Mancha Red de Carreteras de Castilla-La Mancha Ley 9/1990,
+   de 28 de diciembre, de Carreteras y Caminos de Castilla-La
+   Mancha^[23]&#8203;
+--
+   Carreteras^[25]&#8203;
+   [60px-Localizaci%C3%B3n_de_Catalu%C3%B1a.svg.png]
+   Extremadura Red de Carreteras de Extremadura Ley 7/1995, de 27 de
+   abril, de Carreteras de Extremadura^[26]&#8203;
+   [60px-Localizaci%C3%B3n_de_Extremadura.svg.png]
+   Galicia Red de Carreteras de Galicia Ley 8/2013, de 28 de junio, de
+   Carreteras de Galicia^[27]&#8203;
+   [60px-Localizaci%C3%B3n_de_Galicia.svg.png]
+   Comunidad de Madrid Red de Carreteras de la Comunidad de Madrid Ley
+   3/1991, de 7 de marzo, de Carreteras de la Comunidad de
+   Madrid^[28]&#8203;
+--
+   Murcia^[29]&#8203;
+   [60px-Localizaci%C3%B3n_de_la_Regi%C3%B3n_de_Murcia.svg.png]
+   La Rioja Red de Carreteras de La Rioja Ley 2/1991, de 7 de marzo, de
+   Carreteras de la Comunidad Autónoma de La Rioja^[30]&#8203;
+   [60px-Localizaci%C3%B3n_de_La_Rioja.svg.png]
+   Comunidad Valenciana Red de Carreteras de la Comunidad Valenciana Ley
+   6/1991, de 27 de marzo, de Carreteras de la Comunidad
+   Valenciana^[31]&#8203;
+   [60px-Localitzaci%C3%B3_de_la_Comunitat_Valenciana_respecte_a_Espanya.s
+   vg.png]
+   Navarra Red de Carreteras de Navarra Ley Foral 5/2007, de 23 de marzo,
+   de Carreteras de Navarra^[32]&#8203;
+   [60px-Localizaci%C3%B3n_de_Navarra.svg.png]
+--
+   [editar]
+     * Anexo:Autopistas y autovías de España
+     * Anexo:Red secundaria de carreteras de España
+     * Anexo:Red Autonómica de carreteras de España
+     * Anexo:Red Provincial de carreteras de España
+     * Anexo:Carreteras Radiales de España
+     * Anexo:Carreteras Nacionales de España
+--
+     * Wikimedia Commons alberga una categoría multimedia sobre Red de
+       carreteras de España.
+     * Red de Carreteras del Estado: Ministerio de Fomento
+     * Catálogo y evolución de la red de carreteras
+     * Ley 25/1988, de 29 de julio, de Carreteras.
+--
+
+   [ ] Cambiar a la tabla de contenidos
+   Red de carreteras de España
+   (BUTTON) 1 idioma Añadir tema

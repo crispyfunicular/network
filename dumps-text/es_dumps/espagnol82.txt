@@ -1,0 +1,1090 @@
+   #Editar Wikipedia (es) Canal Atom de Wikipedia
+
+   Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * Portada
+     * Portal de la comunidad
+     * Actualidad
+     * Cambios recientes
+     * Páginas nuevas
+     * Página aleatoria
+     * Ayuda
+     * Notificar un error
+     * Páginas especiales
+
+   Wikipedia La enciclopedia libre
+   Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Apariencia
+
+     * Donaciones
+     * Crear una cuenta
+     * Acceder
+
+   [ ] Herramientas personales
+     * Donaciones
+     * Crear una cuenta
+     * Acceder
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * Inicio
+     * 1 Etimología
+     * 2 Historia
+     * 3 Uso
+     * 4 Descripción básica
+     * 5 Componentes básicos de las redes
+       (BUTTON) Alternar subsección Componentes básicos de las redes
+          + 5.1 Software
+          + 5.2 Hardware
+          + 5.3 Dispositivos de usuario final
+          + 5.4 Servidores
+          + 5.5 Almacenamiento en red
+          + 5.6 Dispositivos de red
+          + 5.7 Protocolos de redes
+     * 6 Desacoplamiento del plano de control y plano de datos
+       (BUTTON) Alternar subsección Desacoplamiento del plano de control y
+       plano de datos
+          + 6.1 Modelo OSI
+          + 6.2 Modelo TCP/IP
+          + 6.3 Otros estándares
+     * 7 Clasificación de las redes
+       (BUTTON) Alternar subsección Clasificación de las redes
+          + 7.1 Por alcance
+          + 7.2 Por tipo de conexión
+          + 7.3 Medios guiados
+          + 7.4 Medios no guiados
+          + 7.5 Por relación funcional
+          + 7.6 Por tecnología
+          + 7.7 Por topología física
+          + 7.8 Por la direccionalidad de los datos
+          + 7.9 Por grado de autentificación
+          + 7.10 Por grado de difusión
+          + 7.11 Por servicio o función
+          + 7.12 Redes sin servidor
+     * 8 Véase también
+     * 9 Referencias
+     * 10 Bibliografía
+
+   [ ] Cambiar a la tabla de contenidos
+
+Red de computadoras
+
+   [ ] 111 idiomas
+     * Afrikaans
+     * emarNa
+     * a+l+e+r+b+y+tm
+     * ¸®¯¼¾
+     * Asturianu
+     * Az@rbaycanca
+     * Belaruskaya
+     * Belaruskaya (tarashkeviica)
+     * B"lgarski
+     * ­ª°
+     * ¬¾²¾
+     * Brezhoneg
+     * Bosanski
+     * Català
+     * ©w+r+d+
+     * Cestina
+     * Dansk
+     * Deutsch
+     * Zazaki
+     * Ellynika'
+     * English
+     * Esperanto
+     * Eesti
+     * Euskara
+     * f+a+r+s+
+     * Suomi
+     * Français
+     * Gaeilge
+     * Galego
+     * gfl+©
+     * °¾¤
+     * Wayuunaiki
+     * ¹¿¨¦
+     * Hrvatski
+     * Magyar
+     * ¡µ¥¥¶
+     * Interlingua
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * ¥¬
+     * ¥ £
+     * Qaraqalpaqsha
+     * azasha
+     * ­´
+     * Kurdî
+     * Kyrgyzcha
+     * Latina
+     * Lëtzebuergesch
+     * Limburgs
+     * Lombard
+     * Lietuviu
+     * Latviesu
+     * Olyk marij
+     * Minangkabau
+     * Makedonski
+     * ®²¯¾³
+     * Mongol
+     * ®°¾
+     * Bahasa Melayu
+     * Mirandés
+     * ¼º¬¬¬
+     * `Erzyan'
+     * Plattdüütsch
+     * ¨ª¾²
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Occitan
+     * Oromoo
+     * ª°¾¬
+     * Polski
+     * Piemontèis
+     * p+n+g+a+b+
+     * p+t+w+
+     * Português
+     * Runa Simi
+     * Româna
+     * Russkij
+     * ¥±²¤
+     * Srpskohrvatski / srpskohrvatski
+     * ½
+     * Simple English
+     * Slovencina
+     * Slovenscina
+     * Shqip
+     * Srpski / srpski
+     * Svenska
+     * Kiswahili
+     * Sakizaya
+     * ¤®¿´
+     * ¤²
+     * To·ik£
+     * ¢
+     * Tagalog
+     * Türkçe
+     * Tatarcha / tatarça
+     * ChiTumbuka
+     * Twi
+     * Ukrayins'ka
+     * a+r+d+w+
+     * O;Szbekcha / v%zbekcha
+     * Tie>'ng Vie>-.t
+     * ´­
+     *  £
+     * J+J+iD+J+Sh
+     * ­
+     * © / Bân-lâm-gí
+     * µ
+     * IsiZulu
+
+   Editar enlaces
+
+     * Artículo
+     * Discusión
+
+   [ ] español
+
+     * Leer
+     * Editar
+     * Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * Leer
+     * Editar
+     * Ver historial
+
+   General
+     * Lo que enlaza aquí
+     * Cambios en enlazadas
+     * Subir archivo
+     * Enlace permanente
+     * Información de la página
+     * Citar esta página
+     * Obtener URL acortado
+     * Descargar código QR
+
+   Imprimir/exportar
+     * Crear un libro
+     * Descargar como PDF
+     * Versión para imprimir
+
+   En otros proyectos
+     * Wikimedia Commons
+     * Elemento de Wikidata
+
+   Apariencia
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikipedia, la enciclopedia libre
+   [250px-Kissimmee-Computer-Services-Network.jpg] Red de servicios
+   informáticos.
+
+   Una red de computadoras - también denominada red informática o red de
+   ordenadores- puede definirse como un sistema conformado por
+   dispositivos, nodos y elementos de software interconectados con el fin
+   de intercambiar datos mediante diversos medios de transmisión, tanto
+   físicos como inalámbricos.^[1]&#8203; Estos medios permiten la
+   transferencia de información por impulsos eléctricos, ondas
+   electromagnéticas o señales ópticas, posibilitando así el flujo
+   continuo de datos entre los equipos, con la finalidad de compartir
+   información, recursos y ofrecer servicios.^[2]&#8203;^[3]&#8203;
+
+   Como en todo proceso de comunicación, se requiere de un emisor, un
+   mensaje, un medio y un receptor. La finalidad principal para la
+   creación de una red de computadoras es compartir los recursos y la
+   información en la distancia, asegurar la confiabilidad y la
+   disponibilidad de la información, aumentar la velocidad de transmisión
+   de los datos y reducir el coste.^[4]&#8203; Un ejemplo es Internet, el
+   cual es una gran red de millones de ordenadores ubicados en distintas
+   partes del mundo e interconectados básicamente para compartir
+   información y recursos.
+
+   La estructura y el modo de funcionamiento de las redes informáticas
+   actuales están definidos en varios estándares, siendo el más importante
+   y extendido de todos ellos el modelo TCP/IP utilizado como base para el
+   modelo de referencia OSI. Este último, concibe cada red como
+   estructurada en siete capas con funciones concretas pero relacionadas
+   entre sí (en TCP/IP se habla de cuatro capas). Debe recordarse que el
+   modelo de referencia OSI es una abstracción teórica, que facilita la
+   comprensión del tema, si bien se permiten ciertos desvíos respecto a
+   dicho modelo.
+
+   Asimismo, cada capa de estos modelos incorpora diversos protocolos
+   especializados, regulados por entidades normalizadoras como la IETF y
+   la ISO, las cuales establecen especificaciones que garantizan la
+   interoperabilidad entre dispositivos, plataformas y
+   tecnologías.^[5]&#8203;
+
+Etimología
+
+   [editar]
+
+   La palabra red viene del latín rete, retis, (malla de hilo para
+   pescar). En informática es el calco del inglés net (malla), para
+   referirse a los cables, alambres y otros conductos que sirven para la
+   comunicación electrónica entre computadoras.
+
+Historia
+
+   [editar]
+
+   El primer indicio de redes de comunicación fue de tecnología telefónica
+   y telegráfica. En 1940 se transmitieron datos desde la Universidad de
+   Darmouth, en Nuevo Hampshire, a Nueva York. A finales de la década de
+   1960 y en los posteriores 70 fueron creados los minicomputadoress. En
+   1976, Apple introduce el Apple I, una de las primeras computadoras
+   personales. En 1981, IBM introdujo su primer PC. A mitad de la década
+   de 1980 los PC comienzan a usar los módem para compartir archivos con
+   otros ordenadores, en un rango de velocidades que comenzó en 1200 bps y
+   llegó a los 56 kbps (comunicación punto a punto o dial-up), cuando
+   empezaron a ser sustituidos por sistema de mayor velocidad,
+   especialmente ADSL en el 1980.
+
+Uso
+
+   [editar]
+
+   Las redes informáticas amplían las comunicaciones interpersonales por
+   medios electrónicos con diversas tecnologías, como el correo
+   electrónico, la mensajería instantánea, el chat en línea, las llamadas
+   telefónicas de voz y vídeo y las videoconferencias. Una red permite
+   compartir recursos informáticos y de red. Los usuarios pueden acceder y
+   utilizar los recursos proporcionados por los dispositivos de la red,
+   como imprimir un documento en una impresora de red compartida o
+   utilizar un dispositivo de almacenamiento compartido. Una red permite
+   compartir archivos, datos y otros tipos de información, dando a los
+   usuarios autorizados la posibilidad de acceder a la información
+   almacenada en otros ordenadores de la red.^[4]&#8203; La computación
+   distribuida utiliza recursos computacionales a través de una red para
+   realizar tareas.
+
+Descripción básica
+
+   [editar]
+   [250px-Clean_network_infrastructure.jpg] Una infraestructura de red de
+   computadores
+
+   La comunicación por medio de una red se lleva a cabo en dos diferentes
+   categorías: la capa física y la capa lógica.
+
+   La capa física incluye todos los elementos de los que hace uso un
+   equipo para comunicarse con otros equipos dentro de la red, como, por
+   ejemplo, las tarjetas de red, los cables, las antenas, etc. Pertenecen
+   a la capa física las características materiales (componentes y
+   conectores mecánicos) y eléctricas (niveles de tensión) que se van a
+   usar en la transmisión de los datos por los medios físicos, y en su
+   correspondiente recepción.
+
+   La comunicación a través de la capa lógica se rige por normas muy
+   rudimentarias que por sí mismas resultan de escasa utilidad. Sin
+   embargo, haciendo uso de dichas normas es posible construir los
+   denominados protocolos, que son normas de comunicación más complejas
+   (mejor conocidas como de alto nivel), capaces de proporcionar servicios
+   que resultan útiles.
+
+   Los protocolos son un concepto muy similar al de los idiomas de las
+   personas. Si dos personas hablan el mismo idioma, y respetan ciertas
+   reglas (tales como hablar y escucharse por turnos), es posible
+   comunicarse y transmitir ideas/ información.
+
+   La razón más importante (quizá la única) sobre por qué existe
+   diferenciación entre la capa física y la lógica es sencilla: cuando
+   existe una división entre ambas, es posible utilizar un número casi
+   infinito de protocolos distintos, lo que facilita la actualización y
+   migración entre distintas tecnologías.
+
+Componentes básicos de las redes
+
+   [editar]
+
+   Para poder formar una red se requieren elementos: hardware, software y
+   protocolos. Los elementos físicos se clasifican en dos grandes grupos:
+   dispositivos de usuario final (hosts) y dispositivos de red. Los
+   dispositivos de usuario final incluyen los computadores, impresoras,
+   escáneres, y demás elementos que brindan servicios directamente al
+   usuario, y los segundos son todos aquellos que conectan entre sí a los
+   dispositivos de usuario final, posibilitando su intercomunicación.
+
+   El fin de una red es «interconectar» los componentes hardware de una
+   red , y por tanto, principalmente, los computadoras individuales,
+   también denominados hosts, a los equipos que ponen los servicios en la
+   red, los servidores, utilizando el cableado (o tecnología inalámbrica)
+   soportada por la electrónica de red y unidos por cableado (o
+   radiofrecuencia). En todos los casos la tarjeta de red se puede
+   considerar el elemento primordial, sea parte de una computadora, de un
+   conmutador, de una impresora, etc. y sea de la tecnología que sea
+   (Ethernet, Wi-Fi, Bluetooth, etc.)
+
+Software
+
+   [editar]
+     * Sistema operativo de red: Permite la interconexión de ordenadores
+       para acceder a los servicios y recursos. Al igual que un equipo no
+       puede trabajar sin un sistema operativo, una red de equipos no
+       puede funcionar sin un sistema operativo de red. En muchos casos el
+       sistema operativo de red es parte del sistema operativo de los
+       servidores y de los clientes.
+
+     * Software de aplicación: En última instancia, todos los elementos se
+       utilizan para que el usuario de cada estación, pueda utilizar sus
+       programas y archivos específicos. Este software puede ser tan
+       amplio como se necesite ya que puede incluir procesadores de texto,
+       paquetes integrados, sistemas administrativos de contabilidad y
+       áreas afines, sistemas especializados, correos electrónicos, etc.
+       El software adecuado en el sistema operativo de red elegido y con
+       los protocolos necesarios permiten crear servidores para aquellos
+       servicios que se necesiten.
+
+Hardware
+
+   [editar]
+
+   Para lograr el enlace entre las computadoras y los medios de
+   transmisión (cables de red o medios físicos para redes alámbricas e
+   infrarrojos o radiofrecuencias para redes inalámbricas), es necesaria
+   la intervención de una tarjeta de red (NIC, Network interface
+   controller), con la cual se puedan enviar y recibir paquetes de datos
+   desde y hacia otras computadoras, empleando un protocolo para su
+   comunicación y convirtiendo a esos datos a un formato que pueda ser
+   transmitido por el medio (bits, -ceros y unos-). Cabe señalar que a
+   cada tarjeta de red le es asignado un identificador único por su
+   fabricante, conocido como dirección MAC (Media Access Control), que
+   consta de 48 bits (6 bytes). Dicho identificador permite dirigir el
+   tráfico de datos de la red del emisor al receptor adecuado.
+
+   El trabajo del adaptador de red es el de convertir las señales
+   eléctricas que viajan por el cable (p. ejemplo: red Ethernet) o las
+   ondas de radio (p. ejemplo: red Wi-Fi) en una señal que pueda
+   interpretar la computadora. Existen adaptadores que utilizan ondas de
+   luz infrarrojas también, aunque de escaso desarrollo.
+
+   Estos adaptadores son unas tarjetas PCI que se conectan en las ranuras
+   de expansión de la computadora. En el caso de ordenadores portátiles,
+   estas tarjetas vienen en formato PCMCIA o similares. En los ordenadores
+   del siglo XXI, tanto de sobremesa como portátiles, estas tarjetas ya
+   vienen integradas en la placa base.
+
+   Adaptador de red es el nombre genérico que reciben los dispositivos
+   encargados de realizar dicha conversión. Esto significa que estos
+   adaptadores pueden ser tanto cableados (habitualmente Ethernet) como
+   inalámbricos, así como de otros tipos como fibra óptica, coaxial, etc.
+   También las velocidades disponibles varían según el tipo de adaptador;
+   estas pueden ser, en Ethernet, de 10, 100, 1000 Mbps o 10 000, y en los
+   inalámbricos, principalmente, de 11, 54, 300 Mbps.
+
+Dispositivos de usuario final
+
+   [editar]
+     * computadoras personales: son los puestos de trabajo habituales de
+       las redes. Dentro de la categoría de ordenadores, y más
+       concretamente computadoras personales, se engloban todos los que se
+       utilizan para distintas funciones, según el trabajo que realizan.
+       Se incluyen desde las potentes estaciones de trabajo para la
+       edición de vídeo, por ejemplo, hasta los ligeros equipos
+       portátiles, conocidos como netbooks, cuya función principal es la
+       de navegar por Internet. Las tabletas se popularizaron al final de
+       la primera década del siglo XXI, especialmente por el éxito del
+       iPad de Apple.
+
+     * Terminal: muchas redes utilizan este tipo de equipo en lugar de
+       puestos de trabajo para la entrada de datos. En dichos equipos solo
+       se exhiben o introducen datos. Estos tipos de terminales, trabajan
+       unido a un servidor, que es el encargado de procesar los datos y
+       enviar pantallas de datos a los terminales.
+
+     * Impresoras: muchos de estos dispositivos son capaces de actuar como
+       parte de una red de ordenadores sin ningún otro elemento, tal como
+       un print server, actuando como intermediario entre la impresora y
+       el dispositivo que está solicitando un trabajo de impresión
+       determinado. Los medios de conectividad de estos dispositivos
+       pueden ser alámbricos o inalámbricos, dentro de este último puede
+       ser mediante: ethernet, Wi-Fi, infrarrojo o bluetooth. En algunos
+       casos se integran dentro de la impresora y en otros por medio de
+       convertidores externos.
+
+     * Otros elementos: escáneres, lectores de CD-ROM.
+
+Servidores
+
+   [editar]
+   Artículo principal: Servidor
+
+   Son los equipos que ponen a disposición de los usuarios los distintos
+   servicios. En la siguiente lista hay algunos tipos comunes de
+   servidores y sus propósitos:
+     * Servidor de archivos: almacena varios tipos de archivo y los
+       distribuye a otros clientes en la red. Pueden ser servidos en
+       distinto formato según el servicio que presten y el medio: FTP,
+       HTTP, etc.
+
+     * Servidor de impresión: controla una o más impresoras y acepta
+       trabajos de impresión de otros clientes de la red, poniendo en cola
+       los trabajos de impresión (aunque también puede cambiar la
+       prioridad de las diferentes impresiones), y realizando la mayoría o
+       todas las otras funciones que en un sitio de trabajo se realizaría
+       para lograr una tarea de impresión si la impresora fuera conectada
+       directamente con el puerto de impresora del sitio de trabajo.
+
+     * Servidor de correo: almacena, envía, recibe, enruta y realiza otras
+       operaciones relacionadas con el correo electrónico para los
+       clientes de la red.
+
+     * Servidor de fax: almacena, envía, recibe, enruta y realiza otras
+       funciones necesarias para la transmisión, la recepción y la
+       distribución apropiadas de los fax, con origen y/o destino una
+       computadora o un dispositivo físico de telefax.
+
+     * Servidor de telefonía: realiza funciones relacionadas con la
+       telefonía, como es la de contestador automático, realizando las
+       funciones de un sistema interactivo para la respuesta de la voz,
+       almacenando los mensajes de voz, encaminando las llamadas y
+       controlando también la red o Internet, etc. Pueden operar con
+       telefonía IP o analógica.
+
+     * Servidor proxy: realiza varias funciones en nombre de otros
+       clientes en la red para aumentar el funcionamiento de ciertas
+       operaciones (p. ej., prefetching y depositar documentos u otros
+       datos que se soliciten muy frecuentemente). También «sirve»
+       seguridad; esto es, tiene un «cortafuegos». Permite administrar el
+       acceso a Internet en una red de computadoras permitiendo o negando
+       el acceso a diferentes sitios web, basándose en contenidos,
+       origen/destino, usuario, horario, etc.
+
+     * Servidor de acceso remoto (Remote Access Service, RAS): controla
+       las líneas de módems u otros canales de comunicación de la red para
+       que las peticiones conecten una posición remota con la red,
+       responden las llamadas telefónicas entrantes o reconocen la
+       petición de la red y realizan los chequeos necesarios de seguridad
+       y otros procedimientos necesarios para registrar a un usuario en la
+       red. Gestionan las entradas para establecer las redes virtuales
+       privadas (VPN).
+
+     * Servidor web: almacena documentos HTML, imágenes, archivos de
+       texto, escrituras, y demás material web compuesto por datos
+       (conocidos normalmente como contenido), y distribuye este contenido
+       a clientes que la piden en la red.
+
+     * Servidor de streaming: servidores que distribuyen multimedia de
+       forma continua evitando al usuario esperar a la descarga completa
+       del fichero. De esta forma se pueden distribuir contenidos tipo
+       radio, vídeo, etc. en tiempo real y sin demoras.
+
+     * Servidor de reserva (standby server): tiene el software de reserva
+       de la red instalado y tiene cantidades grandes de almacenamiento de
+       la red en discos duros u otras formas del almacenamiento
+       disponibles para que se utilice con el fin de asegurarse de que la
+       pérdida de un servidor principal no afecte a la red. El servidor de
+       reserva lo puede ser de cualquiera de los otros tipos de servidor,
+       siendo muy habituales en los servidores de aplicaciones y bases de
+       datos.
+
+     * Servidor de autenticación: es el encargado de verificar que un
+       usuario pueda conectarse a la red en cualquier punto de acceso, ya
+       sea inalámbrico o por cable, basándose en el estándar 802.1x y
+       puede ser un servidor de tipo RADIUS.
+
+     * Servidores para los servicios de red: estos equipos gestionan
+       aquellos servicios necesarios propios de la red y sin los cuales no
+       se podrían interconectar, al menos de forma sencilla. Algunos de
+       esos servicios son: servicio de directorio para la gestión de los
+       usuarios y los recursos compartidos, protocolo de configuración
+       dinámica de host (DHCP por su sigla en inglés) para la asignación
+       de las direcciones IP en redes TCP/IP, Domain Name System (DNS)
+       para poder nombrar los equipos sin tener que recurrir a su
+       dirección IP numérica, etc.
+
+     * Servidor de base de datos: permite almacenar la información que
+       utilizan las aplicaciones de todo tipo, guardándola ordenada y
+       clasificada y que puede ser recuperada en cualquier momento y sobre
+       la base de una consulta concreta. Estos servidores suelen utilizar
+       lenguajes normalizados para hacer más fácil y reutilizable la
+       programación de aplicaciones, uno de los más populares es SQL.
+
+     * Servidor de aplicaciones: ejecuta ciertas aplicaciones. Usualmente
+       se trata de un dispositivo de software que proporciona servicios de
+       aplicación a las computadora cliente. Un servidor de aplicaciones
+       gestiona la mayor parte (o la totalidad) de las funciones de lógica
+       de negocio y de acceso a los datos de la aplicación. Los
+       principales beneficios de la aplicación de la tecnología de
+       servidores de aplicación son la centralización y la disminución de
+       la complejidad en el desarrollo de aplicaciones.
+
+     * Servidores de monitorización y gestión: ayudan a simplificar las
+       tareas de control, monitorización, búsqueda de averías, resolución
+       de incidencias, etc. Permiten, por ejemplo, centralizar la
+       recepción de mensajes de aviso, alarma e información que emiten los
+       distintos elementos de red (no solo los propios servidores). El
+       SNMP es uno de los protocolos más difundidos y que permite
+       comunicar elementos de distintos fabricantes y de distinta
+       naturaleza.
+
+     * Y otros muchos dedicados a múltiples tareas, desde muy generales a
+       aquellos de una especificidad enorme.
+
+Almacenamiento en red
+
+   [editar]
+
+   En las redes medianas y grandes el almacenamiento de datos principal no
+   se produce en los propios servidores sino que se utilizan dispositivos
+   externos, conocidos como disk arrays (matrices de discos) o RAIDs
+   interconectados, normalmente por redes tipo SAN o Network-Attached
+   Storage (NAS). Estos medios permiten centralizar la información, una
+   mejor gestión del espacio, sistemas redundantes y de alta
+   disponibilidad.
+
+   Los medios de copia de seguridad suelen incluirse en la misma red donde
+   se alojan los medios de almacenamiento mencionados más arriba, de esta
+   forma el traslado de datos entre ambos, tanto al hacer la copia como
+   las posibles restauraciones, se producen dentro de esta red sin afectar
+   al tráfico de los clientes con los servidores o entre ellos.
+
+Dispositivos de red
+
+   [editar]
+   Véase también: Dispositivo electrónico de interconexión
+
+   Los equipos informáticos descritos necesitan de una determinada
+   tecnología que forme la red en cuestión. Según las necesidades se deben
+   seleccionar los elementos adecuados para poder completar el sistema.
+   Por ejemplo, si queremos unir los equipos de una oficina entre ellos
+   debemos conectarlos por medio de un conmutador o un concentrador, si
+   además hay varios portátiles con tarjetas de red Wi-Fi debemos conectar
+   un punto de acceso inalámbrico para que recoja sus señales y pueda
+   enviarles las que les correspondan, a su vez el punto de acceso estará
+   conectado al conmutador por un cable. Si todos ellos deben disponer de
+   acceso a Internet, se interconectarán por medio de un rúter, que podría
+   ser ADSL, ethernet sobre fibra óptica, broadband, etc.
+
+   Los elementos de la electrónica de red más habituales son:
+     * Conmutador de red (switch),
+     * Enrutador (router),
+     * Puente de red (bridge),
+     * Puente de red y enrutador (brouter),
+     * Punto de acceso inalámbrico (Wireless Access Point, WAP).
+
+Protocolos de redes
+
+   [editar]
+   Artículo principal: Protocolo de red
+
+   Existen diversos protocolos, estándares y modelos que determinan el
+   funcionamiento general de las redes. Destacan el modelo OSI y el
+   TCP/IP. Cada modelo estructura el funcionamiento de una red de manera
+   distinta. El modelo OSI cuenta con siete capas muy definidas y con
+   funciones diferenciadas; el TCP/IP con cuatro capas diferenciadas pero
+   que combinan las funciones existentes en las siete capas del modelo
+   OSI.^[6]&#8203; Los protocolos están repartidos por las diferentes
+   capas pero no están definidos como parte del modelo en sí sino como
+   entidades diferentes de normativas internacionales, de modo que el
+   modelo OSI no puede ser considerado una arquitectura de red^[7]&#8203;,
+   y de hecho es sólo una abstracción teórica.
+
+Desacoplamiento del plano de control y plano de datos
+
+   [editar]
+
+   Una de las diferencias fundamentales entre las redes tradicionales y
+   las Redes Definidas por Software (SDN) reside en la separación
+   arquitectónica de sus funciones. En un dispositivo de red convencional
+   (como un enrutador o conmutador), el plano de datos (encargado de
+   reenviar paquetes) y el plano de control (encargado de la lógica de
+   enrutamiento y toma de decisiones) se ejecutan verticalmente dentro del
+   mismo hardware (firmware propietario).
+
+   La arquitectura SDN rompe esta integración vertical al abstraer el
+   plano de control y centralizarlo en una entidad lógica externa llamada
+   "controlador SDN". Esto permite que los dispositivos de red
+   (conmutadores) se limiten a ser dispositivos de reenvío de paquetes
+   ("packet forwarding devices") basándose en tablas de flujo programadas
+   remotamente por el controlador, facilitando una gestión de la red
+   programable, dinámica y agnóstica del hardware subyacente.^[8]&#8203;
+
+Modelo OSI
+
+   [editar]
+   Artículo principal: Modelo OSI
+
+   El modelo OSI (Open System Interconnection) fue creado por la ISO y se
+   encarga de la conexión entre sistemas abiertos; esto es, sistemas
+   abiertos a la comunicación con otros sistemas. Los principios en los
+   que basó su creación eran: una mayor definición de las funciones de
+   cada capa, evitar agrupar funciones diferentes en la misma capa y una
+   mayor simplificación en el funcionamiento del modelo en
+   general.^[6]&#8203;
+
+   Este modelo divide las funciones de red en siete capas diferenciadas:
+
+           #           Capas             Unidad de intercambio
+           7. Capa de aplicación      APDU
+           6. Capa de presentación    PPDU
+           5. Capa de sesión          SPDU
+           4. Capa de transporte      TPDU
+           3. Capa de red             Paquete de red
+           2. Capa de enlace de datos Trama de red (Marco / Trama)
+           1. Capa física             Bit
+
+Modelo TCP/IP
+
+   [editar]
+   Artículo principal: TCP/IP
+
+   Este modelo es el implantado actualmente a nivel mundial: fue primero
+   utilizado en ARPANET y es utilizado actualmente a nivel global en
+   Internet y redes locales. Su nombre deriva de la unión de los nombres
+   de los dos principales protocolos que lo conforman: TCP en la capa de
+   transporte e IP en la capa de red.^[9]&#8203; Se compone de cuatro
+   capas:
+
+   #                      Capas                      Unidad de intercambio
+   4. Capa de aplicación                            no definido
+   3. Capa de transporte                            Paquete de red
+   2. Capa de red (red / interred)                  no definido (Datagrama)
+   1. Capa de enlace de datos (enlace / nodo a red) ??
+
+Otros estándares
+
+   [editar]
+
+   Existen otros estándares, más concretos, que definen el modo de
+   funcionamiento de diversas tecnologías de transmisión de datos. La
+   siguiente lista no es completa, solo muestra algunos ejemplos:
+
+   Tecnología Estándar Año de primera publicación Otros detalles
+   Ethernet IEEE 802.3 1983 -
+   Token Ring IEEE 802.5 1970^[10]&#8203; -
+   WLAN IEEE 802.11 1997^[11]&#8203; -
+   Bluetooth IEEE 802.15 2002^[12]&#8203; -
+   FDDI ISO 9314-x 1987 Reúne un conjunto de estándares.
+   PPP RFC 1661 1994^[13]&#8203; -
+   LAN IsProto 2022^[14]&#8203; -
+
+Clasificación de las redes
+
+   [editar]
+
+   Una red puede recibir distintos calificativos de clasificación sobre la
+   base de distintas taxonomías: alcance, tipo de conexión, tecnología,
+   etc.
+
+Por alcance
+
+   [editar]
+     * Red de área personal (Personal Area Network, PAN) es una red de
+       computadoras usada para la comunicación entre los dispositivos de
+       la computadora cerca de una persona.
+
+     * Red inalámbrica de área personal (Wireless Personal Area Network,
+       WPAN), es una red de ordenadores inalámbrica para la comunicación
+       entre distintos dispositivos (tanto computadoras como puntos de
+       acceso a internet, teléfonos celulares, PDA, dispositivos de audio
+       e impresoras) cercanos al punto de acceso. Estas redes normalmente
+       son de unos pocos metros y para uso personal, así como fuera de
+       ella. El medio de transporte puede ser cualquiera de los habituales
+       en las redes inalámbricas pero las que reciben esta denominación
+       son habituales en Bluetooth.
+
+     * Red de área local (Local Area Network, LAN), es una red que se
+       limita a un área especial relativamente pequeña tal como un cuarto,
+       un solo edificio, una nave, o un avión. Las redes de área local a
+       veces se llaman una sola red de localización. No utilizan medios o
+       redes de interconexión públicos. Éstas redes son manejadas por un
+       punto de acceso central y también pueden contar con componentes
+       inalámbricos.
+
+     * Red de área local inalámbrica (Wireless Local Area Network, WLAN),
+       es un sistema de comunicación de datos inalámbrico flexible, muy
+       utilizado como alternativa a las redes de área local cableadas o
+       como extensión de estas.
+
+     * Red de área de campus (Campus Area Network, CAN), es una red de
+       computadoras de alta velocidad que conecta redes de área local a
+       través de un área geográfica limitada, como un campus
+       universitario, una base militar, hospital, etc. Tampoco utiliza
+       medios públicos para la interconexión.
+
+     * Red de área metropolitana (Metropolitan Area Network, MAN) es una
+       red de alta velocidad (banda ancha) que da cobertura en un área
+       geográfica más extensa que un campus, pero aun así limitado. Por
+       ejemplo, una red que interconecte los edificios públicos de un
+       municipio dentro de la localidad por medio de fibra óptica.
+
+     * Red de área amplia (Wide Area Network, WAN), son redes informáticas
+       que se extienden sobre un área geográfica extensa utilizando medios
+       como: satélites, cables interoceánicos, Internet, fibras ópticas
+       públicas, etc.
+
+     * Red de área de almacenamiento (Storage Area Network, SAN), es una
+       red concebida para conectar servidores, matrices (arrays) de discos
+       y librerías de soporte, permitiendo el tránsito de datos sin
+       afectar a las redes por las que acceden los usuarios.
+
+     * Red de área local virtual (Virtual LAN, VLAN), es un grupo de
+       ordenadores con un conjunto común de recursos a compartir y de
+       requerimientos, que se comunican como si estuvieran adjuntos a una
+       división lógica de redes de computadoras en la cual todos los nodos
+       pueden alcanzar a los otros por medio de broadcast (dominio de
+       broadcast) en la capa de enlace de datos, a pesar de su diversa
+       localización física. Este tipo surgió como respuesta a la necesidad
+       de poder estructurar las conexiones de equipos de un edificio por
+       medio de software,^[15]&#8203; permitiendo dividir un conmutador en
+       varios virtuales.
+
+Por tipo de conexión
+
+   [editar]
+   Artículo principal: Medio de transmisión
+
+Medios guiados
+
+   [editar]
+   Véase también: Cableado estructurado
+     * Cable de par trenzado: es una forma de conexión en la que dos
+       conductores eléctricos aislados son entrelazados para tener menores
+       interferencias y aumentar la potencia y disminuir la diafonía de
+       los cables adyacentes. Dependiendo de la red se pueden utilizar,
+       uno, dos, cuatro o más pares trenzados.
+     * Cable coaxial: se utiliza para transportar señales
+       electromagnéticas de alta frecuencia, el cual posee un núcleo
+       sólido (generalmente de cobre) o de hilos, recubierto por un
+       material dieléctrico y una malla o blindaje, que sirven para aislar
+       o proteger la señal de información contra las interferencias o
+       ruido exterior.
+     * Fibra óptica: es un medio de transmisión empleado habitualmente en
+       redes de datos; un hilo muy fino de material transparente, vidrio o
+       materiales plásticos, por el que se envían pulsos de luz que
+       representan los datos a transmitir.
+
+Medios no guiados
+
+   [editar]
+   Véanse también: Red inalámbrica, Radiofrecuencia, Microondas, Radiación
+   infrarroja e Infrared Data Association.
+     * Red por radio es aquella que emplea la radiofrecuencia como medio
+       de unión de las diversas estaciones de la red.
+     * Red por infrarrojos (Infrared Data Association, IrDA), permiten la
+       comunicación entre dos nodos, usando una serie de ledes infrarrojos
+       para ello. Se trata de emisores/receptores de ondas infrarrojas
+       entre ambos dispositivos, cada dispositivo necesita al otro para
+       realizar la comunicación por ello es escasa su utilización a gran
+       escala. No disponen de gran alcance y necesitan de visibilidad
+       entre los dispositivos.
+     * Red por microondas es un tipo de red inalámbrica que utiliza
+       microondas como medio de transmisión. Los protocolos más frecuentes
+       son: el IEEE 802.11b y transmite a 2,4 GHz, alcanzando velocidades
+       de 11 Mbps (Megabits por segundo); el rango de 5,4 a 5,7 GHz para
+       el protocolo IEEE 802.11a; el IEEE 802.11n que permite velocidades
+       de hasta 600 Mbps; etc.
+
+Por relación funcional
+
+   [editar]
+     * Cliente-servidor es la arquitectura que consiste básicamente en un
+       cliente que realiza peticiones a otro programa (el servidor) que le
+       da respuesta.
+     * Peer-to-peer, o red entre iguales, es aquella red de computadoras
+       en la que todos o algunos aspectos funcionan sin clientes ni
+       servidores fijos, sino una serie de nodos que se comportan como
+       iguales entre sí.
+
+Por tecnología
+
+   [editar]
+   Véanse también: Point-to-Point Protocol, Peer-to-Peer y P2P.
+     * Red punto a punto (point to point, PtP) es aquella en la que existe
+       multitud de conexiones entre parejas individuales de máquinas. Este
+       tipo de red requiere, en algunos casos, máquinas intermedias que
+       establezcan rutas para que puedan transmitirse paquetes de datos.
+       El medio electrónico habitual para la interconexión es el
+       conmutador, o switch.
+     * Red de Difusión (broadcast) se caracteriza por transmitir datos por
+       un solo canal de comunicación que comparten todas las máquinas de
+       la red. En este caso, el paquete enviado es recibido por todas las
+       máquinas de la red pero únicamente la destinataria puede
+       procesarlo. Los equipos unidos por un concentrador (hub), forman
+       redes de este tipo.
+     * Red multipunto, dispone de una línea o medio de comunicación cuyo
+       uso está compartido por todas las terminales en la red. La
+       información fluye de forma bidireccional. Los terminales pueden
+       estar separados geográficamente.
+
+Por topología física
+
+   [editar]
+   [250px-Topolog%C3%ADa_de_red.png] Topologías físicas de red.
+   Véase también: Topología de red
+     * Red en bus (bus o «conductor común») o Red lineal (line): se
+       caracteriza por tener un único canal de comunicaciones (denominado
+       bus, troncal o backbone) al cual se conectan los diferentes
+       dispositivos.
+     * Red en anillo (ring) o Red circular: cada estación está conectada a
+       la siguiente y la última está conectada a la primera. Además, puede
+       compararse con la red en cadena margarita (daisy chain).
+     * Red en estrella (star): las estaciones están conectadas
+       directamente a un punto central y todas las comunicaciones se han
+       de hacer necesariamente a través de este.
+     * Red en malla (mesh): cada nodo está conectado a todos los otros.
+     * Red en árbol (tree) o red jerárquica: los nodos están colocados en
+       forma de árbol. Desde una visión topológica, la conexión en árbol
+       es parecida a una serie de redes en estrella interconectadas salvo
+       en que no tiene un nodo central.
+     * Red híbrida o red mixta: se da cualquier combinación de las
+       anteriores. Por ejemplo, circular de estrella, bus de estrella,
+       etc.
+
+Por la direccionalidad de los datos
+
+   [editar]
+     * Simplex o unidireccional: un equipo terminal de datos transmite y
+       otro recibe.
+     * Half-duplex o semidúplex: el método o protocolo de envío de
+       información es bidireccional pero no simultáneo bidireccional, solo
+       un equipo transmite a la vez.
+     * Full-duplex o dúplex: los dos equipos involucrados en la
+       comunicación lo pueden hacer de forma simultánea, transmitir y
+       recibir.
+
+Por grado de autentificación
+
+   [editar]
+     * Red privada: es una red que solo puede ser usada por algunas
+       personas y que está configurada con clave de acceso personal.
+     * Red de acceso público: una red pública se define como una red que
+       puede usar cualquier persona y no como las redes que están
+       configuradas con clave de acceso personal. Es una red de
+       ordenadores interconectados, capaz de compartir información y que
+       permite comunicar a usuarios sin importar su ubicación
+       geográfica.^[cita requerida]
+
+Por grado de difusión
+
+   [editar]
+   Véase también: Extranet
+     * Una intranet es una red privada de computadoras que utiliza
+       tecnología de Internet para compartir dentro de una organización
+       parte de sus sistemas de información y sistemas operacionales.
+     * La Internet es un conjunto descentralizado de redes de comunicación
+       interconectadas que utilizan la familia de protocolos TCP/IP,
+       garantizando que las redes físicas heterogéneas que la componen
+       funcionen como una red lógica única, de alcance mundial.
+
+Por servicio o función
+
+   [editar]
+     * Red comercial proporciona soporte e información para una empresa u
+       organización con ánimo de lucro.
+     * Red educativa proporciona soporte e información para una
+       organización educativa dentro del ámbito del aprendizaje.
+     * Red para el proceso de datos proporciona una interfaz para
+       intercomunicar equipos que vayan a realizar una función de cómputo
+       conjunta.^[cita requerida]
+
+Redes sin servidor
+
+   [editar]
+
+   Una red sin servidor es la que Permite que todos los equipos de la red
+   puedan compartir recursos sin que ninguno de ellos tenga control de la
+   red. En este tipo de red, cada computadora puede hacer de cliente y de
+   servidor indistintamente, es decir, puede compartir sus recursos y
+   también puede acceder a los que comparte otro equipo. A la hora de
+   configurar los equipos se establece lo que se llama Grupos de trabajo,
+   que nos ayuda a identificarlos y a localizar los recursos.
+
+Véase también
+
+   [editar]
+     * Cableado estructurado
+     * Conmutación de circuitos
+     * Conmutación de paquetes
+     * Diagrama de red informática
+     * Dirección IP
+     * Dirección MAC
+     * Extranet
+     * Hardware de red
+     * Red global de telecomunicaciones
+     * Historia de Internet
+     * Host
+     * Internet
+     * Intranet
+     * Modelo OSI
+     * Red heterogénea
+     * Modelo TCP/IP
+     * Topología de red
+     * Arquitectura de Red
+
+Referencias
+
+   [editar]
+    1. ^| «Data and Computer Communications». www.pearson.com. Consultado
+       el 25 de noviembre de 2025.
+    2. ^| Tanenbaum, 2003, p. 3.
+    3. ^| Real Academia Española. «red». Diccionario de la lengua española
+       (23.ª edición).
+    4. ^| ^a ^b «red de ordenadores». Real Academia de Ingeniería.
+    5. ^| Tanenbaum, Andrew S.; Wetherall, David J. (27 de septiembre de
+       2010). Computer Networks, 5th Edition (5th edición). Pearson.
+       ISBN 978-0-13-212695-3. Consultado el 25 de noviembre de 2025.
+    6. ^| ^a ^b Tanenbaum, 2003, p. 28
+    7. ^| Tanenbaum, 2003, p. 29.
+    8. ^| Haleplidis, Evangelos et al. (2015). RFC 7426: Software-Defined
+       Networking (SDN): Layers and Architecture Terminology. Internet
+       Engineering Task Force (IETF). p. Sección 3 "SDN Architecture".
+    9. ^| Tanenbaum, 2003, p. 35.
+   10. ^| «Token Ring/IEEE 802.5» (en inglés). Archivado desde el original
+       el 16 de febrero de 2018. Consultado el 5 de diciembre de 2010.
+       «The Token Ring network was originally developed by IBM in the
+       1970s.»
+   11. ^| «OFFICIAL IEEE 802.11 WORKING GROUP PROJECT TIMELINES -
+       2010-11-12» (en inglés).
+   12. ^| «IEEE 802.15.1 CURRENT STATUS» (en inglés). «The IEEE Std
+       802.15.1(TM)-2002 was published 14Jun02.»
+   13. ^| «RFC 1661 - The Point-to-Point Protocol (PPP)» (en inglés).
+   14. ^| «Introducción a las redes de área local (LAN)».
+   15. ^| Tanembaun, 2003, pp. 330-1.
+
+Bibliografía
+
+   [editar]
+     * Zacker, Craig (2002). Redes. Manual de Referencia. McGraw Hill.
+       ISBN 8448136209.
+     * Groth, David; Skandier, Toby (2005). Guía del estudio de redes, (4ª
+       edición). Sybex, Inc. ISBN 0-7821-4406-3.
+     * Haykin, Simon. Introduction to Signals and Systems (en inglés).
+       Wiley.
+     * Stallings, William (1984). Local Networks, An Introduction (en
+       inglés). MacMillan.
+     * Stallings, William (2011). Data and Computer Communications (en
+       inglés). MacMillan.
+     * Stallings, William (1993). Local and Metropolitan Area Networks (en
+       inglés). MacMillan.
+     * Stallings, William; Van Slyke, Richard (2000). Business Data
+       Communications (en inglés). Prentice Hall.
+     * Tanenbaum, Andrew S. (2003). Redes de computadoras (Google Books)
+       (4ª edición). Pearson Educación. ISBN 9789702601623. Consultado el
+       26 de enero de 2012.  (la versión en línea solo ofrece una vista
+       parcial del contenido).
+
+   Control de autoridades
+     * Proyectos Wikimedia
+     * Wd Datos: Q1301371
+     * Commonscat Multimedia: Computer networks / Q1301371
+     __________________________________________________________________
+
+     * Identificadores
+     * BNE: XX528189
+     * BNF: 119328992 (data)
+     * GND: 4070085-9
+     * LCCN: sh85029513
+     * NDL: 00865620
+     * NKC: ph115867
+     * NLI: 987007541997205171
+     * AAT: 300311885
+     * Diccionarios y enciclopedias
+     * Britannica: url
+     * Identificadores médicos
+     * MeSH: D003195
+     * Ontologías
+     * Número IEV: 732-01-03
+
+     * Wd Datos: Q1301371
+     * Commonscat Multimedia: Computer networks / Q1301371
+
+   Obtenido de
+   «https://es.wikipedia.org/w/index.php?title=Red_de_computadoras&oldid=1
+   70821648»
+   Categorías:
+     * Redes informáticas
+     * Ingeniería de telecomunicación
+
+   Categorías ocultas:
+     * Wikipedia:Artículos con pasajes que requieren referencias
+     * Wikipedia:Artículos con identificadores BNE
+     * Wikipedia:Artículos con identificadores BNF
+     * Wikipedia:Artículos con identificadores GND
+     * Wikipedia:Artículos con identificadores LCCN
+     * Wikipedia:Artículos con identificadores AAT
+
+     * Esta página se editó por última vez el 5 dic 2025 a las 13:36.
+     * El texto está disponible bajo la Licencia Creative Commons
+       Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas
+       adicionales. Al usar este sitio aceptas nuestros términos de uso y
+       nuestra política de privacidad.
+       Wikipedia® es una marca registrada de la Fundación Wikimedia, una
+       organización sin ánimo de lucro.
+
+     * Política de privacidad
+     * Acerca de Wikipedia
+     * Limitación de responsabilidad
+     * Contacto legal y de seguridad
+     * Código de conducta
+     * Desarrolladores
+     * Estadísticas
+     * Declaración de cookies
+     * Versión para móviles
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Cambiar a la tabla de contenidos
+   Red de computadoras
+   (BUTTON) 111 idiomas Añadir tema
