@@ -1,0 +1,1802 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1" />
+<meta name="format-detection" content="telephone=no" />
+<!-- <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" /> -->
+<link rel="shortcut icon" href="https://www.zgbk.com/images/favicon.ico" />
+<link rel="stylesheet" href="https://www.zgbk.com/v3/css/bootstrap.min.css" type="text/css" />
+<!-- <link rel="stylesheet" href="${prefix("template/v3/css/animate.css")}" type="text/css" /> -->
+<link rel="stylesheet" href="https://www.zgbk.com/v3/css/font-awesome.min.css" type="text/css" />
+<!-- <link rel="stylesheet" href="${prefix("template/v3/css/font-opensans.css")}" type="text/css" /> -->
+<link rel="stylesheet" href="https://www.zgbk.com/v3/css/v3-framework.css" type="text/css" />
+<link rel="stylesheet" href="https://www.zgbk.com/v3/css/v3-common.css" type="text/css" />
+<link rel="stylesheet" href="https://www.zgbk.com/v3/css/v3-site_new.css?v=1.1208.1" type="text/css" />
+<link href="https://www.zgbk.com/v3/css/addition/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+<script src="https://www.zgbk.com/js/md5.js"></script>
+<script>
+  var frontAppContext = 'https://www.zgbk.com/ecph/';
+  var siteID = "1";
+  var token = "353c7adc8d64acdd0bf83efb84203b7a";
+  var prefix = 'https://www.zgbk.com/'
+  var siteUrl = 'https://www.zgbk.com/'
+</script>
+<script src="https://www.zgbk.com/v3/js/addition/pat-min.js"></script>
+<script src="https://www.zgbk.com/js/zcms_require.js" contextpath="https://www.zgbk.com/ecph/"></script>
+<script src="https://www.zgbk.com/v3/js/addition/jquery.mCustomScrollbar.min.js"></script>
+<link rel="stylesheet" href="https://www.zgbk.com/js/popover/jquery.webui-popover.min.css" />
+<script src="https://www.zgbk.com/js/popover/jquery.webui-popover.min.js"></script>
+<script src="https://www.zgbk.com/js/ofi.min.js"></script>
+<script src="https://www.zgbk.com/js/mtoken.js"></script>
+<script type='text/javascript' src='https://ykf-weixin01.7moor.com/javascripts/7moorInit.js?accessId=0aea1160-a7fa-11f0-bc7a-99780697ee38&autoShow=true&language=ZHCN' async='async'></script>
+<script>
+  if (isIE && ieVersion < 9 || isIE8) {
+    importJS('../../v3/js/ie/html5shiv.js')
+    if (!isIE6 && !isIE7) {
+      importJS('../../v3/js/ie/respond.min.js')
+    }
+    importJS('../../v3/js/ie/excanvas.js')
+  }
+  if (/MSIE (6|7)\.0/.test(navigator.userAgent)) {
+    importCSS('../../v3/css/bootstrap-ie6.css')
+    importJS('../../v3/js/ie/bootstrap-ie6.js')
+  }
+  if (isIE && ieVersion < 9 || isIE8) {
+    importCSS('../../v3/css/v3-site-ie.css')
+  }
+  if (inTouch) {
+    importJS('../../v3/js/hammer.min.js')
+  }
+  importJS('../../v3/js/responsiveslides.js')
+
+
+  let usercenter = location.href.includes('member/')
+  if (!usercenter){
+  document.oncontextmenu = function () {
+    return false;
+  }
+  $(function(){
+    $('body').css({
+      '-webkit-user-select':'none',
+      '-moz-user-select':'none',
+      '-ms-user-select':'none',
+      'user-select':'none'
+    })
+  })
+  $(window).on('copy', function (event) {
+    // if (!Cookie.get("_ZMemberName")) {
+    if (!event.target.classList.contains('copybtn')){
+      myAlert("拷贝功能暂未开放，敬请谅解。");
+      return false;
+      event.returnValue = false;
+    }
+    // } else {
+    //   if (window.location.href.indexOf('words') > -1) {
+    //     if (!window.getSelection) {
+    //       return
+    //     }
+    //     $.ajax({
+    //       url: frontAppContext + 'api/wikiQuote',
+    //       dataType: 'json',
+    //       async: false,
+    //       headers: { 'Accept': 'aplication/json', 'token': token },
+    //       data: { wordID: '', wordName: $('.title h2').text() },
+    //       type: 'POST',
+    //       success: function (data) {
+    //         var myDate = new Date;
+    //         var year = myDate.getFullYear(); //获取当前年
+    //         var mon = myDate.getMonth() + 1; //获取当前月
+    //         var date = myDate.getDate(); //获取当前日
+    //         var time = year + '-' + mon + '-' + date
+    //         // var genCopy = () => {
+    //         //   return [
+    //         //     '',
+    //         //     '[' + data.quoteCount + ']' + author + '.' + $('.title h2').text() + '[DB/OL].' + window.location.href + ', ' + time + '.'
+    //         //   ]
+    //         // }
+
+    //         var copyinfo = new Array();
+    //         copyinfo[0] = "";
+    //         copyinfo[1] = '[' + data.quoteCount + ']' + author + '.' + $('.title h2').text() + '[DB/OL].' + window.location.href + ', ' + time + '.';
+
+    //         var copyString = window.getSelection().toString()
+    //         if ('object' === typeof event.originalEvent.clipboardData) {
+    //           // event.originalEvent.clipboardData.setData('text/html', copyString + genCopy().join(''))
+    //           // event.originalEvent.clipboardData.setData('text/plain', copyString + genCopy().join('\n'))
+    //           event.originalEvent.clipboardData.setData('text/html', copyString + copyinfo.join(''))
+    //           event.originalEvent.clipboardData.setData('text/plain', copyString + copyinfo.join('\n'))
+    //           event.preventDefault()
+    //           return
+    //         }
+    //       }
+    //     })
+    //   }
+    // }
+  })
+
+
+  // 禁止f12
+  window.onkeydown = function (event) {
+    if (event.keyCode === 123) {
+      event.preventDefault()
+    }
+    // 检查 Ctrl + Shift + I 组合键
+    if (event.ctrlKey && event.shiftKey && (event.key === 'I'||event.key === 'i')) {
+        event.preventDefault();
+    }
+    // 检查 Ctrl + Shift + J 组合键
+    if (event.ctrlKey && event.shiftKey && (event.key === 'J'||event.key === 'j')) {
+        event.preventDefault();
+    }
+    // 检查 Ctrl + Shift + C 组合键
+    if (event.ctrlKey && event.shiftKey && (event.key === 'C'||event.key === 'c')) {
+        event.preventDefault();
+    }
+    // 检查 Ctrl + S组合键
+    if (event.ctrlKey && (event.key === 'S'||event.key === 's')) {
+        event.preventDefault();
+    }
+    // 检查 Ctrl + P组合键
+    if (event.ctrlKey && (event.key === 'P'||event.key === 'p')) {
+        event.preventDefault();
+    }
+  }
+  window.oncontextmenu = function (e) { e.preventDefault() }
+}
+
+</script>
+<noscript><iframe srchttps://www.zgbk.com/template/new/*.htmll></iframe></noscript>
+<style>
+  @media print {
+    a[href]:after {
+      content: none !important;
+    }
+
+    .noprint {
+      display: none
+    }
+    body{
+      display: none;
+    }
+  }
+</style>
+<script>
+  function PrintDiv() {
+    jQuery('#divcontent').print({
+      globalStyles: true,
+      mediaPrint: false,
+      stylesheet: null,
+      noPrintSelector: '.noprint',
+      iframe: true,
+      append: null,
+      prepend: null,
+      manuallyCopyFormValues: true,
+      deferred: $.Deferred()
+
+    })
+  }
+</script>
+  <title>社交网络 - 中国百科网</title>
+  <meta name="description" content="" />
+  <link rel="stylesheet" href="https://www.zgbk.com/css/swiper-4.1.6.min.css">
+</head>
+
+<body class="detail" data-spy="scroll" data-target="#directoryNav" data-offset="20">
+  <!-- 包含页头 -->
+  
+<!-- 最顶部 -->
+
+  <div class="headbox clearfix">
+
+    <div class="head-con clearfix">
+      <div class="fl logobox">
+        <a href="https://www.zgbk.com/">
+          <img class="logo" src="https://www.zgbk.com/images/word_new/logo.png" />
+          <img class="m-logo" src="https://www.zgbk.com/images/word_new/m-logo.png" />
+        </a>
+        <button type="button" class="hamburger animated is-closed menu fr pointer ">
+          <span class="hamb-top"></span>
+          <span class="hamb-middle"></span>
+          <span class="hamb-bottom"></span>
+        </button>
+        <!-- <span class="menu fr pointer hamburger"></span> -->
+      </div>
+      <div class="edition font13 fl"></div>
+      <!-- 检索框 -->
+      <div class="search clearfix">
+        <div class="search-box">
+          <div class="inputbox fl">
+            <input type="text" class="form-control search-query" id="search" autocomplete="off" placeholder=""
+              οnkeydοwn="return banInputSapce(event);" maxlength="50" />
+            <ul class='hide' id='suggestlistbox'></ul>
+            <script type="javascript/template" id="suggestlist">
+                            {{#for(item in lists)}}
+                            <li class="pointer ellipsis" onclick='chooseqery(this)'>{{{item}}}</li>
+                            {{/for}}
+                        </script>
+          </div>
+          <!-- <img src="${prefix("images/member/ai.png")}" alt="" class="aiicon pointer"> -->
+          <span class='pointer search-submit fr' alias='all'></span>
+        </div>
+        <!-- <img src="${prefix("images/member/ai.png")}" alt="" class="aiicon pointer fr"> -->
+        <a class="advance-search fr" href="https://www.zgbk.com/ecph/advanceSearch/result?SiteID=1&Alias=bkzyb">高级检索</a>
+      </div>
+      <!-- 检索框 end -->
+      <div class="head-right fr">
+        <div class=" userbox member-span-logined member-span-logined1">
+          <span class="pointer realName font16 ellipsis"></span>
+          <ul class="infolist">
+            <li class="AccessType1 hide">
+              <a class='member-username' target="_blank">个人中心</a>
+            </li>
+            <li class="changeBranch hide"><a class='branch-username font12'>切换机构账号</a></li>
+            <li class="AccessType2 hide">
+              <a class='changeuser font12' href="">切换个人账号</a>
+            </li>
+            <!-- <li class="AccessType2 hide">
+              <a class='branch-username' target="_blank">机构信息</a>
+            </li>
+            <li class="AccessType2 hide">
+              <a class='member-order' target="_blank">机构订单</a>
+            </li>
+            <li class="AccessType2 hide">
+              <a class='member-organ' target="_blank">机构用户</a>
+            </li> -->
+            <li class="last">
+              <a class="member-logout" href="">退出</a>
+            </li>
+          </ul>
+        </div>
+        <div class="member-span-login clearfix hide">
+          <a class="member-login">登录</a>
+          <a class="member-register">注册</a>
+        </div>
+      </div>
+
+      <div class="all-nav">
+        <div class="nav-head">
+          
+            <a href="https://www.zgbk.com/ecph/sublibrary?SiteID=1&ID=1">专业板块</a>
+          
+          
+            <a href="https://www.zgbk.com/ecph/sublibrary?SiteID=1&ID=2">专题板块</a>
+          
+          
+            <a href="https://www.zgbk.com/ecph/sublibrary?SiteID=1&ID=451">大众板块</a>
+          
+        </div>
+        <div id="head-navlistbox" class="navlist-box"></div>
+        <script type="javascript/template" id="head-navlist">
+          {{#for(item in lists)}}
+            <div class="side-nav-list clearfix">
+              <a class="side-nav-title fl" id="{{item.current.id}}" href="https://www.zgbk.com/ecph/subject?SiteID={{item.current.siteid}}&ID={{item.current.id}}">{{item.current.name}}</a>
+              <ul class="nav-inner-list" id="nav-inner-list-{{item.current.id}}">
+                {{#for(child in item.children)}}
+                  <li>
+                    <a href="https://www.zgbk.com/ecph/subject?SiteID={{child.siteid}}&ID={{child.id}}">{{child.name}}</a>
+                  </li>
+                {{/for}}
+              </ul>
+            </div>
+          {{/for}}
+        </script>
+        <script type="javascript/template" id="navlist_child">
+        {{#for(item in lists)}}
+          <li>
+            <a href="https://www.zgbk.com/ecph/subject?SiteID={{item.siteid}}&ID={{item.id}}">{{item.name}}</a>
+          </li>
+        {{/for}}
+        </script>
+        <div class="mobilebox">
+          <div class=" userbox member-span-logined member-span-logined1">
+            <span class="pointer realName font16 ellipsis"></span>
+            <a class="changeBranch hide font12 branch-username">切换机构账号</a>
+            <a class="AccessType2 hide font12 changeuser">切换个人账号</a>
+            <ul class="infolist">              
+              <li>
+                <a class="advance-search hidden-sm hidden-md  hidden-lg" href="https://www.zgbk.com/ecph/advanceSearch/result?SiteID=1&Alias=bkzyb">高级检索</a>
+              </li>
+              <li class="AccessType1 hide">
+                <a class='member-username' target="_blank">个人中心</a>
+              </li>
+              <!-- <li class="AccessType2 hide">
+                <a class='branch-username' target="_blank">机构信息</a>
+              </li> -->
+              <li class="last">
+                <a class="member-logout" href="">退出</a>
+              </li>
+            </ul>
+          </div>
+          <div class="member-span-login clearfix hide">
+            <a class="advance-search hidden-sm hidden-md  hidden-lg" href="https://www.zgbk.com/ecph/advanceSearch/result?SiteID=1&Alias=bkzyb">高级检索</a>
+            <a class="member-login">登录</a>
+            <a class="member-register">注册</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  <div class="wrap-height"></div>
+
+
+  <style>
+    body {
+      font-family: 'PingFang SC', 'Microsoft Yahei', '宋体', DBK;
+    }
+  </style>
+  <script>
+    // 联想词
+    var suggest = new Pat({
+      el: 'suggestlistbox',
+      data: {
+        lists: [],
+      },
+      template: document.getElementById('suggestlist').innerHTML
+    })
+    var sFlag = true;
+    $('.head-con').delegate('.headbox .search input', 'input', function () {
+      if (!sFlag) 
+        CustomerList($('.headbox .search input').val());
+    }).on('compositionstart', function () {
+      sFlag = true;
+    }).on('compositionend', function () {
+      sFlag = false;
+      CustomerList($('.headbox .search input').val());
+    });
+
+    // $('.headbox .search input').keyup(function(){
+      function CustomerList(val){
+        $.ajax({
+            url: frontAppContext + 'api/suggest',
+            dataType: 'json',
+            async: true,
+            headers: { 'Accept': 'aplication/json', 'token': token },
+            data: {  'query': val ,field:'title',type:'bkzyb',pagesize:10 },
+            type: 'GET',
+            success: function (data) {
+              if(data.data){
+                suggest.$data.lists = data.data.datalist
+                suggest.$apply()
+                if (data.data.datalist) {
+                    $('.headbox .search ul').removeClass('hide')
+                }
+              }
+            }
+        })
+      }
+    // })
+
+    $(document).click(function () {
+      $('.headbox .search #suggestlistbox').addClass('hide')
+    });
+    function chooseqery(a) {
+      $('.headbox .search input').val($(a).text())
+    }
+    // 导航
+    function headnavlist() {
+      $.ajax({
+        url: frontAppContext + 'api/subject',
+        dataType: 'json',
+        async: true,
+        headers: { 'Accept': 'aplication/json', 'token': token },
+        data: { 'ID': 0, 'Alias': 'bkzyb', 'SiteID': '1', 'level': '2' },
+        type: 'GET',
+        success: function (data) {
+          var p = new Pat({
+            el: 'head-navlistbox',
+            data: {
+              lists: data.data,
+            },
+            template: document.getElementById('head-navlist').innerHTML
+          })
+          $(".navlist-box").mCustomScrollbar({ mouseWheel: { preventDefault: true } });
+
+          $(".side-nav-title").each(function () {
+            $(".side-nav-title").eq(0).addClass("cur");
+            // var id = $(this).attr("id");
+            // navChildlist(id);
+            if (document.body.clientWidth < 768) {
+              $(this).attr("href", "javascript:;");
+              $(this).click(function () {
+                $(".side-nav-title").removeClass("cur")
+                $(this).addClass("cur");
+                $(".nav-inner-list").hide();
+                $(this).next(".nav-inner-list").show();
+                $(".nav-inner-list").mCustomScrollbar({ mouseWheel: { preventDefault: true } });
+              })
+            }
+          })
+
+
+        }
+      })
+    }
+
+    // function navChildlist(id) {
+    //   $.ajax({
+    //     url: frontAppContext + 'api/subject',
+    //     dataType: 'json',
+    //     async: true,
+    //     headers: { 'Accept': 'aplication/json', 'token': token },
+    //     data: { 'ID': id },
+    //     type: 'GET',
+    //     success: function (data) {
+    //       var p = new Pat({
+    //         el: 'nav-inner-list-' + id,
+    //         data: {
+    //           lists: data.data.datalist,
+    //         },
+    //         template: document.getElementById('navlist_child').innerHTML
+    //       })
+    //     }
+    //   })
+    // }
+
+    $(".menu").click(function () {
+      if ($(this).hasClass("is-closed")) {
+        if ($(".navlist-box").children().length < 1) {
+          headnavlist()
+        }
+        $(this).addClass("is-open").removeClass("is-closed")
+        $(".logobox").addClass("toggled");
+        $(".all-nav").slideDown();
+      } else {
+        $(this).addClass("is-closed").removeClass("is-open")
+        $(".logobox").removeClass("toggled");
+        $(".all-nav").slideUp();
+      }
+    })
+    $(function () {
+
+      $(".menu").hoverDelay({
+        hoverDuring: 1000,
+        outDuring: 1000,
+        hoverEvent: function () {
+          if ($(".navlist-box").children().length < 1) {
+            headnavlist()
+          }
+          $(".menu").addClass("is-open").removeClass("is-closed")
+          $(".logobox").addClass("toggled");
+          $(".all-nav").slideDown();
+          $(".all-nav").addClass("cur1").removeClass("cur");
+        },
+        outEvent: function () {
+          if (!$(".all-nav").hasClass("cur")) {
+            $(".all-nav").slideUp();
+            $(".menu").removeClass("is-open").addClass("is-closed")
+            $(".logobox").removeClass("toggled");
+            $(".all-nav").removeClass("cur1");
+          }
+        }
+      });
+      $(".all-nav").hoverDelay({
+        hoverDuring: 100,
+        outDuring: 2000,
+        hoverEvent: function () {
+          $(".menu").addClass("is-open").removeClass("is-closed")
+          $(".logobox").addClass("toggled");
+          $(".all-nav").slideDown();
+          $(".all-nav").addClass("cur").removeClass("cur1");
+        },
+        outEvent: function () {
+          if (!$(".all-nav").hasClass("cur1")) {
+            $(".all-nav").slideUp();
+            $(".menu").removeClass("is-open").addClass("is-closed")
+            $(".logobox").removeClass("toggled");
+            $(".all-nav").removeClass("cur");
+          }
+        }
+      });
+
+      autoNav();
+    })
+
+    $(window).resize(function () {
+      autoNav()
+    });
+
+    function autoNav() {
+      var headheight = $('.head-con').outerHeight(true)
+      var height = $(window).height() - headheight;
+      var navlist_H = $(window).height() - headheight - 59;
+      $(".all-nav").css("max-height", height);
+      $(".all-nav .navlist-box").css("max-height", navlist_H);
+
+      if ($(window).width() > 767) {
+        $(".userbox").click(function () {
+          if ($(".userbox").hasClass("isShow")) {
+            if ($(window).width() <1200){
+              $(".userbox").removeClass("isShow")
+              $(".infolist").slideUp();
+            }
+          } else {
+            $(".userbox").addClass("isShow")
+            $(".infolist").slideDown();
+          }
+        })
+        $(".userbox").hoverDelay({
+          hoverDuring: 200,
+          outDuring: 1000,
+          hoverEvent: function () {
+            $(".userbox").addClass("isShow")
+            $(".infolist").slideDown();
+          },
+          outEvent: function () {
+            $(".userbox").removeClass("isShow")
+            $(".infolist").slideUp();
+          }
+        });
+      }
+    }
+
+  </script>
+
+
+  <div class="left-red">
+    <nav class="directory" id="directoryNav">
+      <div class="dir-tit">
+        <h2>目录</h2>
+        <button type="button" class="hamburger is-open directory-btn">
+          <span class="hamb-top"></span>
+          <span class="hamb-middle"></span>
+          <span class="hamb-bottom"></span>
+        </button>
+      </div>
+      <div class="nav-box">
+        <ul class="nav thumb"></ul>
+      </div>
+    </nav>
+    <div class="detail-content">
+      <!-- 多义词  -->
+      
+        <div class="othermeans">
+          <div class="intro">
+            <div class="main">
+              <div class="hidden-xs">
+                <span class="name">社交网络</span>是一个多义词，请在下列义项上选择浏览（共3个义项）
+              </div>
+              <div class="hidden-sm hidden-md hidden-lg">本条目是多义词，共3个义项</div>
+              <span class="icon"></span>
+            </div>
+          </div>
+          <div class="other-list ">
+            <div class="main">
+              <ul class="row clearfix ">
+                
+                  
+                    <li class="col-xs-12 col-sm-6 col-md-4 ellipsis" title="传播学">
+                      <span class="dot fl">·</span>传播学
+                    </li>
+                  
+                  
+                
+                  
+                  
+                    <li class="col-xs-12 col-sm-6 col-md-4 ellipsis">
+                      <a href="https://www.zgbk.com/ecph/words?SiteID=1&ID=218569&Type=bkzyb&Preview=false"
+                        title="计算机科学技术">
+                        <span class="dot fl">·</span>计算机科学技术</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="col-xs-12 col-sm-6 col-md-4 ellipsis">
+                      <a href="https://www.zgbk.com/ecph/words?SiteID=1&ID=212399&Type=bkzyb&Preview=false"
+                        title="管理科学与工程">
+                        <span class="dot fl">·</span>管理科学与工程</a>
+                    </li>
+                  
+                
+              </ul>
+              <span class="clkbtn showall pointer">展开全部 +</span>
+            </div>
+          </div>
+        </div>
+      
+      <!-- 多义词  -->
+      <div class="main">
+        <div class="row clearfix">
+          <div class="part col-xs-12">
+            <a href="https://www.zgbk.com/" class="sub">首页</a>
+            <div class="hidden subjectList">[{"ID":42420,"Name":"文学"},{"ID":45060,"Name":"传播学"},{"ID":137723,"Name":"人际传播"},{"ID":137724,"Name":"〔基本概念〕"},{"ID":137726,"Name":"人际传播要素"},{"ID":137727,"Name":"人际传播中的自我与他人"}]</div>
+          </div>
+          <div class="title col-xs-12 clearfix">
+            <h2 class="fl">社交网络</h2>
+            <div class="enname fl">
+              
+                <span class="">/social network/</span>
+              
+            </div>
+            <div class="author-con fr " id="author-box"></div>
+            <script type="javascript/template" id="author-one">
+                {{#for(item in lists)}}
+                <div class="authorname authorname-{{{__INDEX__}}}">
+                    <div class="author">
+                        <span class="i-author">条目作者</span>
+                        <span class="n-author">{{item.name}}</span>
+                    </div>
+                    <div class="authorbox">
+                        <h3 class="name">{{item.name}}</h3>
+                        <div class="info" t-if="item.blurb">
+                            <strong>研究方向：</strong>{{{item.blurb}}}
+                        </div>
+                        <div class="info" t-if="item.writings">
+                            <strong>简介：</strong>{{{item.writings}}}
+                        </div>
+                    </div>
+                </div>
+                {{/for}}
+            </script>
+            <script type="javascript/template" id="author">
+                <div class="author author-noshadow">
+                    <span class="i-author">条目作者</span>                                    
+                    <span class="n-author mul-author">
+                        {{#for(item in lists)}}
+                            <span class="author-span">{{item.name}}</span>                                            
+                        {{/for}}
+                    </span>                                    
+                </div>     
+                <div class="author author-shadow">
+                    <span class="i-author">条目作者</span>                                    
+                    <span class="n-author">
+                        {{#for(item in lists)}}
+                            <span class="author-span au-show">
+                                {{item.name}}
+                                <div class="authorbox">
+                                    <h3 class="name">{{item.name}}</h3>
+                                    <div class="info" t-if="item.blurb">
+                                        <strong>研究方向：</strong>{{{item.blurb}}}
+                                    </div>
+                                    <div class="info" t-if="item.writings">
+                                        <strong>简介：</strong>{{{item.writings}}}
+                                    </div>
+                                </div>
+                            </span>                                            
+                        {{/for}}
+                    </span>                                    
+                </div>              
+            </script>
+          </div>
+          <div class="col-xs-12 m-collectionbox clearfix">
+            <div class="fl time">最后更新 <span>2025-10-14</span></div>
+            <div class="fl look">浏览 <span>422</span>次</div>
+          </div>
+          <div class="col-xs-12">
+            <div class="collectionbox clearfix ">
+              <div class="fl time">最后更新 <span>2025-10-14</span></div>
+              <div class="fl look">浏览 <span>422</span>次</div>
+              <div class="fr clearfix coll-right">
+                <span class="pointer fl enlarge"></span>
+                <span class="pointer fl narrow"></span>
+                <span class="line f-line fl"></span>
+                <span class="pointer fl share">
+                  
+
+<div class="sharebox hidden">
+  <div class="title">
+    <a class="bsSiteLink fl" target="_blank">分享到...</a>
+  </div>
+  <div class="content content1">
+    <a title="分享到QQ好友" class="bshare-qqim">
+      <img src="https://www.zgbk.com/images/detail/qqim.gif" />
+      <span>QQ好友</span>
+    </a>
+    <a title="分享到微信" class="bshare-weixinpc">
+      <img src="https://www.zgbk.com/images/detail/weixin.gif" />
+      <span>微信</span>
+    </a>
+    <a title="分享到QQ空间" class="bshare-qzone">
+      <img src="https://www.zgbk.com/images/detail/qzone.gif" />
+      <span>QQ空间</span>
+    </a>
+    <a title="分享到新浪微博" class="bshare-sinaminiblog">
+      <img src="https://www.zgbk.com/images/detail/sinaminiblog.gif" />
+      <span>新浪微博</span>
+    </a>
+  </div>
+  <div class="content content2">
+    <a title="分享到微信" class="bshare-weixin">
+      <img src="https://www.zgbk.com/images/detail/weixin.gif" />
+      <span>微信</span>
+    </a>
+    <a title="分享到QQ空间" class="bshare-qzone">
+      <img src="https://www.zgbk.com/images/detail/qzone.gif" />
+      <span>QQ空间</span>
+    </a>
+    <a title="分享到新浪微博" class="bshare-sinaminiblog">
+      <img src="https://www.zgbk.com/images/detail/sinaminiblog.gif" />
+      <span>新浪微博</span>
+    </a>
+  </div>
+</div>
+
+<style>
+  .bsBox {display: none;z-index: 100000001;font-size: 12px;background: #7f7f7f;padding: 6px !important;-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;}
+  .bsClose {overflow: hidden;cursor: pointer;position: absolute;z-index: 10000000;color: #666;font-weight: bold;font-family: Helvetica, Arial;font-size: 14px;line-height: 20px;}
+  .bsTop {color: #666;background: #f2f2f2;height: 24px;line-height: 24px;border-bottom: 1px solid #e8e8e8;}
+  .bsTop span {float: left;}
+  .bsFrameDiv,
+  #bsMorePanel {border: none;background: #fff;}
+  .bsReturn {float: right;*margin-right: 20px;margin-right: 36px;text-align: right;cursor: pointer;line-height: 24px;color: #666;opacity: 0.5;}
+  #bsReturn:hover {text-decoration: underline;opacity: 1;}
+  #qrcode_share img{margin: 21px;display: inline-block !important;}
+</style>
+
+<div id="bsWXBox" class="bsBox"
+  style="display: none; left: 50%; top: 50%; margin-left: -110px; margin-top: -122.5px; position: fixed; height: 245px; width: 220px;">
+  <div class="bsClose" style="top: 8px; right: 20px;">X</div>
+  <div class="bsTop" style="width: 220px;">
+    <span style="margin-left:15px;">分享到</span>
+    <span class="bsPlatName">&nbsp;-&nbsp;微信</span>
+  </div>
+  <div class="bsFrameDiv">
+    <div style="height: 220px; width: 220px; display: block;" id="qrcode_share"></div>
+  </div>
+</div>
+<script src="https://www.zgbk.com/js/qrcode.js"></script>
+
+                </span>
+                <span class="pointer fl fav"></span>
+                <span class="pointer fl give">
+                  <span>0</span>
+                </span>
+                <span class="line fl"></span>
+                <a onclick="feedback();" class="pointer opinion fl">
+                  <span>意见反馈</span>
+                </a>
+                <a onclick="quote();" class="pointer quotebtn fl">
+                  <span>一键引用</span>
+                </a>
+                <div class='hide' id='quotetext'></div>
+                <div class="quoteblock hide">
+                  <div class="content">
+                    <div class="icon"></div>
+                    <div class="overflow">
+                      <div class="name font14 fl">文献引用</div>
+                      <div class="pointer copybtn font12 fr" onclick="quotecopy()">复制</div>
+                    </div>
+                    <div class="text font14"></div>
+                    <div class="link font12"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+    
+      <div class="col-xs-12">
+        <div class="summary fontsize">
+          <p style="text-indent: 2em;">多个由一组社会行动者与另一组社会行动者之间点对点的二元互动关联所交互形成的社会结构，是社会行动者之间因为社会互动而形成的相对稳定的关系体系。又称社会网络。</p>
+        </div>
+        
+          <div class="word-left">
+            
+              
+                <div class="clearfix">
+                  
+                    <dl class="fl">
+                      <dt class="fontsize">英文名称</dt>
+                      <dd class="fontsize">social network</dd>
+                    </dl>
+                  
+              
+              
+        
+      
+              
+              
+                
+                  <dl class="fl">
+                    <dt class="fontsize">又称</dt>
+                    <dd class="fontsize">社会网络</dd>
+                  </dl>
+                
+          </div>
+        
+        
+      
+              
+                <div class="clearfix">
+                  
+                    <dl class="fl">
+                      <dt class="fontsize">所属学科</dt>
+                      <dd class="fontsize">传播学</dd>
+                    </dl>
+                  
+              
+              
+        
+          
+      </div>
+      
+      
+      
+  </div>
+  
+  </div>
+  
+
+  <div class="col-xs-12 padding_b">
+    <!-- 正文 -->
+    <div class="detail-con">
+      <div id="words-box"></div>
+      <script type="javascript/template" id="words">
+          {{#for(item in lists.contentinfo)}}
+              <div class="nav-title clearfix" t-if="item.Level == 1 && item.Name">
+                  <div class="fl nav-text" attr="{{{item.Name|deleteHtml}}}" name="1"  id="section1-{{{__INDEX__}}}">
+                      <h4 class="item-name">{{{item.Name|deleteHtml}}}</h4>
+                  </div>
+                  <span class="tit-line"></span>
+              </div>
+              <div class="nav-title-2 clearfix" t-if="item.Level == 2 && item.Name">
+                  <div class="fl nav-text" attr="{{{item.Name|deleteHtml}}}" name="2"  id="section1-{{{__INDEX__}}}">
+                      <h4>{{{item.Name|deleteHtml}}}</h4>
+                  </div>                                    
+              </div>
+              <div class="nav-title-3 clearfix" t-if="item.Level == 3 && item.Name">
+                  <div class="fl nav-text" attr="{{{item.Name|deleteHtml}}}" name="3"  id="section1-{{{__INDEX__}}}">
+                      <h4>{{{item.Name|deleteHtml}}}</h4>
+                  </div>                                    
+              </div>
+              <div class="nav-title-3 clearfix" t-if="item.Level == 4 && item.Name">
+                  <div class="fl nav-text" attr="{{{item.Name|deleteHtml}}}" name="4"  id="section1-{{{__INDEX__}}}">
+                      <h4>{{{item.Name|deleteHtml}}}</h4>
+                  </div>                                        
+              </div>
+              <div class="nav-title-3 clearfix" t-if="item.Level == 5 && item.Name">
+                  <div class="fl nav-text" attr="{{{item.Name|deleteHtml}}}" name="5"  id="section1-{{{__INDEX__}}}">
+                      <h4>{{{item.Name|deleteHtml}}}</h4>
+                  </div>                                    
+              </div>
+              <div class="art-content clearfix adv-content fontsize" t-if="item.Content">
+                  <p>{{{item.Content}}}</p>
+              </div>
+          {{/for}}
+          {{#for(item in lists.chornology)}}
+              <div class="yd-tit clearfix" t-if="item.Name">
+                  <div class="item-name fl nav-text" attr="{{item.Name}}" name="8" id="section2-{{{__INDEX__}}}">
+                      <h4>{{{item.Name|deleteHtml}}}</h4>
+                  </div>                                    
+                  <span class="r-yd yd-hide fr"></span>
+              </div>
+              <div class="yd-con chornology" t-if="item.chornology">
+                  {{#for(content in item.chornology)}}
+                  <div class="clearfix dsn-tit" t-if="content.Level == 2 && content.Name">
+                      <div class="fl nav-text" attr="{{content.Name}}" name="2" id="section2-{{{__INDEX__}}}">
+                          <h4>{{{content.Name|deleteHtml}}}</h4>
+                      </div>                                        
+                  </div>
+                  <div class="clearfix adv-content dsn-con fontsize" t-if="content.Content">
+                      <p>{{{content.Content}}}</p>
+                  </div>
+                  {{/for}}
+              </div>
+          {{/for}}
+          {{#for(item in lists.resources)}}
+              <div class="yd-tit clearfix slick-imgtit" t-if="item.Name">
+                  <div class="item-name fl nav-text" attr="{{item.Name}}" name="cttc" id="section3">
+                      <h4>{{{item.Name}}}</h4>
+                  </div> 
+                  <span class="r-yd yd-hide fr"></span>
+              </div>
+              <div class="clearfix swiper-container-img slick-img yd-con" t-if="item.resourcesList">
+                  <div class="swiper-wrapper">
+                      {{#for(content in item.resourcesList)}}
+                      <div class="fl swiper-slide fontsize" style="width:auto;max-width:150px;">
+                          <img src="{{content.Path}}" alt="" onerror="this.src='https://www.zgbk.com/images/default.jpg';this.onerror=null">
+                      </div>
+                      {{/for}}
+                  </div>
+                  <div class="btnpage">
+                      <div class="swiper-button-prev swiper-button-img-prev swiper-button-black"></div>
+                      <div class="swiper-pagination clearfix"></div>
+                      <div class="swiper-button-next swiper-button-img-next swiper-button-black"></div>
+                  </div>
+              </div>
+          {{/for}}
+          {{#for(item in lists.extendinfo)}}
+              <div class="clearfix yd-tit">
+                  <div class="fl nav-text" attr="{{item.Name}}" name="8" id="section4-{{{__INDEX__}}}">
+                      <h4>{{{item.Name|deleteHtml}}}</h4>
+                  </div>                                    
+                  <span class="r-yd yd-hide fr"></span>
+              </div>
+              <div class="yd-con">
+                  <ul t-if="item.Name != '扩展阅读'">
+                  {{#for(content in item.Content)}}
+                      <li class='dotlist clearfix fontsize'>{{{content}}}</li>
+                  {{/for}}
+                  </ul>
+                  <ul t-if="item.Name == '扩展阅读'">
+                    {{#for(content in item.Content)}}
+                        <li class='dotlist clearfix fontsize' t-if="__INDEX__ < 5 ">{{{content}}}</li>
+                    {{/for}}
+                    </ul>
+                  <!-- <ul t-if="item.Name == '参考文献'">
+                  {{#for(content in item.Content)}}
+                      <li class='ckwx clearfix fontsize'>[{{{__INDEX__+1}}}]. {{{content}}}</li>
+                  {{/for}}
+                  </ul> -->
+              </div>
+          {{/for}}
+        </script>
+    </div>
+
+    <div class="related">
+      <div class="clearfix yd-tit">
+        <h4 class="fl">精选发现</h4>
+        <span class="r-yd yd-hide fr"></span>
+      </div>
+      <div class="related-entry yd-con">
+        <ul class="clearfix" id='like-box'></ul>
+        <script type="javascript/template" id="like">
+            {{#for(item in lists)}}
+            <li class="fl col-xs-12 col-sm-4 col-md-3">
+                <a class="ellipsis" href="https://www.zgbk.com/ecph/words?SiteID={{item.siteid}}&ID={{item.id}}&Type={{item.wikitype}}" target='_blank' title='{{{item.name}}}'>{{{item.name}}}</a>
+            </li>
+            {{/for}}
+        </script>
+      </div>
+    </div>
+    <div class="recommend-box">
+      <div class="recom-title clearfix">
+        <h2 class="fl">相关条目</h2>
+      </div>
+      <div class="xgct-box">
+        <div class="swiper-container-xgct">
+          <div class="swiper-wrapper" id='related-box'></div>
+        </div>
+        <div class="swiper-button-prev swiper-button-xgct-prev swiper-button-black"></div>
+        <div class="swiper-button-next swiper-button-xgct-next swiper-button-black"></div>
+      </div>
+      <script type="javascript/template" id="relatedwords">
+          {{#for(item in lists)}}
+          <li class='swiper-slide clearfix' t-if="item.SubcDescriptionImg" style="max-width:330px;">
+              <a t-if="item.indexType=='wiki'" href="https://www.zgbk.com/ecph/words?SiteID={{item.SiteID}}&ID={{item.ID}}&Type=bkzyb&SubID={{item.SubjectID}}" class="fl l-imgbox">
+                  <img src="{{item.SubcDescriptionImg}}" alt="" onerror="this.src='https://www.zgbk.com/images/default.jpg';this.onerror=null">
+              </a>
+              <a t-if="item.indexType=='content'" href="https://www.zgbk.com/ecph/content/show?ID={{item.ID}}" class="fl l-imgbox">
+                  <img src="{{item.SubcDescriptionImg}}" alt="" onerror="this.src='https://www.zgbk.com/images/default.jpg';this.onerror=null">
+              </a>
+              <div class="fl r-recommend">
+                  <a class="type" href="https://www.zgbk.com/ecph/subject?SiteID={{item.SiteID}}&ID={{item.SubjectID}}">{{item.SubjectName}}</a>
+                  <div class="name ellipsis font18" title="{{{item.Name|deleteHtml}}}">
+                    <a t-if="item.indexType=='wiki'" href="https://www.zgbk.com/ecph/words?SiteID={{item.SiteID}}&ID={{item.ID}}&Type=bkzyb&SubID={{item.SubjectID}}">{{item.Name}}</a>
+                    <a t-if="item.indexType=='content'" href="https://www.zgbk.com/ecph/content/show?ID={{item.ID}}">{{item.Name}}</a>
+                  </div>
+                  <div class="eng ellipsis" title="{{{item.EnName|deleteHtml}}}"><a href="https://www.zgbk.com/ecph/words?SiteID={{item.SiteID}}&ID={{item.ID}}&Type=bkzyb&SubID={{item.SubjectID}}">{{item.EnName}}</a></div>
+              </div>
+          </li>
+          <li class='swiper-slide clearfix' t-if="!item.SubcDescriptionImg" style="max-width:150px;">
+              <div class="onlyfont">
+                  <a class="type" t-if="item.indexType=='wiki'" href="https://www.zgbk.com/ecph/subject?SiteID={{item.SiteID}}&ID={{item.SubjectID}}">{{item.SubjectName}}</a>
+                  <div class="name ellipsis font18" title="{{{item.Name|deleteHtml}}}">
+                    <a t-if="item.indexType=='wiki'" href="https://www.zgbk.com/ecph/words?SiteID={{item.SiteID}}&ID={{item.ID}}&Type=bkzyb&SubID={{item.SubjectID}}">{{item.Name}}</a>
+                    <a t-if="item.indexType=='content'" href="https://www.zgbk.com/ecph/content/show?ID={{item.ID}}">{{item.Name}}</a>
+                  </div>
+                  <div class="eng ellipsis" title="{{{item.EnName|deleteHtml}}}"><a href="https://www.zgbk.com/ecph/words?SiteID={{item.SiteID}}&ID={{item.ID}}&Type=bkzyb&SubID={{item.SubjectID}}">{{item.EnName}}</a></div>
+              </div>
+          </li>
+          {{/for}}
+      </script>
+    </div>
+    <div class="visit">
+      <div class="recom-title clearfix">
+        <h2 class="fl">阅读历史</h2>
+      </div>
+      <ul class="clearfix browse" id='browse-box'></ul>
+      <script type="javascript/template" id="browse">
+          {{#for(item in lists)}}
+          <li class="fl ellipsis">
+              <a href="https://www.zgbk.com/ecph/words?SiteID={{item.SiteID}}&ID={{item.ContentID}}&Type={{item.WikiType}}" target="_blank" title="{{{item.Name|deleteHtml}}}">{{{item.Name}}}</a>
+          </li>
+          {{/for}}
+      </script>
+    </div>
+
+    <!-- 正文 -->
+  </div>
+  </div>
+
+  </div>
+  </div>
+  </div><!-- left-red -->
+  <div class="wxshare hide">
+    <div class="step_1"></div>
+    <div class="step_2 hide"></div>
+  </div>
+  <div id="advbox" class="hidden">
+    <span id='apjs_11'></span><script>var zcmsad_params_keywords='社交网络';</script><script language='javascript' src='https://www.zgbk.com/upload/js/ctgg/11.js'></script>
+  </div>
+  <span class="hidden empty_app"></span>
+  <span class="applogin hidden"></span>
+  <span class="hidden wordSubname">人际传播中的自我与他人</span>
+  
+
+  <div class="footer_new">
+    <div class="row">
+      <div class="text-center nopadding logo">
+        <img src="https://www.zgbk.com/images/index_new/logo.png" alt="" style="width:270px;">
+      </div>
+      <ul class="bottomnav">
+        <!--<zp:sublibbasic alias='bkztb'>
+          <li><a href="${FrontAppContext}sublibrary?SiteID=${Site.ID}&ID=${Basic.ID}">专题板块</a></li>
+        </zp:sublibbasic>
+        <zp:sublibbasic alias='bkdzb'>
+          <li><a href="${FrontAppContext}sublibrary?SiteID=${Site.ID}&ID=${Basic.ID}">大众板块</a></li>
+        </zp:sublibbasic>-->
+        <!--<li><a href="${FrontAppContext}event?SiteID=${Site.ID}">大事记</a></li>-->
+        <li><a href="https://www.zgbk.com/ecph/editorial/board?SiteID=1">总编委会</a></li>
+        <li><a href="https://www.zgbk.com/ecph/editorial/subject?SiteID=1">学科编委会</a></li>
+        
+          <li><a href="https://www.zgbk.com/gywm/">关于我们</a></li>
+        
+        
+          <li><a href="https://www.zgbk.com/sbjs/">三版介绍</a></li>
+        
+        
+            <li><a href="https://www.zgbk.com/c/2025-11-02/112207.shtml">版权声明</a></li>
+        
+      </ul>
+      <div class="text font12 text-center">
+        版权所有 © 2025 中国大百科全书出版社 <br>
+        Copyrights © 2025 by Encyclopedia of China Publishing House.All Rights Reserved <br>
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP备13020690号-4</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank"
+          href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202008139"><img class="hidden"
+            src="https://www.zgbk.com/images/zgbk.png" style="max-width:16px;" />京公网安备 11010202008139号</a><br />
+            <a>网络出版服务许可证：(署)网出证(京)字第155号</a>
+      </div>
+    </div>
+  </div>
+  <a href="https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=109410568&sellerId=2023401822&pageId=431257274&pathInfo=shop/activity2&isShopDomain=true" target="_blank" class="dzsmbtn hide zsgmbtn pointer text-center"><span>纸书购买</span></a>
+  <div class="goTop text-center pointer hide"><img src="https://www.zgbk.com/images/index_new/gotop.png" alt=""></div>
+
+<script src="https://www.zgbk.com/v3/js/bootstrap.min.js"></script>
+<!-- <script src="${prefix("template/v3/js/slimscroll/jquery.slimscroll.min.js")}"></script> -->
+<!-- <script src="${prefix("template/v3/js/appear/jquery.appear.js")}"></script> -->
+<script src="https://www.zgbk.com/v3/js/hammer.min.js"></script>
+<!-- <script src="${prefix("template/v3/js/scroll/smoothscroll.js")}"></script> -->
+<script src="https://www.zgbk.com/v3/js/v3_common.js"></script>
+<script src="https://www.zgbk.com/v3/js/v3_site.js?v=1.1&amp;t=2"></script>
+
+
+<script>
+	function logined(name,realname){
+		if (name) {
+			Cookie.set("_ZMemberName",name,null,"/");
+			$(".member-span-login").addClass("hide");
+			$(".member-span-logined").removeClass("hide");
+			$("span.member-username").text(name);
+			// $("a.member-username").attr("href", frontAppContext + "member/info?SiteID=" + siteID);
+			$("a.member-username").attr("href", frontAppContext + "member/center?SiteID=" + siteID);
+            if(realname){
+                var rule = /^1[3-9][0-9]\d{4,11}$/;
+                if(rule.test(realname)){
+                    var realname = realname.replace(/^(\d{3})\d{4}(\d+)/,"$1****$2")
+                    $(".realName").text(realname);
+                }else{
+                    $(".realName").text(realname);       
+                }
+            }else{
+                var rule = /^1[3-9][0-9]\d{4,11}$/;
+                if(rule.test(name)){
+                    var name = name.replace(/^(\d{3})\d{4}(\d+)/,"$1****$2")
+                    $(".realName").text(name);
+                }else{
+                    $(".realName").text(name);       
+                }
+            }
+		} else {
+			var dologout=Cookie.get("_ZMemberName");
+			Cookie.remove("_ZMemberName","/");
+			Cookie.remove("_ZMemberStand","/");
+			$(".member-span-logined").addClass("hide");
+			$(".member-span-login").removeClass("hide");
+			localStorage.removeItem('quoteright')
+			// if(dologout){
+				$(document.body).append("<img height='0' width='0' style='overflow:hodden;    display: none;' src='" +frontAppContext + 'callback?action=logout' +"' >");
+			// }
+		}
+		var url = encodeURIComponent(window.location.href);
+		if(url.indexOf("Referer") > -1){
+			url = url.substring(url.indexOf("Referer") + 10);
+			url = decodeURIComponent(url);
+		}
+        //  暂时关闭注册功能
+        $(".member-register").attr("href", frontAppContext + "member/register?SiteID=" + siteID +"&Referer=" + url);
+      	// $(".member-register").attr("title", "网站暂不对外开放，注册功能暂时关闭");
+		$("a.member-username").attr("href", frontAppContext + "member/center?SiteID=" + siteID);
+		if (!name){
+			$(".alert-footer a.member-username").attr("href", frontAppContext + "member/login?SiteID=" + siteID + "&Referer=" + url);
+		}
+		$(".member-login").attr("href", frontAppContext + "member/login?SiteID=" + siteID + "&Referer=" + url);
+		$(".member-logout").attr("href", frontAppContext + "member/logout?SiteID=" + siteID + "&Referer=" + url);
+        $(".member-organ").attr("href", "https://www.zgbk.com/sso/branchListCustomer?SiteID=" + siteID + "&Referer=" + url);
+        $(".member-order").attr("href", frontAppContext + "branch/order?SiteID=" + siteID + "&Referer=" + url);
+        // $(".branch-username").attr("href", frontAppContext + "member/info?SiteID=" + siteID + "&Referer=" + url);
+
+		var url2 = encodeURIComponent('https://www.zgbk.com/sso/oauth/authorize?client_id=3c01452cc9f24356801ff9219ddca4a9&response_type=code&scope=user_info&redirect_uri=https%3A%2F%2Fwww.zgbk.com%2Fecph%2Fcallback' + encodeURIComponent('?Referer='+encodeURIComponent(window.location.href)));
+		// 切换机构用户
+		$(".branch-username").attr("href", "https://www.zgbk.com/sso/oauth/script?Referer=" + url2);
+		// 切换个人用户
+		$(".changeuser").attr("href", "https://www.zgbk.com/sso/oauth/changeperson?Referer=" + url2);
+	}
+	function getuser(id) {
+      $.ajax({
+          url: frontAppContext + 'api/memberCenter/'+id,
+          dataType: 'json',
+          async: false,
+          headers: { 'Accept': 'aplication/json', 'token': token },
+          data: {SiteID: siteID, MemberID: id},
+          type: 'GET',
+          success: function (data) {
+            if (data.data.identitytype!=='normal' && data.data.validflg){
+				// localStorage.setItem('quoteright', true)
+				if (data.data.remindflg){
+					let validendtime = data.data.validendtime ? data.data.validendtime.substr(0,10) : ''
+					$('.indexuserblock').addClass('showtime').find('.showtimebox').removeClass('hide').text(validendtime+'到期')
+				}
+			}
+          }
+      })
+  }
+	function onlineCallback(onlineInfo){
+		$.ajax({
+          url: frontAppContext + 'member/logined',
+          dataType: 'json',
+          async: false,
+          headers: { 'Accept': 'aplication/json', 'token': token },
+          data: {SiteID: siteID},
+          type: 'GET',
+          success: function (data) {
+            if (!data.Login){
+				Cookie.remove("_OnlineCallTime","/")
+			}
+			setOnlineInfo(onlineInfo)
+          }
+      })
+	}
+	function setOnlineInfo(onlineInfo){
+        if(onlineInfo.BranchAdmin){
+            $(".member-organ").removeClass("hide");
+        }
+		if(onlineInfo.Login){
+			$('.AccessType'+onlineInfo.AccessType).removeClass('hide')
+			if (onlineInfo.AccessType === 2){
+				logined(onlineInfo.AccessName,onlineInfo.RealName);
+				$('.userlimit').addClass('hide')
+				$('.coll-right .fav, .coll-right .give').addClass('hide')
+				localStorage.setItem('quoteright', true)
+			} else {
+				logined(onlineInfo.AccessName,onlineInfo.NickName);
+				if (onlineInfo.ChangeBranch){
+					$('.changeBranch').removeClass('hide')
+				}
+				if(location.href === 'https://www.zgbk.com/'){
+					getuser(onlineInfo.AccessID)
+				}
+			}
+			if(Cookie.get("_OnlineCallTime")==onlineInfo.Time){
+				localStorage.setItem('ONLINECHECK', 1)
+				return;
+			}
+			Cookie.set("_OnlineCallTime",onlineInfo.Time,null,"/");
+			loadJsonp("https://www.zgbk.com/sso/oauth/authorize?client_id=3c01452cc9f24356801ff9219ddca4a9&response_type=code&scope=user_info&redirect_uri=https%3A%2F%2Fwww.zgbk.com%2Fecph%2Fcallback", function(data) {
+				if (data.Success) {
+					try {
+						var redirectURL = data.RedirectURL;
+						$(document.body).append("<img height='0' width='0' style='overflow:hodden;    display: none;' src='" +redirectURL +"' onload='logined('\""+onlineInfo.AccessName+"\")' onerror='logined()'>");
+					} catch (e) {
+						console.warn("登录回调URL失败");
+					}
+				}else{
+					console.warn("登录授权失败");
+					logined();
+				}
+			});
+			let timer1 = setTimeout(function(){
+				localStorage.setItem('ONLINECHECK', 1)
+				clearTimeout(timer1)
+			},1000)
+		}else{
+			if (onlineInfo.BranchAutoLogin){
+				var url = encodeURIComponent(window.location.href);
+				if(url.indexOf("Referer") > -1){
+					url = url.substring(url.indexOf("Referer") + 10);
+					url = decodeURIComponent(url);
+				}
+				location.href = frontAppContext + "member/login?SiteID=" + siteID + "&Referer=" + url
+			}
+			localStorage.setItem('ONLINECHECK', 1)
+			logined();
+		}
+	}
+	$(function(){
+		var script = document.createElement('script');
+		script.src = 'https://www.zgbk.com/sso/online?ContentType=jsonp&callback=onlineCallback';
+		document.head.appendChild(script);
+	})
+	localStorage.setItem('ONLINECHECK', 0)
+</script>
+<!-- <script type="text/javascript" src="${(zasInfo.ZasURL)}online?ContentType=jsonp&callback=onlineCallback"></script> -->
+
+<!-- <link rel="stylesheet" href="${prefix("template/v3/css/font.css")}" type="text/css" /> -->
+
+<script>
+  $(function () {
+    var link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.type = "text/css";
+    if (window.location.href.indexOf('ecph_manager') != -1) {
+      link.href = "https://manager.zgbk.com:9000/ecph_manager/preview/dbk/v3/css/font.css";
+    } else {
+      link.href = siteUrl + "/v3/css/font.css";
+    }
+    document.getElementsByTagName("head")[0].appendChild(link);
+
+
+  })
+
+  if (location.href.indexOf('/member/')<0){
+    $('.zsgmbtn').removeClass('hide')
+  }
+</script>
+
+  
+
+<div class="feedbackbox">
+    <div class="feedback">
+        <div class="feedform">
+            <div class="clearfix tit">
+                <span>意见反馈</span>
+                <span class="closebtn fr"></span>
+            </div>
+            <form id="feedform">
+                <h3 class="feedname col-md-10 col-md-offset-1"></h3>
+                <div class="textcontent col-md-10 col-md-offset-1">
+                    <div class="iptbox">
+                        <input type="text" name="" id="topic" autocomplete="off" placeholder="标题，限制50字">
+                        <div class="hide titleerror font12"></div>
+                    </div>
+                    <div class="iptbox">
+                        <textarea name="" id="info" rows="10" autocomplete="off" placeholder="您的意见，限制200字"></textarea>
+                        <div class="hide infoerror font12"></div>
+                    </div>
+                </div>
+                <div class="verify col-md-10 col-md-offset-1 iptbox">
+                    <input id="AuthCode" class='verify-code col-sm-4 col-xs-6' autocomplete="off" type="text" placeholder="输入验证码">
+                    <div class='codepic col-sm-4 col-xs-6 pointer'>
+                        <img class="verify-code-img" src='' />
+                    </div>
+                    <div class="hide codeerror font12"></div>
+                </div>
+                <div class="button col-xs-12 font14"><div class="submitbtn text-center" onclick='submitinfo()'>提 交</div></div>
+            </form>
+        </div>
+        <div class="feedsuc">
+            <img src="https://www.zgbk.com/images/index_new/closebtn_w.png" alt="" class="fr pointer closebtn">
+            <div class="feedfont">
+                <h2>感谢您的反馈</h2>
+                <div>我们会尽快处理您的反馈！</div>
+                <!-- <div>您可以进入<a class="toUser" target="_blank">个人中心</a>的反馈栏目查看反馈详情。</div> -->
+                <div>谢谢！</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<span class="alert-box limitalert newalert hide" data-protected="true">
+  <div class="alert-content hasbg">
+    <div class="alert-header">
+      <button type="button" class="close close-btn" onclick="javascript:location.href='https://www.zgbk.com/'"><span
+          aria-hidden="true">×</span></button>
+    </div>
+    <div class="alert-body">
+      <p class="userlimit">试用结束，开通会员即可查阅全文</p>
+      <p class="AccessType2 hide ">对不起，您所在机构没有获得相应使用权限。若需获得更多服务，请与您所在机构的负责部门或本网站客服联系。</p>
+    </div>
+    <div class="alert-footer clearfix text-center">
+      <div class='certain pointer text-center cur AccessType2 hide'><a href="https://www.zgbk.com/" class="">回到首页</a></div>
+      <div class='certain pointer text-center userlimit' onclick="javascript:location.href='https://www.zgbk.com/'">再想想</div>
+      <div class="certain pointer text-center cur userlimit"><a class="member-username">开通会员</a></div>
+    </div>
+  </div>
+</span>
+<script src="https://www.zgbk.com/js/fingerprint.js"></script>
+<script src="https://www.zgbk.com/js/aes.js"></script>
+<script>
+  // 会员阅读量
+  var fingerprint = new Fingerprint().get()+''
+  // let aeskey = Cookie.get('EncryptKey') || ''
+  // if (aeskey){
+  //   fingerprint = cloudPasswordEncrypt(aeskey,aeskey,fingerprint)
+  // }
+  let checkflag = 0
+  function getlimit(id, siteId, type) {
+    let key = id + "-"+type+"-" + 'EncryptKey'
+    let aeskey = Cookie.get(key) || ''
+    if (aeskey){
+      fingerprint = cloudPasswordEncrypt(aeskey,aeskey,fingerprint)
+    }
+    let timer = setInterval(function(){
+      checkflag++
+      let onlinecheck = localStorage.getItem('ONLINECHECK')
+      if (onlinecheck === '1' || checkflag>50){
+        clearInterval(timer)
+        $.ajax({
+          url: frontAppContext + 'api/viewPermit',
+          dataType: 'json',
+          async: true,
+          headers: { Accept: 'aplication/json', token: token },
+          data: { ResourceID: id, SiteID: siteId, ResourceType: type, BrowserFinger: fingerprint },
+          type: 'POST',
+          success: function (data) {
+            if (data.status === 1) {
+              if (!data.viewpermit){
+                $('.limitalert').removeClass('hide')
+                setTimeout(function(){
+                   $('.limitalert').css('margin','0')
+                },500)
+              }
+            }
+            sendread(id, siteId, 'Content')
+          }
+        })
+      }
+    }, 100)
+}
+function sendread(id, siteId, type) {
+  // $.ajax({
+  //   url: frontAppContext + 'api/memberReadCache',
+  //   dataType: 'json',
+  //   async: true,
+  //   headers: { Accept: 'aplication/json', token: token },
+  //   data: { ResourceID: id, SiteID: siteId, ResourceType: type, BrowserFinger: fingerprint },
+  //   type: 'POST',
+  //   // success: function (data) {
+  //   //  console.log(data)
+  //   // }
+  // })
+  
+}
+// 禁止控制台删除弹窗
+let alertcss = {
+  display: 'block',
+  position: 'fixed',
+  width: '100%',
+  height: '100%',
+  background: 'rgba(0, 0, 0, 0.5)',
+  zIndex: '9999',
+  top: '0px',
+  left: '0px',
+  backdropFilter: 'blur(8px)'
+}
+$('.limitalert').css(alertcss)
+var observer = new MutationObserver(function (mutations) {
+  mutations.forEach(function (mutation) {
+    var parent = mutation.target;
+    if (mutation.type === 'attributes'&&parent.className.includes('limitalert')) {
+      if (mutation.attributeName === 'style'){
+        let currentstyle = parent.style
+        for (let i in alertcss){
+          if (currentstyle[i]!==alertcss[i]){
+            console.log("元素样式发生变化:", i, currentstyle[i], alertcss[i])
+            parent.style[i] = alertcss[i]
+          }
+        }
+      }
+      if (mutation.attributeName === 'class' && parent.className.includes('hide')){
+        console.log("元素class发生变化:", parent.className)
+        parent.className = 'alert-box limitalert newalert'
+      }
+    }
+    mutation.removedNodes.forEach(function (node) {
+      if ($(node).closest('[data-protected="true"]').length > 0 || $(parent).closest('[data-protected="true"]').length > 0) {
+        parent.appendChild(node)
+      }
+    });
+  });
+});
+observer.observe(document.body, {
+  childList: true,
+  subtree: true,
+  attributes: true,
+  attributeFilter: ['style', 'class']
+})
+</script>
+
+
+<script>
+    // var userhref = $(".userbox .member-username").attr("href");
+    var userhref = frontAppContext + "member/feedback?SiteID=" + siteID;
+    $(".toUser").attr("href",userhref);
+
+    $(".closebtn").click(function(){
+        $(".feedbackbox").hide();
+        $(".feedform").show();
+        $(".feedsuc").hide();
+        $('.iptbox .verify-code-img').click()
+        $('#feedform')[0].reset()
+        $('.iptbox div[class*="error"]').addClass('hide')
+    })
+
+    function submitinfo() {
+        var dc = Form.getData("feedform");
+        dc.wordID = wordID;
+        dc.Type = wordType;
+        dc.url = document.referrer;
+        $('.textcontent input').focus()
+        var submitflag = true;
+        if (!dc.topic) {
+            $(".titleerror").removeClass('hide').text("标题不能为空");
+            return
+        } else {
+            if (!dc.info) {
+                $(".infoerror").removeClass('hide').text("反馈意见不能为空");
+                return
+            } else {
+                if (!dc.AuthCode) {
+                    $(".codeerror").removeClass('hide').text("验证码不能为空");
+                    return
+                } else {
+                    if ($(".titleerror").hasClass('hide') && $(".infoerror").hasClass('hide') && $(".codeerror").hasClass('hide')) {
+                        Server.sendRequest("Login.verifyCodeCheck", {
+                            "VerifyCode": dc.AuthCode
+                        }, function (response) {
+                            if (response.Flag) {
+                                $.ajax({
+                                    url: frontAppContext + 'api/feedback',
+                                    dataType: 'json',
+                                    async: true,
+                                    headers: { 'Accept': 'aplication/json', 'token': token },
+                                    data: dc,
+                                    type: 'POST',
+                                    success: function (data) {
+                                        if (data.status == 1) {
+                                            $(".feedsuc").show();
+                                            $(".feedform").hide();
+                                            $("input").val("");
+                                            $("textarea").val("");
+                                        } else {
+                                            myAlert(dara.message)
+                                            $('.iptbox .verify-code-img').click()
+                                            $('#AuthCode').val('')
+                                        }
+                                    }
+                                })
+                            }else{
+                                $(".codeerror").removeClass('hide').text("验证码输入错误");
+                                $('.iptbox .verify-code-img').click()
+                                $('#AuthCode').val('')
+                            }
+                        })
+                    } else {
+                        myAlert("还有未正确填写的项，请参照提示修改！")
+                    }
+                }
+            }
+        }
+        
+    }
+    $('.textcontent input').keyup(function () {
+        var txtLen = trim($(this).val()).length;
+        var wordNum;
+        if (txtLen == 0) {
+            wordNum = "标题不能为空";
+            $(".titleerror").removeClass('hide').text(wordNum);
+        } else if (txtLen > 0 && txtLen <= 50) {
+            if (!$(".titleerror").hasClass('hide')) {
+                $(".titleerror").addClass('hide')
+            }
+        } else {
+            wordNum = "您提交的标题已超过50字，请删减";
+            $(".titleerror").removeClass('hide').text(wordNum);
+        }
+    });
+    $('.textcontent textarea').keyup(function () {
+        var txtLen = trim($(this).val().replace(/[\r\n]/g,"")).length;
+        var wordNum;
+        if (txtLen == 0) {
+            wordNum = "反馈意见不能为空";
+            $(".infoerror").removeClass('hide').text(wordNum);
+        } else if (txtLen > 0 && txtLen <= 200) {
+            if (!$(".infoerror").hasClass('hide')) {
+                $(".infoerror").addClass('hide')
+            }
+        } else {
+            wordNum = "您提交的反馈意见已超过200字，请删减";
+            $(".infoerror").removeClass('hide').text(wordNum);
+        }
+    });
+    $('#AuthCode').keyup(function () {
+        var txtLen = trim($(this).val().replace(/[\r\n]/g,"")).length;
+        var wordNum;
+        if (txtLen == 0) {
+            wordNum = "验证码不能为空";
+            $(".codeerror").removeClass('hide').text(wordNum);
+        } else if (txtLen > 0 && txtLen <= 6) {
+            if (!$(".codeerror").hasClass('hide')) {
+                $(".codeerror").addClass('hide')
+            }
+        } else {
+            wordNum = "验证码输入不正确";
+            $(".codeerror").removeClass('hide').text(wordNum);
+        }
+    });
+    // 去掉开头结尾空格
+    function trim(str) {
+        return str.replace(/(^\s*)|(\s*$)/g, "");
+    }
+</script>
+
+  <link type="text/css" rel="stylesheet" href="https://www.zgbk.com/css/viewer.css?v=1" />
+  <script src="https://www.zgbk.com/js/viewer.js?v=1"></script>
+  <script src="https://www.zgbk.com/js/swiper-4.1.6.min.js"></script>
+  <script type="text/javascript">
+    var wordSite = '1';
+    var wordID = '215013';
+    var wordName = '社交网络';
+    var wordSubid = '137727';
+    var wordInnercode = '000003000005000003000015000001000002000001';
+    var wordSubname = $(".wordSubname").text();
+    var requestPreview = 'false';
+    var subType = 'bkzyb';
+	var subTypeCode = '000003000005000003';
+    var fix_src = 'https://www.zgbk.com/';
+    var wordType = 'wiki';
+    var sitelink = 'https://www.zgbk.com/'
+    var _typecode = wordInnercode.substring(0, 6);
+    var typelink = 'subject';
+
+    if (_typecode == '000004') {
+      subType = 'bkztb';
+      typelink = 'special';
+    } else if (_typecode == '000005') {
+      subType = 'bkdzb';
+      typelink = 'public';
+    } else {
+      subType = 'bkzyb';
+      typelink = 'subject';
+    }
+
+    $(function () {
+      // app联调
+      var jsonStr = '{"siteid":"1","id":"215013","alias":"bkzyb","subid":"137727","type":"words"}';
+      var emptyapp = $(".empty_app").text();
+      function getMessage() {
+        return jsonStr;
+      }
+      function getLemmaValues() {
+        window.NativeAndJs.getLemmaValues(jsonStr)
+      }
+
+      wordsList('215013', '1', 'false');
+      authorList('215013');
+      relatedwords('000003000005000003000015000001000002000001', '215013');
+      recommends();
+      browse();
+
+      // 条目分类
+      var subjectText = $(".subjectList").text();
+      var html = ""
+      if (subjectText) {
+        var subjectList = JSON.parse(subjectText);
+        for (var k in subjectList) {
+          if (k < subjectList.length) {
+            if (subjectList[k].Name != '国家级非物质文化遗产') {
+              html += '<span> . </span><a href= "' + frontAppContext + typelink + '?SiteID=' + wordSite + '&ID=' + subjectList[k].ID + '">' + subjectList[k].Name + '</a>';
+            }
+          }
+        }
+      } else {
+        html += '<span> . </span><a href="' + frontAppContext + typelink + '?SiteID=' + wordSite + '&ID=' + wordSubid + '">' + wordSubname + '</a>'
+      }
+      $(".part").append(html)
+
+      $(".detail-logo img").click(function () {
+        var resource = '';
+        var fix_src = 'https://www.zgbk.com/';
+        var $images = $('.detail-logo');
+        var alt = $(this).attr("title");
+        $(this).attr("alt", alt);
+        openSea(resource,$images,alt);
+        
+        // 水印
+        changeImg(this)
+        // 水印
+
+      })
+
+    })
+    $('video').bind("contextmenu", function () { return false; });
+    var summary = $(".summary").text();
+    summary = $.trim(summary);
+    cutstr(summary, '80');
+    var sharetitle = "社交网络";
+    if(""){
+      var shareimgUrl = "";
+    }else{
+      var shareimgUrl = siteUrl + "/images/index_new/bottomicon.png";
+    }
+    var sharedesc = str_cut;
+
+    // bShare.addEntry({
+    //   title: "社交网络",
+    //   // url: "分享的链接，默认为当前页面URL",
+    //   summary: str_cut,
+    //   // pic: "指定分享的图片的链接，目前支持新浪微博，QQ空间，搜狐微博，网易微博，人人网， 嘀咕，腾讯微博和做啥。"
+    // });
+
+  </script>
+  <script src="https://www.zgbk.com/js/word_new.js?v=1.11.11.1"></script>
+  <script src="https://www.zgbk.com/v3/js/share.js"></script>
+	<input type="hidden" value="137727">
+
+<script src="https://www.zgbk.com/ecph/stat/front/stat.js" type="text/javascript"></script>
+<script>
+if(window._zcms_stat)_zcms_stat("SiteID=1&CatalogInnerCode=000003000005000003000015000001000002000001&Type=Subject&LeafID=215013&Dest=https://www.zgbk.com/ecph/stat/dealer");
+</script>
+
+<!-- App=ECPH(大百科发布与运营平台) 2.5.28290,CostTime=21,PublishDate=2025-12-23 03:27:52 -->
+
+  
+
+<style>
+.word_video_group_a{display: none !important;}
+.groupbox {pointer-events: all;padding-top: 10px;}
+.groupbox .g-videobox{width: 100%;height: 470px;background: #eee;}
+.groupbox .g-videobox .g-videobox{width: calc(100% - 200px);}
+.groupbox .g-videobox video{width: 100%;height: 100% !important; object-fit: cover;}
+.groupbox .rightbox{width: 190px;padding: 15px 0px 15px 15px;height: 470px;overflow: hidden;}
+.groupbox .thumb .vimgbox{width: 160px;height: 90px;margin-bottom: 15px;border: 1px solid #eee;}
+.groupbox .thumb .active{border: 1px solid #cd2022;}
+.groupbox .thumb .vimgbox .gimg{width: 100%;height: 100% !important;object-fit: cover;}
+.groupbox .videofont{color: #666666;line-height: 22px;position: relative; background-color: #ffffff;padding: 12px 10px;border-bottom: 1px solid #cd2022;display: block;font-size: 14px;text-align: center;text-indent: 0px;clear:both;}
+.groupbox .smallfont{color: #666666;line-height: 22px;position: relative;background-color: #ffffff;padding: 12px 10px 0px 12px;display: block;font-size: 12px;text-align: center;text-indent: 0px;clear: both;}
+
+.thumb{width: 190px;padding: 15px 0px 15px 15px;height: 470px;overflow: hidden;}}
+
+@media only screen and (max-width: 767px) {
+  .groupbox .g-videobox{height: auto;}
+  .groupbox .g-videobox .g-videobox{width: 100%;float: none;}
+  .groupbox .rightbox{width: 100%;height: 115px;float: none;}
+  .groupbox .rightbox .vimgbox{float: left;margin-right: 15px;}
+  
+}
+@media only screen and (max-width: 479px) {
+  .groupbox .g-videobox video{height: 200px;}
+}
+</style>
+
+<!-- <div class="groupbox ">
+
+  <div class="g-videobox clearfix">
+    <div class="g-videobox fl">
+      <video id="my-video" class="video-js vjs-big-play-centered vjs-big-play-button" controls preload="none"
+        width="700" height="470">
+        <source type="video/mp4">
+      </video>
+    </div>
+    <div class="thumb rightbox fr clearfix">
+      <div id="thumbbox"></div>
+    </div>    
+
+  </div>
+  <div class="smallfont"></div>
+  <div class="videofont"></div>
+
+</div> -->
+
+<!-- <div class="thumb rightbox fr clearfix"><div id="thumbbox"></div> -->
+
+<script type="javascript/template" id="videoimg">
+  {{#for(item in lists)}}
+  <div class="vimgbox {{{__INDEX__ == 0 ? 'active' : ''}}}" attr="{{item.Path}}" sfont="{{item.Title}}">
+    <img class="gimg" src="{{item.LogoFile}}"/>
+  </div>
+  {{/for}}
+</script>
+
+<script>
+  function getVideo(GroupID) {
+    $.ajax({
+      url: frontAppContext + 'videosInfo',
+      dataType: 'json',
+      async: true,
+      headers: { 'Accept': 'aplication/json', 'token': token },
+      data: { SiteID: wordSite, "ID": wordID, "GroupID": GroupID, "Preview": requestPreview },
+      type: 'get',
+      success: function (response) {
+        if (response.status == 1) {
+          if (response.videos.total > 0) {
+            var bigHtml = '<div class="groupbox "><div class="g-videobox clearfix"><div class="g-videobox fl">'
+                        + '<video id="my-video" class="video-js vjs-big-play-centered vjs-big-play-button" controls preload="none" width="700" height="470"><source type="video/mp4"></video>'
+                        + '</div><div class="thumb rightbox fr clearfix"><div id="thumbbox"></div></div></div>'
+                        + '<div class=" smallfont"></div><div class="videofont"></div></div>'
+            $(".art-content .word_video_group_a").after(bigHtml);
+            // $(".art-content .word_video_group_a").remove()
+
+            var imgHtml = '';
+            var extend = response.videos.dataList;
+            var myvideo = document.getElementById("my-video")
+            if(myvideo){
+              myvideo.src = response.videos.dataList[0].Path;
+              myvideo.poster = response.videos.dataList[0].LogoFile;  
+            }
+           
+            $(".groupbox .videofont").text(response.videos.wordsInfo.Title)
+            $(".groupbox .smallfont").text(response.videos.dataList[0].Title)
+
+            var recommend = new Pat({
+              el: 'thumbbox',
+              data: {
+                lists: response.videos.dataList,
+              },
+              template: document.getElementById('videoimg').innerHTML
+            });
+
+            // var dataList = response.videos.dataList;
+            // dataList.each(function(data){
+            //   imgHtml += ' <div class="vimgbox " attr="'+ data.Path +'" sfont="'+ data.Title +'"><img src="'+ data.LogoFile +'"/></div>'
+            // })
+            // $(".groupbox .thumb").html(imgHtml)
+
+            $(".art-content .thumb").mCustomScrollbar({ mouseWheel: { preventDefault: true } });
+
+            $(".groupbox .rightbox .vimgbox").click(function(){
+              $(this).addClass("active").siblings().removeClass("active");
+              var videoPath = $(this).attr("attr");
+              var videoName = $(this).attr("sfont");
+              var videoLogo = $(this).find("img").attr("src");           
+              myvideo.src = videoPath;
+              myvideo.poster = videoLogo;
+              $(".groupbox .smallfont").text(videoName)
+            })
+
+          }
+        }
+
+      }
+    })
+  }
+
+  $(function(){
+    handleWordVideo(200 , 1);
+  })
+  function handleWordVideo(time,count){
+    setTimeout(function(){
+      if($(".word_video_group_a")){
+        var group_href = $(".word_video_group_a").attr("href");
+        if(group_href){
+          var group_index = group_href.lastIndexOf("&GroupID=") + 9;
+          if(group_href.indexOf("Preview=true") > -1){
+            var type_index = group_href.lastIndexOf("&Preview=true");
+          }else{
+            var type_index = group_href.lastIndexOf("&Type=bkzyb");
+          }
+          var GroupID = group_href.substr(group_index,type_index-group_index);
+          // getVideo('')
+          getVideo(GroupID)
+          return;
+        } else {
+          if(count++ > 3){
+            return;
+          }
+          handleWordVideo(time * count * 2,count);
+        }
+      }
+    },time)
+  }
+</script>
+</body>
+
+</html>

@@ -119,38 +119,38 @@
           + 相关
           + 热评
 
-          + 网易云村图片下载方法
-          + 幻灯片可插入的多媒体类型
-          + 容盛兴达多媒体安装指南
-          + 归龙白鹭潮品精选攻略
-          + 东平DC3000分割器使用指南
-          + 东平DC3000分割器使用指南
-          + 东平DC3000分割器使用指南
-          + PPT底纹衬托图片制作技巧
-          + ATER 4K分割器遥控漫游
-          + 猎德村：广州城中村的变迁
+          + Python复数变量使用技巧
+          + Python complex()函数用法解析
+          + Mac QuickTime摄像头无法使用？
+          + Mac用QuickTime录音技巧
+          + Mac录屏教程：QuickTime使用指南
+          + 用QuickTime录制Mac操作视频
+          + QuickTime录屏iPhone教程
+          + COMPLEX函数构建复数技巧
+          + Python中complex函数用法解析
+          + Excel中COMPLEX函数使用方法
 
-          + ToDesk远程桌面使用指南
-          + Swwp自动化安装SolidWorks
-          + Edge开启Flash Player方法
-          + PotPlayer不支持H265解码解决
-          + U盘/SD卡格式化后仍有占用空间？这样解决！
-          + 新装Windows7系统如何更新补丁？
-          + INDD文件用什么软件打开_支持INDD格式的查看器推荐
-          + DirectX9.0安装详细教程
-          + 网易云村图片下载方法
-          + 幻灯片可插入的多媒体类型
+          + Win10一键Ghost安装教程
+          + Thermo-Calc试用版下载指南
+          + NT内核占用CPU过高
+          + AMD显卡亮度调节方法
+          + 如何卸载Windows Media Player
+          + 百度翻译网页使用指南
+          + 如何检测GPU显卡参数性能与显存厂家
+          + 原神1.6版本兑换码汇总
+          + Python复数变量使用技巧
+          + Python complex()函数用法解析
 
-          + 一加 Ace 6T领衔！这三款中端性能机，闭眼入都不踩雷
-          + 小屏旗舰完全体！vivo S50 Pro mini体验拉满，实力超强
-          + vivo S50影像实测 重塑Live创作方式
-          + vivo S50系列一图看懂 一大一小都Super
-          + vivo S50能拍也能打！同价位无短板，年底换机可考虑
-          + 长焦Live神器，vivo S50系列正式发布，售价 2999 元起
-          + 拍下每个活力时刻，vivo S50核心卖点速览
-          + vivo S50系列价格正式公布：2999元起售
-          + 主打单手轻便操作 vivo S50 Pro mini带来小屏新选择
-          + vivo S50 Pro mini发布：主打轻薄长续航 影像配置全面升级
+          + 一加 Ace 6T领衔，2025年超高帧游戏性能机推荐
+          + 性能旗舰赛道再添猛将！荣耀WIN官宣12月26日发布
+          + 2025 科技圈回顾-联发科发布旗舰车芯：用“性能怪兽”推动AI座舱落地
+          + 长城欧拉5纯电SUV上市，开启品牌新征程
+          + 长城欧拉5正式上市，限时换新价9.18万元起
+          + 出厂搭载鸿蒙6，华为Pura 80系列“完全体”有多好用？
+          + iQOO Neo11获奖背后：把游戏体验做成通用能力的轻旗舰
+          + 为什么该升级？华为Mate 70 Air的鸿蒙 6带来了这些惊艳体验
+          + 用实力打破刻板印象 华为Mate X7重塑折叠屏可靠标杆
+          + 华为Mate X7今日开启预售：麒麟9030+红枫影像，11月25日发布
 
 周热门办公软件排行榜
 
@@ -159,15 +159,16 @@
 
           + 1 Microsoft Office 2021 小型企业版 Microsoft Office 2021 小型企业版
             ￥1850
-          + 2 金山 WPS Office 2019（PC版） 金山 WPS Office 2019（PC版） 价格面议
+          + 2 苹果 Microsoft Office for Mac 2011 家庭与学生版-家庭装 苹果 Microsoft
+            Office for Mac 2011 家庭与学生版-家庭装 ￥498
           + 3 Adobe Acrobat 7.0(标准版-英文) Adobe Acrobat 7.0(标准版-英文) ￥1667
-          + 4Microsoft office小型企业版2019￥1800
-          + 5Apple 适用于 Mac 的 Parallels Desktop 10（简体中文版）￥398
-          + 6苹果 Microsoft Office for Mac 2011 家庭与学生版-家庭装￥498
+          + 4金山 WPS Office 2019（PC版）价格面议
+          + 5Microsoft office小型企业版2019￥1800
+          + 6Apple 适用于 Mac 的 Parallels Desktop 10（简体中文版）￥398
           + 7Microsoft Office LTSC 2024 专业增强版￥5900
-          + 8Microsoft Office 专业增强版 2010￥4200
-          + 9Microsoft Office LTSC 2024 标准版 ￥4350
-          + 10Microsoft Office 家庭版 2024￥650
+          + 8Microsoft Office LTSC 2024 标准版 ￥4350
+          + 9Microsoft Office 家庭版 2024￥650
+          + 10Microsoft office小型企业版2013￥3349
 
           + 1 Microsoft Office LTSC 2024 专业增强版 Microsoft Office LTSC 2024
             专业增强版 5900.00
