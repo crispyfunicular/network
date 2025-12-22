@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <meta charset="utf-8">
+    <title>Ferroviària</title>
+    <meta name="description" content="L'app ferroviària de Catalunya. Avisos i horaris en temps real de Metro, FGC, Rodalies i TRAM amb algoritmes propis per saber l'estat del servei amb fiabilitat.">
+    <meta property="og:title" content="Ferroviària">
+    <meta property="og:url" content="https://ferroviaria.cat">
+    <meta property="og:type" content="">
+    <meta property="og:description" content="L'app ferroviària de Catalunya. Avisos i horaris en temps real de Metro, FGC, Rodalies i TRAM amb algoritmes propis per saber l'estat del servei amb fiabilitat.">
+    <meta property="og:site_name" content="ferroviaria.cat">
+    <meta property="og:image" content="https://ferroviaria.cat/img/thumbnails/default.png">
+    <meta property="og:image:secure_url" content="https://ferroviaria.cat/img/thumbnails/default.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ferroviariacat">
+    <meta name="twitter:title" content="Ferroviària">
+    <meta name="twitter:description" content="L'app ferroviària de Catalunya. Avisos i horaris en temps real de Metro, FGC, Rodalies i TRAM amb algoritmes propis per saber l'estat del servei amb fiabilitat.">
+    <meta name="twitter:image" content="https://ferroviaria.cat/img/thumbnails/default.png">
+    <link rel="stylesheet" href="/css/desktop.css" type="text/css">
+    <link rel="icon" href="/img/icon/icon192.png">
+    
+    <meta name="google-site-verification" content="L-I2Ettgd3hj3F8MQVHBL5AO5t8XsxW--qUSu4pF44M">
+  </head>
+
+  <body>
+    <header aria-label="Ferroviària punt cat">
+      <div id="logo" onclick="document.querySelector('main').scrollTo({top:0,behavior:'smooth'});"></div>
+    </header>
+    <main>
+      <section>
+        <div>
+          <h1>L'app ferroviària<br>de Catalunya</h1>
+          <h2>Descarrega-la entrant<br>amb el teu telèfon<br>a <b>Ferroviària.cat</b></h2>
+          <div id="qr"></div>
+          <p onclick="document.querySelectorAll('section')[1].scrollIntoView({ behavior: 'smooth', block: 'start' })">O baixa per saber-ne més</p>
+        </div>
+      </section>
+      <section>
+        <div>
+          <h1>Tot el metro, FGC, Rodalies i TRAM</h1>
+          <h2>Ferroviària mostra incidències i horaris en temps real amb una anàlisi contínua de la xarxa</h2>
+        </div>
+      </section>
+      <section>
+        <div>
+          <h1>Més i millor informació</h1>
+          <h2>Ferroviària fa servir dades i algoritmes propis per oferir tot de forma fiable, visual i intuïtiva</h2>
+        </div>
+      </section>
+      <section>
+        <div>
+          <h1>Tots els trens i tramvies en directe</h1>
+          <h2>Consulta quan arribaràs a la teva destinació i comparteix el viatge amb qui vulguis</h2>
+        </div>
+      </section>
+      <section>
+        <div>
+          <h1>Ets ferrofriki?<br>Ets Ferroviària</h1>
+          <h2>Busca material rodant i col·labora amb la Comunitat de Ferroviària aportant els codis d'UT dels metros en circulació, i ara també de Rodalies</h2>
+        </div>
+      </section>
+      <footer>
+        <p>Desenvolupada per Alex Molina. Tots els drets reservats.</p>
+        <a href="https://x.com/ferroviariacat">@ferroviariacat</a>
+        <a onclick="toggleDialogDesktop('contact')" style="cursor:pointer">Contacte</a>
+      </footer>
+    </main>
+    
+    <!-- Contacte -->
+        <script src="https://www.google.com/recaptcha/api.js?render=6LdXDF8qAAAAABGeD5sxWOHwV_E1fSIZ_0wAPyaD"></script>
+    <script>
+      // Capturar l'esdeveniment de enrere si cal
+      window.onpopstate = (event) => {
+        // Si hi ha un quadre de diàleg obert, el tanquem
+        if (document.querySelector("[role=dialog]:not([aria-hidden=true])")) {
+          const allDialogs = document.querySelectorAll("[role=dialog]:not([aria-hidden=true])");
+          return toggleDialogDesktop(allDialogs[allDialogs.length-1].getAttribute("name"), false);
+        }
+      }
+
+      // Mostrar/ocultar quadre de diàleg existent
+      function toggleDialogDesktop(selector, pushHistory=true) {
+        // Si tenim selector
+        if (typeof selector == "string") {
+          var dialog = document.querySelector(`[role=dialog][name=${selector}]`);
+        }
+        // En cas contrari, seleccionem el dialog més proper (incloent el propi element que ha iniciat la funció)
+        else var dialog = selector.closest(`[role=dialog]`);
+        // Forcem que el contingut es vegi amb scroll a dalt
+        if (dialog.querySelector(".content")) dialog.querySelector(".content").scroll(0,0);
+        // Si el quadre de diàleg està tancat
+        if (dialog.ariaHidden == "true") {
+          // L'obrim
+          dialog.ariaHidden = "false";
+          // Fem esdeveniment pushState
+          if (pushHistory) history.pushState({querySelector: `[role=dialog][name=${dialog.getAttribute("name")}]`}, "", null);
+        }
+        // En cas contrari el tanquem
+        else {
+          // Si és necessari tornar enrere per tancar-lo, ho gestionem
+          if (pushHistory) return history.go(-1);
+          // Si no cal, l'ocultem visualment
+          dialog.ariaHidden = "true";
+        }
+      }
+      class DialogError extends Error {
+        constructor(message, suggestion) {
+          super(message); // Crida al constructor de la classe pare (Error)
+          this.suggestion = suggestion; // Afegim la propietat addicional "suggestion"
+        }
+      }
+      // Formularis amb resposta JSON
+      async function sendFormDesktop(url, event) {
+        // Evitem que s'enviï el formulari
+        event.preventDefault();
+
+        // Obtenim el formulari associat
+        const form = event.target;
+
+        // Fem recaptcha
+        grecaptcha.ready(function() {
+          grecaptcha.execute("6LdXDF8qAAAAABGeD5sxWOHwV_E1fSIZ_0wAPyaD", {action: "submit"}).then(function(token) {
+            let payload = {};
+            // Per cada element que tingui "name"
+            for (let element of form.elements) {
+              if (!element.name) continue;
+              // Si l'element no és un checkbox, n'obtenim el value. En cas contrari, n'obtenim el checked.
+              payload[element.name] = element.type != "checkbox" ? element.value : element.checked;
+            }
+            // Afegim el recaptcha
+            payload["r"] = token;
+
+            // Obtenim el nom del formulari (accedir directament amb .name no funciona perquè els div nativament no tenen atribut name)
+            const formName = form.closest("[role=dialog]").getAttribute("name");
+            
+            // Desactivem el botó
+            const button = event.submitter;
+            button.style.width = `${button.offsetWidth}px`;
+            button.setAttribute("disabled","");
+            let buttonValue = button.value;
+            button.value = "▪▪▪";
+
+            // Enviem dades POST
+            fetch(url, {method: "POST", body: new URLSearchParams(payload)})
+            .then(response => {
+              if (!response.ok) {
+                console.error(`Error amb la petició: ${response.status}`);
+                throw new DialogError(`No s'ha pogut connectar amb el servidor`, `Revisa que tens connexió a internet i torna-ho a provar`);
+              }
+              return response.json();
+            })
+            .then(response => {
+              if (response.status == "success") {
+                // Tanquem el quadre de diàleg del formulari en qüestió sense afectar l'historial, perquè la posició actual de l'historial serà aprofitada pel quadre de diàleg
+                // NO. Sí afectem l'historial perquè de moment fem servir alert()
+                toggleDialogDesktop(formName, true);
+
+                // Resetegem el formulari
+                form.reset();
+                
+                // Mostrem missatge
+                showDialog("S'ha enviat el missatge", "Moltes gràcies", false);
+              }
+              else if (response.status == "error") throw new DialogError(response.message, response.suggestion);
+              else throw new DialogError(`Hi ha hagut un error amb la resposta del servidor`, `Si us plau, torna-ho a provar`);
+            })
+            .catch(error => {
+              // Si és un error propi, en mostrem el missatge. Si no, en mostrem un text genèric.
+              console.error(error.message, error.suggestion);
+              showDialog(error.constructor === DialogError ? error.message : `Error processant la resposta del servidor`, error.constructor === DialogError ? error.suggestion : `Torna-ho a provar més tard`);
+            })
+            .finally(() => {
+              // Revertim els canvis del botó
+              button.removeAttribute("disabled");
+              button.value = buttonValue;
+            });
+          });
+        });
+      }
+      // Diàleg
+      function showDialog(a,b) {
+        alert(`${a}${b ? `\n\n${b}` : ``}`);
+      }
+    </script>
+
+    <div role="dialog" name="contact" aria-modal="true" aria-hidden="true" onclick="toggleDialogDesktop(this)">
+      <div onclick="event.stopPropagation()">
+        <button type="button" name="close" onclick="toggleDialogDesktop(this)" aria-label="Tanca">&times;</button>
+        <div class="header">
+          <h2>Contacta amb Ferroviària</h2>
+        </div>
+        <div class="content">
+          <form onsubmit="sendFormDesktop('/users/form', event)">
+            <div class="grid">
+            <input type="text" id="contactn" placeholder="Nom" name="n" required />
+            <input type="email" id="contacte" placeholder="Correu electrònic" name="e" required />
+            </div>
+            <input type="text" id="contacts" placeholder="Assumpte" maxlength="50" name="s" style="width:100%" required />
+            <textarea id="contactm" placeholder="Què necessites?" name="m" required></textarea>
+            <input type="hidden" autocomplete="false" name="c"/>
+            <span>
+              <input type="checkbox" id="privacye" name="l" required style="margin-right:0.25rem"/><label for="privacye" style="display:contents">He llegit i accepto la </label><a onclick="toggleDialogDesktop('privacy')" style="font-size:0.5rem">Política de privadesa</a>
+            </span>
+            <input type="hidden" autocomplete="false" name="a" value="contact"/>
+            <div class="actions">
+              <input type="button" value="Cancel·la" onclick="toggleDialogDesktop(this)" />
+              <input type="submit" value="Envia" />
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- Política de privadesa -->
+    <div role="dialog" name="privacy" aria-modal="true" aria-hidden="true" onclick="toggleDialogDesktop(this)">
+      <div onclick="event.stopPropagation()">
+        <button type="button" name="close" onclick="toggleDialogDesktop(this)" aria-label="Tanca">&times;</button>
+        <div class="header">
+          <h2>Política de privadesa</h2>
+        </div>
+        <div class="content" style="display:flex; gap:2vw;">
+          <p>El responsable del tractament de les dades personals recollides a través d'aquest web (d'ara endavant, "Ferroviària") és Alex Molina (d'ara endavant, "el desenvolupador"). Per contactar-hi podeu fer servir el <a onclick="toggleDialogDesktop('contact')">formulari de contacte</a>. Les dades introduïdes al formulari de contacte es tracten amb l'única finalitat de gestionar les consultes.</p>
+          <p>Algunes funcions de Ferroviària poden requerir l'accés a la ubicació del dispositiu, com per exemple mostrar un llistat de les estacions i parades més properes. El consentiment sempre és explícit a través de la interfície i dels ajustaments del navegador. Les dades tractades es fan servir amb l'única finalitat de personalitzar els continguts i, per major privadesa, no són emmagatzemades enlloc.</p>
+          <p>Ferroviària permet que les visites obrin un compte al que s'anomena "Comunitat de Ferroviària" mitjançant un formulari de registre. Les dades introduïdes al formulari de registre es tracten amb la finalitat de crear i gestionar el compte i evitar peticions automatitzades. Tant el correu electrònic com la contrasenya són enviats de forma segura i emmagatzemats encriptats en forma de hash. L'encriptació és irreversible i impedeix que puguin ser desxifrades pel desenvolupador ni tercers, però mantenir-les és necessari per poder gestionar accions com canviar o recuperar la contrasenya, canviar el correu electrònic o tancar el compte. També s'emmagatzema la direcció IP en forma de hash irreversible per evitar abusos del sistema.</p>
+          <p>La base legal per al tractament de les dades personals és el consentiment explícit, el compliment de les finalitats derivades de la relació establerta amb la creació del compte i la prevenció d'abusos.</p>
+          <p>Totes aquestes accions es duen a terme exclusivament a través dels formularis de Ferroviària i en cap cas ni el desenvolupador ni tercers demanaran la contrasenya per altres vies.</p>
+          <p>Ferroviària també desa al compte les estacions de tren i parades de tramvia que es marquin com favorites per personalitzar el contingut mostrat, i la data de l'última visita, per determinar els comptes inactius i generar estadístiques d'ús.</p>
+          <p>Totes les dades esmentades fins ara són mantingudes mentre el compte romangui actiu. Es considera que un compte és inactiu quan no s'ha visitat Ferroviària amb la sessió iniciada durant més d'un any. El desenvolupador es reserva el dret a eliminar els comptes inactius sense previ avís, atès que l'encriptació de la direcció de correu electrònic n'impedeix el seu desxifrat, i el dret a suspendre l'accés a tot o part dels serveis, temporal o definitivament, a qui sota el criteri del propi desenvolupador presenti un comportament abusiu o perjudicial pel bon funcionament de Ferroviària o pels seus interessos, com per exemple, a títol enunciatiu i sense limitar-s'hi, en cas de noms de compte ofensius o d'aportacions errònies reiterades que excedeixin de ser equivocacions raonables.</p>
+          <p>Tothom que tingui un compte actiu té dret a accedir, rectificar o eliminar les seves dades. Aquests drets es poden exercir autogestionadament a través de la secció "El meu compte" o bé fent ús del formulari de contacte. El formulari de contacte no es pot fer servir per gestionar canvis de contrasenya o de correu electrònic: aquestes accions disposen dels seus respectius formularis.</p>
+          <p>La persona que ha obert un compte pot gestionar-ne la baixa a través de la secció "El meu compte" per eliminar totes les seves dades vinculades definitivament. En cas que un compte mai hagi arribat a ser activat, s'esborraran les dades vinculades al cap de 24 hores.</p>
+          <p>Ferroviària també ofereix que les persones amb un compte col·laborin amb certa informació col·lectiva de la Comunitat, com l'aportació de les sèries dels trens. En fer-ho, les visites registrades poden veure aquestes aportacions junt amb el nom del compte i l'hora.</p>
+          <p>El desenvolupador no cedirà les dades dels comptes a tercers ni les farà servir per enviar correus no sol·licitats, tant per ètica com per la impossibilitat tècnica de reversió de l'encriptació.</p>
+        </div>
+      </div>
+    </div>
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9b1ef6d46a221624',t:'MTc2NjM5OTYzOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

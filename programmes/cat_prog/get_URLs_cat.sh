@@ -48,6 +48,10 @@ do
 
 	if [ -n "$ok" ];
 	then
+		# aspiration gets the whole html page without further processing
+		aspiration_path="./aspirations/cat_aspirations/$lineno.html"
+		curl -s "$line" > "$aspiration_path"
+
 		# lynx: browse a web page
 		# -dump (disable interactive mode)
 		# -nolist (remove links)

@@ -1,0 +1,1214 @@
+<!doctype html>
+<html class="no-js" lang="ca">
+    <head><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(e){this.triggerEvents=e,this.eventOptions={passive:!0},this.userEventListener=this.triggerListener.bind(this),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventListener,e.eventOptions)))}_removeUserInteractionListener(e){this.triggerEvents.forEach((t=>window.removeEventListener(t,e.userEventListener,e.eventOptions)))}triggerListener(){this._removeUserInteractionListener(this),this._loadEverythingNow()}async _loadEverythingNow(){this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async),await this._triggerDOMContentLoaded(),await this._triggerWindowLoad(),window.dispatchEvent(new Event("rocket-allScriptsLoaded"))}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._requestAnimFrame(),new Promise((t=>{var n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t()),e.parentNode.replaceChild(n,e)}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){var e=document.createDocumentFragment();[...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async].forEach((t=>{const n=t.getAttribute("src");if(n){const t=document.createElement("link");t.href=n,t.rel="preload",t.as="script",e.appendChild(t)}})),document.head.appendChild(e)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){const n=e[t];Object.defineProperty(e,t,{get:n||function(){},set:n=>{e["rocket"+t]=n}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e?"rocket-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._requestAnimFrame(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._requestAnimFrame(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._requestAnimFrame(),window.dispatchEvent(new Event("rocket-load")),await this._requestAnimFrame(),window.rocketonload&&window.rocketonload(),await this._requestAnimFrame(),this.allJQueries.forEach((e=>e(window).trigger("rocket-load"))),window.dispatchEvent(new Event("rocket-pageshow")),await this._requestAnimFrame(),window.rocketonpageshow&&window.rocketonpageshow()}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,r=document.createRange(),i=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const a=document.createDocumentFragment();r.setStart(a,0),a.appendChild(r.createContextualFragment(t)),i.insertBefore(a,o)}}async _requestAnimFrame(){return new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts(["keydown","mouseover","touchmove","touchstart","wheel"]);e._delayEventListeners(),e._delayJQueryReady(e),e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();
+</script>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Les xarxes fantasma són un fenomen habitual a les nostres costes - Ràdio Palafrugell</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Les xarxes fantasma són les restes dels instruments que fan servir els pescadors per capturar els peixos que queden a la deriva del mar."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/" />
+<meta property="og:locale" content="ca_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Les xarxes fantasma són un fenomen habitual a les nostres costes - Ràdio Palafrugell" />
+<meta property="og:description" content="Les xarxes fantasma són les restes dels instruments que fan servir els pescadors per capturar els peixos que queden a la deriva del mar." />
+<meta property="og:url" content="https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/" />
+<meta property="og:site_name" content="Ràdio Palafrugell" />
+<meta property="article:tag" content="Amics de les Illes Formigues" />
+<meta property="article:tag" content="Medi Ambient" />
+<meta property="article:tag" content="Xarxes fantasma" />
+<meta property="article:section" content="Notícies" />
+<meta property="article:published_time" content="2020-08-23T09:46:00+00:00" />
+<meta property="article:modified_time" content="2020-08-21T10:54:04+00:00" />
+<meta property="og:updated_time" content="2020-08-21T10:54:04+00:00" />
+<meta property="og:image" content="https://radiopalafrugell.cat/wp-content/uploads/2020/08/xarxes-fantasma.jpg" />
+<meta property="og:image:secure_url" content="https://radiopalafrugell.cat/wp-content/uploads/2020/08/xarxes-fantasma.jpg" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="467" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Les xarxes fantasma són les restes dels instruments que fan servir els pescadors per capturar els peixos que queden a la deriva del mar." />
+<meta name="twitter:title" content="Les xarxes fantasma són un fenomen habitual a les nostres costes - Ràdio Palafrugell" />
+<meta name="twitter:image" content="https://radiopalafrugell.cat/wp-content/uploads/2020/08/xarxes-fantasma.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://radiopalafrugell.cat/#organization","name":"R\u00e0dio Palafrugell","url":"https://radiopalafrugell.cat/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://radiopalafrugell.cat/#logo","url":"https://radiopalafrugell.cat/wp-content/uploads/2022/06/Logo-definitiu-Radio-Palafrugell-2018-02.png","width":1843,"height":1148,"caption":"R\u00e0dio Palafrugell"},"image":{"@id":"https://radiopalafrugell.cat/#logo"}},{"@type":"WebSite","@id":"https://radiopalafrugell.cat/#website","url":"https://radiopalafrugell.cat/","name":"R\u00e0dio Palafrugell","description":"L&#039;emissora municipal de Palafrugell","publisher":{"@id":"https://radiopalafrugell.cat/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://radiopalafrugell.cat/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#primaryimage","url":"https://radiopalafrugell.cat/wp-content/uploads/2020/08/xarxes-fantasma.jpg","width":700,"height":467},{"@type":"WebPage","@id":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#webpage","url":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/","inLanguage":"ca","name":"Les xarxes fantasma s\u00f3n un fenomen habitual a les nostres costes - R\u00e0dio Palafrugell","isPartOf":{"@id":"https://radiopalafrugell.cat/#website"},"primaryImageOfPage":{"@id":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#primaryimage"},"datePublished":"2020-08-23T09:46:00+00:00","dateModified":"2020-08-21T10:54:04+00:00","description":"Les xarxes fantasma s\u00f3n les restes dels instruments que fan servir els pescadors per capturar els peixos que queden a la deriva del mar."},{"@type":"Article","@id":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#article","isPartOf":{"@id":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#webpage"},"author":{"@id":"https://radiopalafrugell.cat/#/schema/person/ceaf3cb708353bc56ab33bfddf3e1f2d"},"headline":"Les xarxes fantasma s\u00f3n un fenomen habitual a les nostres costes","datePublished":"2020-08-23T09:46:00+00:00","dateModified":"2020-08-21T10:54:04+00:00","commentCount":0,"mainEntityOfPage":{"@id":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#webpage"},"publisher":{"@id":"https://radiopalafrugell.cat/#organization"},"image":{"@id":"https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#primaryimage"},"keywords":"Amics de les Illes Formigues,Medi Ambient,Xarxes fantasma","articleSection":"Medi Ambient,Not\u00edcies"},{"@type":["Person"],"@id":"https://radiopalafrugell.cat/#/schema/person/ceaf3cb708353bc56ab33bfddf3e1f2d","name":"R\u00e0dio Palafrugell","image":{"@type":"ImageObject","@id":"https://radiopalafrugell.cat/#authorlogo","url":"https://secure.gravatar.com/avatar/6bf3303a1ef1ac39298963f9cea76939?s=96&d=mm&r=g","caption":"R\u00e0dio Palafrugell"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Ràdio Palafrugell &raquo; canal d&#039;informació" href="https://radiopalafrugell.cat/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ràdio Palafrugell &raquo; Canal dels comentaris" href="https://radiopalafrugell.cat/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ràdio Palafrugell &raquo; Les xarxes fantasma són un fenomen habitual a les nostres costes Canal dels comentaris" href="https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://radiopalafrugell.cat/wp-includes/css/dist/block-library/style.min.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='qt_ajax_pageload_style-css'  href='https://radiopalafrugell.cat/wp-content/plugins/qt-ajax-pageload/qt-apl-style.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='qtPlacesStyle-css'  href='https://radiopalafrugell.cat/wp-content/plugins/qt-places/inc/frontend/assets/styles.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://radiopalafrugell.cat/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='QtswipeStyle-css'  href='https://radiopalafrugell.cat/wp-content/plugins/qt-swipebox/swipebox/css/swipebox.min.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='vdl_css-css'  href='https://radiopalafrugell.cat/wp-content/plugins/qt-videogalleries/assets/style.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://radiopalafrugell.cat/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='pdfp-public-css'  href='https://radiopalafrugell.cat/wp-content/plugins/pdf-poster/dist/public.css?ver=2.1.21' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/style.css?ver=1766374909' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2-child/style.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://radiopalafrugell.cat/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://radiopalafrugell.cat/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='dripicons-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/fonts/dripicons/webfont.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qantumthemes_qticons-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/fonts/qticons/qticons.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/components/slick/slick.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swipebox-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/components/swipebox/src/css/swipebox.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='classycountdown-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/components/countdown/css/jquery.classycountdown.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flashblock-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/components/soundmanager/templates/qtradio-player/css/flashblock.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qantumthemes_volume-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/components/soundmanager/templates/qtradio-player/css/qt-360player-volume.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='qantumthemes_main-css'  href='https://radiopalafrugell.cat/wp-content/themes/onair2/css/qt-main.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_tta_style-css'  href='https://radiopalafrugell.cat/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://radiopalafrugell.cat/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3Aregular%2C700%7CDosis%3Aregular&subset=latin-ext%2Clatin-ext&display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-qt_config-css'  href='https://radiopalafrugell.cat/wp-content/plugins/ttg-core/inc/backend/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<style id='kirki-styles-qt_config-inline-css' type='text/css'>
+body, html{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;}strong{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:700;font-style:normal;}h1, h2, h3, h4, h5, h6, .qt-btn, .qt-capfont, caption, .qt-title {font-family:Dosis, Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;letter-spacing:0.01em;text-transform:none;}.qt-menubar-top, .qt-menubar, .qt-side-nav, .qt-menu-footer{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;letter-spacing:0em;text-transform:uppercase;}
+</style>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBiXV2wdg7s9vjaVdEXmkVdCS22inaqu4c&ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://www.google.com/jsapi?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8'></script>
+<link rel='https://api.w.org/' href='https://radiopalafrugell.cat/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://radiopalafrugell.cat/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://radiopalafrugell.cat/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.20" />
+<link rel='shortlink' href='https://radiopalafrugell.cat/?p=12889' />
+<link rel="alternate" type="application/json+oembed" href="https://radiopalafrugell.cat/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fradiopalafrugell.cat%2Fles-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://radiopalafrugell.cat/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fradiopalafrugell.cat%2Fles-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes%2F&#038;format=xml" />
+        <style>
+                    </style>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="rocketlazyloadscript" async src="https://www.googletagmanager.com/gtag/js?id=UA-141004186-1"></script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141004186-1');
+</script>
+  <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://radiopalafrugell.cat/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="redi-version" content="1.1.7" /><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://radiopalafrugell.cat/wp-content/uploads/2022/09/cropped-isotip-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://radiopalafrugell.cat/wp-content/uploads/2022/09/cropped-isotip-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://radiopalafrugell.cat/wp-content/uploads/2022/09/cropped-isotip-180x180.png" />
+<meta name="msapplication-TileImage" content="https://radiopalafrugell.cat/wp-content/uploads/2022/09/cropped-isotip-270x270.png" />
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+		<style type="text/css" id="wp-custom-css">
+			
+/* SI US PLAU, NO ESBORRAR*/
+.qt-more .qt-ellipsis-2{
+	width: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.qt-title, .qt-accent, td, strong, a, .content-podcast{
+	font-family: "DM Sans" !important;
+}
+.qt-subtitle{
+	text-transform:uppercase;
+}
+.qt-btn-primary{
+	font-family: "DM Sans" !important;
+}
+
+.qt-ellipsis-2{
+	font-weight:500 !important;
+}
+
+.qt-negative h1{
+	font-size:3rem;
+}
+.qt-the-content{
+	font-size:17px;
+}
+.brand-logo{
+	width: 15rem !important;
+}
+#qtradiotitle{
+	font-weight:600 !important;
+}
+#qtradiosubtitle{
+	font-weight:400 !important;
+}
+h3{
+	font-size: 1.6rem;
+}
+#qtradiotitle.qt-text-shadow{
+	text-shadow: 0 2px 0 rgba(0,0,0,0.4);
+}
+
+
+/* Media query per a pantalles mòbils (menys de 768px) */
+@media (min-width: 768px) {
+    .baner-escriptori {
+        display: block;
+    }
+
+    .baner-mobil {
+        display: none;
+    }
+}
+/* Media query per a pantalles mòbils (menys de 768px) */
+@media (max-width: 768px) {
+    .baner-escriptori {
+        display: none;
+    }
+
+    .baner-mobil {
+        display: block;
+    }
+}		</style>
+		
+
+
+	<!-- THEME STYLES DYNAMIC CUSTOMIZATIONS ========================= -->
+
+
+	<style type="text/css" id="qantumthemes-theme-customizations">
+
+
+body, html, .qt-content-main, .qt-negative .qt-caption-small span, .qt-paper, .qt-negative .qt-caption-med, .qt-card, .qt-paper, .qt-card, .qt-card-s, .qt-negative .qt-caption-med span, input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea ,
+.qt-negative .qt-card h1, .qt-negative .qt-card h2, .qt-negative .qt-card h3, .qt-negative .qt-card h4, .qt-negative .qt-card h5, .qt-negative .qt-card h6, .qt-negative .qt-card h1 a, .qt-negative .qt-card h2 a, .qt-negative .qt-card h3 a, .qt-negative .qt-card h4 a, .qt-negative .qt-card h5 a, .qt-negative .qt-card h6 a {
+color: rgba(17,17,17,0.87) }
+
+*::placeholder {
+color: rgba(17,17,17,0.87) }
+
+.qt-text-secondary {
+color: rgba(17,17,17,0.65) }
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+color: rgba(17,17,17,0.75) }
+
+.qt-negative h1, .qt-negative h2, .qt-negative h3, .qt-negative h4, .qt-negative h5, .qt-negative h6, .qt-negative h1 a, .qt-negative h2 a, .qt-negative h3 a, .qt-negative h4 a, .qt-negative h5 a, .qt-negative h6 a {
+color: #ffffff }
+
+a, .qt-content-main a, a.qt-logo-text span, .tabs .tab a, .qt-pageheader h1 a, .qt-pageheader h2 a, .qt-pageheader h3 a, .qt-pageheader h4 a, .qt-pageheader h5 a, .qt-pageheader h6 a {
+color: #ad1738 }
+
+.qt-content-aside, .qt-footer, .qt-tags {
+color: rgba(17,17,17,0.65) }
+
+.qt-content-aside a, .qt-footer a, .qt-tags a, .qt_color_secondary, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce ul.products li.product .price {
+color: #ad1738 }
+
+
+.qt-negative, .qt-content-primary-dark,.qt-content-primary,.qt-content-primary-light,.qt-btn-primary, .btn-primary,.qt-secondary, .qt-btn-secondary, .btn-secondary, nav.qt-menubar ul.qt-desktopmenu a:hover, .qt-side-nav a , .qt-sharepage a, .qt-caption-med span , .qt-caption-small span, a.rsswidget, .qt-text-neg, .qt-logo-text, .qt-negative .qt-btn-ghost, .qt-text-neg .qt-btn-ghost {
+color: #ffffff }
+
+.qt-mobile-menu, .qt-menu-social a {
+color: rgba(255,255,255,0.65) }
+
+
+
+
+body, html, .qt-body {
+background-color:#f7f7f7 }
+
+#qtplayercontainer {
+  background-color:#ad1738 }
+
+.qt-body.woocommerce li.product, .give-form-wrap, .qt-paper, .qt-card, .qt-card-s, .qt-negative .qt-caption-med span, a.rsswidget, input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea, table.striped>tbody>tr:nth-child(odd), table.bordered>thead>tr, table.bordered>tbody>tr, .qt-negative .qt-caption-small span {
+background-color: #ffffff }
+
+.qt-content-primary, .qt-menubar-top {
+background-color: #333333 }
+
+.qt-content-primary-dark, .qt-menubar , .qt-mobile-menu, .qt-desktopmenu a{
+background-color: #333333 }
+
+.qt-content-primary-light {
+background-color: #565c68 }
+
+.qt-body.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.qt-accent, .qt-btn-primary, .btn-primary, nav.qt-menubar ul.qt-desktopmenu a:hover, .qt-btn-primary, .tabs .indicator, .pagination li.active, .give-btn,
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+background-color: #ad1738!important }
+
+a.qt-link-layer {
+background-color: #dd0e34!important }
+
+.qt-secondary, .qt-btn-secondary, .btn-secondary, .qt-side-nav li li a, .slick-slider .slick-arrow::after, .slick-slider .slick-dots li.slick-active button,
+.woocommerce span.onsale, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+background-color: #ad1738!important }
+
+.qt-caption-med span, .qt-caption-small span, a.rsswidget  {
+background-color: #111111 }
+
+
+
+.qt-tags a {
+  border-color: rgba(17,17,17,0.65) }
+
+
+.qt-menubar ul.qt-desktopmenu > li::after, .qt-menubar ul.qt-desktopmenu > li > a::after, .qt-menubar ul.qt-desktopmenu > li > a::before , .qt-menubar ul.qt-desktopmenu > li.current_page_item:hover::after, .qt-menubar ul.qt-desktopmenu > li.current_page_item:hover > a::after, .qt-menubar ul.qt-desktopmenu > li.current_page_item:hover > a::before, .qt-negative .qt-btn-ghost, .qt-negative .qt-widgets .qt-caption-small, .qt-caption-small {
+border-color: #ffffff }
+
+  .qt-menubar ul.qt-desktopmenu > li.current_page_item:hover::after, .qt-menubar ul.qt-desktopmenu > li.current_page_item:hover > a::after, .qt-menubar ul.qt-desktopmenu > li.current_page_item:hover > a::before {
+border-color: inherit !important; }
+
+.qt-menubar ul.qt-desktopmenu > li.current_page_item::after, .qt-menubar ul.qt-desktopmenu > li.current_page_item > a::after, .qt-menubar ul.qt-desktopmenu > li.current_page_item > a::before, .qt-pageheader .qt-caption {
+border-color: #ad1738 !important; }
+
+.qt-caption-small, .qt-negative .qt-caption-small {
+border-color: #111111 }
+
+.qt-negative .qt-caption-small { 
+border-color: #ffffff 
+  }
+
+
+
+/* Hover states ============ */
+a:hover, .tabs .tab a:hover, .qt-pageheader h1 a:hover, .qt-pageheader h2 a:hover, .qt-pageheader h3 a:hover, .qt-pageheader h4 a:hover, .qt-pageheader h5 a:hover, .qt-pageheader h6 a:hover { 
+  color: #dd0e34 }
+.qt-menubar-top a:hover, .qt-pageheader .qt-tags a:hover, .qt-content-aside a:hover, .qt-footer a:hover, .qt-tags a:hover, .qt_color_secondary:hover {
+  color: #dd0e34!important }
+  
+  
+.qt-btn-primary:hover, .btn-primary:hover, .qt-sharepage a:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
+  background-color: #dd0e34!important }
+.qt-btn-secondary:hover, .btn-secondary:hover, .qt-secondary:hover, .qt-btn-secondary:hover, .btn-secondary:hover, .qt-side-nav li li a:hover, .slick-slider .slick-arrow:hover::after, .slick-slider .slick-dots li.slick-active button:hover {
+  background-color: #dd0e34!important }
+.qt-tags a:hover {
+  border-color: #dd0e34!important }
+
+
+
+
+</style>
+
+	
+<!-- QT STYLES DYNAMIC CUSTOMIZATIONS END ========= -->
+
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+		<!-- CSS styles added by QT Subpages Plugin -->
+		<style type="text/css">
+			
+			.vdl-subpages-item  a .detail .title {font-size:13px; }
+			
+			.vdl-subpages-item  a .detail {padding-top:45px !important;}
+			.vdl-subpages-container ul.vdl-subpages-tagcloud li a {
+				
+				
+				
+				
+				
+			}
+			.vdl-subpages-container ul.vdl-subpages-tagcloud li a:hover {}
+			
+			
+			
+			
+			@media (max-width: 768px){
+				.vdl-elementcontents a.vdl-link .detail .title {}
+			}
+			
+		</style>
+		<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style><!-- Google tag (gtag.js) -->
+<script type="rocketlazyloadscript" async src="https://www.googletagmanager.com/gtag/js?id=G-TPYQ4M0XWN"></script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TPYQ4M0XWN');
+</script>		
+    </head>
+    <body data-rsssl=1 class="post-template-default single single-post postid-12889 single-format-standard is_unknown qt-parentcontainer template- qt-stickymenu  qt-playertype-header qt-body wpb-js-composer js-comp-ver-5.6 vc_responsive" data-start>
+    <!-- QT HEADER END ================================ -->
+ 
+	
+<div class="qt-main-menubar" data-0="@class:qt-main-menubar">
+	
+	 
+
+
+
+
+	<!-- QT MENUBAR  ================================ -->
+	<nav id="qtmainmenucontainer" class="qt-menubar nav-wrapper qt-content-primary">
+		<!-- desktop menu  HIDDEN IN MOBILE AND TABLETS -->
+		<ul class="qt-desktopmenu hide-on-xl-and-down">
+			<li class="qt-logo-link">
+				<a href="https://radiopalafrugell.cat" class="brand-logo qt-logo-text">
+					<img src="https://radiopalafrugell.cat/wp-content/uploads/2023/10/Logo_Horitzontal.svg" alt="Home">				</a>
+			</li>
+
+			<li id="menu-item-4018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4018"><a href="https://radiopalafrugell.cat/noticies/">Notícies</a></li>
+<li id="menu-item-63126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63126"><a href="https://podcasts.radiopalafrugell.cat">Pòdcasts</a></li>
+<li id="menu-item-4083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4083"><a href="https://radiopalafrugell.cat/programacio/">Graella</a></li>
+<li id="menu-item-43832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43832"><a href="https://radiopalafrugell.cat/category/musica/">Música</a></li>
+<li id="menu-item-31256" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31256"><a href="https://radiopalafrugell.cat/category/literatura/">Llibres</a></li>
+<li id="menu-item-21633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21633"><a href="https://radiopalafrugell.cat/category/cultura/">Cultura</a></li>
+<li id="menu-item-43833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43833"><a href="https://radiopalafrugell.cat/category/esports/">Esports</a></li>
+<li id="menu-item-4234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4234"><a href="https://radiopalafrugell.cat/equip/">Qui som</a></li>
+ 
+
+
+			 
+			<li class="right qt-menu-btn">
+				<a href="#!" data-expandable="#qtsearchbar" class="qt-scrolltop">
+					<i class="icon dripicons-search"></i>
+				</a>
+			</li>
+						
+
+			 
+								<li class="right qt-menu-btn">
+						<a  href="#!" class="qt-openplayerbar"  data-qtswitch="contractplayer" data-target="#qtplayercontainer" >
+							<i class="icon dripicons-media-play"></i> Directe						</a>
+											</li>
+				
+
+		</ul>
+		
+		<!-- mobile menu icon and logo VISIBLE ONLY TABLET AND MOBILE-->
+		<ul class="qt-desktopmenu qt-mobilemenubar hide-on-xl-only ">
+			<li>
+				<a href="#" data-activates="qt-mobile-menu" class="button-collapse qt-menu-switch qt-btn qt-btn-primary qt-btn-m">
+					<i class="dripicons-menu"></i>
+				</a>
+			</li>
+			<li>
+				<a href="https://radiopalafrugell.cat" class="brand-logo qt-logo-text">
+					<img src="https://radiopalafrugell.cat/wp-content/uploads/2023/10/Logo_Horitzontal.svg" alt="Home">				</a>
+			</li>
+						<li class="qt-rightbutton">
+				<a href="#" class="qt-openplayerbar qt-btn qt-btn-primary qt-btn-m">
+					<i class="dripicons-media-play"></i>
+				</a>
+			</li>
+					</ul>
+	</nav>
+	<div id="qtplayerheaderbar" class="qt-player-headerbar">
+	<a href="#" class="dripicons-cross qt-openplayerbar qt-closeheaderplayer"></a>
+	<div class="qt-player-headerbar__controls">
+		<!-- PLAYER ========================= -->
+
+	
+	<div id="qtplayercontainer" data-playervolume="true" data-accentcolor="#ad1738" data-accentcolordark="#dd0e34" data-textcolor="#ffffff" data-soundmanagerurl="https://radiopalafrugell.cat/wp-content/themes/onair2/components/soundmanager/swf/" 
+		class="qt-playercontainer qt-playervolume qt-clearfix qt-content-primarydark">
+		<div class="qt-playercontainer-content qt-vertical-padding-m">
+
+						<div class="qt-playercontainer-header">
+				<div class="qt-vc">
+					<div class="qt-vi">
+						<h3 id="qtradiotitle" class="qt-text-shadow qt-spacer-s" >Ràdio Palafrugell</h3>
+						<h4 id="qtradiosubtitle" class="qt-thin qt-text-shadow small">Informació local</h4>
+					</div>
+				</div>
+			</div>
+						
+			<div class="qt-playercontainer-musicplayer" id="qtmusicplayer">
+				<div class="qt-musicplayer">
+					<div class="ui360 ui360-vis qt-ui360">
+						<a id="playerlink" href="https://radio.martiproduccions.com/radiopalafrugell"></a>
+					</div>
+				</div>
+			</div>
+			<div id="qtPlayerTrackInfo" class="qt-playercontainer-data qt-container qt-text-shadow small">
+				<div class="qt-vc">
+					<div class="qt-vi">
+						<h6 class="qt-inline-textdeco">
+							<span>Current track</span>
+						</h6>
+						<div class="qt-t qt-current-track">
+							<h4 id="qtFeedPlayerTrack" class="qt-ellipsis">Title</h4>
+							<h5 id="qtFeedPlayerAuthor" class="qt-ellipsis">Artist</h5>
+						</div>
+						<hr class="qt-inline-textdeco">
+					</div>
+				</div>
+			</div>
+
+
+
+
+			<div class="qt-playercontainer-ads-mobile">
+							</div>
+			<div class="qt-playercontainer-ads-desktop">
+							</div>
+		
+							<div class="qt-playercontainer-dropdown">
+									</div>
+				
+		</div>
+
+		
+
+	</div>
+	<!-- this is for xml radio feed -->
+	<div id="qtShoutcastFeedData" class="hidden" data-style="" data-channel="1" data-useproxy="0"data-icecasturl="" 
+		data-icecastmountpoint="" 
+		data-icecastchannel="" 
+		data-radiodotco="" data-airtime="" data-radionomy="" data-textfeed="" data-host="" data-port="" data-channel="4266"></div>
+	
+
+
+<!-- PLAYER END ========================= -->
+		
+	</div>
+	<!-- CHANNELS LIST ========================= -->
+<div id="qtchannelslistcontainer" class="qt-part-channels-list qt-content-primary">
+	<ul id="qtchannelslist" class="qt-content-aside qt-channelslist qt-negative">
+					<li class="qt-channel">
+				<a id="" href="#!" class="qt-ellipsis" 
+					data-title="Ràdio Palafrugell" 
+					data-subtitle="Informació local" 
+										data-logo="0" 
+					data-playtrack="https://radio.martiproduccions.com/radiopalafrugell"
+					data-host=""
+					data-port=""
+					data-channel="4266"
+					data-icecasturl="" 
+					data-icecastmountpoint="" 
+					data-icecastchannel="" 
+					data-radiodotco="" 
+					data-airtime="" 
+					data-radionomy="" 
+					data-textfeed=""
+					data-stats_path=""
+					data-played_path=""
+					data-channel="">
+										<i class="dripicons-media-play"></i>
+					Ràdio Palafrugell				</a>
+
+			</li>
+					
+	</ul>
+</div>
+<!-- CHANNELS LIST END ========================= -->
+
+</div>
+</div>
+
+<!-- mobile menu -->
+<div id="qt-mobile-menu" class="side-nav qt-content-primary">
+	 <ul class=" qt-side-nav">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4018"><a href="https://radiopalafrugell.cat/noticies/">Notícies</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63126"><a href="https://podcasts.radiopalafrugell.cat">Pòdcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4083"><a href="https://radiopalafrugell.cat/programacio/">Graella</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43832"><a href="https://radiopalafrugell.cat/category/musica/">Música</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31256"><a href="https://radiopalafrugell.cat/category/literatura/">Llibres</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21633"><a href="https://radiopalafrugell.cat/category/cultura/">Cultura</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43833"><a href="https://radiopalafrugell.cat/category/esports/">Esports</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4234"><a href="https://radiopalafrugell.cat/equip/">Qui som</a></li>
+	</ul>
+</div>
+
+<!-- mobile toolbar -->
+<ul class="qt-mobile-toolbar qt-content-primary-dark qt-content-aside hide-on-xl-only">
+	
+	 
+	<li><a href="#!" data-expandable="#qtsearchbar" class="qt-scrolltop"><i class="icon dripicons-search"></i></a></li>
+	
+
+	
+		<li>
+					<a href="#" class="qt-openplayerbar"><i class="icon dripicons-media-play"></i></a>
+			</li>
+	
+</ul><!-- SEARCH FORM ========================= -->
+<div id="qtsearchbar"  class="qt-searchbar qt-content-primary qt-expandable  qt-topplayer-space ">
+	<div class="qt-expandable-inner">
+		<form method="get" class="qt-inline-form" action="https://radiopalafrugell.cat/" role="search">
+			<div class="row qt-nopadding">
+				<div class="col s12 m8 l9">
+					<input placeholder="Escriu i cerca&hellip;" value="" name="s" type="text" class="validate qt-input-l">
+				</div>
+				<div class="col s12 m3 l2">
+					<input type="submit" value="Cercar" class="qt-btn qt-btn-primary qt-btn-l qt-fullwidth">
+				</div>
+				<div class="col s12 m1 l1">
+					<a href="#!" class="qt-btn qt-btn-l qt-btn-secondary qt-fullwidth aligncenter" data-expandable="#qtsearchbar"><i class="dripicons-cross"></i></a>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+<!-- SEARCH FORM END ========================= -->
+	<div id="maincontent" class="qt-main">
+					<hr class="qt-header-player-spacer">
+						<div id="post-12889" class="post-12889 post type-post status-publish format-standard has-post-thumbnail hentry category-medi-ambient category-noticies tag-amics-de-les-illes-formigues tag-medi-ambient tag-xarxes-fantasma">
+			<!-- ======================= HEADER SECTION ======================= -->
+			<!-- HEADER CAPTION ========================= -->
+<div class="qt-pageheader qt-negative">
+    <div class="qt-container">
+        <ul class="qt-tags">
+            <li>
+            <a href="https://radiopalafrugell.cat/category/medi-ambient/" rel="category tag">Medi Ambient</a></li><li><a href="https://radiopalafrugell.cat/category/noticies/" rel="category tag">Notícies</a> 
+            </li>
+        </ul>
+        <h1 class="qt-caption qt-spacer-s">
+            Les xarxes fantasma són un fenomen habitual a les nostres costes        </h1>
+        <h4 class="qt-subtitle">
+            Escrit per <a href="https://radiopalafrugell.cat/author/radiopalafrugell/" title="Entrades de Ràdio Palafrugell" rel="author">Ràdio Palafrugell</a> el             23 d'Agost de 2020        </h4>
+    </div>
+     	<div class="qt-header-bg" data-bgimage="https://radiopalafrugell.cat/wp-content/uploads/2020/08/xarxes-fantasma.jpg" data-bgattachment="" data-parallax="1">
+	</div>
+	</div>
+<!-- HEADER CAPTION END ========================= -->
+			<!-- ======================= CONTENT SECTION ======================= -->
+			<div class="qt-container qt-spacer-l">
+				<div class="row">
+					<div class="col s12 m12 l1 qt-pushpin-container">
+						<div class="qt-pushpin">
+							<!-- SHARE FUNCTIONS ================================================== -->
+<ul class="qt-sharepage qt-sharepage-vertical qt-content-primary">
+	<li class="hide-on-med-and-down">
+		<i class="qticon-share qt-shareicon qt-content-primary-dark tooltipped"></i>
+	</li>
+	<li>
+		<a class="qt-popupwindow qt-sharelink qt-tooltipped" data-tooltip="Compartir al Facebook" data-position="right" data-sharetype="facebook" data-name="Compartir" data-width="600" data-height="500" target="_blank" href="#">
+			<i class="qticon-facebook"></i>
+		</a>
+	</li>
+	<li>
+		<a class="qt-popupwindow qt-sharelink qt-tooltipped" data-tooltip="Compartir al Twitter" data-position="right"  data-sharetype="twitter" data-name="Compartir" data-width="600" data-height="500" target="_blank" href="#">
+			<i class="qticon-twitter"></i>
+		</a>
+		</li>
+	<li>
+		<a class="qt-popupwindow qt-sharelink qt-tooltipped" data-tooltip="Compartir al Google+" data-position="right"  data-sharetype="google" data-name="Compartir" data-width="600" data-height="500" target="_blank" href="#">
+			<i class="qticon-googleplus"></i>
+		</a>
+	</li>
+	<li>
+		<a class="qt-popupwindow qt-sharelink qt-tooltipped" data-tooltip="Compartir al Pinterest" data-position="right"  data-sharetype="pinterest" data-name="Compartir" data-width="600" data-height="500" target="_blank" href="#">
+			<i class="qticon-pinterest"></i>
+		</a>
+	</li>
+			<li>
+			<a href="#" class="qt-btn-primary qt-sharelink qt-loveit-link   qt-tooltipped" data-tooltip="Love" data-position="right"  data-post_id="12889"><i class="qticon-heart"></i>
+				<span class="qtli count"></span>
+			</a>
+		</li>
+	</ul>
+<!-- SHARE FUNCTIONS ================================================== -->
+
+
+						</div>
+						 <hr class="qt-spacer-m">
+					</div>
+					<div class="col s12 m8">
+						<div class="qt-the-content">
+							
+<ul><li><strong>També anomenada pesca fantasma, les xarxes abandonades dels pescadors atrapen fauna i flora</strong></li><li><strong>Les últimes s&#8217;han trobat a les muntanyes submarines d&#8217;Ullastres</strong></li></ul>
+
+
+
+<p>Les<strong> xarxes fantasma</strong> són les <strong>restes </strong>dels instruments que fan servir els pescadors per capturar els peixos que queden a la <strong>deriva del mar</strong>. Moltes vegades es perden perquè queden enganxats a les roques o per altres motius i, com no les poden recuperar, queden abandonades al fons del mar.</p>
+
+
+
+<p>Aquesta problemàtica afecta el <strong>medi ambient</strong> i és un <strong>perill </strong>real per <strong>l&#8217;ecosistema</strong>. En <strong>Lluís Martí</strong>, submarinista i activista a l&#8217;associació <strong>Amics de les Illes Formigues</strong>, enumera les principals conseqüències, d&#8217;entre les quals està la <strong>pesca involuntària</strong>, la <strong>degradació del fons marí</strong> i la <strong>contaminació</strong>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://radio.palafrugell.cat/wp-content/uploads/2020/08/2020-08-20-xarxes-fantasma.mp3"></audio></figure>
+
+
+
+<p>La degradació al fons, comenta en Lluís, és evident perquè les xarxes cauen en llocs d&#8217;especial interès, com ara colònies de <strong>corals gorgònia</strong> o altres espècies sensibles, i a causa de la força del corrent del mar acaba emportant-se-les per davant.</p>
+
+
+
+<p>Inclús així, hi ha vegades que les xarxes no es poden treure perquè ja fa molt de temps que hi estan. Per aquest moriu, el submarinista demana actuar amb molta <strong>rapidesa</strong>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://radio.palafrugell.cat/wp-content/uploads/2020/08/2020-08-20-xarxes-fantasma-tall-2.mp3"></audio></figure>
+
+
+
+<h2>Xarxes trobades a la costa</h2>
+
+
+
+<p>L&#8217;última xarxa fantasma que s&#8217;han trobat a estat a les muntanyes submarines <strong>d&#8217;Ullastres</strong>, a menys de dues milles del <strong>Port de Llafranc</strong>. És una zona molt coneguda entre submarinistes per la presència de grans <strong>gorgònies vermelles</strong>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://radio.palafrugell.cat/wp-content/uploads/2020/08/2020-08-20-xarxes-fantasma-tall-3.mp3"></audio></figure>
+
+
+
+<p>Ja fa un mes que han enviat la petició a la<strong> Generalitat de Catalunya</strong> per retirar les xarxes. La situació és preocupant perquè la setmana passada va caure una altra xarxa.</p>
+
+
+
+<p>En Lluís Martí reclama, des de la seva organització, una millor <strong>coordinació </strong>entre les entitats i amb la Generalitat i buscar una manera de subcontractar professionals que puguin fer la feina de retirar aquestes xarxes.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://radio.palafrugell.cat/wp-content/uploads/2020/08/2020-08-20-xarxes-fantasma-tall-4.mp3"></audio></figure>
+
+
+
+<p>A més a més, destaca que és important que també es coordini amb els pescadors, que podrien desconèixer els efectes col·laterals que causa la pèrdua dels seus instruments de pesca.</p>
+
+
+
+<h2>Amics de les Illes Formigues</h2>
+
+
+
+<p>Amics de les Illes Formigues és una entitat que es dedica a la cura i a la protecció del medi marí. Sobretot <strong>informen </strong>i donen <strong>visibilitat  </strong>aquests problemes. </p>
+
+
+
+<p>A més a més, també formen part de la <strong>Taula de Cogestió del Litoral</strong> on intenten coordinar tant l&#8217;àmbit civil, les associacions, amb l&#8217;economia blava, tots aquells que tenen un negoci relacionat amb el medi marí.</p>
+
+
+
+<iframe id='audio_55459999' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_55459999_4_1.html?c1=dd0e30"></iframe>
+							<div class="tagcloud qt-spacer-m"><span class="qt-title">Etiquetes </span><a href="https://radiopalafrugell.cat/tag/amics-de-les-illes-formigues/" rel="tag">Amics de les Illes Formigues</a> <a href="https://radiopalafrugell.cat/tag/medi-ambient/" rel="tag">Medi Ambient</a> <a href="https://radiopalafrugell.cat/tag/xarxes-fantasma/" rel="tag">Xarxes fantasma</a></div> 
+							 
+							<!-- AUTHOR PART ========================= -->
+<div class="qt-post-author qt-card">
+	<div class="row">
+				<div class="qt-post-author-data col s10 m7 l8">
+			<h6>Autor/a</h6>
+			<h4><a href="#author_page">Ràdio Palafrugell</a></h4>
+		</div>
+		<div class="qt-post-author-link col s12 m3 l3 aligncenter">
+			<a href="https://radiopalafrugell.cat/author/radiopalafrugell/" class="qt-btn qt-btn-large qt-btn-primary">Arxiu de l&#039;autor</a>
+		</div>
+	</div>
+</div>
+<!-- AUTHOR PART END ========================= -->
+						</div>
+													<hr class="qt-spacer-m">
+							<!-- COMMENTS PART ========================= -->
+<h5 class="qt-caption-small"><span>Opinions dels lectors</span></h5>
+<div id="comments" class="comments-area comments-list">
+						
+		<div id="respond" class="qt-comment-respond qt-card comment-form">
+				<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><span class="qw-page-subtitle grey-text">Deixa una opinió</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/#respond" style="display:none;"><i class="mdi-navigation-cancel icon-l"></i></a></small></h3><form action="https://radiopalafrugell.cat/wp-comments-post.php" method="post" id="qw-commentform" class="qt-material-form"><p class="comment-form-comment"><label for="comment"></label><textarea id="comment" placeholder="Comentari*" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p class="comment-notes">El teu correu electrònic no serà publicat. Els camps obligatoris estan marcats amb l&#039;asterisc (*).</p><p class="comment-form-author"><input id="author" placeholder="Nom*" name="author" type="text" value="" size="30" /></p>
+<input id="email" placeholder="Correu electrònic*" name="email" type="text" value="" size="30" /></p>
+<p class="comment-form-url"><input id="url" placeholder="Pàgina web" name="url" type="text" value="" size="30" /></p>
+
+				  <div class="input-field">
+				  <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent"> Save my name, email, and website in this browser for the next time I comment.</label></p>
+				  </div><hr class="qt-spacer-s">
+<p class="form-submit"><input name="submit" type="submit" id="qw-submit" class="qt-btn qt-btn-primary" value="Publicar" /> <input type='hidden' name='comment_post_ID' value='12889' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7e6155e5e5" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="239"/><script type="rocketlazyloadscript">document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+			</div>
+	
+</div><!-- #comments -->
+												<hr class="qt-spacer-l">
+					</div>
+					<div class="qt-sidebar col s12 m3">
+						<!-- SIDEBAR ================================================== -->
+<div class="qt-widgets qt-sidebar-main qt-text-secondary">
+	        <aside id="qantumthemes_archives_widget-4" class="qt-widget qt-content-aside archiveswidget"><h5 class="qt-caption-small"><span>Darreres notícies</span></h5>		<ul class="qt-archives-widget">
+					<li>
+							   		<a class="hide-on-med-and-down" href="https://radiopalafrugell.cat/el-banc-de-sang-fa-una-crida-a-donar-sang-per-nadal-per-evitar-una-caiguda-de-reserves/">
+						<img width="150" height="150" src="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-150x150.jpg 150w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-690x690.jpg 690w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-170x170.jpg 170w" sizes="(max-width: 150px) 100vw, 150px" />					</a>
+									<h5 class="tit"><a href="https://radiopalafrugell.cat/el-banc-de-sang-fa-una-crida-a-donar-sang-per-nadal-per-evitar-una-caiguda-de-reserves/">El Banc de Sang fa una crida a donar sang per Nadal per evitar una caiguda de reserves</a></h5>
+				
+			</li>
+						<li>
+							   		<a class="hide-on-med-and-down" href="https://radiopalafrugell.cat/palafrugell-en-comu-vol-que-la-construccio-al-solar-de-lenergia-sigui-totalment-publica-i-municipal/">
+						<img width="150" height="150" src="https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Josep Ferrés" srcset="https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-150x150.jpg 150w, https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-690x690.jpg 690w, https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-170x170.jpg 170w" sizes="(max-width: 150px) 100vw, 150px" />					</a>
+									<h5 class="tit"><a href="https://radiopalafrugell.cat/palafrugell-en-comu-vol-que-la-construccio-al-solar-de-lenergia-sigui-totalment-publica-i-municipal/">Palafrugell en Comú vol que la construcció del solar de l&#8217;Energia sigui totalment pública</a></h5>
+				
+			</li>
+						<li>
+							   		<a class="hide-on-med-and-down" href="https://radiopalafrugell.cat/el-cadet-femeni-de-lhandbol-garbi-entre-les-millors-de-catalunya/">
+						<img width="150" height="150" src="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-150x150.jpg 150w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-690x690.jpg 690w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-170x170.jpg 170w" sizes="(max-width: 150px) 100vw, 150px" />					</a>
+									<h5 class="tit"><a href="https://radiopalafrugell.cat/el-cadet-femeni-de-lhandbol-garbi-entre-les-millors-de-catalunya/">El cadet femení de l&#8217;Handbol Garbí, entre les millors de Catalunya</a></h5>
+				
+			</li>
+						<li>
+							   		<a class="hide-on-med-and-down" href="https://radiopalafrugell.cat/xefs-amb-cor-plats-amb-causa-de-la-fundacio-oncolliga-recapta-mes-de-dos-mil-euros-per-donar-suport-als-malalts-de-cancer/">
+						<img width="150" height="150" src="https://radiopalafrugell.cat/wp-content/uploads/2025/12/20251219_Donatiu-xefs-amb-cor-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Entrega del donatiu de la campanya Xefs amb Cor" srcset="https://radiopalafrugell.cat/wp-content/uploads/2025/12/20251219_Donatiu-xefs-amb-cor-150x150.jpg 150w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/20251219_Donatiu-xefs-amb-cor-690x690.jpg 690w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/20251219_Donatiu-xefs-amb-cor-170x170.jpg 170w" sizes="(max-width: 150px) 100vw, 150px" />					</a>
+									<h5 class="tit"><a href="https://radiopalafrugell.cat/xefs-amb-cor-plats-amb-causa-de-la-fundacio-oncolliga-recapta-mes-de-dos-mil-euros-per-donar-suport-als-malalts-de-cancer/">“Xefs amb cor, plats amb causa” de la Fundació Oncolliga recapta més de dos mil euros per als malalts de càncer</a></h5>
+				
+			</li>
+						<li>
+							   		<a class="hide-on-med-and-down" href="https://radiopalafrugell.cat/cap-de-setmana-marcat-pels-nuvols-i-la-possibilitat-de-pluges-febles/">
+						<img width="150" height="150" src="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Palafrugell-2025-12-19-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Palafrugell (19-12-2025)" srcset="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Palafrugell-2025-12-19-150x150.jpg 150w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Palafrugell-2025-12-19-690x690.jpg 690w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Palafrugell-2025-12-19-170x170.jpg 170w" sizes="(max-width: 150px) 100vw, 150px" />					</a>
+									<h5 class="tit"><a href="https://radiopalafrugell.cat/cap-de-setmana-marcat-pels-nuvols-i-la-possibilitat-de-pluges-febles/">Cap de setmana marcat pels núvols i la possibilitat de pluges febles</a></h5>
+				
+			</li>
+					
+		</ul>
+				</aside><aside id="qtonairwidget-widget-2" class="qt-widget qt-content-aside qtonairwidget"><h5 class="qt-caption-small"><span>En directe</span></h5>						<div class="qtnowonairwidget qtautoupdate-element qt-widget-onair qt-card aligncenter">
+												        <a href="https://radiopalafrugell.cat/shows/seleccio-palafrugell/">
+					            <img width="960" height="540" src="https://radiopalafrugell.cat/wp-content/uploads/2019/03/Música.jpg" class="attachment-qantumthemes-thumbnail size-qantumthemes-thumbnail wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2019/03/Música.jpg 960w, https://radiopalafrugell.cat/wp-content/uploads/2019/03/Música-300x169.jpg 300w, https://radiopalafrugell.cat/wp-content/uploads/2019/03/Música-768x432.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />					        </a>
+					     								<h4 class="qt-caption-med">
+								<span>Selecció Palafrugell</span>
+							</h4>
+							<h5 class="qt-onair-title">
+								Música de tots els temps							</h5>
+							<hr class="qt-spacer-s">
+							<p class="qt-ellipsis-3 qt-small">
+								La millor selecció musical amb cançons  de tots els temps amb el segell de Ràdio Palafrugell.							</p>
+							<hr class="qt-spacer-s">
+							<a href="https://radiopalafrugell.cat/shows/seleccio-palafrugell/" class="qt-btn qt-btn-s qt-btn-secondary">Més</a>
+						</div>
+						</aside><aside id="qtupcomingwidget-widget-2" class="qt-widget qt-content-aside qtupcomingwidget"><h5 class="qt-caption-small"><span>Següents emissions</span></h5>				<ul class="qt-widget-upcoming qt-upcoming-refresh">
+										<li class="qt-card-s paper">
+							<h5>
+								<a href="https://radiopalafrugell.cat/shows/torna-la-a-tocar-sam/">Torna-la a tocar Sam</a>
+							</h5>
+							<p>
+								06:00							</p>
+							<img width="100" height="44" src="https://radiopalafrugell.cat/wp-content/uploads/2019/03/Torna-la-a-Tocar-Sam-100x44.jpg" class="right wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2019/03/Torna-la-a-Tocar-Sam-100x44.jpg 100w, https://radiopalafrugell.cat/wp-content/uploads/2019/03/Torna-la-a-Tocar-Sam-690x302.jpg 690w" sizes="(max-width: 100px) 100vw, 100px" />						</li>
+												<li class="qt-card-s paper">
+							<h5>
+								<a href="https://radiopalafrugell.cat/shows/seleccio-palafrugell/">Selecció Palafrugell</a>
+							</h5>
+							<p>
+								07:00							</p>
+							<img width="100" height="44" src="https://radiopalafrugell.cat/wp-content/uploads/2019/03/Música-100x44.jpg" class="right wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2019/03/Música-100x44.jpg 100w, https://radiopalafrugell.cat/wp-content/uploads/2019/03/Música-690x302.jpg 690w" sizes="(max-width: 100px) 100vw, 100px" />						</li>
+												<li class="qt-card-s paper">
+							<h5>
+								<a href="https://radiopalafrugell.cat/shows/supermati/">Supermatí</a>
+							</h5>
+							<p>
+								08:00							</p>
+							<img width="100" height="44" src="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2023_H-Supermatí-100x44.jpg" class="right wp-post-image" alt="Supermatí" srcset="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2023_H-Supermatí-100x44.jpg 100w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2023_H-Supermatí-1600x700.jpg 1600w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2023_H-Supermatí-1170x512.jpg 1170w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2023_H-Supermatí-690x302.jpg 690w" sizes="(max-width: 100px) 100vw, 100px" />						</li>
+												<li class="qt-card-s paper">
+							<h5>
+								<a href="https://radiopalafrugell.cat/shows/lesmorzar-de-radio-palafrugell/">L&#8217;Esmorzar de Ràdio Palafrugell</a>
+							</h5>
+							<p>
+								09:00							</p>
+							<img width="100" height="44" src="https://radiopalafrugell.cat/wp-content/uploads/2025/08/Tardor_2025_Q_Esmorzar-2025-Ferran-1-100x44.jpg" class="right wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2025/08/Tardor_2025_Q_Esmorzar-2025-Ferran-1-100x44.jpg 100w, https://radiopalafrugell.cat/wp-content/uploads/2025/08/Tardor_2025_Q_Esmorzar-2025-Ferran-1-1170x512.jpg 1170w, https://radiopalafrugell.cat/wp-content/uploads/2025/08/Tardor_2025_Q_Esmorzar-2025-Ferran-1-690x302.jpg 690w" sizes="(max-width: 100px) 100vw, 100px" />						</li>
+												<li class="qt-card-s paper">
+							<h5>
+								<a href="https://radiopalafrugell.cat/shows/clan-matinal/">Clan Matinal</a>
+							</h5>
+							<p>
+								09:30							</p>
+							<img width="100" height="44" src="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Clan-Matinal-100x44.jpg" class="right wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Clan-Matinal-100x44.jpg 100w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Clan-Matinal-1600x700.jpg 1600w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Clan-Matinal-1170x512.jpg 1170w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Clan-Matinal-690x302.jpg 690w" sizes="(max-width: 100px) 100vw, 100px" />						</li>
+												<li class="qt-card-s paper">
+							<h5>
+								<a href="https://radiopalafrugell.cat/shows/aixi-es-la-vida/">Així és la vida</a>
+							</h5>
+							<p>
+								11:00							</p>
+							<img width="100" height="44" src="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Aixi-es-la-vida-100x44.jpg" class="right wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Aixi-es-la-vida-100x44.jpg 100w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Aixi-es-la-vida-1600x700.jpg 1600w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Aixi-es-la-vida-1170x512.jpg 1170w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Aixi-es-la-vida-690x302.jpg 690w" sizes="(max-width: 100px) 100vw, 100px" />						</li>
+												<li class="qt-card-s paper">
+							<h5>
+								<a href="https://radiopalafrugell.cat/shows/l-informatiu/">L&#8217;informatiu</a>
+							</h5>
+							<p>
+								13:00							</p>
+							<img width="100" height="44" src="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Informatiu-100x44.jpg" class="right wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Informatiu-100x44.jpg 100w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Informatiu-1600x700.jpg 1600w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Informatiu-1170x512.jpg 1170w, https://radiopalafrugell.cat/wp-content/uploads/2022/09/Tardor_2022_H-Informatiu-690x302.jpg 690w" sizes="(max-width: 100px) 100vw, 100px" />						</li>
+						</ul></aside><aside id="tag_cloud-2" class="qt-widget qt-content-aside widget_tag_cloud"><h5 class="qt-caption-small"><span>Per etiqueta</span></h5><div class="tagcloud"><a href="https://radiopalafrugell.cat/tag/ad-sauleda/" class="tag-cloud-link tag-link-1579 tag-link-position-1" style="font-size: 12px;">AD Sauleda</a>
+<a href="https://radiopalafrugell.cat/tag/ajuntament-de-palafrugell/" class="tag-cloud-link tag-link-528 tag-link-position-2" style="font-size: 12px;">Ajuntament de Palafrugell</a>
+<a href="https://radiopalafrugell.cat/tag/biblioteca-de-palafrugell/" class="tag-cloud-link tag-link-383 tag-link-position-3" style="font-size: 12px;">Biblioteca de Palafrugell</a>
+<a href="https://radiopalafrugell.cat/tag/camp-del-gregal/" class="tag-cloud-link tag-link-2173 tag-link-position-4" style="font-size: 12px;">Camp del Gregal</a>
+<a href="https://radiopalafrugell.cat/tag/club-handbol-garbi/" class="tag-cloud-link tag-link-1511 tag-link-position-5" style="font-size: 12px;">Club Handbol Garbí</a>
+<a href="https://radiopalafrugell.cat/tag/club-hoquei-palafrugell/" class="tag-cloud-link tag-link-228 tag-link-position-6" style="font-size: 12px;">Club Hoquei Palafrugell</a>
+<a href="https://radiopalafrugell.cat/tag/cultura/" class="tag-cloud-link tag-link-309 tag-link-position-7" style="font-size: 12px;">cultura</a>
+<a href="https://radiopalafrugell.cat/tag/el-temps/" class="tag-cloud-link tag-link-1542 tag-link-position-8" style="font-size: 12px;">el temps</a>
+<a href="https://radiopalafrugell.cat/tag/esports/" class="tag-cloud-link tag-link-418 tag-link-position-9" style="font-size: 12px;">Esports</a>
+<a href="https://radiopalafrugell.cat/tag/fc-palafrugell/" class="tag-cloud-link tag-link-892 tag-link-position-10" style="font-size: 12px;">FC Palafrugell</a>
+<a href="https://radiopalafrugell.cat/tag/futbol/" class="tag-cloud-link tag-link-894 tag-link-position-11" style="font-size: 12px;">Futbol</a>
+<a href="https://radiopalafrugell.cat/tag/futbol-a-radio-palafrugell/" class="tag-cloud-link tag-link-3238 tag-link-position-12" style="font-size: 12px;">Futbol a Ràdio Palafrugell</a>
+<a href="https://radiopalafrugell.cat/tag/futbolcatalunya/" class="tag-cloud-link tag-link-3770 tag-link-position-13" style="font-size: 12px;">futbolcatalunya</a>
+<a href="https://radiopalafrugell.cat/tag/futbol-catala/" class="tag-cloud-link tag-link-1042 tag-link-position-14" style="font-size: 12px;">Futbol Català</a>
+<a href="https://radiopalafrugell.cat/tag/futcat/" class="tag-cloud-link tag-link-3305 tag-link-position-15" style="font-size: 12px;">futcat</a>
+<a href="https://radiopalafrugell.cat/tag/josep-pascual/" class="tag-cloud-link tag-link-671 tag-link-position-16" style="font-size: 12px;">Josep Pascual</a>
+<a href="https://radiopalafrugell.cat/tag/la-punxa-cf/" class="tag-cloud-link tag-link-2742 tag-link-position-17" style="font-size: 12px;">La Punxa CF</a>
+<a href="https://radiopalafrugell.cat/tag/mas-mascort-fc/" class="tag-cloud-link tag-link-2741 tag-link-position-18" style="font-size: 12px;">Mas Mascort FC</a>
+<a href="https://radiopalafrugell.cat/tag/meteorologia/" class="tag-cloud-link tag-link-669 tag-link-position-19" style="font-size: 12px;">Meteorologia</a>
+<a href="https://radiopalafrugell.cat/tag/museu-del-suro/" class="tag-cloud-link tag-link-192 tag-link-position-20" style="font-size: 12px;">Museu del Suro</a>
+<a href="https://radiopalafrugell.cat/tag/noticies/" class="tag-cloud-link tag-link-170 tag-link-position-21" style="font-size: 12px;">Notícies</a>
+<a href="https://radiopalafrugell.cat/tag/palafrugell/" class="tag-cloud-link tag-link-116 tag-link-position-22" style="font-size: 12px;">Palafrugell</a>
+<a href="https://radiopalafrugell.cat/tag/palasport/" class="tag-cloud-link tag-link-3551 tag-link-position-23" style="font-size: 12px;">PalaSport</a>
+<a href="https://radiopalafrugell.cat/tag/policia-local-de-palafrugell/" class="tag-cloud-link tag-link-552 tag-link-position-24" style="font-size: 12px;">Policia Local de Palafrugell</a>
+<a href="https://radiopalafrugell.cat/tag/previsio-meteorologica/" class="tag-cloud-link tag-link-1874 tag-link-position-25" style="font-size: 12px;">Previsió meteorològica</a>
+<a href="https://radiopalafrugell.cat/tag/temperatura-de-laigua-del-mar/" class="tag-cloud-link tag-link-358 tag-link-position-26" style="font-size: 12px;">Temperatura de l&#039;aigua del mar</a></div>
+</aside>	</div>
+<!-- SIDEBAR END ================================================== -->
+					</div>
+				</div>
+			</div>
+			
+<!-- ======================= RELATED SECTION ======================= -->
+	<div class="qt-content-primary qt-negative qt-related-section qt-vertical-padding-l">
+		<div class="qt-container">
+			<h5 class="qt-caption-small">
+				<span>També t&#039;agradarà</span>
+			</h5>
+			<div class="qt-related-list row">
+									<div class="col s12 m4 l4">
+						<!-- POST VERTICAL ITEM ========================= -->
+<div class="qt-part-archive-item qt-vertical">
+	<div class="qt-item-header">
+		<div class="qt-header-top">
+			<ul class="qt-tags">
+				<li>
+					<a href="https://radiopalafrugell.cat/category/noticies/" rel="category tag">Notícies</a></li><li><a href="https://radiopalafrugell.cat/category/salut/" rel="category tag">Salut</a>				</li>
+			</ul>
+			<div class="qt-feedback">
+				0<i class="dripicons-message"></i> 0<i class="dripicons-heart"></i>	    	</div>
+	    </div>
+
+		<div class="qt-header-mid qt-vc">
+			<div class="qt-vi">
+		  		<h3 class="qt-title">
+					<a href="https://radiopalafrugell.cat/el-banc-de-sang-fa-una-crida-a-donar-sang-per-nadal-per-evitar-una-caiguda-de-reserves/" class="qt-text-shadow">
+						El Banc de Sang fa una crida a donar sang per Nadal per evitar una caiguda de reserves					</a>
+				</h3>
+			</div>
+		</div>
+
+		<div class="qt-header-bottom">
+			<div class="qt-item-metas">
+		<div class="qt-texts">
+		<p class="qt-author qt-ellipsis"><a href="https://radiopalafrugell.cat/author/maria/" title="Entrades de Maria Vilà" rel="author">Maria Vilà</a></p>
+		<p class="qt-date">21 de Desembre de 2025</p>
+	</div>
+</div>			<a href="https://radiopalafrugell.cat/el-banc-de-sang-fa-una-crida-a-donar-sang-per-nadal-per-evitar-una-caiguda-de-reserves/" class="qt-btn qt-btn-primary qt-readmore"><i class="dripicons-align-justify"></i></a>
+		</div>
+			        <div class="qt-header-bg" data-bgimage="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-725x1024.jpg">
+	            <img width="725" height="1024" src="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-725x1024.jpg" class="img-responsive activator wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-725x1024.jpg 725w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-212x300.jpg 212w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-768x1085.jpg 768w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre-1087x1536.jpg 1087w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Donació-de-sang-31-desembre.jpg 1241w" sizes="(max-width: 725px) 100vw, 725px" />	        </div>
+     		</div>
+</div>
+<!-- POST VERTICAL ITEM END ========================= -->
+					</div>
+									<div class="col s12 m4 l4">
+						<!-- POST VERTICAL ITEM ========================= -->
+<div class="qt-part-archive-item qt-vertical">
+	<div class="qt-item-header">
+		<div class="qt-header-top">
+			<ul class="qt-tags">
+				<li>
+					<a href="https://radiopalafrugell.cat/category/noticies/" rel="category tag">Notícies</a></li><li><a href="https://radiopalafrugell.cat/category/politica/" rel="category tag">Política</a>				</li>
+			</ul>
+			<div class="qt-feedback">
+				0<i class="dripicons-message"></i> 1<i class="dripicons-heart"></i>	    	</div>
+	    </div>
+
+		<div class="qt-header-mid qt-vc">
+			<div class="qt-vi">
+		  		<h3 class="qt-title">
+					<a href="https://radiopalafrugell.cat/palafrugell-en-comu-vol-que-la-construccio-al-solar-de-lenergia-sigui-totalment-publica-i-municipal/" class="qt-text-shadow">
+						Palafrugell en Comú vol que la construcció del solar de l&#8217;Energia sigui totalment pública					</a>
+				</h3>
+			</div>
+		</div>
+
+		<div class="qt-header-bottom">
+			<div class="qt-item-metas">
+		<div class="qt-texts">
+		<p class="qt-author qt-ellipsis"><a href="https://radiopalafrugell.cat/author/radiopalafrugell/" title="Entrades de Ràdio Palafrugell" rel="author">Ràdio Palafrugell</a></p>
+		<p class="qt-date">20 de Desembre de 2025</p>
+	</div>
+</div>			<a href="https://radiopalafrugell.cat/palafrugell-en-comu-vol-que-la-construccio-al-solar-de-lenergia-sigui-totalment-publica-i-municipal/" class="qt-btn qt-btn-primary qt-readmore"><i class="dripicons-align-justify"></i></a>
+		</div>
+			        <div class="qt-header-bg" data-bgimage="https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-1024x768.jpg">
+	            <img width="1024" height="768" src="https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-1024x768.jpg" class="img-responsive activator wp-post-image" alt="Josep Ferrés" srcset="https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-1024x768.jpg 1024w, https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-300x225.jpg 300w, https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-768x576.jpg 768w, https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-1536x1152.jpg 1536w, https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />	        </div>
+     		</div>
+</div>
+<!-- POST VERTICAL ITEM END ========================= -->
+					</div>
+									<div class="col s12 m4 l4">
+						<!-- POST VERTICAL ITEM ========================= -->
+<div class="qt-part-archive-item qt-vertical">
+	<div class="qt-item-header">
+		<div class="qt-header-top">
+			<ul class="qt-tags">
+				<li>
+					<a href="https://radiopalafrugell.cat/category/esports/" rel="category tag">Esports</a></li><li><a href="https://radiopalafrugell.cat/category/noticies/" rel="category tag">Notícies</a>				</li>
+			</ul>
+			<div class="qt-feedback">
+				0<i class="dripicons-message"></i> 0<i class="dripicons-heart"></i>	    	</div>
+	    </div>
+
+		<div class="qt-header-mid qt-vc">
+			<div class="qt-vi">
+		  		<h3 class="qt-title">
+					<a href="https://radiopalafrugell.cat/el-cadet-femeni-de-lhandbol-garbi-entre-les-millors-de-catalunya/" class="qt-text-shadow">
+						El cadet femení de l&#8217;Handbol Garbí, entre les millors de Catalunya					</a>
+				</h3>
+			</div>
+		</div>
+
+		<div class="qt-header-bottom">
+			<div class="qt-item-metas">
+		<div class="qt-texts">
+		<p class="qt-author qt-ellipsis"><a href="https://radiopalafrugell.cat/author/rafel/" title="Entrades de Rafel Corbí" rel="author">Rafel Corbí</a></p>
+		<p class="qt-date">20 de Desembre de 2025</p>
+	</div>
+</div>			<a href="https://radiopalafrugell.cat/el-cadet-femeni-de-lhandbol-garbi-entre-les-millors-de-catalunya/" class="qt-btn qt-btn-primary qt-readmore"><i class="dripicons-align-justify"></i></a>
+		</div>
+			        <div class="qt-header-bg" data-bgimage="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-768x1024.jpg">
+	            <img width="768" height="1024" src="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-768x1024.jpg" class="img-responsive activator wp-post-image" alt="" srcset="https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-768x1024.jpg 768w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol-225x300.jpg 225w, https://radiopalafrugell.cat/wp-content/uploads/2025/12/Cadet-Handbol.jpg 1080w" sizes="(max-width: 768px) 100vw, 768px" />	        </div>
+     		</div>
+</div>
+<!-- POST VERTICAL ITEM END ========================= -->
+					</div>
+							</div>
+		</div>
+	</div>
+			<!-- ======================= PREV POST SECTION ======================= -->
+			<div class="qt-content-primary-dark qt-prevnext-posts qt-negative">
+				<h4 class="qt-title center qt-vertical-padding-m">
+					Segueix llegint				</h4>
+				<div class="row qt-nopadding">
+					<div class="col s12 m6 l6">
+						<!-- POST ITEM ========================= -->
+<div class="qt-part-archive-item qt-compact">
+	<div class="qt-item-header">
+		<div class="qt-header-mid qt-vc">
+			<div class="qt-vi">
+				<h6 class="qt-text-secondary">Següent publicació</h6>
+		  		<h3 class="qt-spacer-s qt-title">
+					<a href="https://radiopalafrugell.cat/palafrugell-en-comu-vol-que-la-construccio-al-solar-de-lenergia-sigui-totalment-publica-i-municipal/" class="qt-text-shadow">
+						Palafrugell en Comú vol que la construcció del solar de l&#8217;Energia sigui totalment pública					</a>
+				</h3>
+				<hr class="qt-spacer-s">
+				<a href="https://radiopalafrugell.cat/palafrugell-en-comu-vol-que-la-construccio-al-solar-de-lenergia-sigui-totalment-publica-i-municipal/" class="qt-btn qt-btn-primary qt-readmore "><i class="dripicons-align-justify"></i></a>
+			</div>
+		</div>
+			        <div class="qt-header-bg" data-bgimage="https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-1024x768.jpg">
+	            <img src="https://radiopalafrugell.cat/wp-content/uploads/2024/10/Josep-Ferrés-1024x768.jpg" width="http://1024" height="http://768" alt="Thumbnail">
+	        </div>
+	     	</div>
+</div>
+<!-- POST ITEM END ========================= -->					</div>
+					<div class="col s12 m6 l6">
+						<!-- POST ITEM ========================= -->
+<div class="qt-part-archive-item qt-compact">
+	<div class="qt-item-header">
+		<div class="qt-header-mid qt-vc">
+			<div class="qt-vi">
+				<h6 class="qt-text-secondary">Anterior publicació</h6>
+		  		<h3 class="qt-spacer-s qt-title">
+					<a href="https://radiopalafrugell.cat/xefs-amb-cor-plats-amb-causa-de-la-fundacio-oncolliga-recapta-mes-de-dos-mil-euros-per-donar-suport-als-malalts-de-cancer/" class="qt-text-shadow">
+						“Xefs amb cor, plats amb causa” de la Fundació Oncolliga recapta més de dos mil euros per als malalts de càncer					</a>
+				</h3>
+				<hr class="qt-spacer-s">
+				<a href="https://radiopalafrugell.cat/xefs-amb-cor-plats-amb-causa-de-la-fundacio-oncolliga-recapta-mes-de-dos-mil-euros-per-donar-suport-als-malalts-de-cancer/" class="qt-btn qt-btn-primary qt-readmore "><i class="dripicons-align-justify"></i></a>
+			</div>
+		</div>
+			        <div class="qt-header-bg" data-bgimage="https://radiopalafrugell.cat/wp-content/uploads/2025/12/20251219_Donatiu-xefs-amb-cor-1024x768.jpg">
+	            <img src="https://radiopalafrugell.cat/wp-content/uploads/2025/12/20251219_Donatiu-xefs-amb-cor-1024x768.jpg" width="http://1024" height="http://768" alt="Thumbnail">
+	        </div>
+	     	</div>
+</div>
+<!-- POST ITEM END ========================= -->					</div>
+				</div>
+			</div>
+		</div>
+			</div><!-- .qt-main end -->
+	
+ <div id="qtfooterwidgets" class="qt-footer qt-footerwidgets">
+
+                <div class="qt-section qt-footer-widgets">
+                <div class="qt-container">
+                    <h2 class="qt-footer-logo">
+                        <a href="https://radiopalafrugell.cat" class="brand-logo qt-logo-text">
+                            Ràdio Palafrugell                        </a>
+                    </h2>
+
+
+                    <div id="qtfooterwidgetscontainer" class="qt-widgets qt-widgets-footer  qt-spacer-m qt-masonry row">
+                        <aside id="media_image-2" class="qt-widget col qt-ms-item widget_media_image"><img width="150" height="134" src="https://radiopalafrugell.cat/wp-content/uploads/2019/04/logo-ajuntament-palafrugell-blanc-fons-transparent-vertical-300x268.png" class="image wp-image-4302  attachment-150x134 size-150x134" alt="" style="max-width: 100%; height: auto;" srcset="https://radiopalafrugell.cat/wp-content/uploads/2019/04/logo-ajuntament-palafrugell-blanc-fons-transparent-vertical-300x268.png 300w, https://radiopalafrugell.cat/wp-content/uploads/2019/04/logo-ajuntament-palafrugell-blanc-fons-transparent-vertical.png 335w" sizes="(max-width: 150px) 100vw, 150px" /></aside><aside id="search-4" class="qt-widget col qt-ms-item widget_search"><h5 class="qt-caption-small"><span>Cercador<span></h5><form method="get" class="form-horizontal qw-searchform" action="https://radiopalafrugell.cat/" role="search">
+	<input value="" name="s" placeholder="Escriu i cerca&hellip;" type="text" />
+</form>
+</aside><aside id="qtcontacts-widget-3" class="qt-widget col qt-ms-item qtcontactswidget"><h5 class="qt-caption-small"><span>Contacte<span></h5>
+
+		<div class="qt-widget-contacts">
+
+								<p>
+						<i class="qticon-home"></i><a href="https://radiopalafrugell.cat">https://radiopalafrugell.cat</a>
+					</p>
+					
+								<p>
+						<i class="qticon-phone"></i><a href="tel:972304212">972 30 42 12</a>
+					</p>
+					
+								<p>
+						<i class="qticon-at-sign"></i><a href="mailto:radio@palafrugell.cat">radio@palafrugell.cat</a>
+					</p>
+					
+								<p>
+						<i class="qticon-location"></i><a href="http://maps.google.com/?q=C/Botines,+26,+2n17200+Palafrugell" target="_blank">C/Botines, 26, 2n														<br><i class="qticon-location qt-invisible"></i>17200 Palafrugell														</a>
+					</p>
+								
+			
+		</div>
+
+		</aside><aside id="nav_menu-3" class="qt-widget col qt-ms-item widget_nav_menu"><h5 class="qt-caption-small"><span>Altres<span></h5><div class="menu-footer-rp-container"><ul id="menu-footer-rp" class="menu"><li id="menu-item-4250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4250"><a href="https://radiopalafrugell.cat/publicitat/">Publicitat</a></li>
+<li id="menu-item-4251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4251"><a href="https://radiopalafrugell.cat/avis-legal/">Avís legal</a></li>
+<li id="menu-item-51030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51030"><a href="https://radiopalafrugell.cat/politica-de-proteccio-de-dades/">Política de protecció de dades</a></li>
+<li id="menu-item-51031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51031"><a href="https://radiopalafrugell.cat/politica-de-cookies/">Política de cookies</a></li>
+<li id="menu-item-51032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51032"><a href="https://radiopalafrugell.cat/declaracio-daccessibilitat/">Declaració d&#8217;accessibilitat</a></li>
+<li id="menu-item-73613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73613"><a href="https://cultura.palafrugell.cat/baixades/activitatspedagogiquesdepartamentsdecultura.pdf">Recursos pedagògics</a></li>
+</ul></div></aside>                    </div>
+
+
+
+                </div>
+
+                            </div>
+        
+
+    <div class="qt-footer-bottom qt-content-primary-dark">
+    	<div class="qt-container">
+    		<div class="row">
+    			<div class="col s12 m12 l8">
+                    Ajuntament de Palafrugell © Tots els drets reservats    				<ul class="qt-menu-footer qt-small qt-list-chevron ">
+                         
+    				</ul>
+    			</div>
+    			<div class="col s12 m12 l4">
+    				<ul class="qt-menu-social">
+	    				<li class="right"><a href="https://www.ivoox.com/podcast-informatius-radio-palafrugell_sq_f1556714_1.html" class="qw-disableembedding qw_social" target="_blank"><img style="display: inline;position: relative;top: 5px;" width="32" height="32" src="/wp-content/uploads/2019/04/ivoox-radio-palafrugell.png"></a></li><li class="right"><a href="https://www.youtube.com/channel/UCd2iKksl4ejLuzpJr5DRgLg" class="qw-disableembedding qw_social" target="_blank"><i class="qticon-youtube qt-socialicon"></i></a></li><li class="right"><a href="https://api.whatsapp.com/send?phone=972304212" class="qw-disableembedding qw_social" target="_blank"><i class="qticon-whatsapp qt-socialicon"></i></a></li><li class="right"><a href="https://twitter.com/RPalafrugellFM" class="qw-disableembedding qw_social" target="_blank"><i class="qticon-twitter qt-socialicon"></i></a></li><li class="right"><a href="https://www.instagram.com/radiopalafrugell/" class="qw-disableembedding qw_social" target="_blank"><i class="qticon-instagram qt-socialicon"></i></a></li><li class="right"><a href="https://www.facebook.com/RadioPalafrugell" class="qw-disableembedding qw_social" target="_blank"><i class="qticon-facebook qt-socialicon"></i></a></li>
+                    </ul>
+    			</div>
+    		</div>
+    	</div>
+        
+    </div>
+
+</div>	      
+		        <div id="qtcurrentpermalink"  data-permalink="https://radiopalafrugell.cat/les-xarxes-fantasma-son-una-fenomen-habitual-a-les-nostres-costes/">
+        	<!-- Nothing here. Used by javascript for auto refresh -->
+        </div>
+        
+        
+
+        <script type="rocketlazyloadscript">function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/app/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:'a12574c6bd7a155ac32cf5c2eb6e480c'})})</script>
+	<div id="qantumthemesproxyurl" class="qt-hidden" data-proxyurl="https://radiopalafrugell.cat"></div>
+
+	<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-chartvote/js/jquery.cookie.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var chartvote_ajax_var = {"url":"https:\/\/radiopalafrugell.cat\/wp-admin\/admin-ajax.php","nonce":"9623c52b55"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-chartvote/js/qt-chartvote-script.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/themes/onair2/js/modernizr-2.8.3-respond-1.4.2.min.js?ver=2.8.3'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+var mejsL10n = {"language":"ca","strings":{"mejs.install-flash":"Esteu utilitzant un navegador que no t\u00e9 Flash actiu o instal\u00b7lat. Activeu el component del reproductor Flash o descarregueu l'\u00faltima versi\u00f3 des de https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Tanca la pantalla completa","mejs.fullscreen-on":"V\u00e9s a la pantalla completa","mejs.download-video":"Baixa el v\u00eddeo","mejs.fullscreen":"Pantalla completa","mejs.time-jump-forward":["Salteu avant %1 segons","Salta cap endavant %1 segons"],"mejs.loop":"Commuta el bucle","mejs.play":"Reprodueix","mejs.pause":"Pausa","mejs.close":"Tanca","mejs.time-slider":"Control de temps","mejs.time-help-text":"Feu servir les tecles de fletxa esquerra\/dreta per avan\u00e7ar un segon, i les tecles de fletxa cap amunt\/cap avall per avan\u00e7ar deu segons.","mejs.time-skip-back":["Salta enrere 1 segon","Salta enrere %1 segons"],"mejs.captions-subtitles":"T\u00edtols\/subt\u00edtols","mejs.captions-chapters":"Cap\u00edtols","mejs.none":"Cap","mejs.mute-toggle":"Commuta el silenci","mejs.volume-help-text":"Fe servir les tecles de fletxa cap amunt\/cap avall per incrementar o disminuir el volum.","mejs.unmute":"Activa el so","mejs.mute":"Desactiva el so","mejs.volume-slider":"Control de volum","mejs.video-player":"Reproductor de v\u00eddeo","mejs.audio-player":"Reproductor d'\u00e0udio","mejs.ad-skip":"Salta l'anunci","mejs.ad-skip-info":["Salta en 1 segon","Salta en %1 segons"],"mejs.source-chooser":"Selector d'origen","mejs.stop":"Atura","mejs.speed-rate":"Taxa de velocitat","mejs.live-broadcast":"Transmissi\u00f3 en directe","mejs.afrikaans":"Afrikaans","mejs.albanian":"Alban\u00e8s","mejs.arabic":"\u00c0rab","mejs.belarusian":"Bielor\u00fas","mejs.bulgarian":"B\u00falgar","mejs.catalan":"Catal\u00e0","mejs.chinese":"Xin\u00e8s","mejs.chinese-simplified":"Xin\u00e8s (simplificat)","mejs.chinese-traditional":"Xin\u00e8s (tradicional)","mejs.croatian":"Croat","mejs.czech":"Txec","mejs.danish":"Dan\u00e8s","mejs.dutch":"Neerland\u00e8s","mejs.english":"Angl\u00e8s","mejs.estonian":"Estoni\u00e0","mejs.filipino":"Filip\u00ed","mejs.finnish":"Fin\u00e8s","mejs.french":"Franc\u00e8s","mejs.galician":"Gallec","mejs.german":"Alemany","mejs.greek":"Grec","mejs.haitian-creole":"Crioll haiti\u00e0","mejs.hebrew":"Hebreu","mejs.hindi":"Hindi","mejs.hungarian":"Hongar\u00e8s","mejs.icelandic":"Island\u00e8s","mejs.indonesian":"Indonesi","mejs.irish":"Irland\u00e8s","mejs.italian":"Itali\u00e0","mejs.japanese":"Japon\u00e8s","mejs.korean":"Core\u00e0","mejs.latvian":"Let\u00f3","mejs.lithuanian":"Litu\u00e0","mejs.macedonian":"Macedoni","mejs.malay":"Malai","mejs.maltese":"Malt\u00e8s","mejs.norwegian":"Noruec","mejs.persian":"Persa","mejs.polish":"Polon\u00e8s","mejs.portuguese":"Portugu\u00e8s","mejs.romanian":"Roman\u00e8s","mejs.russian":"Rus","mejs.serbian":"Serbi","mejs.slovak":"Eslovac","mejs.slovenian":"Eslov\u00e8","mejs.spanish":"Espanyol","mejs.swahili":"Suahili","mejs.swedish":"Suec","mejs.tagalog":"Tagal","mejs.thai":"Tailand\u00e8s","mejs.turkish":"Turc","mejs.ukrainian":"Ucra\u00efn\u00e8s","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00b7l\u00e8s","mejs.yiddish":"Jiddisch"}};
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/wp-util.min.js?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/backbone.min.js?ver=1.4.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/mediaelement/wp-playlist.min.js?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/themes/onair2/js/min/qt-main-min.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-ajax-pageload/js/min/qt-ajax-pageload-min.js?ver=1.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/radiopalafrugell.cat\/wp-admin\/admin-ajax.php","nonce":"6498864a25"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-loveit/js/qt-loveit.js?ver=1.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-places/inc/frontend/assets/min/script-min.js?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-swipebox/swipebox/js/jquery.swipebox.min.js?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-videogalleries/assets/jquery.quicksand.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-videogalleries/assets/jquery.easing.1.3.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-videogalleries/assets/jquery-css-transform.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-videogalleries/assets/jquery-animate-css-rotate-scale.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/qt-videogalleries/assets/vdl-main.js?ver=1.0.0'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/radiopalafrugell.cat","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/themes/onair2-child/radiopalafrugell.js?ver=1.1'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js?ver=5.6'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js?ver=5.6'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.6'></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/comment-reply.min.js?ver=5.3.20'></script>
+<script type='text/javascript' src='https://radiopalafrugell.cat/wp-includes/js/wp-embed.min.js?ver=5.3.20'></script>
+<script type="rocketlazyloadscript" defer data-rocket-type='text/javascript' src='https://radiopalafrugell.cat/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1660293540'></script>
+    </body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1766374910 -->

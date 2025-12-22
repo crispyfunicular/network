@@ -477,18 +477,15 @@ Tag Cloud
 
 Random Posts
 
-   The Zero Gravity Band, una instal·lació immersiva que Marc Marzenit i
-   Albert Barqué porten a Sónar+D Covid-19, enginyeria i solidaritat
-   Google busca formar joves programadores de la mà de Wonder Woman La
-   Mollerussa Drone Party es consolida com a cita de referència del sector
-   dron a Catalunya De la ciutat intel·ligent als negocis intel·ligents El
-   Moviment del Programari Lliure i GNU. Per una Societat Lliure Mediapro
-   i Fandroid s’alien per crear lliga europea més gran d’e-esport Màster
-   Professional en SIG online amb un 5% de descompte pels col·legiats El
-   nou Acord marc de serveis TIC de la Generalitat de Catalunya dobla les
-   adjudicacions a les Pimes CTecno debat-networking 13 novembre: “Com les
-   TIC contribueixen a l’economia circular: ecodisseny, reciclatge i
-   reutilització”
+   Convenis COEINF: ICO Oftalmologia Presentació de Windows 8 i Windows
+   Phone 8 en Català Gaudí torna a Barcelona en 4D Cursos de formació
+   Telecos COEINF El Govern aprova el Pla idigital, que posicionarà
+   Catalunya entre les 10 euroregions capdavanteres en TIC el 2020
+   International Symposium: Rare diseases and big data, from research to
+   clinical practise – 26-27 October 2017 Guia tècnica per a l’adopció de
+   programari lliure en l’administració Estats Units recupera el lideratge
+   mundial en supercomputació Conveni de col·laboració entre el COEINF i
+   barcelonaqbit-bqb/BQbInstitute La dignitat de Catalunya
    Ajax loader spinner
    (refresh random posts)
 

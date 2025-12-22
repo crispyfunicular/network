@@ -1,0 +1,636 @@
+<!doctype html>
+<html lang="ca">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" hreflang="ca" href="https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/" />
+<link rel="alternate" hreflang="en" href="https://cidai.eu/en/masterclass/introduction-to-neural-networks/" />
+<link rel="alternate" hreflang="es" href="https://cidai.eu/es/masterclass/masterclass-introduccion-a-las-redes-neuronales/" />
+<link rel="alternate" hreflang="x-default" href="https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Introducció a les Xarxes Neuronals - CIDAI</title>
+	<link rel="canonical" href="https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/" />
+	<meta property="og:locale" content="ca_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Introducció a les Xarxes Neuronals - CIDAI" />
+	<meta property="og:description" content="Introducció teòrica i pràctica a les xarxes neuronals i a les seves aplicacions. A la part teòrica s’explicarà com el model de Perceptró de Frank [...]" />
+	<meta property="og:url" content="https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/" />
+	<meta property="og:site_name" content="CIDAI" />
+	<meta property="article:modified_time" content="2025-04-24T16:14:41+00:00" />
+	<meta property="og:image" content="https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat.jpg" />
+	<meta property="og:image:width" content="1194" />
+	<meta property="og:image:height" content="709" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@cidai_eu" />
+	<meta name="twitter:label1" content="Temps estimat de lectura" />
+	<meta name="twitter:data1" content="2 minuts" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/","url":"https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/","name":"Introducció a les Xarxes Neuronals - CIDAI","isPartOf":{"@id":"https://cidai.eu/#website"},"primaryImageOfPage":{"@id":"https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/#primaryimage"},"image":{"@id":"https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/#primaryimage"},"thumbnailUrl":"https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat.jpg","datePublished":"2021-08-18T08:52:14+00:00","dateModified":"2025-04-24T16:14:41+00:00","breadcrumb":{"@id":"https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/#breadcrumb"},"inLanguage":"ca","potentialAction":[{"@type":"ReadAction","target":["https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/"]}]},{"@type":"ImageObject","inLanguage":"ca","@id":"https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/#primaryimage","url":"https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat.jpg","contentUrl":"https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat.jpg","width":1194,"height":709},{"@type":"BreadcrumbList","@id":"https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inici","item":"https://cidai.eu/"},{"@type":"ListItem","position":2,"name":"1517","item":"#"},{"@type":"ListItem","position":3,"name":"Ecosistemes","item":"https://cidai.eu/ecosistemes/"},{"@type":"ListItem","position":4,"name":"Masterclasses","item":"https://cidai.eu/masterclass/"},{"@type":"ListItem","position":5,"name":"Introducció a les Xarxes Neuronals"}]},{"@type":"WebSite","@id":"https://cidai.eu/#website","url":"https://cidai.eu/","name":"CIDAI","description":"el Centre d’Innovació en IA i Tecnologies de Dades","publisher":{"@id":"https://cidai.eu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cidai.eu/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ca"},{"@type":"Organization","@id":"https://cidai.eu/#organization","name":"CIDAI","url":"https://cidai.eu/","logo":{"@type":"ImageObject","inLanguage":"ca","@id":"https://cidai.eu/#/schema/logo/image/","url":"https://cidai.eu/wp-content/uploads/2025/02/CIDAI-header.png","contentUrl":"https://cidai.eu/wp-content/uploads/2025/02/CIDAI-header.png","width":385,"height":78,"caption":"CIDAI"},"image":{"@id":"https://cidai.eu/#/schema/logo/image/"},"sameAs":["https://x.com/cidai_eu","https://www.linkedin.com/company/cidai/posts/?feedView=all"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="CIDAI &raquo; Canal d&#039;informació" href="https://cidai.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CIDAI &raquo; Canal dels comentaris" href="https://cidai.eu/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://cidai.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcidai.eu%2Fmasterclass%2Fmasterclass-introduccio-a-les-xarxes-neuronals%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://cidai.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcidai.eu%2Fmasterclass%2Fmasterclass-introduccio-a-les-xarxes-neuronals%2F&#038;format=xml" />
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<link rel='stylesheet' id='sdm-styles-css' href='https://cidai.eu/wp-content/plugins/simple-download-monitor/css/sdm_wp_styles.css' media='all' />
+<link rel='stylesheet' id='jquery.prettyphoto-css' href='https://cidai.eu/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css' media='all' />
+<link rel='stylesheet' id='video-lightbox-css' href='https://cidai.eu/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://cidai.eu/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='https://cidai.eu/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://cidai.eu/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.5' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://cidai.eu/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.5' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://cidai.eu/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.5' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='elementor-post-19-css' href='https://cidai.eu/wp-content/uploads/elementor/css/post-19.css?ver=1766126146' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://cidai.eu/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='widget-form-css' href='https://cidai.eu/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='widget-post-info-css' href='https://cidai.eu/wp-content/plugins/elementor-pro/assets/css/widget-post-info.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-share-buttons-css' href='https://cidai.eu/wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css?ver=3.33.2' media='all' />
+<link rel='stylesheet' id='widget-video-css' href='https://cidai.eu/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='elementor-post-26-css' href='https://cidai.eu/wp-content/uploads/elementor/css/post-26.css?ver=1766126146' media='all' />
+<link rel='stylesheet' id='elementor-post-73-css' href='https://cidai.eu/wp-content/uploads/elementor/css/post-73.css?ver=1766126146' media='all' />
+<link rel='stylesheet' id='elementor-post-1220-css' href='https://cidai.eu/wp-content/uploads/elementor/css/post-1220.css?ver=1766129904' media='all' />
+<link rel='stylesheet' id='hello-elementor-child-style-css' href='https://cidai.eu/wp-content/themes/cidai/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='custom-style-css' href='https://cidai.eu/wp-content/themes/cidai/cidai/css/style-custom.css?ver=1844936457' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://cidai.eu/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1748511561' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://cidai.eu/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1748511596' media='all' />
+<script id="wpml-cookie-js-extra">
+var wpml_cookies = {"wp-wpml_current_language":{"value":"ca","expires":1,"path":"/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"ca","expires":1,"path":"/"}};
+//# sourceURL=wpml-cookie-js-extra
+</script>
+<script src="https://cidai.eu/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=486900" id="wpml-cookie-js" defer data-wp-strategy="defer"></script>
+<script src="https://cidai.eu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://cidai.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://cidai.eu/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=3.1.6" id="jquery.prettyphoto-js"></script>
+<script id="video-lightbox-js-extra">
+var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
+//# sourceURL=video-lightbox-js-extra
+</script>
+<script src="https://cidai.eu/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js?ver=3.1.6" id="video-lightbox-js"></script>
+<script id="webtoffee-cookie-consent-js-extra">
+var _wccConfig = {"_ipData":[],"_assetsURL":"https://cidai.eu/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/","_publicURL":"https://cidai.eu","_categories":[{"name":"Necessari","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[{"cookieID":"wt_consent","domain":"cidai.eu","provider":""},{"cookieID":"m","domain":"m.stripe.com","provider":"stripe.com"}],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true},"foundNoCookieScript":false},{"name":"Funcional","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"wp-wpml_current_language","domain":"cidai.eu","provider":"wp-content/plugins/sitepress-multilingual-cms/res/js"}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Anal\u00edtica","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"_ga","domain":".cidai.eu","provider":"google-analytics.com|googletagmanager.com/gtag/js"},{"cookieID":"_gid","domain":".cidai.eu","provider":"google-analytics.com|googletagmanager.com/gtag/js"},{"cookieID":"_gat_gtag_UA_*","domain":".cidai.eu","provider":"google-analytics.com|googletagmanager.com/gtag/js"},{"cookieID":"_ga_*","domain":".cidai.eu","provider":"google-analytics.com|googletagmanager.com/gtag/js"}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Rendiment","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Publicitat","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"YSC","domain":".youtube.com","provider":""},{"cookieID":"__Secure-ROLLOUT_TOKEN","domain":".youtube.com","provider":""},{"cookieID":"VISITOR_INFO1_LIVE","domain":".youtube.com","provider":""},{"cookieID":"VISITOR_PRIVACY_METADATA","domain":".youtube.com","provider":""},{"cookieID":"yt.innertube::nextId","domain":"youtube.com","provider":""},{"cookieID":"yt.innertube::requests","domain":"youtube.com","provider":""}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Altres","slug":"others","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"GDPR":{"settings":{"type":"classic","position":"bottom","applicableLaw":"gdpr","preferenceCenter":"push-down","selectedRegion":"EU","consentExpiry":365,"shortcodes":[{"key":"wcc_readmore","content":"\u003Ca href=\"https://cidai.eu/politica-de-cookies\" class=\"wcc-policy\" aria-label=\"aqu\u00ed.\" target=\"_blank\" rel=\"noopener\" data-tag=\"readmore-button\"\u003Eaqu\u00ed.\u003C/a\u003E","tag":"readmore-button","status":true,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"wcc_show_desc","content":"\u003Cbutton class=\"wcc-show-desc-btn\" data-tag=\"show-desc-button\" aria-label=\"Mostra m\u00e9s\"\u003EMostra m\u00e9s\u003C/button\u003E","tag":"show-desc-button","status":true,"attributes":[]},{"key":"wcc_hide_desc","content":"\u003Cbutton class=\"wcc-show-desc-btn\" data-tag=\"hide-desc-button\" aria-label=\"Mostra menys\"\u003EMostra menys\u003C/button\u003E","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"wcc_category_toggle_label","content":"[wcc_{{status}}_category_label] [wcc_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"wcc_enable_category_label","content":"Activa","tag":"","status":true,"attributes":[]},{"key":"wcc_disable_category_label","content":"Desactivar","tag":"","status":true,"attributes":[]},{"key":"wcc_video_placeholder","content":"\u003Cdiv class=\"video-placeholder-normal\" data-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-tag=\"placeholder-title\"\u003ESi us plau, accepteu {category} cookies per accedir a aquest contingut\u003C/p\u003E\u003C/div\u003E","tag":"","status":true,"attributes":[]},{"key":"wcc_enable_optout_label","content":"Activa","tag":"","status":true,"attributes":[]},{"key":"wcc_disable_optout_label","content":"Desactivar","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_toggle_label","content":"[wcc_{{status}}_optout_label] [wcc_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_option_title","content":"No venguis ni comparteixis la meva informaci\u00f3 personal","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_close_label","content":"Tanca","tag":"","status":true,"attributes":[]}],"bannerEnabled":true},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":true,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":[],"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}},"poweredBy":{"status":false,"tag":"detail-powered-by","styles":{"background-color":"#EDEDED","color":"#293C5B"}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":true,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#000000","background-color":"transparent","border-color":"transparent"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}},"gpcOption":false}}}},"_version":"3.4.7","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#000000","background-color":"#FFFFFF","border-color":"#000000"}},{"tag":"reject-button","styles":{"color":"#000000","background-color":"transparent","border-color":"#000000"}},{"tag":"settings-button","styles":{"color":"#000000","background-color":"transparent","border-color":"#000000"}},{"tag":"readmore-button","styles":{"color":"#000000","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863dc","background-color":"transparent","border-color":"transparent"}},{"tag":"accept-button","styles":{"color":"#000000","background-color":"#FFFFFF","border-color":"#000000"}},{"tag":"revisit-consent","styles":[]}],"_rtl":"","_lawSelected":["GDPR"],"_restApiUrl":"https://directory.cookieyes.com/api/v1/ip","_renewConsent":"1748528832177","_restrictToCA":"","_customEvents":"","_ccpaAllowedRegions":[],"_gdprAllowedRegions":[],"_closeButtonAction":"reject","_ssl":"1","_providersToBlock":[{"re":"wp-content/plugins/sitepress-multilingual-cms/res/js","categories":["functional"]},{"re":"google-analytics.com|googletagmanager.com/gtag/js","categories":["analytics"]}]};
+var _wccStyles = {"css":{"GDPR":".wcc-hide{display: none;}.wcc-btn-revisit-wrapper{display: flex; padding: 6px; border-radius: 8px; opacity: 0px; background-color:#ffffff; box-shadow: 0px 3px 10px 0px #798da04d;  align-items: center; justify-content: center;  position: fixed; z-index: 999999; cursor: pointer;}.wcc-revisit-bottom-left{bottom: 15px; left: 15px;}.wcc-revisit-bottom-right{bottom: 15px; right: 15px;}.wcc-btn-revisit-wrapper .wcc-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.wcc-btn-revisit-wrapper .wcc-btn-revisit img{max-width: fit-content; margin: 0; } .wcc-btn-revisit-wrapper .wcc-revisit-help-text{font-size:14px; margin-left:4px; display:none;}.wcc-btn-revisit-wrapper:hover .wcc-revisit-help-text, .wcc-btn-revisit-wrapper:focus-within .wcc-revisit-help-text { display: block;}.wcc-revisit-hide{display: none;}.wcc-preference-btn:hover{cursor:pointer; text-decoration:underline;}.wcc-cookie-audit-table { font-family: inherit; border-collapse: collapse; width: 100%;} .wcc-cookie-audit-table th, .wcc-cookie-audit-table td {text-align: left; padding: 10px; font-size: 12px; color: #000000; word-break: normal; background-color: #d9dfe7; border: 1px solid #cbced6;} .wcc-cookie-audit-table tr:nth-child(2n + 1) td { background: #f1f5fa; }.wcc-consent-container{position: fixed; width: 100%; box-sizing: border-box; z-index: 9999999;}.wcc-classic-bottom{bottom: 0; left: 0;}.wcc-classic-top{top: 0; left: 0;}.wcc-consent-container .wcc-consent-bar{background: #ffffff; border: 1px solid; padding: 16.5px 24px; box-shadow: 0 -1px 10px 0 #acabab4d;}.wcc-consent-bar .wcc-banner-btn-close{position: absolute; right: 14px; top: 14px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; height: auto; width: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.wcc-consent-bar .wcc-banner-btn-close img{width: 10px; height: 10px; margin: 0;}.wcc-custom-brand-logo-wrapper .wcc-custom-brand-logo{width: 100px; height: auto; margin: 0 0 10px 0;}.wcc-notice .wcc-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 10px 0;}.wcc-notice-group{display: flex; justify-content: space-between; align-items: center;}.wcc-notice-des *{font-size: 14px;}.wcc-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.wcc-notice-des img{height: 25px; width: 25px;}.wcc-consent-bar .wcc-notice-des p{color: inherit; margin-top: 0;}.wcc-notice-des p:last-child{margin-bottom: 0;}.wcc-notice-des a.wcc-policy,.wcc-notice-des button.wcc-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.wcc-notice-des button.wcc-policy{padding: 0;}.wcc-notice-des a.wcc-policy:focus-visible,.wcc-consent-bar .wcc-banner-btn-close:focus-visible,.wcc-notice-des button.wcc-policy:focus-visible,.wcc-category-direct-switch input[type=\"checkbox\"]:focus-visible,.wcc-preference-content-wrapper .wcc-show-desc-btn:focus-visible,.wcc-accordion-header .wcc-accordion-btn:focus-visible,.wcc-switch input[type=\"checkbox\"]:focus-visible,.wcc-footer-wrapper a:focus-visible,.wcc-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.wcc-btn:focus:not(:focus-visible),.wcc-accordion-header .wcc-accordion-btn:focus:not(:focus-visible),.wcc-preference-content-wrapper .wcc-show-desc-btn:focus:not(:focus-visible),.wcc-btn-revisit-wrapper .wcc-btn-revisit:focus:not(:focus-visible),.wcc-preference-header .wcc-btn-close:focus:not(:focus-visible),.wcc-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.wcc-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.wcc-accordion-btn:not(:hover):not(:active),button.wcc-banner-btn-close:not(:hover):not(:active),button.wcc-btn-close:not(:hover):not(:active),button.wcc-btn-revisit:not(:hover):not(:active){background: transparent;}.wcc-consent-bar button:hover,.wcc-modal.wcc-modal-open button:hover,.wcc-consent-bar button:focus,.wcc-modal.wcc-modal-open button:focus{text-decoration: none;}.wcc-notice-btn-wrapper{display: flex; justify-content: center; align-items: center; margin-left: 15px;}.wcc-notice-btn-wrapper .wcc-btn{text-shadow: none; box-shadow: none;}.wcc-btn{font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px 27px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; white-space: nowrap; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.wcc-btn:hover{opacity: 0.8;}.wcc-btn-customize{color: #1863dc; background: transparent; border: 2px solid; border-color: #1863dc; padding: 8px 28px 8px 14px; position: relative;}.wcc-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.wcc-consent-bar .wcc-btn-customize::after{position: absolute; content: \"\"; display: inline-block; top: 18px; right: 12px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 6px solid; border-top-color: inherit;}.wcc-consent-container.wcc-consent-bar-expand .wcc-btn-customize::after{transform: rotate(-180deg);}.wcc-btn:last-child{margin-right: 0;}@media (max-width: 768px){.wcc-notice-group{display: block;}.wcc-notice-btn-wrapper{margin: 0;}.wcc-notice-btn-wrapper{flex-wrap: wrap;}.wcc-notice-btn-wrapper .wcc-btn{flex: auto; max-width: 100%; margin-top: 10px; white-space: unset;}}@media (max-width: 576px){.wcc-btn-accept{order: 1; width: 100%;}.wcc-btn-customize{order: 2;}.wcc-btn-reject{order: 3; margin-right: 0;}.wcc-consent-container.wcc-consent-bar-expand .wcc-consent-bar{display: none;}.wcc-consent-container .wcc-consent-bar{padding: 16.5px 0;}.wcc-custom-brand-logo-wrapper .wcc-custom-brand-logo, .wcc-notice .wcc-title, .wcc-notice-des, .wcc-notice-btn-wrapper, .wcc-category-direct-preview-wrapper{padding: 0 24px;}.wcc-notice-des{max-height: 40vh; overflow-y: scroll;}}@media (max-width: 352px){.wcc-notice .wcc-title{font-size: 16px;}.wcc-notice-des *{font-size: 12px;}.wcc-notice-des, .wcc-btn, .wcc-notice-des a.wcc-policy{font-size: 12px;}}.wcc-preference-wrapper{display: none;}.wcc-consent-container.wcc-classic-bottom.wcc-consent-bar-expand{animation: wcc-classic-expand 1s;}.wcc-consent-container.wcc-classic-bottom.wcc-consent-bar-expand .wcc-preference-wrapper{display: block;}@keyframes wcc-classic-expand{0%{transform: translateY(50%);}100%{transform: translateY(0%);}}.wcc-consent-container.wcc-classic-top .wcc-preference-wrapper{animation: wcc-classic-top-expand 1s;}.wcc-consent-container.wcc-classic-top.wcc-consent-bar-expand .wcc-preference-wrapper{display: block;}@keyframes wcc-classic-top-expand{0%{opacity: 0; transform: translateY(-50%);}50%{opacity: 0;}100%{opacity: 1; transform: translateY(0%);}}.wcc-preference{padding: 0 24px; color: #212121; overflow-y: scroll; max-height: 48vh;}.wcc-preference-center,.wcc-preference,.wcc-preference-header,.wcc-footer-wrapper{background-color: inherit;}.wcc-preference-center,.wcc-preference,.wcc-preference-body-wrapper,.wcc-accordion-wrapper{color: inherit;}.wcc-preference-header .wcc-btn-close{cursor: pointer; vertical-align: middle; padding: 0; margin: 0; display: none; background: none; border: none; height: auto; width: auto; min-height: 0; line-height: 0; box-shadow: none; text-shadow: none;}.wcc-preference-header .wcc-btn-close img{margin: 0; height: 10px; width: 10px;}.wcc-preference-header{margin: 16px 0 0 0; display: flex; align-items: center; justify-content: space-between;}.wcc-preference-header .wcc-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.wcc-google-privacy-url a {text-decoration:none;color: #1863dc;cursor:pointer;} .wcc-preference-content-wrapper *,.wcc-preference-body-wrapper *{font-size: 14px;}.wcc-preference-content-wrapper{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0; }.wcc-preference-content-wrapper img{height: 25px; width: 25px;}.wcc-preference-content-wrapper .wcc-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.wcc-preference-body-wrapper .wcc-preference-content-wrapper p{color: inherit; margin-top: 0;}.wcc-accordion-wrapper{margin-bottom: 10px;}.wcc-accordion{border-bottom: 1px solid;}.wcc-accordion:last-child{border-bottom: none;}.wcc-accordion .wcc-accordion-item{display: flex; margin-top: 10px;}.wcc-accordion .wcc-accordion-body{display: none;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.wcc-accordion-header-wrapper{cursor: pointer; width: 100%;}.wcc-accordion-item .wcc-accordion-header{display: flex; justify-content: space-between; align-items: center;}.wcc-accordion-header .wcc-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.wcc-accordion-header .wcc-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.wcc-accordion-header-des *{font-size: 14px;}.wcc-accordion-header-des{color: #212121; font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.wcc-accordion-header-wrapper .wcc-accordion-header-des p{color: inherit; margin-top: 0;}.wcc-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.wcc-accordion-chevron-hide{display: none;}.wcc-accordion .wcc-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.wcc-accordion.wcc-accordion-active .wcc-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.wcc-audit-table{background: #f4f4f4; border-radius: 6px;}.wcc-audit-table .wcc-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.wcc-audit-table .wcc-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.wcc-audit-table .wcc-cookie-des-table:last-child{border-bottom: none;}.wcc-audit-table .wcc-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.wcc-audit-table .wcc-cookie-des-table li:first-child{padding-top: 0;}.wcc-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.wcc-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.wcc-cookie-des-table li div:last-child p{color: inherit; margin-top: 0;}.wcc-cookie-des-table li div:last-child p:last-child{margin-bottom: 0;}.wcc-prefrence-btn-wrapper{display: flex; align-items: center; justify-content: flex-end; padding: 18px 24px; border-top: 1px solid;}.wcc-prefrence-btn-wrapper .wcc-btn{text-shadow: none; box-shadow: none;}.wcc-category-direct-preview-btn-wrapper .wcc-btn-preferences{text-shadow: none; box-shadow: none;}.wcc-prefrence-btn-wrapper .wcc-btn-accept,.wcc-prefrence-btn-wrapper .wcc-btn-reject{display: none;}.wcc-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-footer-wrapper{position: relative;}.wcc-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: 100%;}.wcc-preference-center,.wcc-preference,.wcc-preference-body-wrapper,.wcc-preference-content-wrapper,.wcc-accordion-wrapper,.wcc-accordion,.wcc-footer-wrapper,.wcc-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 768px){.wcc-preference{max-height: 35vh;}}@media (max-width: 576px){.wcc-consent-bar-hide{display: none;}.wcc-preference{max-height: 100vh; padding: 0;}.wcc-preference-body-wrapper{padding: 60px 24px 200px;}.wcc-preference-body-wrapper-reject-hide{padding: 60px 24px 165px;}.wcc-preference-header{position: fixed; width: 100%; box-sizing: border-box; z-index: 999999999; margin: 0; padding: 16px 24px; border-bottom: 1px solid #f4f4f4;}.wcc-preference-header .wcc-btn-close{display: block;}.wcc-prefrence-btn-wrapper{display: block;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding-right: 0;}.wcc-prefrence-btn-wrapper .wcc-btn{width: 100%; margin-top: 10px; margin-right: 0;}.wcc-prefrence-btn-wrapper .wcc-btn:first-child{margin-top: 0;}.wcc-accordion:last-child{padding-bottom: 20px;}.wcc-prefrence-btn-wrapper .wcc-btn-accept, .wcc-prefrence-btn-wrapper .wcc-btn-reject{display: block;}.wcc-footer-wrapper{position: fixed; bottom: 0; width: 100%;}}@media (max-width: 425px){.wcc-accordion-chevron{margin-right: 15px;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.wcc-preference-header .wcc-preference-title{font-size: 16px;}.wcc-preference-content-wrapper *, .wcc-accordion-header-des *{font-size: 12px;}.wcc-accordion-header-des, .wcc-preference-content-wrapper, .wcc-preference-content-wrapper .wcc-show-desc-btn{font-size: 12px;}.wcc-accordion-header .wcc-accordion-btn{font-size: 14px;}}.wcc-category-direct-preview-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; margin-top: 16px;}.wcc-category-direct-preview{display: flex; flex-wrap: wrap; align-items: center; font-size: 14px; font-weight: 600; line-height: 24px; color: #212121;}.wcc-category-direct-preview-section{width: 100%; display: flex; justify-content: space-between; flex-wrap: wrap;}.wcc-category-direct-item{display: flex; margin: 0 30px 10px 0; cursor: pointer;}.wcc-category-direct-item label{font-size: 14px; font-weight: 600; margin-right: 10px; cursor: pointer; word-break: break-word;}.wcc-category-direct-switch input[type=\"checkbox\"]{display: inline-block; position: relative; width: 33px; height: 18px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; border: none; cursor: pointer; vertical-align: middle; outline: 0; top: 0;}.wcc-category-direct-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.wcc-category-direct-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 15px; width: 15px; left: 2px; bottom: 2px; margin: 0; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s;}.wcc-category-direct-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(14px); -ms-transform: translateX(14px); transform: translateX(14px);}.wcc-category-direct-switch input[type=\"checkbox\"]:after{display: none;}.wcc-category-direct-switch .wcc-category-direct-switch-enabled:checked{background: #818181;}@media (max-width: 576px){.wcc-category-direct-preview-wrapper{display: block;}.wcc-category-direct-item{justify-content: space-between; width: 45%; margin: 0 0 10px 0;}.wcc-category-direct-preview-btn-wrapper .wcc-btn-preferences{width: 100%;}}@media (max-width: 352px){.wcc-category-direct-preview{font-size: 12px;}}.wcc-switch{display: flex;}.wcc-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.wcc-switch input[type=\"checkbox\"]:checked{background: #3a76d8;}.wcc-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.wcc-switch input[type=\"checkbox\"]:after{display: none;}.wcc-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.wcc-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.wcc-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.wcc-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-text-youtube:hover{text-decoration:underline;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.wcc-rtl{direction: rtl; text-align: right;}.wcc-rtl .wcc-banner-btn-close{left: 9px; right: auto;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:last-child{margin-right: 8px;}.wcc-rtl .wcc-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn{margin-right: 8px;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn:first-child{margin-right: 0;}.wcc-rtl .wcc-accordion .wcc-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}.wcc-rtl .wcc-category-direct-preview-btn-wrapper{margin-right: 15px; margin-left: 0;}.wcc-rtl .wcc-category-direct-item label{margin-right: 0; margin-left: 10px;}.wcc-rtl .wcc-category-direct-preview-section .wcc-category-direct-item:first-child{margin: 0 0 10px 0;}@media (max-width: 992px){.wcc-rtl .wcc-category-direct-preview-btn-wrapper{margin-right: 0;}}@media (max-width: 768px){.wcc-rtl .wcc-notice-btn-wrapper{margin-right: 0;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:first-child{margin-right: 0;}}@media (max-width: 576px){.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn{margin-right: 0;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn{margin-right: 0;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:last-child{margin-right: 0;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn-reject{margin-right: 8px;}.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 15px 0 0;}}@media (max-width: 440px){.wcc-consent-bar .wcc-banner-btn-close,.wcc-preference-header .wcc-btn-close{padding: 17px;}.wcc-consent-bar .wcc-banner-btn-close {right: 2px; top: 6px; } .wcc-preference-header{padding: 12px 0 12px 24px;}} @media (min-width: 768px) and (max-width: 1024px) {.wcc-consent-bar .wcc-banner-btn-close,.wcc-preference-header .wcc-btn-close{padding: 17px;}.wcc-consent-bar .wcc-banner-btn-close {right: 2px; top: 6px; } .wcc-preference-header{padding: 12px 0 12px 24px;}}@media (max-width: 576px) and (max-height: 425px) { .wcc-notice-des {  max-height: unset;  overflow-y: unset; } .wcc-consent-container { max-height: 100vh; overflow-y: scroll; } .wcc-preference { max-height: unset; overflow-y: unset; } .wcc-preference-body-wrapper { padding: 0 24px; } .wcc-preference-body-wrapper-reject-hide { padding: 0 24px; } .wcc-preference-header { position: unset; } .wcc-footer-wrapper { position: unset; } }"}};
+var _wccApi = {"base":"https://cidai.eu/wp-json/wcc/v1/","nonce":"aa5492723d"};
+//# sourceURL=webtoffee-cookie-consent-js-extra
+</script>
+<script src="https://cidai.eu/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/js/script.min.js?ver=3.4.7" id="webtoffee-cookie-consent-js"></script>
+<script id="sdm-scripts-js-extra">
+var sdm_ajax_script = {"ajaxurl":"https://cidai.eu/wp-admin/admin-ajax.php"};
+//# sourceURL=sdm-scripts-js-extra
+</script>
+<script src="https://cidai.eu/wp-content/plugins/simple-download-monitor/js/sdm_wp_scripts.js" id="sdm-scripts-js"></script>
+<script src="https://cidai.eu/wp-content/themes/cidai/cidai/js/scripts.js" id="theme-js-js"></script>
+<link rel="https://api.w.org/" href="https://cidai.eu/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://cidai.eu/wp-json/wp/v2/masterclass/278" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cidai.eu/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://cidai.eu/?p=278' />
+<meta name="generator" content="WPML ver:4.8.6 stt:8,1,2;" />
+<style id="wcc-style-inline">[data-tag]{visibility:hidden;}</style><script>
+            WP_VIDEO_LIGHTBOX_VERSION="1.9.12";
+            WP_VID_LIGHTBOX_URL="https://cidai.eu/wp-content/plugins/wp-video-lightbox";
+                        function wpvl_paramReplace(name, string, value) {
+                // Find the param with regex
+                // Grab the first character in the returned string (should be ? or &)
+                // Replace our href string with our new value, passing on the name and delimeter
+
+                var re = new RegExp("[\?&]" + name + "=([^&#]*)");
+                var matches = re.exec(string);
+                var newString;
+
+                if (matches === null) {
+                    // if there are no params, append the parameter
+                    newString = string + '?' + name + '=' + value;
+                } else {
+                    var delimeter = matches[0].charAt(0);
+                    newString = string.replace(re, delimeter + name + "=" + value);
+                }
+                return newString;
+            }
+            </script>		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+				aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65990622-39"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-65990622-39');
+</script>
+	<meta name="generator" content="Elementor 3.33.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://cidai.eu/wp-content/uploads/2025/03/favi-cidai.png" sizes="32x32" />
+<link rel="icon" href="https://cidai.eu/wp-content/uploads/2025/03/favi-cidai.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cidai.eu/wp-content/uploads/2025/03/favi-cidai.png" />
+<meta name="msapplication-TileImage" content="https://cidai.eu/wp-content/uploads/2025/03/favi-cidai.png" />
+		<style id="wp-custom-css">
+			.page-id-2327 .card-v .card-img img {
+  min-height: 254px;
+  max-height: 254px;
+  -o-object-fit: cover;
+  object-fit: contain;
+  background:
+#0F0F0F;
+	/* afegit a personalitzador, moure*/
+}
+.section-logo .elementor-widget-image a img[src$=".svg"]{
+	transition: all .5s ease;
+}		</style>
+		</head>
+<body class="wp-singular masterclass-template-default single single-masterclass postid-278 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor wp-child-theme-cidai hello-elementor-default elementor-default elementor-kit-19 elementor-page-1220">
+
+
+<a class="skip-link screen-reader-text" href="#content">Vés al contingut</a>
+
+		<header data-elementor-type="header" data-elementor-id="26" class="elementor elementor-26 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-1b82ae1 section-prenav e-flex e-con-boxed e-con e-parent" data-id="1b82ae1" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7580085 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-wpml-language-switcher" data-id="7580085" data-element_type="widget" data-widget_type="wpml-language-switcher.default">
+				<div class="elementor-widget-container">
+					<div class="wpml-elementor-ls">
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-list-horizontal">
+	<ul role="menu"><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ca wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-list-horizontal" role="none">
+				<a href="https://cidai.eu/masterclass/masterclass-introduccio-a-les-xarxes-neuronals/" class="wpml-ls-link" role="menuitem" >
+                    <span class="wpml-ls-native" role="menuitem">Cat</span></a>
+			</li><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-item-legacy-list-horizontal" role="none">
+				<a href="https://cidai.eu/en/masterclass/introduction-to-neural-networks/" class="wpml-ls-link" role="menuitem"  aria-label="Switch to En(En)" title="Switch to En(En)" >
+                    <span class="wpml-ls-native" lang="en">En</span></a>
+			</li><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-es wpml-ls-last-item wpml-ls-item-legacy-list-horizontal" role="none">
+				<a href="https://cidai.eu/es/masterclass/masterclass-introduccion-a-las-redes-neuronales/" class="wpml-ls-link" role="menuitem"  aria-label="Switch to Es(Es)" title="Switch to Es(Es)" >
+                    <span class="wpml-ls-native" lang="es">Es</span></a>
+			</li></ul>
+</div>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cba075b elementor-shape-circle xxss elementor-widget-mobile__width-inherit elementor-grid-0 elementor-widget elementor-widget-global elementor-global-799 elementor-widget-social-icons" data-id="cba075b" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-e13604b" href="https://www.linkedin.com/company/cidai/posts/?feedView=all" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin-in" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter elementor-repeater-item-5ff2c9c" href="https://x.com/cidai_eu?lang=es" target="_blank">
+						<span class="elementor-screen-only">X-twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ac68574 section-nav e-flex e-con-boxed e-con e-parent" data-id="ac68574" data-element_type="container" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;widescreen&quot;,&quot;desktop&quot;,&quot;laptop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4f3d8c7 e-con-full section-logo e-flex e-con e-child" data-id="4f3d8c7" data-element_type="container">
+				<div class="elementor-element elementor-element-3fa3342 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="3fa3342" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/">
+							<img data-src="https://cidai.eu/wp-content/uploads/2025/02/logo-CIDAI-header.svg" class="attachment-full size-full wp-image-2382 lazyload" alt="CIDAI. Centre Of Innovation for Data tech and Artificial Intelligence" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-59cc5ce btMenu btnDownload btnDownload--menu elementor-widget elementor-widget-button" data-id="59cc5ce" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-bars" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path></svg>			</span>
+									<span class="elementor-button-text">Menú</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3428936 e-con-full e-flex e-con e-child" data-id="3428936" data-element_type="container">
+				<div class="elementor-element elementor-element-9039d59 l-margin-no elementor-widget elementor-widget-wp-widget-nav_menu" data-id="9039d59" data-element_type="widget" data-widget_type="wp-widget-nav_menu.default">
+				<div class="elementor-widget-container">
+					<nav class="menu-menu-principal-cat-container" aria-label="Menú"><ul id="menu-menu-principal-cat" class="menu"><li id="menu-item-1045" class="megamenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1045"><a href="https://cidai.eu/sobre-el-cidai/">Sobre el CIDAI</a>
+<ul class="sub-menu">
+	<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a href="/sobre-el-cidai/governanca-catalonia-ai-dih4cat/#governanca">Governança<span class="menu-item-description">El CIDAI és una iniciativa col·laborativa en què hi participa l’administració pública, empreses privades i centres tecnològics i d’innovació catalans.</span></a></li>
+	<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="/sobre-el-cidai/governanca-catalonia-ai-dih4cat/#catalonia">Catalonia AI<span class="menu-item-description">El CIDAI és un dels quatre pilars de la Catalonia.AI, enfocat a promoure la innovació tecnològica basada en la IA.</span></a></li>
+	<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a href="/sobre-el-cidai/governanca-catalonia-ai-dih4cat/#dih4cat">DIH4CAT<span class="menu-item-description">El DIH4CAT, a la vegada, és un dels més de 150 DIHs europeus distribuïts per les diverses regions de tots els estats membres de la UE a través del Programa Europa Digital.</span></a></li>
+</ul>
+</li>
+<li id="menu-item-9023" class="megamenu megamenu-col-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9023"><a href="/projectes/">Projectes</a>
+<ul class="sub-menu">
+	<li id="menu-item-2436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2436"><a href="/projectes-cidai/projectes-dimpacte/">Projectes d&#8217;impacte<span class="menu-item-description">Els projectes d’impacte PAI es generen a partir d’un repte complex, proposat bé per una empresa, l’administració o entitats d’altra naturalesa</span></a></li>
+	<li id="menu-item-2437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2437"><a href="/projectes-cidai/proves-de-concepte/">Proves de concepte<span class="menu-item-description">Les proves de concepte són projectes de menor envergadura que mostren desenvolupaments realitzats pels membres del CIDAI per demostrar la viabilitat de solucions tecnològiques.</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1523" class="megamenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1523"><a href="https://cidai.eu/ecosistemes/">Ecosistemes</a>
+<ul class="sub-menu">
+	<li id="menu-item-1606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1606"><a href="/masterclass/">Masterclasses<span class="menu-item-description">Oferim sessions formatives especialitzades sobre tecnologia, estratègia o negoci al voltant de la IA i les dades, desenvolupades per especialistes dels membres del CIDAI.</span></a></li>
+	<li id="menu-item-1646" class="menu-item menu-item-type-post_type_archive menu-item-object-taller menu-item-1646"><a href="https://cidai.eu/tallers/">Tallers<span class="menu-item-description">Dissenyem i executem tallers per a impulsar la innovació empresarial i sectorial a partir de reptes clau.</span></a></li>
+	<li id="menu-item-1719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1719"><a href="https://cidai.eu/ecosistemes/hackatons/">Hackatons<span class="menu-item-description">Mitjançant activitats tipus Hackatons o Datathons promovem la innovació col·laborativa entre experts, empreses i acadèmia</span></a></li>
+	<li id="menu-item-1718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1718"><a href="https://cidai.eu/ecosistemes/eina-autoavaluacio/">Eina d’Autoavaluació<span class="menu-item-description">Des del CIDAI posem al seu servei una eina d’autoavaluació de la seva maduresa tecnològica</span></a></li>
+	<li id="menu-item-1717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1717"><a href="https://cidai.eu/ecosistemes/mapatge-ecosistema/">Mapatge Ecosistema<span class="menu-item-description">Aquest mapatge que té per objectiu identificar i visualitzar les empreses i agents de l’ecosistema català al voltant de la Intel·ligència Artificial i l’economia de les dades.</span></a></li>
+	<li id="menu-item-1716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1716"><a href="https://cidai.eu/ecosistemes/diagnosi-lean/">Diagnosi Lean<span class="menu-item-description">Servei destinat a organitzacions amb maduresa digital mitja que tenen interès en identificar com l’analítica avançada i la IA podria millorar la seva activitat i negoci.</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7775" class="megamenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7775"><a href="https://cidai.eu/adopcio-i-divulgacio/">Adopció i divulgació</a>
+<ul class="sub-menu">
+	<li id="menu-item-1790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1790"><a href="https://cidai.eu/adopcio-i-divulgacio/conferencies/">Conferències<span class="menu-item-description">L’AI Congress Barcelona és el punt de trobada per a professionals, proveïdors i usuaris de la tecnologia i empreses i entitats innovadores que treballen al voltant de la Intel·ligència Artificial</span></a></li>
+	<li id="menu-item-1619" class="menu-item menu-item-type-post_type_archive menu-item-object-llibreblanc menu-item-1619"><a href="https://cidai.eu/llibres-blancs/">Llibres Blancs<span class="menu-item-description">Els Llibres Blancs analitzen l’estat de l’adopció de la IA en diferents sectors rellevants de l’economia catalana.</span></a></li>
+	<li id="menu-item-1789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1789"><a href="https://cidai.eu/adopcio-i-divulgacio/observatori-dinnovacio/">Observatori d’Innovació<span class="menu-item-description">Descobriu com la IA influeix en les tendències tecnològiques en documents monogràfics sectorials que el CIDA posa a la vostra disposició.</span></a></li>
+</ul>
+</li>
+<li id="menu-item-803" class="megamenu megamenu-col-2 menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-803"><a href="https://cidai.eu/actualitat/">Actualitat</a>
+<ul class="sub-menu">
+	<li id="menu-item-3105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3105"><a href="https://cidai.eu/category/blog/">Blog<span class="menu-item-description">Articles d’opinió</span></a></li>
+	<li id="menu-item-2110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2110"><a href="/agenda">Agenda<span class="menu-item-description">Tots els esdeveniments que organitzem al voltant de CIDAI</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1792"><a href="https://cidai.eu/contacte/">Contacte</a></li>
+</ul></nav>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</header>
+				<main data-elementor-type="single-post" data-elementor-id="1220" class="elementor elementor-1220 elementor-location-single post-278 masterclass type-masterclass status-publish has-post-thumbnail hentry idioma-castella" data-elementor-post-type="elementor_library">
+			<header class="elementor-element elementor-element-6c0721e page-header e-flex e-con-boxed e-con e-parent" data-id="6c0721e" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-46941b7 section elementor-widget elementor-widget-heading" data-id="46941b7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">Masterclasses</span>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9e01093 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="9e01093" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Introducció a les Xarxes Neuronals</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cc7fe36 date_event elementor-widget elementor-widget-shortcode" data-id="cc7fe36" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode">Dijous 04 novembre de 2021 a les 16:00 h</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ee99aa5 language_event elementor-widget elementor-widget-post-info" data-id="ee99aa5" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-30bbe49 elementor-inline-item" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Idioma:</span>
+										<span class="elementor-post-info__terms-list">
+				<span class="elementor-post-info__terms-list-item">Castellà</span>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+				</header>
+		<div class="elementor-element elementor-element-f5d16e4 section-breadcrumb e-flex e-con-boxed e-con e-parent" data-id="f5d16e4" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ca16273 breadcrumb elementor-widget__width-auto elementor-widget elementor-widget-shortcode" data-id="ca16273" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><span><span><a href="https://cidai.eu/">Inici</a></span> &gt; <span><a href="https://cidai.eu/ecosistemes/">Ecosistemes</a></span> &gt; <span><a href="https://cidai.eu/masterclass/">Masterclasses</a></span> &gt; <span class="breadcrumb_last" aria-current="page">Introducció a les Xarxes Neuronals</span></span> </div>
+						</div>
+				</div>
+		<div class="elementor-element elementor-element-3cdc97e e-con-full e-flex e-con e-child" data-id="3cdc97e" data-element_type="container">
+				<div class="elementor-element elementor-element-54f1ff7 elementor-widget elementor-widget-heading" data-id="54f1ff7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">Compartir</p>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0e02588 elementor-share-buttons--view-icon elementor-share-buttons--skin-flat elementor-share-buttons--shape-circle elementor-grid-3 elementor-share-buttons--color-custom elementor-widget elementor-widget-share-buttons" data-id="0e02588" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid" role="list">
+								<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_x-twitter" role="button" tabindex="0" aria-label="Compartició en x-twitter">
+															<span class="elementor-share-btn__icon">
+								<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_facebook" role="button" tabindex="0" aria-label="Compartició en facebook">
+															<span class="elementor-share-btn__icon">
+								<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item" role="listitem">
+						<div class="elementor-share-btn elementor-share-btn_linkedin" role="button" tabindex="0" aria-label="Compartició en linkedin">
+															<span class="elementor-share-btn__icon">
+								<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7023320 section-color-transparent e-flex e-con-boxed e-con e-parent" data-id="7023320" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-51208b1 e-con-full wrapper-content e-flex e-con e-child" data-id="51208b1" data-element_type="container">
+				<div class="elementor-element elementor-element-aa928b7 l-margin-sm elementor-widget elementor-widget-theme-post-content" data-id="aa928b7" data-element_type="widget" data-widget_type="theme-post-content.default">
+				<div class="elementor-widget-container">
+					<p>Introducció teòrica i pràctica a les xarxes neuronals i a les seves aplicacions. A la part teòrica s’explicarà com el model de Perceptró de Frank Rosenblatt ha evolucionat a les xarxes de Deep Learning d’avui dia. Es repassaran els conceptes teòrics com la Loss function, el mètode de descens del gradient, els diferents mètrics i la matriu de confusió. Es mostrà com preparar un dataset per fer un experiment i com escollir una xarxa per resoldre una tasca concreta: xarxes de classificació, xarxes de detecció d’objectes i de segmentació semàntica.</p>
+<p>A la segona part, es posaran en pràctica els coneixements de la part teòrica amb l’entorn de Google Colab. A través d’un Jupyter Notebook es mostrarà com fer algun experiment. Al final de la sessió el Jupyter Notebook estarà disponible per als assistents perquè el puguin utilitzar per continuar experimentant.</p>
+<p>Adreçada a:</p>
+<p>-Persones que sentin curiositat per a les possibilitats de Deep Learning i amb ganes de fer algun experiment. És recomanable tenir coneixements de programació (preferiblement en Python) i d’àlgebra lineal.</p>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-04082c7 h5 elementor-widget elementor-widget-heading" data-id="04082c7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Programa</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-87a2991 programa_event l-margin-sm elementor-widget elementor-widget-text-editor" data-id="87a2991" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Els temes principals dels quals parlaràs en la ponència:</p>
+<p>– Xarxes neuronals<br />
+– Deep Learning</p>
+<p>Part I: Introducció teòrica a Deep Learning (1h):<br />
+Explicació dels conceptes bàsics per entendre i entrenar una xarxa neuronal.</p>
+<p>Part II: Sessió pràctica d’una hora per familiaritzar-se amb l’entorn de Google Colab i posar en marxa algunes xarxes neuronals.</p>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-200f52f btn-inscriuret l-margin-sm elementor-widget elementor-widget-shortcode" data-id="200f52f" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"></div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1a04af5 impartido_masterclass elementor-widget elementor-widget-shortcode" data-id="1a04af5" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><p class="h5">Masterclass impartida per CVC (core partner de CIDAI)</p><img width="182" height="87" data-src="https://cidai.eu/wp-content/uploads/2025/03/CVC.png" class="attachment-full size-full lazyload" alt="" decoding="async" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 182px; --smush-placeholder-aspect-ratio: 182/87;" /></div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9629012 e-con-full aside e-flex e-con e-child" data-id="9629012" data-element_type="container">
+		<div class="elementor-element elementor-element-99356a8 e-con-full box bg-color-primary-light e-flex e-con e-child" data-id="99356a8" data-element_type="container">
+				<div class="elementor-element elementor-element-6bcf851 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="6bcf851" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+				<div class="elementor-widget-container">
+															<img width="960" height="570" data-src="https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat.jpg" class="attachment-apaisat size-apaisat wp-image-279 lazyload" alt="" data-srcset="https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat.jpg 1194w, https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat-300x178.jpg 300w, https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat-1024x608.jpg 1024w, https://cidai.eu/wp-content/uploads/2025/03/MASTERCLASS-CVC-WEB-cat-768x456.jpg 768w" data-sizes="(max-width: 960px) 100vw, 960px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 960px; --smush-placeholder-aspect-ratio: 960/570;" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-842d138 elementor-widget elementor-widget-shortcode" data-id="842d138" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"></div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a6df35a e-con-full box e-flex e-con e-child" data-id="a6df35a" data-element_type="container">
+				<div class="elementor-element elementor-element-4a89a82 h5 l-margin-sm elementor-widget elementor-widget-heading" data-id="4a89a82" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Impartit per:</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-afb7a14 nom_autor elementor-widget elementor-widget-text-editor" data-id="afb7a14" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Coen Antens								</div>
+				</div>
+				<div class="elementor-element elementor-element-f4298ff carrec_autor elementor-widget elementor-widget-text-editor" data-id="f4298ff" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Responsable de la Unitat de Suport Tecnològic del CVC								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</main>
+				<footer data-elementor-type="footer" data-elementor-id="73" class="elementor elementor-73 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-727f560 section-newsletter e-flex e-con-boxed e-con e-parent" data-id="727f560" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-20f0eab h4 elementor-widget elementor-widget-heading" data-id="20f0eab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Subscriu-te als butlletins de vigilància tecnològica</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-78bec62 form-newsletter elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="78bec62" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;25&quot;,&quot;step_next_label&quot;:&quot;Seg\u00fcent&quot;,&quot;step_previous_label&quot;:&quot;Anterior&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+							<form class="elementor-form" method="post" name="Formulari subscripció al butlletí" aria-label="Formulari subscripció al butlletí" novalidate="">
+			<input type="hidden" name="post_id" value="73"/>
+			<input type="hidden" name="form_id" value="78bec62"/>
+			<input type="hidden" name="referer_title" value="Home - CIDAI" />
+
+							<input type="hidden" name="queried_id" value="828"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-25">
+												<label for="form-field-name" class="elementor-field-label elementor-screen-only">
+								Nom							</label>
+														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nom">
+											</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_659faf0 elementor-col-25">
+												<label for="form-field-field_659faf0" class="elementor-field-label elementor-screen-only">
+								Cognom							</label>
+														<input size="1" type="text" name="form_fields[field_659faf0]" id="form-field-field_659faf0" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Cognom">
+											</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-25 elementor-field-required">
+												<label for="form-field-email" class="elementor-field-label elementor-screen-only">
+								Email							</label>
+														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+											</div>
+								<div class="elementor-field-type-acceptance elementor-field-group elementor-column elementor-field-group-field_c2cd75c elementor-col-100 elementor-field-required">
+												<label for="form-field-field_c2cd75c" class="elementor-field-label elementor-screen-only">
+								He llegit i accepto la Política de Privacitat							</label>
+								<div class="elementor-field-subgroup">
+			<span class="elementor-field-option">
+				<input type="checkbox" name="form_fields[field_c2cd75c]" id="form-field-field_c2cd75c" class="elementor-field elementor-size-sm  elementor-acceptance-field" required="required">
+				<label for="form-field-field_c2cd75c">He llegit i accepto la <a href="/politica-privacitat/">Política de Privacitat</a></label>			</span>
+		</div>
+						</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-25 e-form__buttons">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">Subscriu-t'hi</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-42885d1 footer e-flex e-con-boxed e-con e-parent" data-id="42885d1" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-59d9aa8 e-con-full e-flex e-con e-child" data-id="59d9aa8" data-element_type="container">
+				<div class="elementor-element elementor-element-bcdc5aa elementor-widget elementor-widget-image" data-id="bcdc5aa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="154" height="73" data-src="https://cidai.eu/wp-content/uploads/2025/02/CIDAI-footer.png" class="attachment-large size-large wp-image-120 lazyload" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 154px; --smush-placeholder-aspect-ratio: 154/73;" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-bce5d3f txt-sm elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="bce5d3f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>El CIDAI implementa l’eix d’innovació de l’Estratègia d’Intel·ligència Artificial de Catalunya (Catalonia.AI)  a Catalunya per impulsar projectes i la transferència de coneixement de solucions centrades en IA. El CIDAI és també el node d’IA del DIH4CAT.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2aa634c e-con-full contact-details e-flex e-con e-child" data-id="2aa634c" data-element_type="container">
+				<div class="elementor-element elementor-element-4b8ec10 txt-sm elementor-widget elementor-widget-text-editor" data-id="4b8ec10" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Adreça<br /></strong>C/Bilbao, 72 Edif. A.<br />08005 &#8211; Barcelona</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-c612cf8 txt-sm elementor-widget elementor-widget-text-editor" data-id="c612cf8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Contacte<br /></strong>Tel. +34 93 7419 100<br /><a href="mailto:info@cidai-catalonia-ai.eu">info@cidai-catalonia-ai.eu</a></p>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d3c8920 footer-legal e-flex e-con-boxed e-con e-parent" data-id="d3c8920" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1789aa3 elementor-widget elementor-widget-text-editor" data-id="1789aa3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>© CIDAI, 2025 &#8211; <a href="/credits">Crèdits</a></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-0a4dde4 elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="0a4dde4" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://cidai.eu/politica-de-cookies/">
+
+											<span class="elementor-icon-list-text">Política de cookies</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://cidai.eu/avis-legal/">
+
+											<span class="elementor-icon-list-text">Avís legal</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://cidai.eu/politica-de-privacitat/">
+
+											<span class="elementor-icon-list-text">Política de privacitat</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+				</div>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/cidai/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<a rel="nofollow" style="display:none" href="https://cidai.eu/?blackhole=70e858f652" title="Do NOT follow this link or you will be banned from the site!">CIDAI</a>
+<script id="wccBannerTemplate_GDPR" type="text/template"><div class="wcc-btn-revisit-wrapper wcc-revisit-hide" data-tag="revisit-consent" data-tooltip="Configurador de Cookies"> <button class="wcc-btn-revisit" aria-label="Configurador de Cookies"> <img src="https://cidai.eu/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button> <span class="wcc-revisit-help-text"> Configurador de Cookies </span></div><div class="wcc-consent-container wcc-hide" role="region"> <div class="wcc-consent-bar" data-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4">  <div class="wcc-notice"> <p id="wcc-title" class="wcc-title" data-tag="title" role="heading" aria-level="1" aria-labelledby="wcc-title" style="color:#212121"></p><div class="wcc-notice-group"> <div id="wcc-notice-des" class="wcc-notice-des" data-tag="description" aria-describedby="wcc-notice-des" style="color:#212121"> <p>Aquest web utilitza cookies pròpies i de tercers per recopilar informació estadística sobre els hàbits de navegació dels usuaris i oferir-los publicitat personalitzada, per millorar els serveis i continguts i guardar les preferències de navegació. Més informació en relació a les cookies</p> </div><div class="wcc-notice-btn-wrapper" data-tag="notice-buttons"> <button class="wcc-btn wcc-btn-customize" aria-label="Personalitzar" data-tag="settings-button" style="color:#000000;background-color:transparent;border-color:#000000">Personalitzar</button> <button class="wcc-btn wcc-btn-reject" aria-label="Rebutjar Totes" data-tag="reject-button" style="color:#000000;background-color:transparent;border-color:#000000">Rebutjar Totes</button> <button class="wcc-btn wcc-btn-accept" aria-label="Acceptar Totes" data-tag="accept-button" style="color:#000000;background-color:#FFFFFF;border-color:#000000">Acceptar Totes</button> </div></div></div></div><div class="wcc-preference-wrapper" data-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#f4f4f4"> <div class="wcc-preference-center"> <div class="wcc-preference"> <div class="wcc-preference-header"> <span id="wcc-preference-title" class="wcc-preference-title" data-tag="detail-title" role="heading" aria-level="1" aria-labelledby="wcc-preference-title" style="color:#212121">Descripció general de la privacitat</span> <button class="wcc-btn-close" aria-label="Tanca preferències de consentiment" data-tag="detail-close"> <img src="https://cidai.eu/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="wcc-preference-body-wrapper"> <div class="wcc-preference-content-wrapper" data-tag="detail-description" style="color:#212121"> <p>La web utilitza cookies, pròpies o de tercers, per analitzar els hàbits de navegació dels usuaris i millorar els continguts i serveis de la web, i per guardar les preferències de navegació de l’usuari. Algunes de les cookies instal·lades son necessàries per poder accedir a la web i no requereixen el consentiment de l’usuari. Altres cookies son accessòries i tenen diverses finalitats, la instal·lació i requereixen el consentiment de l’usuari. L’usuari pot configurar i obtenir el detall de les cookies de la web a continuació Més informació a la <a href="https://cidai.eu/politica-de-cookies">Política de Cookies</a></p>galetes, però la desactivació d'algunes d'elles pot afectar la vostra navegació. experiència. </div> <div class="wcc-google-privacy-policy" data-tag="google-privacy-policy">  </div><div class="wcc-accordion-wrapper" data-tag="detail-categories"> <div class="wcc-accordion" id="wccDetailCategorynecessary" role="button" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Necessari" data-tag="detail-category-title" style="color:#212121">Necessari</button><span class="wcc-always-active">Sempre actiu</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchnecessary"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Les cookies necessàries són crucials per a les funcions bàsiques del lloc web i el lloc web no funcionarà de la manera prevista sense elles. Aquestes cookies no emmagatzemen cap dada d’identificació personal.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>wt_consent</div></li><li><div>Durada</div><div>1 any</div></li><li><div>Descripció</div><div><p>S'utilitza per recordar les preferències de consentiment dels usuaris que es respectaran en les visites posteriors al lloc. No recull ni emmagatzema informació personal sobre els visitants del lloc.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>m</div></li><li><div>Durada</div><div>1 any 1 mes 4 dies</div></li><li><div>Descripció</div><div><p>Stripe estableix aquesta cookie amb finalitats de prevenció del frau. Identifica el dispositiu utilitzat per accedir al lloc web, permetent que el lloc web es formati en conseqüència.</p></div></li></ul></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryfunctional" role="button" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Funcional" data-tag="detail-category-title" style="color:#212121">Funcional</button><span class="wcc-always-active">Sempre actiu</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchfunctional"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Les cookies funcionals ajuden a realitzar determinades funcionalitats com compartir el contingut del lloc web a les plataformes de xarxes socials, recopilar comentaris i altres funcions de tercers.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>wp-wpml_current_language</div></li><li><div>Durada</div><div>sessió</div></li><li><div>Descripció</div><div><p> El connector multilingüe del WordPress estableix aquesta galeta per emmagatzemar la configuració actual de l'idioma/idioma.</p></div></li></ul></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryanalytics" role="button" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Analítica" data-tag="detail-category-title" style="color:#212121">Analítica</button><span class="wcc-always-active">Sempre actiu</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchanalytics"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Les cookies analítiques s’utilitzen per entendre com interactuen els visitants amb el lloc web. Aquestes cookies ajuden a proporcionar informació sobre mètriques, el nombre de visitants, el percentatge de rebots, la font de trànsit, etc.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>_ga</div></li><li><div>Durada</div><div>1 any 1 mes 4 dies</div></li><li><div>Descripció</div><div><p>Google Analytics estableix aquesta cookie per calcular les dades de visitants, sessions i campanyes i fer un seguiment de l'ús del lloc per a l'informe d'anàlisi del lloc. La cookie emmagatzema informació de forma anònima i assigna un número generat aleatòriament per reconèixer visitants únics.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>_gid</div></li><li><div>Durada</div><div>1 dia</div></li><li><div>Descripció</div><div><p>Google Analytics estableix aquesta cookie per emmagatzemar informació sobre com els visitants utilitzen un lloc web, mentre que també crea un informe analític del rendiment del lloc web. Algunes de les dades recollides inclouen el nombre de visitants, la seva font i les pàgines que visiten de forma anònima.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>_gat_gtag_UA_*</div></li><li><div>Durada</div><div>1 minut</div></li><li><div>Descripció</div><div><p>Google Analytics estableix aquesta cookie per emmagatzemar un identificador d'usuari únic.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>_ga_*</div></li><li><div>Durada</div><div>1 any 1 mes 4 dies</div></li><li><div>Descripció</div><div><p>Google Analytics estableix aquesta cookie per emmagatzemar i comptar les vistes de la pàgina.</p></div></li></ul></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryadvertisement" role="button" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Publicitat" data-tag="detail-category-title" style="color:#212121">Publicitat</button><span class="wcc-always-active">Sempre actiu</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchadvertisement"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Les galetes publicitàries s’utilitzen per oferir als visitants anuncis personalitzats en funció de les pàgines que van visitar abans i analitzar l’eficàcia de la campanya publicitària.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>YSC</div></li><li><div>Durada</div><div>Sessió</div></li><li><div>Descripció</div><div><p>Youtube estableix aquesta cookie per fer un seguiment de les visualitzacions dels vídeos incrustats a les pàgines de Youtube.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>__Secure-ROLLOUT_TOKEN</div></li><li><div>Durada</div><div>6 mesos</div></li><li><div>Descripció</div><div><p>La descripció no està disponible actualment.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>VISITOR_INFO1_LIVE</div></li><li><div>Durada</div><div>6 mesos</div></li><li><div>Descripció</div><div><p>YouTube estableix aquesta cookie per mesurar l'amplada de banda, determinant si l'usuari obté la interfície de reproductor nova o antiga.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>VISITOR_PRIVACY_METADATA</div></li><li><div>Durada</div><div>6 mesos</div></li><li><div>Descripció</div><div><p>YouTube estableix aquesta cookie per emmagatzemar l'estat de consentiment de cookies de l'usuari per al domini actual.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>yt.innertube::nextId</div></li><li><div>Durada</div><div>mai</div></li><li><div>Descripció</div><div><p>YouTube estableix aquesta cookie per registrar un ID únic per emmagatzemar dades en quins vídeos de YouTube ha vist l'usuari.</p></div></li></ul><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>yt.innertube::requests</div></li><li><div>Durada</div><div>mai</div></li><li><div>Descripció</div><div><p>YouTube estableix aquesta cookie per registrar un ID únic per emmagatzemar dades en quins vídeos de YouTube ha vist l'usuari.</p></div></li></ul></div> </div> </div> </div></div></div><div class="wcc-footer-wrapper"> <span class="wcc-footer-shadow"></span> <div class="wcc-prefrence-btn-wrapper" data-tag="detail-buttons"> <button class="wcc-btn wcc-btn-accept" aria-label="Acceptar Totes" data-tag="detail-accept-button" style="color:#000000;background-color:#FFFFFF;border-color:#000000"> Acceptar Totes </button> <button class="wcc-btn wcc-btn-preferences" aria-label="Desa les meves preferències" data-tag="detail-save-button" style="color:#000000;background-color:transparent;border-color:#000000"> Desa les meves preferències </button> <button class="wcc-btn wcc-btn-reject" aria-label="Rebutjar Totes" data-tag="detail-reject-button" style="color:#000000;background-color:transparent;border-color:#000000"> Rebutjar Totes </button> </div><div style="padding: 8px 24px;font-size: 12px;font-weight: 400;line-height: 20px;text-align: right;direction: ltr;display: flex;justify-content: flex-end;align-items: center;background-color:#EDEDED;color:#293C5B;display:none" data-tag="detail-powered-by"> Powered by <a target="_blank" rel="noopener" href="https://www.webtoffee.com/product/gdpr-cookie-consent" style="margin-left: 5px;line-height: 0"><img src="https://cidai.eu/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/webtoffee.svg" alt="Webtoffee logo" style="width: 78px;height: 13px;margin: 0"></a> </div></div></div></div></div></script>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script src="https://cidai.eu/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.5" id="hello-theme-frontend-js"></script>
+<script src="https://cidai.eu/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.33.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://cidai.eu/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4" id="elementor-frontend-modules-js"></script>
+<script src="https://cidai.eu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Comparteix al Facebook","shareOnTwitter":"Comparteix al Twitter","pinIt":"Fixa-ho","download":"Baixa","downloadImage":"Baixa la imatge","fullscreen":"Pantalla completa","zoom":"Escalada","share":"Comparteix","playVideo":"Reprodueix v\u00eddeo","previous":"Anterior","next":"Seg\u00fcent","close":"Tanca","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Seg\u00fcent diapositiva","a11yCarouselFirstSlideMessage":"Aquesta \u00e9s la primera diapositiva","a11yCarouselLastSlideMessage":"Aquesta \u00e9s l'\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ves a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f2bil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f2bil horitzontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tauleta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tauleta horitzontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e0til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla ampla","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.33.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/cidai.eu\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/cidai.eu\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/cidai.eu\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"15c9782a3b"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":278,"title":"Introducci%C3%B3%20a%20les%20Xarxes%20Neuronals%20-%20CIDAI","excerpt":"","featuredImage":"https:\/\/cidai.eu\/wp-content\/uploads\/2025\/03\/MASTERCLASS-CVC-WEB-cat-1024x608.jpg"}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://cidai.eu/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.4" id="elementor-frontend-js"></script>
+<script src="https://cidai.eu/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script src="https://cidai.eu/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.33.2" id="e-sticky-js"></script>
+<script id="smush-lazy-load-js-before">
+var smushLazyLoadOptions = {"autoResizingEnabled":false,"autoResizeOptions":{"precision":5,"skipAutoWidth":true}};
+//# sourceURL=smush-lazy-load-js-before
+</script>
+<script src="https://cidai.eu/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.23.1" id="smush-lazy-load-js"></script>
+<script src="https://cidai.eu/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.33.2" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://cidai.eu/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://cidai.eu/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/cidai.eu\/wp-admin\/admin-ajax.php","nonce":"caefd5f41f","urls":{"assets":"https:\/\/cidai.eu\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/cidai.eu\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"ca","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/cidai.eu\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script src="https://cidai.eu/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.33.2" id="elementor-pro-frontend-js"></script>
+<script src="https://cidai.eu/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.33.2" id="pro-elements-handlers-js"></script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.7 on 2025-12-19 22:00:17 -->
