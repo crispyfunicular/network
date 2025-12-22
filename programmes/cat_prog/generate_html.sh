@@ -40,6 +40,7 @@ cat << EOF > "$output_path"
 							<th scope="col">page HTML brute</th>
 							<th scope="col">dump textuel</th>
 							<th scope="col">concordancier HTML</th>
+							<th scope="col">bigrammes</th>
 							<th scope="col">robots.txt</th>
 							<th scope="col">concordancier couleurs</th>
 						</tr>
@@ -78,6 +79,7 @@ do
 							<td></td>
 							<td></td>
 							<td></td>
+							<td></td>
 						</tr>
 EOF
 	else
@@ -93,6 +95,7 @@ EOF
 								<td><a href="../../aspirations/cat_aspirations/$lineno.html">page HTML brute</a></td>
 								<td><a href="../../dumps-text/cat_dumps/$lineno.txt">dump textuel</a></td>
 								<td><a href="../../concordances/cat/$lineno.html">concordancier HTML</a></td>
+								<td><a href="../../bigrammes/cat/$lineno.txt">bigrammes</a></td>
 								<td><a href="">robots.txt</a></td>
 								<td><a href="">concordancier couleurs</a></td>
 							</tr>
