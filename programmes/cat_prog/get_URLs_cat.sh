@@ -53,10 +53,10 @@ do
 		# -nolist (remove links)
 		# wc -w (count the number of words)
 		# wc -l (count the number of occurences)
-		aspirations_path="./aspirations/cat_aspirations/$lineno.txt"
-		lynx -dump -nolist $line > $aspirations_path
-		num_words=$(cat "$aspirations_path" | wc -w)
-		num_occurences=$(cat "$aspirations_path" | grep -i -o -E "(xarxa|xarxes)" | wc -l)
+		dump_path="./dumps-text/cat_dumps/$lineno.txt"
+		lynx -dump -nolist $line > $dump_path
+		num_words=$(cat "$dump_path" | wc -w)
+		num_occurences=$(cat "$dump_path" | grep -i -o -E "(xarxa|xarxes)" | wc -l)
 	else
 		num_words=0
 	fi

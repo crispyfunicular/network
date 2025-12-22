@@ -10,7 +10,7 @@
 #fi
 
 # $1 first argument passed to the program; "tableaux/URLs.tsv" by default
-tsv=${1-tableaux/URLs.tsv}
+tsv=${1-tableaux/cat_tableaux/URLs.tsv}
 
 # cat << EOF allows to print multiple lines at once
 # Write the begining of the HTML file/table
