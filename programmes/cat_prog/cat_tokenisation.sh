@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Pour chaque fichier aspiré, ce programme copie chaque mot du fichier sur une ligne d'un nouveau fichier en prenant pour séparateurs les espaces et la ponctuation.
-# Entrée : liste d'URL
+# Entrée : liste d'URL + métadonnées au format tsv
 # Sortie : un fichier texte .txt avec un token par ligne pour chaque URL (un fichier par URL)
 
 # ./programmes/cat_prog/cat_tokenisation.sh ../tableaux/URLs.tsv

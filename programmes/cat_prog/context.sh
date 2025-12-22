@@ -2,7 +2,7 @@
 
 # Récupère pour chaque URL le contexte avant et après le mot cible ("xarxa" ou "xarxes"), correspondant aux deux lignes précédant et suivant le mot cible.
 # Entrée : liste d'URL
-# Sortie : un fichier texte .txt avec un token par ligne pour chaque URL (un fichier par URL)
+# Sortie : Un fichier texte par URL avec une succession de contextes (séparés par ---) constitués des deux lignes précédant et suivant le mot-cible.
 
 # ./programmes/cat_prog/context.sh ../tableaux/URLs.tsv
 

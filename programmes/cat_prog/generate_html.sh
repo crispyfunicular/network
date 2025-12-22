@@ -11,41 +11,41 @@
 
 # $1 first argument passed to the program; "tableaux/URLs.tsv" by default
 tsv=${1-tableaux/cat_tableaux/URLs.tsv}
+output_path="./tableaux/cat_tableaux/tableau_cat.html"
 
 # cat << EOF allows to print multiple lines at once
 # Write the begining of the HTML file/table
-cat << EOF
-<!doctype html>
-	<html>
-		<head>
-			<meta charset="UTF-8"/>
-            <meta name="viewport" content="width=device-width, initial-scale=1" />
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css">
-			<title>xarxa</title>
-		</head>
+cat << EOF > "$output_path"
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css">
+		<title>xarxa</title>
+	</head>
 
-		<body>
-            <section class="section">
-                <div class="tabme-container">
-					<table class="table is-hoverable is-bordered is-striped">
-						
-						<thead class=""has-background-primary-35 has-text-primary-35-invert"">
-							<tr>
-								<th scope="col">line no</th>
-								<th scope="col">adresse html</th>
-								<th scope="col">response code</th>
-								<th scope="col">charset</th>
-								<th scope="col">word number</th>
-								<th scope="col">occurrences</th>
-								<th scope="col">page HTML brute</th>
-								<th scope="col">dump textuel</th>
-								<th scope="col">concordancier HTML</th>
-								<th scope="col">robots.txt</th>
-								<th scope="col">concordancier couleurs</th>
-							</tr>
-						</thead>
+	<body>
+		<section class="section">
+			<div class="table-container">
+				<table class="table is-hoverable is-bordered is-striped">
+					
+					<thead class=""has-background-primary-35 has-text-primary-35-invert"">
+						<tr>
+							<th scope="col">line no</th>
+							<th scope="col">adresse html</th>
+							<th scope="col">response code</th>
+							<th scope="col">charset</th>
+							<th scope="col">word number</th>
+							<th scope="col">occurrences</th>
+							<th scope="col">page HTML brute</th>
+							<th scope="col">dump textuel</th>
+							<th scope="col">concordancier HTML</th>
+							<th scope="col">robots.txt</th>
+							<th scope="col">concordancier couleurs</th>
+						</tr>
+					</thead>
 
-						<tbody>
+					<tbody>
 EOF
 
 
@@ -65,7 +65,7 @@ do
 	if ! [[ "$response_code" -eq 200 ]];
 	then
 		rc_class=' class="has-text-danger"'
-		cat << EOF
+		cat << EOF >> "$output_path"
 						<tr>
 							<td>$lineno</td>
 							<td><a href="$url">$url</td>
@@ -82,7 +82,7 @@ do
 EOF
 	else
 		rc_class=''
-		cat << EOF
+		cat << EOF >> "$output_path"
 							<tr>
 								<td>$lineno</td>
 								<td><a href="$url">$url</td>
@@ -92,7 +92,7 @@ EOF
 								<td>$num_occurences</td>
 								<td><a href="../../aspirations/cat_aspirations/$lineno.html">page HTML brute</a></td>
 								<td><a href="../../dumps-text/cat_dumps/$lineno.txt">dump textuel</a></td>
-								<td><a href="">concordancier HTML</a></td>
+								<td><a href="../../concordances/cat/$lineno.html">concordancier HTML</a></td>
 								<td><a href="">robots.txt</a></td>
 								<td><a href="">concordancier couleurs</a></td>
 							</tr>
@@ -103,7 +103,7 @@ EOF
 done < $tsv
 
 # Write the end of the HTML table/file
-cat << EOF
+cat << EOF >> "$output_path"
 						</tbody>
 					</table>
                 </div>
