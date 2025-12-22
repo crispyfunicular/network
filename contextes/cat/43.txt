@@ -1,0 +1,89 @@
+Més sobre un pla ferroviari propi
+
+Xarxa en forma de malla per a Catalunya
+
+   A Catalunya podem aspirar a tenir una xarxa de ferrocarril equiparable
+   a països com Suïssa o Àustria, amb una orografia més complexa que la
+   nostra. Les nostres propostes recullen actuacions de millora per a la
+   xarxa ferroviària de Catalunya, per ordre de necessitat: primer, per
+   evitar un major deteriorament del sistema, i després, per convertir el
+   ferrocarril en el mitjà de transport preferent dels catalans i per
+--
+     * 4. Manteniment
+     * 5. Nou paradigma de transport a Catalunya
+     * 6. Integració real de les xarxes existents
+     * 7. Racionalització
+     * 8. Ampliació de la xarxa
+     * 9. Integració a les poblacions
+     * 10. Qualitat
+--
+   gestionar-se i funcionar per separat. Però hi ha coses que es poden fer
+   des del Govern de Catalunya i no s'han fet, en nom de solucionar-ho
+   quan fossim independents i controléssim la nostra xarxa de trens.
+
+3. Millores urgents en seguretat.
+
+   Tenim segments sencers de la xarxa sense comunicacions adequades per
+   als maquinistes, senyalització que no funciona o que deixa de funcionar
+   pel més mínim sabotatge i sistemes de control antiquats o inexistents.
+   Són necessaris nous sistemes redundants de comunicació, control,
+   senyalització i barreres a tots els passos a nivell del país. Cal
+   implementar l’estàndard ETCS a tota la xarxa.
+
+4. Millores en manteniment.
+--
+   guanyar-se el vot dels veïns, quan la decisió sobre agafar o no el tren
+   no depèn de la proximitat de l'estació sinó de quant triga a arribar a
+   destí. La xarxa de transport públic d'un país ha de procurar que a la
+   gent li surti a compte agafar-lo. I generalment això passa quan li
+   permet arribar a destí abans que amb cotxe o amb molt poca diferència
+--
+   km/h sense problemes sempre i quan la via estigui ben construïda.
+
+   Per a accelerar el trànsit a la xarxa cal fer una distinció clara entre
+   el transport local, el regional i l’interregional. Per exemple, és
+   absurd que un mateix tren porti passatgers de forma directa de Sils a
+--
+   l’antiga R4.
+
+6. Integració real de les xarxes existents.
+
+   Per a poder seguir aplicant el nou paradigma del punt anterior, és
+   imprescindible homogeneïtzar tota la xarxa catalana i fer-la 100%
+   intercompatible. Com a primer pas, imprescindible i fonamental, els FGC
+   del Vallès han d’entrar a Sants des del Baixador de Vallvidrera sota el
+--
+   creuen amb la Renfe a l’Hospitalet de Llobregat (Av. Carrilet amb
+   Rosalia de Castro). Fet això, Sants es convertirà en l’estació
+   principal de Barcelona i finalment estaran les xarxes integrades des
+   del punt de vista de l’usuari. Per a integrar les xarxes des del punt
+   de vista del material rodant, necessitem tenir un únic ample de via i
+   un únic voltatge de catenària. Els estàndards europeus son els que hi
+   ha instal·lats a les vies d’alta velocitat, per tant s’ha de canviar la
+   FGC Llobregat (1000 mm, 1,5 kV DC) i tota la xarxa ADIF-convencional
+   (1668 mm, 3 kV DC) a ample i voltatge europeu (1435 mm i 25 kV AC). A
+   més, cal canviar l’electrificació FGC Vallès a 25 kV AC. Requereix
+--
+7. Racionalització.
+
+   Reduir el cost de l’actual xarxa d’estacions convertint-ne a baixadors
+   de transport local i mantenint-ne només una com a estació a cada
+   població. Per posar un exemple, Barcelona, Sant Cugat, Terrassa,
+--
+   el mateix estalvi que hauria de suposar.
+
+8. Ampliació de la xarxa.
+
+Infraestructura ferroviària principalment de mercaderies
+--
+   Es tracta d’acabar el traçar que portaria a L4 a les dues estacions de
+   Rodalies de La Sagrera. Milloraria la connectivitat de la L4 amb la
+   xarxa de Rodalies, una línia actualment amb un intercanviador i poc
+   eficient (Passeig de Gràcia). Es preveu també en una segona fase
+   millorar l’intercanviador de Passeig de Gràcia, orientant els
+--
+   El tram central de la L9/L10 s’ha d’acabar, actualment el comparteix la
+   línia H6 de bus, una de les més saturades i amb més passatge de tota la
+   xarxa de bus.
+
+   5. L11 Trinitat Nova - Terrassa
