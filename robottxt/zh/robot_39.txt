@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+Disallow: https://help.foxdata.com/*
+Disallow: https://www.foxdata.com/*
+Disallow: /*utm_source=*
+Disallow: */undefined/*
+Disallow: /forgot/*
+Disallow: */null
+Disallow: https://test.foxdata.com/*
+Disallow: https://test-api.foxdata.com/*
+Disallow: https://test-api.foxdata.com/api-174227510
+Disallow: https://test-platform.foxdata.com/*/dashboard/*
+Disallow: https://uat.foxdata.com/*
+Disallow: https://uat-api.foxdata.com/
+Disallow: https://uat-platform.foxdata.com/*/dashboard/*
+Disallow: https://dev.foxdata.com/*
+Disallow: https://dev-api.foxdata.com/*
+Disallow: https://dev-platform.foxdata.com/*
+Disallow: https://platform.foxdata.com/*/reviewer-history/*
+
+Sitemap: https://foxdata.com/sitemap.xml

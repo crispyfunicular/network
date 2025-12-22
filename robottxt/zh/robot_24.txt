@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:/?*
+Disallow:/new/
+Disallow:/bdsuper/
+Disallow:/*html?*
+Disallow:/index.html
+Disallow:/index.shtml
+Disallow:/router.php?*
+Disallow:/pic/

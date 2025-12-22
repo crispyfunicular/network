@@ -1,0 +1,82 @@
+User-Agent: Baiduspider
+Disallow: /tags/
+Disallow: /tag/
+Disallow: /ithome/
+Disallow: /keywords/
+Disallow: /search/
+Disallow:/tag/adt_all*
+Disallow: /comment/
+Disallow: /*?*
+Disallow: /?*
+Disallow: /html/zixun/
+
+User-Agent: *
+Disallow: /ithome/
+Disallow: /keywords/
+Disallow: /search/
+Disallow: /comment/
+Disallow: /*?*
+Disallow: /?*
+Disallow: /html/zixun/
+
+# Block OpenAI
+User-Agent: GPTBot
+Disallow: /
+User-Agent: ChatGPT-User
+Disallow: /
+
+# Block Google Bard AI
+User-Agent: Google-Extended
+Disallow: /
+
+#Block Common Crawl
+User-Agent: CCBot
+Disallow: /
+
+#Block Anthropic
+User-Agent: Claudebot
+Disallow: /
+
+#Block Llama 3
+User-Agent: Secret Llama
+Disallow: /
+
+
+User-agent: Amazonbot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: AwarioRssBot
+Disallow: /
+User-agent: AwarioSmartBot
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: magpie-crawler
+Disallow: /
+User-agent: NewsNow
+Disallow: /
+User-agent: news-please
+Disallow: /
+User-agent: omgili
+Disallow: /
+User-agent: omgilibot
+Disallow: /
+User-agent: peer39_crawler
+Disallow: /
+User-agent: peer39_crawler/1.0
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: Scrapy
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /

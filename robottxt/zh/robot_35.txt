@@ -1,0 +1,3 @@
+User-agent:*
+Allow:/
+Sitemap:http://news.china.com/sitemap_index.xml

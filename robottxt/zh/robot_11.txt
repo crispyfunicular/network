@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /insurance/yiwai/
+Disallow: /insurance/jiankang/
+Disallow: /insurance/lvxing/
+Disallow: /insurance/shaoer/
+Disallow: /insurance/caichan/
+Disallow: /insurance/renshou/
+Disallow: /insurance/chexian/
+Disallow: /finance/express/
+Disallow: /finance/szitfin/
+Disallow: /finance/venture/
+Disallow: /finance/topic/
+Disallow: /finance/wsjm/

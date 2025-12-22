@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Search/
+Disallow: /Search/*
+Disallow: /df888/
+Disallow: /df888/*

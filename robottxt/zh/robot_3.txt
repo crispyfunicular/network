@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:/api/
+Disallow:/config/
+Disallow:/debug/
+Disallow:/do_not_delete/
+Disallow:/libs/
+Disallow:/logs/
+Disallow:/meitu/
+Disallow:/tools/
+Disallow:/*preview_sign=*

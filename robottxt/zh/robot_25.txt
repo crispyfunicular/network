@@ -1,0 +1,54 @@
+﻿User-Agent:*
+Allow: /
+Disallow: /*?*
+Disallow: /Peo*C
+Disallow: /People_C/*
+Disallow: /zhiyeguihua/*
+Disallow: /zhiyeguihua_*/*
+Disallow: /tags/*
+Disallow: /search*
+Disallow: /home_
+Disallow: /home_*/*
+Disallow: /p*er
+Disallow: /N*d
+Disallow: /sear*
+Disallow: /in*e
+Disallow: /*?iscreat=1
+Disallow: /Strategy*
+Disallow: /guandian*
+Disallow: /zixun*
+Disallow: /renwu*
+Disallow: /tuandui*
+Disallow: /jiyu*
+Disallow: /hrft*
+Disallow: /zhiyeguihua*
+Disallow: /newszixun*
+Disallow: /newskx*
+Disallow: /wenku*
+Disallow: /userlogin/login/
+Disallow:/get_system_huanjing.aspx
+Disallow:/get_system_huanjing.aspx?cztype=1a35e75973c5c7a239deb5c5a7271217
+Disallow:/*.ashx
+
+Sitemap:https://www.jobxzc.com/sitemap.txt
+Sitemap:https://www.jobxzc.com/sitemap1.txt
+Sitemap:https://www.jobxzc.com/sitemap2.txt
+Sitemap:https://www.jobxzc.com/sitemap3.txt
+Sitemap:https://www.jobxzc.com/sitemap4.txt
+Sitemap:https://www.jobxzc.com/sitemap5.txt
+Sitemap:https://www.jobxzc.com/sitemap6.txt
+Sitemap:https://www.jobxzc.com/sitemap7.txt
+Sitemap:https://www.jobxzc.com/sitemap8.txt
+Sitemap:https://www.jobxzc.com/sitemap9.txt
+Sitemap:https://www.jobxzc.com/sitemap10.txt
+Sitemap:https://www.jobxzc.com/sitemap.xml
+Sitemap:https://www.jobxzc.com/sitemap1.xml
+Sitemap:https://www.jobxzc.com/sitemap2.xml
+Sitemap:https://www.jobxzc.com/sitemap3.xml
+Sitemap:https://www.jobxzc.com/sitemap4.xml
+Sitemap:https://www.jobxzc.com/sitemap5.xml
+Sitemap:https://www.jobxzc.com/sitemap6.xml
+Sitemap:https://www.jobxzc.com/sitemap7.xml
+Sitemap:https://www.jobxzc.com/sitemap8.xml
+Sitemap:https://www.jobxzc.com/sitemap9.xml
+Sitemap:https://www.jobxzc.com/sitemap10.xml

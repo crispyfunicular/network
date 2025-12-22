@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /users
+Disallow: /xiaozhi
+Disallow: /asynces
+Disallow: /goods
+Disallow: /p/q/
+Disallow: /search/
+Disallow: /my?project_id=*
+Disallow: /login?ok_url=*
+Disallow: /loginWithPwd?ok_url=*
+Disallow: /ndapi/
+Disallow: /coupons/
+Disallow: /projectDetails/
+Disallow: /api/
+Disallow: /detail/

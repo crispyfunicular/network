@@ -1,0 +1,1589 @@
+Model loaded succeed
+# alternate alternate alternate alternate alternate alternate alternate
+alternate alternate alternate alternate alternate alternate
+
+( BUTTON ) 页面 内容
+
+* 主题
+*
+* 什 么 是 神经 网络 ？
+
+什 么 是 神经 网络 ？
+
+神经 网络 是 一 种 受 人脑 启发 的 机器 学习 算法 。 这 款 强大 的 工具 擅长 解决 传统 计算机 算法 难以 处理 的 复杂 问题 ， 例如 图像 识别 和 自然 语言 处理 。
+
+神经 网络 由 相互 连 接 的 节点 （ 称为 神经元 ） 组成 ， 它 将 这些 单元 分层 排列 。 每个 神经元 接收 来 自 其他 神经元 的 输入 、 对 其 进行 处理 ， 并 将 输出 传输 给 其他 神经元 。
+神经元 之间 的 连接 具有 相关 的 权重 ， 表示 连 接 强度 。 在 训练 期间 ， 神经 网络会 调整 这些 权重 以 改善 其 在 给 定 任务 上 的 表现 。 这种 学习 过程 使得 神经 网络 能够 做出 预
+测 并 识别 模式 ， 从而 推动 它们 在 图像 识别 、 自然 语言 处理 和 机器 翻译 等 各种 领域 的 广泛 应用 。
+
+免费 开始 使用
+
+神经 网络 的 工作 原理 是 什 么 ？
+
+神经 网络 的 学习 是 通过 在 训练 过程 中 建立 神经元 之间 的 连接 并 调整 连 接 权 重 来 实现 的 。 在 该 过程 中 ， 需要 向 神经 网络 提供 海量 数据集 ， 之后 神经 网络 会 使用 这些 数
+据 集 来 优化 其 权重 ， 以 最 大 限度 地 减少 预测值 与 实际值 之间 的 误差 。 这 一 过程 与 人类 的 学习 过程 类似 ， 反复 接触 有助于 识别 模式 。
+
+一 种 称为 反向 传播 算法 的 技术 有助于 这种 权重 调整 。 反向 传播 算法会 计算 输出 中 的 误差 并 通过 神经 网络 将 其 反向 传播 回去 ， 从而 迭代 调整 权重 直到 达到 所 需 的 准确
+率 水平 。 经过 训练 后 ， 神经 网络 便 可 用于 对 新 数据 做出 预测 ， 例如 识别 图片 中 的 猫 。
+
+神经 网络 示例
+
+除 了 广泛 的 应用 之外 ， 以下 是 神经 网络 实际 应用 的 具体 示例 ：
+
+* 手 写 识别 ： 神经 网络 能够 识别 手 写 字符 ， 从而 可以 将 手 写 文档 数字化 以及 自动 进行 邮件 分类 。
+
+* 人 脸 识别 ： 安全 系统 、 社交 媒体 标记 和 个性化 广告 可以 利用 神经 网络 的 强大 技术 支持 来 进行 人 脸 识别 。
+
+* 医学 影像 分析 ： 通过 神经 网络 可以 检测 X 光片 和 核磁共振 成像 扫描 等 医学 影像 中 的 异常 ， 从而 帮助 疾病 诊断 和 治疗 方案 制定 。
+
+神经 网络 的 类型
+
+我们 根据 神经 网络 的 架构 、 训练 方法 和 用途 对 其 进行 分类 。 主要 有 以下 几 类 ：
+
+* 前馈 神经 网络 ： 这 是 一 种 基本 的 神经 网络 ， 它 以 线性 方式 处理 数据 ， 即 从 输入 到 输出 且 没有 循环 。 这 类 神经 网络 通常 用于 分类 和 回归 等 简单 任务 。
+* 循环神经 网络 ( RNN ) ： RNN
+专 为 时序 或 自然 语言 等 序列 数据 而 设计 ， 它 使用 反馈 环 来 保留 先前 输入 的 记忆 ， 因此 适合 用于 具有 时间 成分 的 数据 。
+* 卷 积神经 网络 ( CNN ) ： CNN 专 为 图像 相关 任务 而 设计 ， 使用 卷积层 从 图像 中 提取 特征 ， 从而 识别 边缘 和 形状 等 模式 。
+* 生成 对抗 网络 ( GAN ) ： GAN
+由 生成器 和 判别器 组成 ， 并 让 这 两 个 组件 相互 对抗 。 生成器 负责 创建 数据 ， 而 判别器 则 评估 其 所 创建 数据 的 真实性 。 这种 对抗 过程 使得 生成器 能够 产生 越
+来 越 真实 的 数据 ， 通常 用于 生成 图片 、 视频 和 音频 。
+
+神经 网络 的 重要性
+
+神经 网络 正在 成为 对 许多 企业 和 组织 日益 重要 的 一 项 工具 。
+
+以下 是 它们 为何 会 如此 重要 的 一些 原因 ：
+* 自动化 操作 ： 神经 网络 可以 协助 自动 完成 以前 由 人类 完成 的 任务 ， 例如 客户 服务 、 数据 分析 和 图像 处理 。 这 可以 为 企业 节省 时间 和 金钱 。
+* 改善 决策 制定 ： 企业 可以 通过 提供 数据 洞见 来 更 好 地 做出 决策 ， 而 这些 数据 洞见 是 使用 传统 方法 难以 或 无法 获得 的 。
+* 提高 效率 ： 企业 可以 通过 自动 执行 任务 、 减少 错误 的 发生 和 改善 决策 制定 来 改进 业务 流程 。
+* 新 产品 和 新 服务 ： 企业 能够 创造 依托 于 AI 的 新 产品 和 新 服务 。
+
+神经 网络 的 应用 和 用途
+
+神经 网络 应用 广泛 ， 包括 ：
+
+图像 识别
+
+图像 中 的 物体 识别 可 用 在 汽车 自动 驾驶 、 社交 媒体 平台 和 医疗 诊断 等 应用 场景 。
+
+自然 语言 处理 ( NLP )
+
+神经 网络 可以 实现 机器 翻译 、 文本 总结 和 情感 分析 ， 为 谷歌 翻译 和 聊天 机器人 等 工具 提供 支持 。
+
+金融 建模
+
+金融 机构 可以 使用 神经 网络 来 分析 历史 财务 数据 ， 以及 识别 趋势 和 模式 来 帮助 做出 投资 决策 。 神经 网络 还 可 用 来 进行 风险 管理 、 欺诈 检测 和 投资 组合 优化 。
+
+医疗 诊断
+
+借助 神经 网络 ， 医疗 工作者 可以 通过 医疗 数据 识别 与 特定 疾病 相关 的 模式 ， 以此 诊断 疾病 并 预测 患者 的 治疗 效果 。 这 或许 可以 帮助 医生 做出 更 准确 的 诊断 并 制定 个
+性化 的 治疗 方案 。
+
+机器人 学
+
+神经 网络 可以 控制 和 训练 机器人 的 动作 来 执行 复杂 的 任务 ， 例如 组装 、 焊接 和 手术 。 神经 网络 还 可以 用于 机器人 导航 和 路径 规划 。
+
+Self - d riving vehicles
+
+神经 网络 可以 识别 行人 、 交通 信号灯 和 其他 车辆 等 物体 ， 并 据此 做出 有关 如何 进行 安全 驾驶 的 决策 ， 为 自动 驾驶型 汽车 的 视觉 系统 提供 技术 支持 。 神经 网络 还 可以
+帮助 完成 车道 保持 、 自 适应 巡航 控制 和 防撞 等 任务 。
+
+欺诈 检测
+
+神经 网络 可以 分析 信用卡 交易 数据 ， 识别 与 欺诈 相关 的 模式 ， 以此 检测 欺诈 交易 。 它们 可以 帮助 银行 和 其他 金融 机构 防范 欺诈 活动 。
+
+垃圾 数据 过滤
+
+神经 网络 可以 分析 电子 邮件 的 内容 ， 识别 与 垃圾 邮件 相关 的 模式 ， 以此 过滤 垃圾 邮件 。 这 可以 帮助 用户 避免 收到 不 必要 的 电子 邮件 。
+
+神经 网络 的 优势
+
+与 传统 计算机 算法 相比 ， 神经 网络 有 如下 优势 ：
+* 适应性 ： 神经 网络 可以 学习 并 适应 新 数据 ， 这 使得 它们 比 传统 算法 更 灵活 、 更 强大 。
+* 非线性 ： 神经 网络 可以 学习 数据 中 复杂 的 非线性 关系 ， 这 是 传统 算法 难以 解决 的 问题 。
+* 并行 处理 ： 神经 网络 可以 并行化 ， 这 意味着 它们 可以 在 多 个 处理器 上 同时 运行 ， 从而 更 快速 、 更 高效 。
+* 容错性 ： 神经 网络 能够 容忍 噪声 和 数据 缺失 ， 因此 比 传统 算法 更加 可靠 。
+* 泛化 ： 神经 网络 能够 泛化 到 尚未 训练 过 的 新 数据 ， 这 使得 它们 比 传统 算法 更 具 普适性 。
+
+神经 网络 与 深度 学习
+
+深度 学习 利用 多 层 神经 网络 ， 是 机器 学习 领域 的 一 种 强大 技术 。 这些 更 深层 的 网络 擅长 识别 海量 数据 集中 的 复杂 模式 ， 彻底 改变 了 图像 和 语言 处理 等 领域 。
+
+例如 ， 深度 学习 使 自动 驾驶型 汽车 能够 检测 道路 上 的 物体 、 使 语言 模型 能够 生成 类似 人类 的 文本 ， 还 能 为 推荐 系统 提供 技术 支持 来 为 用户 推荐 个性化 的 内容 ， 以及
+通过 图像 分析 辅助 医疗 诊断 。
+
+传统 神经 网络 与 深度 学习 之间 的 主要 区别 在于 它们 的 深度 ， 深度 学习 网络 包含 的 层数 要 多 得 多 。 深度 学习 这种 更 深层 的 网络 能够 解决 复杂 的 问题 并 处理 海量 的 数据
+， 这些 可能 都 会 让 简单 的 网络 不堪重负 。
+
+利用 Google Cloud 解决 业务 难题
+新 客户 可 获得 $ 300 赠金 ， 用于 抵扣 Google Cloud 的 费用 。
+开始 使用
+与 Google Cloud 销售 专员 联系 ， 详细 讨论 您 的 独特 挑战 。
+与 我们 联系
+
+相关 产品 和 服务
+
+Google Cloud 提供 多种 可用 于 构建 和 部署 神经 网络 的 产品 和 服务 ， 包括 ：
+* Vertex AI 图标
+Vertex AI
+用于 构建 和 部署 机器 学习 模型 （ 包括 神经 网络 ） 的 统一 平台 。
+* 解决 方案
+TensorFlow
+用于 数值 计算 和 大型 机器 学习 的 开源 软件库 。
+* 解决 方案
+Cloud TPU
+这些 专门 设计 的 机器 学习 加速器 能够 以 比 传统 CPU 或 GPU 更 快 的 速度 进行 训练 和 运行 。
+
+更进一步
+
+获 享 $ 300 赠金 以及 20 多种 提供 “ 始终 免费 ” 用量 的 产品 ， 开始 在 Google Cloud 上 构建 项目 。
+免费 开始 使用
+* 不 知 从 何 入手 ， 需要 一点 帮助 ？ 联系 业务 代表
+* 与 值得 信赖 的 合作 伙伴 携手 寻找 合作 伙伴
+* 继续 浏览 查看 所有 产品
+
+( BUTTON ) menu
+Google Cloud
+
+( BUTTON ) 概览 解决 方案 产品 价 格 资源 文档 支持 ( BUTTON ) 与 我们 联系
+
+____________________
+文档 支持
+控制台
+登录
+免费 开始 使用 吧
+免费 开始 使用 吧
+与 我们 联系
+( BUTTON ) close
+* 加快 数字化 转型 的 速度
+* 在 数字化 转型 之 旅 中 ， 无论 您 的 企业 是 处于 早期 阶段 还是 已 初见成效 ， Google Cloud 都 可以 帮助 解决 最 棘手 的 难题 。
+* 了 解详 情
+
+* 主要 优势
+* 为什 么 选择 Google Cloud
+企业 选择 我们 的 首要 原因 。
+* AI 和 机器 学习
+获取 企业 级 AI 。
+* 多 云
+在 您 需要 的 任何 位置 运行 您 的 应用 。
+* 全球 基础 架构
+在 Google 自用 的 基础 架构 上 构建 应用 。
+
+* 数据云
+根据 统一 数据 做出 更 明智 的 决策 。
+* 现代 基础 设施 云
+新 一 代 云 基础 设施 。
+* 安全
+保护 您 的 用户 、 数据 和 应用 。
+* 工作 效率 与 协作
+将 团队 与 基于 AI 的 应用 联系 起 来 。
+
+* 报告 和 数据洞 见
+* 高管 数据洞 见
+高管 观点 精选 。
+* 分析师 报告
+阅读 并 了 解 行业 分析师 对 我们 的 看法 。
+* 白皮书
+浏览 并 下载 热门 白皮书 。
+* 客户 案例
+浏览 案例 研究 和 视频 。
+
+( BUTTON ) close
+* 行业 解决 方案
+* 应用 现代化 改造
+* 人工智能
+* API 和 应用
+* 数据 分析
+* 数据库
+* 基础 架构 现代化 改造
+* 工作 效率 与 协作
+* 安全
+* 初创 公司 和 中小型 企业
+
+查看 所有 解决 方案
+* 行业 解决 方案
+降低 费用 、 提高 运营 敏捷性 并 抓住 新 的 市场 机遇 。
+
+* 零售
+面向 零售业 价 值链 的 分析 工具 和 协作 工具 。
+
+* 快速 消费品
+适用 于 快速 消费品 数字 转型 与 品牌 成长 的 解决 方案 。
+
+* 金融 服务
+面向 金融 服务业 的 计算 、 数据 管理 和 分析 工具 。
+
+* 医疗 保健 和 生命 科学
+推进 大规模 的 研究 并 推动 医疗 保健 创新 。
+
+* 媒体 和 娱乐
+用于 内容 制作 和 分发 运营 的 各种 解决 方案 。
+
+* 电信
+用于 部署 5 G 并 通过 5 G 创收 的 各种 混合云 和 多 云端 服务 。
+
+* 游戏
+帮助 您 更 快 地 构建 游戏 并 为 其 扩容 的 各种 AI 驱动型 解决 方案 。
+
+* 制造
+可 优化 制造业 价 值链 的 各种 迁移 工具 和 AI 工具 。
+
+* 供应链 与 物流
+跨 供应链 和 物流 运营 实现 可 持续 、 高效 且 有 弹性 的 以 数据 为 依据 的 操作 。
+
+* 政府
+面向 政府 机构 的 数据 存储 、 AI 和 分析 解决 方案 。
+
+* 教育
+可 提供 更 具 吸引力 的 学习 体验 的 各种 教学 工具 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 行业 解决 方案
+
+* 应用 现代化 改造
+评估 、 规划 、 实施 和 衡量 软件 做法 与 功能 ， 以 对 贵 组织 的 业务 应用 组合 进行 现代化 改造 和 简化 。
+
+* CAMP
+使用 DORA 改进 软件 交付 功能 的 计划 。
+
+* 对 传统 应用 进行 现代化 改造
+对 传统 工作 负载 进行 分析 和 分类 ， 并 开始 进行 云 迁移 。
+
+* 从 PaaS 迁移 ： Cloud Foundry 或 Opens hift
+可 帮助 您 将 现有 容器 迁移 到 Google 的 代管式 容器 服务 的 工具 。
+
+* 从 大型 主机 迁移
+可 帮助 您 将 大型 主机 应用 迁移 到 云端 的 自动化 工具 和 规范性 指南 。
+
+* 对 软件 交付 进行 现代化 改造
+软件 供应链 最佳 实践 - 内部 循环 效率 、 CI / CD 和 S 3 C 。
+
+* DevOps 最佳 实践
+可 帮助 您 在 组织 中 实施 DevOps 的 各种 流程 和 资源 。
+
+* SRE 原 则
+可 帮助 您 在 组织 中 采用 SRE 的 工具 和 资源 。
+
+* GKE 的 投产 后 运维
+可 帮助 您 高效 地 管理 和 监控 GKE 的 工具 和 指南 。
+
+* 在 边缘 运行 应用
+可 帮助 您 使用 Google 不 依赖 于 硬件 的 边缘 解决 方案 来 部署 本地化 且 低 延迟 的 应用 的 指南 。
+
+* 设计 适合 多云 环境 的 架构
+使用 一致 的 平台 跨 多 个 云 管理 工作 负载 。
+
+* 无 服务 器化
+用于 开发 、 部署 和 扩缩 应用 的 全 代管式 环境 。
+
+* 人工智能
+借助 AI 和 机器 学习 技术 ， 让 您 的 企业 更加 智能 高效 。
+
+* 集成 Google AI 技术 的 客户 互动 套件
+整合 了 我们 最 先进 的 对话式 AI 功能 的 端 到 端 应用 。
+
+* Document AI
+大规模 自动 处理 文档 并 捕获 数据 。
+
+* Vertex AI Search for Retail
+面向 零售商 的 Google 品质 的 搜索 和 产品 推荐 功能 。
+
+* 适用 于 Google Cloud 的 Gemini
+适用 于 应用 开发 、 编码 等 的 AI 助理 。
+
+* Google Cloud 上 的 生成式 AI
+凭借 生成式 AI 的 强大 功能 ， 转变 内容 创建 、 发现 、 研究 、 客户 服务 和 开发者 效率 。
+
+* API 和 应用
+使用 API 、 应用 和 自动化 功能 ， 加速 创新 而 无 需 编写 代码 。
+
+* 使用 API 开拓 新 的 业务 渠道
+吸引 开发者 与 合作 伙伴 形成 生态 系统 ， 并 为 他们 提供 支持 。
+
+* 使用 API 发掘 旧式 应用 的 潜力
+用于 对 旧式 应用 进行 扩展 和 现代化 改造 的 各种 云 服务 。
+
+* Open Banking API x
+更 简单 、 更 快速 地 安全 交付 符合 Open Banking 要求 的 API 。
+
+* 数据 分析
+借助 可 大幅 简化 分析 过程 的 全代管式 无 服务器 分析 平台 ， 即时 根据 任何 规模 的 数据 生成 分析 洞见 。
+
+* 数据 迁移
+使用 AI 就 绪型 数据 平台 进行 迁移 和 现代化 改造 。
+
+* 数据湖 现代化 改造
+用于 数据湖 构建 和 现代化 改造 的 各种 服务 。
+
+* 数据流 分析
+通过 提取 、 处理 和 分析 事件 流 发掘 数据 洞见 。
+
+* 营销 分析
+用于 收集 、 分析 和 利用 客户 数据 的 各种 解决 方案 。
+
+* 数据 集
+来 自 Google 、 公共 来 源 和 商业 提供商 的 数据 ， 可 充实 您 的 分析 和 AI 计划 。
+
+* 商业 智能
+用于 对 B I 栈 进行 现代化 改造 和 打造 丰富 数据 体验 的 解决 方案 。
+
+* 用于 数据 分析 的 AI
+利用 用于 数据 分析 的 AI 编写 SQL 、 构建 预测 模型 以及 直观 呈现 数据
+
+* 数据库
+借助 具备 安全性 、 可靠性 和 高 可用性 的 全 代管式 数据 服务 ， 迁移 和 管理 企业 数据 。
+
+* 数据库 迁移
+有助于 简化 数据库 迁移 生命 周期 的 各种 指南 和 工具 。
+
+* 数据库 现代化 改造
+可 对 您 的 运营 数据库 基础 架构 进行 现代化 改造 的 各种 升级 服务 。
+
+* 游戏 数据库
+利用 Google Cloud 数据库 构建 全球 实时 游戏 。
+
+* Google Cloud 数据库
+用于 对 数据 进行 迁移 、 管理 和 现代化 改造 的 各种 数据库 服务 。
+
+* 将 Oracle 工作 负载 迁移 到 Google Cloud
+重新 托管 您 的 Oracle 工作 负载 ， 为 其 更换 平台 或者 重 写 代码 。
+
+* 开源 数据库
+具有 企业级 支持 服务 的 全代 管式 开源 数据库 。
+
+* SQL Server on Google Cloud
+用于 在 Google Cloud 上 运行 SQL Server 虚拟机 的 各种 方案 。
+
+* 用于 数据库 的 Gemini
+利用 AI 助力 数据库 开发 和 管理 。
+
+* 基础 架构 现代化 改造
+借助 适用 于 SAP 、 VMware 、 Windows 、 Oracle 和 其他 工作 负载 的 解决 方案 ， 快速 完成 迁移 工作 。
+
+* 应用 迁移
+可 帮助 您 迁移 到 云端 的 各种 发现 和 分析 工具 。
+
+* SAP on Google Cloud
+有助于 您 运行 SAP 应用 和 SAP HANA 的 各种 认证 。
+
+* 高性能 计算
+可 支持 任何 工作 负载 的 各种 计算 、 存储 和 网络 方案 。
+
+* Windows on Google Cloud
+可 协助 您 运行 Windows 工作 负载 的 工具 和 合作 伙伴 。
+
+* 数据 中心 迁移
+适用 于 虚拟机 、 应用 和 数据库 等 的 迁移 解决 方案 。
+
+* Active Assis t
+提供 自动 云端 资源 优化 功能 和 更 高 的 安全性 。
+
+* 虚拟 桌面
+适用 于 桌面 和 应用 的 远程 工作 解决 方案 （ VDI 和 DaaS ） 。
+
+* 快速 迁移 和 现代化 改造 计划
+用于 简化云 迁移 路径 的 端 到 端 迁移 计划 。
+
+* 备份 和 灾难 恢复
+确保 满足 您 的 业务 连 续性 需求 。
+
+* Red Hat on Google Cloud
+Google 和 Red Hat 为 传统 的 本地 应用 和 自 定义 应用 提供 了 一个 企业级 平台 。
+
+* 工作 效率 与 协作
+借助 直观 易用 且 极 具 成效 的 解决 方案 ， 改变 团队 的 工作 方式 。
+
+* Google Workspace
+面向 企业 的 协作 和 办公 工具 。
+
+* Google Workspace 基本 功能 版
+为 团队 提供 安全 的 视频 会议 功能 和 现代化 协作 功能 。
+
+* Cloud Identity
+IT 管理员 用于 管理 用户 设备 和 应用 的 统一 平台 。
+
+* Chrome 企业 版
+专 为 企业 打造 的 ChromeOS 、 Chrome 浏览器 和 Chrome 设备 。
+
+* 安全
+检测 、 调查 和 应对 在线 威胁 ， 帮助 保护 您 的 企业 。
+
+* 安全 分析 与 运营
+用于 分析 PB 级 安全 遥测 数据 的 解决 方案 。
+
+* Web 应用 和 API 保护
+适用 于 Web 应用 和 API 的 威胁 及 欺诈 防护 。
+
+* 安全 和 弹性 框架
+适用 于 安全 和 弹性 生命 周期 各个 阶段 的 解决 方案 。
+
+* 风险 和 合规 即 代码 ( RCaC )
+通过 自动化 技术 对 您 的 治理 、 风险 与 合规性 功能 进行 现代化 改造 的 解决 方案 。
+
+* 软件 供应链 安全
+用于 提高 端 到 端 软件 供应链 安全 的 解决 方案 。
+
+* Security Foundation
+可 帮助 您 实现 可靠 安全 状况 的 推荐 产品 。
+
+* 初创 公司 和 中小型 企业
+借助量 身定制 的 解决 方案 和 计划 加快 初创 公司 和 中小型 企业 的 发展 。
+
+* 初创 公司 计划
+获得 财务 、 业务 和 技术 支持 ， 让 您 的 初创 公司 迈 上 新 台阶 。
+
+* 中小型 企业
+探索 网站 托管 、 应用 开发 、 AI 和 分析 领域 的 解决 方案 。
+
+* 软件 即 服务
+构建 更 出色 的 SaaS 产品 ， 高效 伸缩 ， 并 推动 您 的 业务 增长 。
+
+( BUTTON ) close
+* 精选 产品
+* AI 和 机器 学习
+* 商业 智能
+* 计算
+* 容器
+* 数据 分析
+* 数据库
+* 开发者 工具
+* 分布式 云
+* 混合云 和 多云
+* 针对 特定 行业
+* 集成 服务
+* 管理 工具
+* 地图 和 地理 空间
+* 媒体 服务
+* 迁移
+* 混合 现实
+* 网络
+* 运维
+* 工作 效率 与 协作
+* 安全 和 身份
+* 无 服务器
+* 存储
+* Web3
+
+查看 所有 产品 （ 100 多 款 ）
+* 精选 产品
+
+* Compute Engine
+在 Google 的 数据 中心 运行 的 虚拟机 。
+
+* Cloud Storage
+安全 、 耐用 且 可 伸缩 的 对象 存储 服务 。
+
+* BigQuery
+可 实现 业务 敏捷性 并 提供 数据 洞见 的 数据 仓库 。
+
+* Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+* Google Kubernetes Engine
+用于 运行 容器化 应用 的 代管式 环境 。
+
+* Vertex AI
+用于 机器 学习 模型 和 生成式 AI 的 统一 平台 。
+
+* Looker
+提供 商业 智能 、 数据 应用 和 嵌入式 分析 的 平台 。
+
+* Apigee API Management
+随时随地 以 直观 且 可 掌控 的 方式 来 管理 API 的 整个 生命 周期 。
+
+* Cloud SQL
+适用 于 MySQL 、 PostgreSQL 和 SQL Server 的 关系型 数据库 服务 。
+
+* Gemini Enterprise
+安全 平台 ， 可 用于 发现 、 创建 、 运行 和 治理 AI 智能体 。
+
+* Cloud CDN
+用于 分发 Web 内容 和 视频 内容 的 内容 分发 网络 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 产品 （ 100 多 款 ）
+
+* AI 和 机器 学习
+
+* Vertex AI Platform
+用于 机器 学习 模型 和 生成式 AI 的 统一 平台 。
+
+* Vertex AI Studio
+在 Vertex AI 上 构建 、 调整 和 部署 基础 模型 。
+
+* Vertex AI Agent Builder
+构建 和 部署 生成式 AI 体验 。
+
+* 对话 代理
+使用 确定性 和 生成式 AI 功能 构建 对话式 AI 。
+
+* Vertex AI Search
+为 您 的 企业 应用 和 体验 构建 Google 品质 的 搜索 功能 。
+
+* Speech - t o - Text
+支持 125 种 语言 的 语音 识别 和 转录 服务 。
+
+* Text - t o - Speech
+支持 220 多种 语音 和 40 多种 语言 的 语音 合成 服务 。
+
+* Translation AI
+提供 语言 检测 、 翻译 和 术语库 支持 。
+
+* Document AI
+大规模 自动 处理 文档 并 捕获 数据 。
+
+* Gemini Enterprise
+安全 平台 ， 可 用于 发现 、 创建 、 运行 和 治理 AI 智能体 。
+
+* Vision AI
+用于 检测 情绪 、 文本 等 内容 的 各种 自 定义 模型 和 预训练 模型 。
+
+* 联络 中心 即 服务
+云原生全 渠道 联络 中心 解决 方案 。
+
+* 商业 智能
+
+* Looker
+提供 商业 智能 、 数据 应用 和 嵌入式 分析 的 平台 。
+
+* Looker Studio
+用于 信息 汇总 、 报告 和 分析 的 交互式 数据 套件 。
+
+* 计算
+
+* Compute Engine
+在 Google 的 数据 中心 运行 的 虚拟机 。
+
+* App Engine
+适用 于 应用 和 后端 的 无 服务器 应用 平台 。
+
+* Cloud GPU
+可 助力 机器 学习 、 科学 计算 和 3 D 可视化 的 GPU 。
+
+* Migrate t o Virtual Machines
+用于 将 服务器 和 虚拟机 迁移 到 Compute Engine 。
+
+* Spot 虚拟机
+适用 于 批量 作业 和 容错 工作 负载 的 计算 实例 。
+
+* 批量
+用于 安排 批量 作业 的 全代管式 服务 。
+
+* 单租户 节点
+满足 合规性 、 许可 及 管理 需求 的 专用 硬件 。
+
+* 裸金属
+用于 在 Google Cloud 上 运行 特殊 工作 负载 的 基础 架构 。
+
+* Recommender
+针对 Google Cloud 产品 和 服务 的 使用 建议 。
+
+* VMware Engine
+全 代管式 原生 VMware Cloud Foundation 软件 栈 。
+
+* Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 计算 产品
+
+* 容器
+
+* Google Kubernetes Engine
+用于 运行 容器化 应用 的 代管式 环境 。
+
+* Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+* Cloud Build
+用于 在 Docker 容器 中 运行 构建 步骤 的 解决 方案 。
+
+* Artifact Registry
+构建 制品 和 依赖 项 的 软件 包 管理器 。
+
+* Cloud Code
+可 提供 IDE 支持 ， 帮助 您 编写 、 运行 和 调试 Kubernetes 应用 。
+
+* Cloud Deploy
+以 全 代管式 方式 持续 交付 到 GKE 和 Cloud Run 。
+
+* Migrate t o Containers
+用于 将 虚拟机 迁移 到 GKE 上 的 系统 容器 的 各种 组件 。
+
+* Deep Learning Containers
+具有 各种 数据 科学 框架 、 库 和 工具 的 容器 。
+
+* Knative
+用于 构建 Kubernetes 原生云 软件 的 组件 。
+
+* 数据 分析
+
+* BigQuery
+可 实现 业务 敏捷性 并 提供 数据 洞见 的 数据 仓库 。
+
+* Looker
+提供 商业 智能 、 数据 应用 和 嵌入式 分析 的 平台 。
+
+* Dataflow
+用于 流式 处理 和 批 处理 的 流式 分析 服务 。
+
+* Pub / Sub
+用于 提取 和 传送 事件 的 消息 传递 服务 。
+
+* Dataproc
+用于 运行 Apache Spark 集群 和 Apache Hadoop 集群 的 服务 。
+
+* Cloud Data Fusion
+用于 构建 和 管理 数据 流水线 的 数据 集成 服务 。
+
+* Cloud Composer
+基于 Apache Airflow 构建 的 工作流 编排 服务 。
+
+* BigLake
+用于 查询 多格式 和 多 模态 数据 的 存储 引擎 。
+
+* Dataplex
+用于 跨 数据 孤岛 进行 统一 数据 管理 的 智能 数据 结构 脉络 。
+
+* Dataform
+在 BigQuery 中 对 SQL 工作 流 进行 构建 、 版本 控制 和 部署 。
+
+* Analytics Hub
+用于 安全 高效 地 交换 数据 分析 资产 的 服务 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 数据 分析 产品
+
+* 数据库
+
+* Alloy DB for PostgreSQL
+与 PostgreSQL 兼容 的 全代管式 数据库 ， 适用 于 企业 工作 负载 。
+
+* Cloud SQL
+面向 MySQL 、 PostgreSQL 和 SQL Server 的 全代管式 数据库 。
+
+* Firestore
+用于 构建 丰富 的 移动 、 Web 和 IoT 应用 的 云原生 文档 数据库 。
+
+* Spanner
+云原生 关系型 数据库 ， 规模 不 受 限制 ， 可用性 高 达 99 . 99 9 % 。
+
+* Bigtable
+适用 于 大规模 、 低 延迟 工作 负载 的 云原生宽 列 数据库 。
+
+* Datastream
+无 服务器 变更 数据 捕获 和 复制 服务 。
+
+* Database Migration Service
+使用 无 服务器 技术 以 最 短 停机 时间 迁移 到 Cloud SQL 。
+
+* 裸金属 解决 方案
+面向 Oracle 工作 负载 的 全 托管式 基础 设施 。
+
+* Memorystore
+全 托管式 Redis 和 Memcached ， 可 实现 亚毫 秒级 的 数据 访问 。
+
+* 开发者 工具
+
+* Artifact Registry
+构建 制品 和 依赖 项 的 通用 软件 包 管理器 。
+
+* Cloud Code
+可 提供 IDE 支持 ， 帮助 您 编写 、 运行 和 调试 Kubernetes 应用 。
+
+* Cloud Build
+持续 集成 和 持续 交付 平台 。
+
+* Cloud Deploy
+以 全 代管式 方式 持续 交付 到 GKE 和 Cloud Run 。
+
+* Cloud Deployment Manager
+用于 创建 和 管理 Google Cloud 资源 的 服务 。
+
+* Cloud SDK
+适用 于 Google Cloud 的 命令 行 工具 和 库 。
+
+* Cloud Scheduler
+用于 自动 执行 以及 管理 任务 的 Cron 作业 调度器 。
+
+* Cloud Source Repositories
+用于 存储 、 管理 和 跟踪 代码 的 私有 Git 代码库 。
+
+* Infrastructure Manager
+使用 Terraform 自动 管理 基础 架构 。
+
+* Cloud Works tations
+安全 的 代管式 云端 开发 环境 。
+
+* Gemini Code Assis t
+AI 赋能 的 助理 ， 可 在 Google Cloud 和 IDE 中 使用 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 开发者 工具
+
+* 分布式 云
+
+* Google Distributed Cloud Connected
+适用 于 边缘 工作 负载 的 分布式 云 服务 。
+
+* Google Distributed Cloud Air - gapped
+适用 于 经过 网闸 隔离 的 工作 负载 的 分布式云 。
+
+* 混合云 和 多云
+
+* Google Kubernetes Engine
+用于 运行 容器化 应用 的 代管式 环境 。
+
+* Apigee API Management
+API 管理 、 开发 和 安全 平台 。
+
+* Migrate t o Containers
+用于 将 工作 负载 和 现有 应用 迁移 到 GKE 的 工具 。
+
+* Cloud Build
+用于 在 Google Cloud 基础 架构 上 执行 构建 作业 的 服务 。
+
+* 运维
+监控 、 日志 记录 和 应用 性能 套件 。
+
+* Google Distributed Cloud
+适用 于 边缘 和 数据 中心的 全代 管式 解决 方案 。
+
+* 针对 特定 行业
+
+* 反 洗钱 AI
+借助 AI 检测 可疑 的 潜在 洗钱 活动 。
+
+* Cloud Healthcare API
+用于 衔接 现有 医疗 保健 系统 与 Google Cloud 上 应用 的 解决 方案 。
+
+* 关联 Fitbit 设备
+通过 Google Cloud 上 的 关联 Fitbit 数据 全方位 了 解 患者 。
+
+* 电信 网络 自动化
+适用 于 电信 网络 的 现成 云原生 自动化 。
+
+* 电信 数据 结构 脉络
+使用 自动化 方法 进行 电信 数据 管理 和 分析 。
+
+* Telecom Subscriber Insights
+注入 数据 以 提升 订阅者 获取率 和 留存率 。
+
+* Spectrum Access System ( SAS )
+控制 对 公民 宽带 无线电 服务 ( CBRS ) 的 基本 访问 权限 。
+
+* 集成 服务
+
+* Application Integration
+无 需 编写 代码 即 可 连 接到 第三 方 应用 并 保证 数据 一致性 。
+
+* Workflows
+无 服务器 产品 和 API 服务 的 工作流 编排 。
+
+* Apigee API Management
+随时随地 以 直观 且 可 掌控 的 方式 来 管理 API 的 整个 生命 周期 。
+
+* Cloud Tasks
+用于 异步 执行 任务 的 任务 管理 服务 。
+
+* Cloud Scheduler
+用于 自动 执行 以及 管理 任务 的 Cron 作业 调度器 。
+
+* Dataproc
+用于 运行 Apache Spark 集群 和 Apache Hadoop 集群 的 服务 。
+
+* Cloud Data Fusion
+用于 构建 和 管理 数据 流水线 的 数据 集成 服务 。
+
+* Cloud Composer
+基于 Apache Airflow 构建 的 工作流 编排 服务 。
+
+* Pub / Sub
+用于 提取 和 传送 事件 的 消息 传递 服务 。
+
+* Event arc
+构建 一个 可 连 接 任何 服务 的 事件 驱动型 架构 。
+
+* 管理 工具
+
+* Cloud Shell
+带有 内 置 命令 行 的 交互式 Shell 环境 。
+
+* Cloud 控制台
+基于 Web 的 界面 ， 可 用于 管理 和 监控云 应用 。
+
+* Cloud Endpoints
+Google Cloud 上 的 API 部署 和 开发 管理 服务 。
+
+* Cloud IAM
+适用 于 Google Cloud 资源 的 权限 管理 系统 。
+
+* Cloud API
+Google Cloud 服务 的 编程 接口 。
+
+* Service Catalog
+有助于 管理员 管理 内部 企业 解决 方案 的 服务 目录 。
+
+* 费用 管理
+用于 监测 、 控制 和 优化 费用 的 工具 。
+
+* 运维
+监控 、 日志 记录 和 应用 性能 套件 。
+
+* 碳 足迹
+用于 查看 和 导出 Google Cloud 碳 排放量 报告 的 信息 中心 。
+
+* Config Connector
+用于 管理 Google Cloud 资源 的 Kubernetes 插件 。
+
+* Active Assis t
+用于 轻松 管理 性能 、 安全性 和 费用 的 工具 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 管理 工具
+
+* 地图 和 地理 空间
+
+* Earth Engine
+提供 地球 观测 数据 和 分析 的 地理 空间 平台 。
+
+* Google Maps Platform
+打造 基于 地理 位置 的 沉浸式 体验 ， 并 改进 业务 运营 。
+
+* 媒体 服务
+
+* Cloud CDN
+用于 提供 Web 内容 和 视频 内容 的 内容 分发 网络 。
+
+* Live Stream API
+这 项 服务 可 用 来 转换 实时 视频 和 软件 包以 进行 流式 传输 。
+
+* OpenCue
+专 为 视效 和 动画 行业 设计 的 开源 渲染 管理器 。
+
+* Transcoder API
+转换 并 打包 视频 文件 ， 以 优化 视频 传输 。
+
+* Video Stitcher API
+用于 动态 广告 插播 或 服务 器端 广告 插播 的 服务 。
+
+* 迁移
+
+* 迁移 中心
+用于 通过 Google Cloud 进行 迁移 和 现代化 改造 的 统一 平台 。
+
+* 应用 迁移
+用于 将 应用 迁移 到 云端 ， 以 实现 低 费用 更新 周期 。
+
+* Migrate t o Virtual Machines
+用于 将 虚拟机 和 物理 服务器 迁移 到 Compute Engine 的 各种 组件 。
+
+* Cloud Foundation Toolkit
+适用 于 Deployment Manager 和 Terraform 的 参考 模板 。
+
+* Database Migration Service
+使用 无 服务器 技术 以 最 短 停机 时间 迁移 到 Cloud SQL 。
+
+* Migrate t o Containers
+用于 将 虚拟机 迁移 到 GKE 上 的 系统 容器 的 各种 组件 。
+
+* BigQuery Data Transfer Service
+用于 安排 将 数据 转移 至 BigQuery 的 数据 导入 服务 。
+
+* 快速 迁移 和 现代化 改造 计划
+用于 简化云 迁移 路径 的 端 到 端 迁移 计划 。
+
+* Transfer Appliance
+用于 将 大量 数据 迁移 到 Google Cloud 的 存储 服务器 。
+
+* Storage Transfer Service
+用于 将 数据 从 在线 和 本地 来 源 转移 到 Cloud Storage 的 服务 。
+
+* VMware Engine
+将 您 的 VMware 工作 负载 迁移 到 Google Cloud 并 继续 以 原生 方式 运行 。
+
+* 混合 现实
+
+* Immersive Stream for XR
+托管 、 渲染 并 流式 传输 3 D 和 XR 体验 。
+
+* 网络
+
+* Cloud Armor
+针对 Web 攻击 和 DDoS 攻击 的 安全 政策 和 防御 机制 。
+
+* Cloud CDN 和 媒体 CDN
+用于 提供 Web 内容 和 视频 内容 的 内容 分发 网络 。
+
+* Cloud DNS
+提供 可靠 、 低 延迟 的 域名 查询 服务 的 域名 系统 。
+
+* Cloud Load Balancing
+跨 应用 和 区域 分配 流量 的 服务 。
+
+* Cloud NAT
+用于 向 私有 实例 授予 互联网 访问 权限 的 NAT 服务 。
+
+* 云 连 接
+适合 VPN 、 对 等 互 连 和 企业 需求 的 连接 方案 。
+
+* Network Connectivity Center
+可 帮助 简化 和 扩缩 网络 的 连接 管理 解决 方案 。
+
+* Network Intelligence Center
+网络 监控 、 验证 和 优化 平台 。
+
+* Network Service Tiers
+基于 性能 、 可用性 和 费用 的 Cloud 网络 方案 。
+
+* 虚拟 私有 云
+整个 组织 使用 一个 VPC ， 在 项目 中 进行 隔离 。
+
+* Private Service Connect
+保护 VPC 与 各 服务 之间 的 连接 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 网络 产品
+
+* 运维
+
+* Cloud Logging
+管理 Google Cloud 审核 日志 、 平台 日志 和 应用 日志 。
+
+* Cloud Monitoring
+通过 丰富 的 指标 帮助 您 了 解 基础 架构 和 应用 的 运行 状况 。
+
+* 错误 报告
+识别 和 分析 应用 错误 。
+
+* Cloud Debugger
+实时 检查 应用 状态 以及 在 生产 环境 中 进行 调试 。
+
+* Cloud Trace
+用于 从 应用 中 收集 延迟 数据 的 跟踪 系统 。
+
+* Cloud Profiler
+用于 分析 应用 性能 的 CPU 和 堆性能 分析器 。
+
+* Cloud 配额
+管理 所有 Google Cloud 服务 的 配额 。
+
+* 工作 效率 与 协作
+
+* AppSheet
+用于 构建 和 扩展 应用 的 无 代码 开发 平台 。
+
+* AppSheet Automation
+在 统一 平台 上 构建 自动化 和 应用 。
+
+* Gemini Enterprise
+安全 平台 ， 可 用于 发现 、 创建 、 运行 和 治理 AI 智能体 。
+
+* Google Workspace
+面向 个人 和 组织 的 协作 和 办公 工具 。
+
+* Google Workspace 基本 功能 版
+为 团队 提供 安全 的 视频 会议 功能 和 现代化 协作 功能 。
+
+* Cloud Identity
+IT 管理员 用于 管理 用户 设备 和 应用 的 统一 平台 。
+
+* Chrome 企业 版
+专 为 企业 打造 的 ChromeOS 、 Chrome 浏览器 和 Chrome 设备 。
+
+* 安全 和 身份
+
+* Cloud IAM
+适用 于 Google Cloud 资源 的 权限 管理 系统 。
+
+* 敏感 数据 保护
+帮助 您 发现 、 分类 和 保护 宝贵 的 数据 资产 。
+
+* Mandiant Managed Defens e
+自信 满满 地 全天候 查找 和 消除 威胁 。
+
+* Security Comm and Center
+用于 保护 Google Cloud 资产 免遭 安全 威胁 的 平台 。
+
+* Cloud Key Management
+在 Google Cloud 上 管理 加密 密钥 。
+
+* Mandiant Incident Respons e
+尽可能 减少 安全 事故 的 影响 。
+
+* Chrome 企业 进 阶版
+借助 广泛 的 端点 可见性 ， 获得 安全 的 企业 浏览 体验 。
+
+* Assured Workloads
+针对 敏感 工作 负载 的 合规 与 安全 控制 措施 。
+
+* Google Security Operations
+检测 、 调查 和 应对 网络 威胁 。
+
+* Mandiant Cons ulting
+在 突发 事件 前后 及 期间 获得 专 家 指导 。
+
+* 没有 看到 您 需要 的 内容 ？
+* 查看 所有 安全 和 身份 产品
+
+* 无 服务器
+
+* Cloud Run
+用于 运行 容器化 应用 的 全 代管式 环境 。
+
+* Cloud Functions
+用于 创建云 事件 响应 函数 的 平台 。
+
+* App Engine
+适用 于 应用 和 后端 的 无 服务器 应用 平台 。
+
+* Workflows
+无 服务器 产品 和 API 服务 的 工作流 编排 。
+
+* API Gateway
+借助 全 代管式 网关 开发 、 部署 、 保护 和 管理 API 。
+
+* 存储
+
+* Cloud Storage
+安全 、 耐用 且 可 伸缩 的 对象 存储 服务 。
+
+* 块 存储
+适用 于 AI 、 分析 、 数据库 和 企业 应用 的 高性能 存储 服务 。
+
+* Filestore
+伸缩 能力 极 强 且 安全 可靠 的 文件 存储 服务 。
+
+* Persistent Disk
+适用 于 Google Cloud 上 运行 的 虚拟机 实例 的 块 存储 服务 。
+
+* Cloud Storage for Firebase
+用于 存储 和 提供 用户 生成 的 内容 的 对象 存储 服务 。
+
+* 本地 SSD
+本地 挂 接 以 满足 高性能 需求 的 块 存储 。
+
+* Storage Transfer Service
+用于 将 数据 从 在线 和 本地 来 源 转移 到 Cloud Storage 的 服务 。
+
+* Parallelstore
+高性能 代管式 并行 文件 服务 。
+
+* Google Cloud NetApp Volumes
+适用 于 NFS 、 SMB 和 多 协议 环境 的 文件 存储 服务 。
+
+* 备份 和 灾难 恢复 服务
+用于 实现 具有 应用 一致性 的 集中式 数据 保护 的 服务 。
+
+* Web3
+
+* Blockchain Node Engine
+帮助 开发者 在 区块 链上 进行 开发 的 全代管式 节点 托管 解决 方案 。
+
+* 区 块链 RPC
+帮助 在 区块 链上 进行 构建 的 企业级 远程 过程 调用 ( RPC ) 。
+
+( BUTTON ) close
+* 利用 我们 透明 的 定 价 方法 节省 资金
+* Google Cloud 的 随用 随付 价 格 方案 会 根据 预付费 资源 的 每月 用量 和 折扣费率 自动 为 您 节省 费用 。 请 立即 联系 我们 ， 获取 报 价 。
+* 请求 报 价
+
+* 价 格 概览 和 工具
+* Google Cloud 价 格
+用 多少 付 多少 ， 没有 限制
+* 价 格 计算器
+计算 您 可 节省 的 云 服务 费用 。
+* Google Cloud 免费 层级
+探索 提供 每月 免费 用量 的 产品 。
+
+* 费用 优化 框架
+了 解优化 工作 负载 费用 的 最佳 实践 。
+* 费用 管理 工具
+用于 监控 和 控制 费用 的 工具 。
+
+* 产品 详细 价 格
+* Compute Engine
+* Cloud SQL
+* Google Kubernetes Engine
+* Cloud Storage
+* BigQuery
+* 查看 100 多种 产品 的 完整 价 格表
+
+( BUTTON ) close
+* 学习 与 构建
+* Google Cloud 免费 计划
+获 享 $ 300 赠金 以及 20 多种 提供 “ 始终 免费 ” 用量 的 产品 。
+* 快速 入门
+获取 教程 和 演示 。
+* 博客
+阅读 我们 最新 的 产品 资讯 和 案例 。
+
+* 学习 中心
+通过 基于 角色 的 学习 发展 您 的 职业 生涯
+* 认证
+准备 并 注册 认证 。
+* 云 架构 中心
+了 解 参考 架构 和 最佳 实践 。
+
+* 连 接
+* 创新者
+加入 Google Cloud 合作 伙伴 计划 。
+* 开发者 中心
+及时 获得 最新 资讯 并 保持 联系 。
+* 活动 和 在线 讲座
+浏览 即将 到 来 的 活动 和 点播 观看 活动 。
+* Google Cloud 社区
+提出 问题 、 寻找 答案 并 与 他人 交流 。
+
+* 咨询 与 合作 伙伴
+* Google Cloud 咨询 服务
+与 我们 的 专 家 合作 处理云 项目 。
+* Google Cloud Marketplace
+只 需 点击 几 下 即可 部署 即时 可用 的 解决 方案 。
+* Google Cloud 合作 伙伴
+探索 与 合作 伙伴 合作 的 好处 。
+* 成为 合作 伙伴
+加入 Partner Advant age 计划 。
+
+( BUTTON ) close
+Google Cloud
+* 概览
++ ( BUTTON ) arrow _ forward
+* 解决 方案
++ ( BUTTON ) arrow _ forward
+* 产品
++ ( BUTTON ) arrow _ forward
+* 价 格
++ ( BUTTON ) arrow _ forward
+* 资源
++ ( BUTTON ) arrow _ forward
+* 文档
+* 支持
+* 控制台
+
+* 加快 数字化 转型 的 速度
+* 了 解详 情
+* 主要 优势
+* 为什 么 选择 Google Cloud
+* AI 和 机器 学习
+* 多 云
+* 全球 基础 架构
+* 数据云
+* 现代 基础 设施 云
+* 安全
+* 工作 效率 与 协作
+* 报告 和 数据洞 见
+* 高管 数据洞 见
+* 分析师 报告
+* 白皮书
+* 客户 案例
+
+* 行业 解决 方案
+* 零售
+* 快速 消费品
+* 金融 服务
+* 医疗 保健 和 生命 科学
+* 媒体 和 娱乐
+* 电信
+* 游戏
+* 制造
+* 供应链 与 物流
+* 政府
+* 教育
+* 查看 所有 行业 解决 方案
+* 查看 所有 解决 方案
+* 应用 现代化 改造
+* CAMP
+* 对 传统 应用 进行 现代化 改造
+* 从 PaaS 迁移 ： Cloud Foundry 或 Opens hift
+* 从 大型 主机 迁移
+* 对 软件 交付 进行 现代化 改造
+* DevOps 最佳 实践
+* SRE 原 则
+* GKE 的 投产 后 运维
+* 在 边缘 运行 应用
+* 设计 适合 多云 环境 的 架构
+* 无 服务 器化
+* 人工智能
+* 集成 Google AI 技术 的 客户 互动 套件
+* Document AI
+* Vertex AI Search for Retail
+* 适用 于 Google Cloud 的 Gemini
+* Google Cloud 上 的 生成式 AI
+* API 和 应用
+* 使用 API 开拓 新 的 业务 渠道
+* 使用 API 发掘 旧式 应用 的 潜力
+* Open Banking API x
+* 数据 分析
+* 数据 迁移
+* 数据湖 现代化 改造
+* 数据流 分析
+* 营销 分析
+* 数据 集
+* 商业 智能
+* 用于 数据 分析 的 AI
+* 数据库
+* 数据库 迁移
+* 数据库 现代化 改造
+* 游戏 数据库
+* Google Cloud 数据库
+* 将 Oracle 工作 负载 迁移 到 Google Cloud
+* 开源 数据库
+* SQL Server on Google Cloud
+* 用于 数据库 的 Gemini
+* 基础 架构 现代化 改造
+* 应用 迁移
+* SAP on Google Cloud
+* 高性能 计算
+* Windows on Google Cloud
+* 数据 中心 迁移
+* Active Assis t
+* 虚拟 桌面
+* 快速 迁移 和 现代化 改造 计划
+* 备份 和 灾难 恢复
+* Red Hat on Google Cloud
+* 工作 效率 与 协作
+* Google Workspace
+* Google Workspace 基本 功能 版
+* Cloud Identity
+* Chrome 企业 版
+* 安全
+* 安全 分析 与 运营
+* Web 应用 和 API 保护
+* 安全 和 弹性 框架
+* 风险 和 合规 即 代码 ( RCaC )
+* 软件 供应链 安全
+* Security Foundation
+* 初创 公司 和 中小型 企业
+* 初创 公司 计划
+* 中小型 企业
+* 软件 即 服务
+
+* 精选 产品
+* Compute Engine
+* Cloud Storage
+* BigQuery
+* Cloud Run
+* Google Kubernetes Engine
+* Vertex AI
+* Looker
+* Apigee API Management
+* Cloud SQL
+* Gemini Enterprise
+* Cloud CDN
+* 查看 所有 产品 （ 100 多 款 ）
+* AI 和 机器 学习
+* Vertex AI Platform
+* Vertex AI Studio
+* Vertex AI Agent Builder
+* 对话 代理
+* Vertex AI Search
+* Speech - t o - Text
+* Text - t o - Speech
+* Translation AI
+* Document AI
+* Gemini Enterprise
+* Vision AI
+* 联络 中心 即 服务
+* 查看 所有 AI 和 机器 学习 产品
+* 商业 智能
+* Looker
+* Looker Studio
+* 计算
+* Compute Engine
+* App Engine
+* Cloud GPU
+* Migrate t o Virtual Machines
+* Spot 虚拟机
+* 批量
+* 单租户 节点
+* 裸金属
+* Recommender
+* VMware Engine
+* Cloud Run
+* 查看 所有 计算 产品
+* 容器
+* Google Kubernetes Engine
+* Cloud Run
+* Cloud Build
+* Artifact Registry
+* Cloud Code
+* Cloud Deploy
+* Migrate t o Containers
+* Deep Learning Containers
+* Knative
+* 数据 分析
+* BigQuery
+* Looker
+* Dataflow
+* Pub / Sub
+* Dataproc
+* Cloud Data Fusion
+* Cloud Composer
+* BigLake
+* Dataplex
+* Dataform
+* Analytics Hub
+* 查看 所有 数据 分析 产品
+* 数据库
+* Alloy DB for PostgreSQL
+* Cloud SQL
+* Firestore
+* Spanner
+* Bigtable
+* Datastream
+* Database Migration Service
+* 裸金属 解决 方案
+* Memorystore
+* 开发者 工具
+* Artifact Registry
+* Cloud Code
+* Cloud Build
+* Cloud Deploy
+* Cloud Deployment Manager
+* Cloud SDK
+* Cloud Scheduler
+* Cloud Source Repositories
+* Infrastructure Manager
+* Cloud Works tations
+* Gemini Code Assis t
+* 查看 所有 开发者 工具
+* 分布式 云
+* Google Distributed Cloud Connected
+* Google Distributed Cloud Air - gapped
+* 混合云 和 多云
+* Google Kubernetes Engine
+* Apigee API Management
+* Migrate t o Containers
+* Cloud Build
+* 运维
+* Google Distributed Cloud
+* 针对 特定 行业
+* 反 洗钱 AI
+* Cloud Healthcare API
+* 关联 Fitbit 设备
+* 电信 网络 自动化
+* 电信 数据 结构 脉络
+* Telecom Subscriber Insights
+* Spectrum Access System ( SAS )
+* 集成 服务
+* Application Integration
+* Workflows
+* Apigee API Management
+* Cloud Tasks
+* Cloud Scheduler
+* Dataproc
+* Cloud Data Fusion
+* Cloud Composer
+* Pub / Sub
+* Event arc
+* 管理 工具
+* Cloud Shell
+* Cloud 控制台
+* Cloud Endpoints
+* Cloud IAM
+* Cloud API
+* Service Catalog
+* 费用 管理
+* 运维
+* 碳 足迹
+* Config Connector
+* Active Assis t
+* 查看 所有 管理 工具
+* 地图 和 地理 空间
+* Earth Engine
+* Google Maps Platform
+* 媒体 服务
+* Cloud CDN
+* Live Stream API
+* OpenCue
+* Transcoder API
+* Video Stitcher API
+* 迁移
+* 迁移 中心
+* 应用 迁移
+* Migrate t o Virtual Machines
+* Cloud Foundation Toolkit
+* Database Migration Service
+* Migrate t o Containers
+* BigQuery Data Transfer Service
+* 快速 迁移 和 现代化 改造 计划
+* Transfer Appliance
+* Storage Transfer Service
+* VMware Engine
+* 混合 现实
+* Immersive Stream for XR
+* 网络
+* Cloud Armor
+* Cloud CDN 和 媒体 CDN
+* Cloud DNS
+* Cloud Load Balancing
+* Cloud NAT
+* 云 连 接
+* Network Connectivity Center
+* Network Intelligence Center
+* Network Service Tiers
+* 虚拟 私有 云
+* Private Service Connect
+* 查看 所有 网络 产品
+* 运维
+* Cloud Logging
+* Cloud Monitoring
+* 错误 报告
+* Cloud Debugger
+* Cloud Trace
+* Cloud Profiler
+* Cloud 配额
+* 工作 效率 与 协作
+* AppSheet
+* AppSheet Automation
+* Gemini Enterprise
+* Google Workspace
+* Google Workspace 基本 功能 版
+* Cloud Identity
+* Chrome 企业 版
+* 安全 和 身份
+* Cloud IAM
+* 敏感 数据 保护
+* Mandiant Managed Defens e
+* Security Comm and Center
+* Cloud Key Management
+* Mandiant Incident Respons e
+* Chrome 企业 进 阶版
+* Assured Workloads
+* Google Security Operations
+* Mandiant Cons ulting
+* 查看 所有 安全 和 身份 产品
+* 无 服务器
+* Cloud Run
+* Cloud Functions
+* App Engine
+* Workflows
+* API Gateway
+* 存储
+* Cloud Storage
+* 块 存储
+* Filestore
+* Persistent Disk
+* Cloud Storage for Firebase
+* 本地 SSD
+* Storage Transfer Service
+* Parallelstore
+* Google Cloud NetApp Volumes
+* 备份 和 灾难 恢复 服务
+* Web3
+* Blockchain Node Engine
+* 区 块链 RPC
+
+* 利用 我们 透明 的 定 价 方法 节省 资金
+* 请求 报 价
+* 价 格 概览 和 工具
+* Google Cloud 价 格
+* 价 格 计算器
+* Google Cloud 免费 层级
+* 费用 优化 框架
+* 费用 管理 工具
+* 产品 详细 价 格
+* Compute Engine
+* Cloud SQL
+* Google Kubernetes Engine
+* Cloud Storage
+* BigQuery
+* 查看 100 多种 产品 的 完整 价 格表
+
+* 学习 与 构建
+* Google Cloud 免费 计划
+* 快速 入门
+* 博客
+* 学习 中心
+* 认证
+* 云 架构 中心
+* 连 接
+* 创新者
+* 开发者 中心
+* 活动 和 在线 讲座
+* Google Cloud 社区
+* 咨询 与 合作 伙伴
+* Google Cloud 咨询 服务
+* Google Cloud Marketplace
+* Google Cloud 合作 伙伴
+* 成为 合作 伙伴
+
+* 为什 么 选择 Google
++ 选择 Google Cloud
++ 信任 与 安全
++ 现代 基础 设施 云
++ 多 云
++ 全球 基础 架构
++ 客户 和 案例 研究
++ 分析师 报告
++ 白皮书
++ 博客
+* 产品 和 价 格
++ Google Cloud 价 格
++ Google Workspace 价 格
++ 查看 所有 产品
+* 解决 方案
++ 基础 架构 现代化 改造
++ 数据库
++ 应用 现代化 改造
++ 智能 分析
++ 人工智能
++ 安全
++ 生产力 和 工作 方式 转变
++ 行业 解决 方案
++ DevOps 解决 方案
++ 小 企业 解决 方案
++ 查看 所有 解决 方案
+* 资源
++ Google Cloud 联属 营销 计划
++ Google Cloud 文档
++ Google Cloud 快速 入门
++ Google Cloud Marketplace
++ 了 解云 计算
++ 支持
++ 代码 示例
++ 云 架构 中心
++ 培训
++ 认证
++ Google Developers
++ Google Cloud 初创 公司 计划
++ 系统 状态
++ 版本 说明
+* 互动
++ 联系 业务 代表
++ 寻找 合作 伙伴
++ 成为 合作 伙伴
++ 事件
++ 播客
++ 开发者 中心
++ 媒体 资讯角
++ Google Cloud 在 YouTube 上 的 频道
++ YouTube 上 的 Google Cloud Tech
++ 在 Twitter 上 关注
++ 参与 用户 调查
++ Google Cloud 诚 聘 英才 ， 欢迎 加入 ！
++ Google Cloud 社区
+
+* 关于 Google
+* 隐私权
+* 网站 条款
+* Google Cloud 术语
+* Cookie 管理 控件
+* 环境 行动 的 第三 个 十 年 ： 加入 我们
+* 订阅 Google Cloud 简报
+订阅
+
+language‪ 简体 中文 ‬
+* ‪English‬
+* ‪ Deutsch‬
+* ‪Español‬
+* ‪Español ( Latinoamérica ) ‬
+* ‪Français‬
+* ‪ Indonesia‬
+* ‪Italiano‬
+* ‪Português ( Brasil ) ‬
+* ‪ 简体 中文 ‬
+* ‪ 繁體 中文 ‬
+* ‪ 日本 語‬
+* ‪한 국어 ‬

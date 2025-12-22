@@ -1,0 +1,190 @@
+User-agent: Baiduspider
+Disallow: /w?
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+Disallow: /search
+
+User-agent: Googlebot
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: bingbot
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: MSNBot
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Baiduspider-image
+Disallow: /w?
+Disallow: /client/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: YoudaoBot
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Sogou web spider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Sogou inst spider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Sogou spider2
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Sogou blog
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Sogou News Spider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Sogou Orion spider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: ChinasoSpider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: Sosospider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: YYspider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: EasouSpider
+Disallow: /update
+Disallow: /history
+Disallow: /usercard
+Disallow: /usercenter
+Disallow: /client/
+Disallow: /divideload/
+Disallow: /edit/
+Disallow: /l/
+Disallow: /redirect/
+Disallow: /reference/
+
+User-agent: yisouspider
+Disallow: /
+
+User-agent: *
+Disallow: /

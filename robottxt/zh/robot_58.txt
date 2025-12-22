@@ -1,0 +1,22 @@
+Sitemap: https://www.fortunebusinessinsights.com/sitemap1.xml
+
+User-agent: *
+Disallow:/enquiry/*
+Disallow:/enquiry1/*
+Disallow:/enquiry-covid19
+Disallow:/admin/*
+Disallow:/googlespeach/*
+Disallow:/fbi_test/*
+Disallow:/search/*
+Disallow:/pressreleases1/*
+Disallow:/amp/industry-reports/toc/*
+Disallow:/amp/industry-reports/segmentation/*
+Disallow:/amp/industry-reports/methodology/*
+Disallow:/industry-reports-test/*
+Disallow:/checkout-page-test/*
+Disallow:/industry-reports-test
+Disallow:/checkout-page-test
+Disallow:/request-industry-insights
+Disallow:/paypal_v2/*
+Disallow:/pages/*
+Disallow:/stripe/*

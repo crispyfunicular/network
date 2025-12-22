@@ -1,0 +1,1181 @@
+   #编辑 Wikipedia (zh) alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate Wikipedia的Atom订阅
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+     * 特殊页面
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 社会网络分析
+     * 2 社会网络分析衡量值
+     * 3 分析层次
+       (BUTTON) 开关分析层次子章节
+          + 3.1 中观层面
+     * 4 历史
+     * 5 理论链接
+       (BUTTON) 开关理论链接子章节
+          + 5.1 进口理论
+          + 5.2 土著理论
+     * 6 结构孔
+     * 7 研究集群
+     * 8 社会网络分析软体
+     * 9 相关学者与组织
+     * 10 参见
+     * 11 外部链接
+
+   [ ] 开关目录
+
+社会网络
+
+   [ ] 68种语言
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * Български
+     * বাংলা
+     * Brezhoneg
+     * Català
+     * کوردی
+     * Corsu
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * Estremeñu
+     * فارسی
+     * Suomi
+     * Français
+     * Galego
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Արեւմտահայերէն
+     * Bahasa Indonesia
+     * Ido
+     * Italiano
+     * 日本語
+     * Taqbaylit
+     * Қазақша
+     * 한국어
+     * Kurdî
+     * Latviešu
+     * Malagasy
+     * Македонски
+     * Монгол
+     * मराठी
+     * Bahasa Melayu
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Occitan
+     * Polski
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * Shqip
+     * Српски / srpski
+     * Svenska
+     * Kiswahili
+     * Тоҷикӣ
+     * ไทย
+     * Tagalog
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * Walon
+     * 吴语
+     * 粵語
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 简体
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印版本
+
+   在其他项目中
+     * 维基共享资源
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   本页使用了标题或全文手工转换
+   维基百科，自由的百科全书
+   此条目介绍的是社会学中的理论概念。关于社交网站，请见“社交网路服务”。关于2010年电影，请见“社群网战”。
+   系列条目
+                  社会学
+   社会网络模型 社会网络模型
+     * 社会学史
+     * 社会学概述（英语：Outline of sociology）
+     * Portal:社会
+
+               主要的社会学理论
+     * 结构功能论
+     * 冲突理论
+     * 社会交换论
+     * 符号互动论
+     * 批判理论
+     * 俗民方法论
+     * 中层理论
+     * 社会建构主义
+     * 行动者网络理论
+     * 实证主义
+          + 反实证主义
+
+                 研究方法
+     * 定量研究
+     * 定性研究
+     * 比较研究（英语：Comparative historical research）
+     * 计算社会学
+     * 民族志
+     * 语用学（英语：Conversation analysis）
+     * 历史社会学
+     * 采访（英语：Interview (research)）
+     * 数理社会学
+     * 社会网络分析
+
+   主要分支学科（英语：Subfields of sociology）
+     * 犯罪学
+     * 人口学
+     * 社会心理学
+     * 发展理论
+     * 文化社会学
+     * 越轨社会学
+     * 经济社会学
+     * 教育社会学
+     * 环境社会学
+     * 家庭社会学（英语：Sociology of the family）
+     * 女性主义社会学（英语：Feminist sociology）
+     * 性别社会学
+     * 工业社会学
+     * 知识社会学
+     * 法律社会学
+     * 文学社会学（英语：Sociology of literature）
+     * 医学社会学
+     * 健康与疾病社会学
+     * 军事社会学
+     * 恐怖主义社会学（英语：Sociology of terrorism）
+     * 政治社会学
+     * 种族与民族关系社会学
+     * 宗教社会学
+     * 乡村社会学
+     * 城市社会学
+     * 科学知识社会学
+     * 科技与社会
+     * 社会不平等
+     * 社会阶层与社会流动
+     * 社会运动
+     * 社会变迁
+
+                其他相关信息
+     * 社会学家列表
+     * 社会学时间轴（英语：Timeline of sociology）
+
+     * 查
+     * 论
+     * 编
+
+   此条目可参照英语维基百科相应条目来扩充。
+   若您熟悉来源语言和主题，请协助参考外语维基百科扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来
+   源，或于讨论页顶部标记{{Translated page}}标签。
+
+   社会网络（英语：Social
+   network），是由许多节点以及节点间关系构成的一个网络结构。节点通常是指个人或组织（又称社团）。社会网路代表各种社会关系，经由这些社会关系
+   ，把从偶然相识的泛泛之交到紧密结合的家人关系的各种人们或组织串连起来。^[1]社会网路依赖于一种到多种关系而形成，如价值观、理想、观念、兴趣爱
+   好、友谊、血缘关系、共同厌恶的事物、冲突或贸易。由此产生的网络结构往往是非常复杂的。
+
+   社会网络分析是用来检视节点、连结之间的社会关系的分析方式。节点是网路中的个人参与者，连结则是参与者之间的关系。节点之间可以有很多种连结。一些学
+   术研究已经显示，社会网路在很多层面运作，从家庭到国家层面都有，并扮演著关键作用，决定问题如何得到解决，组织如何运行，并在某种程度上决定个人能否
+   成功实现目标。
+
+   用最简单的形式来说，社会网络是一张地图，标示出所有与节点相关的连结。社会网路也可以用来衡量个人参与者的社会资本。这些概念往往显示在一张社会网络
+   图，其中节点是点状，连结是线状。
+
+社会网络分析
+
+   [编辑]
+   [330px-Sna_large.png] 社会网络一个例子，中介中心性最高的结点用黄色标出。
+
+   社会网络分析已经成为一个关键技术，也是一项热门的研究，在现代社会学、人类学、社会语言学、地理、社会心理学、通讯研究、资讯科学、历史学^[2]、
+   社会网络分析与探勘、组织研究、经济学，以及生物学领域。
+
+   一个多世纪以来，人们就使用社会网路来比喻复杂的社会系统下，成员之间的关系，囊括所有层级，从人际关系到国际关系。1954年，J. A.
+   Barnes开始使用这个术语，系统化的呈现关系模式，统整了大众与社会科学家的传统概念：有限制的群体（如部落、家庭）和社会分类（如性别、种族）。
+
+社会网络分析衡量值
+
+   [编辑]
+
+   社会网络分析衡量值可以用来描述一个社会网络的概况,比较常见的社会网络分析衡量值包括以下:
+     * 分支度、点度 Degree
+     * 密度 Density
+     * 派别 Clique
+     * 亲密度中心性 Closeness Centrality
+     * 中介度中心性 Betweeness Centrality
+     * 丛聚系数 Clustering Coefficient
+
+分析层次
+
+   [编辑]
+
+   通常，社会网络是自组织的、突生性的和复杂的，通常是由局部元体的紧密相互作用才形成整个系统。这种模式随着网络规模的增加而更加明显。但是，全球网络
+   分析，例如所有人的人际关系是不可能得到的，即便可分析，所带来的巨量资讯也将无法提供有用信息。计算能力的限制，伦理和参与者的报酬都限制了社会网络
+   分析的规模。局部系统的细微差别可能在大规模的网络分析中消失，因此要理解网络的特性，信息的质量远比网络的规模重要。因此，社会网络是与研究者的研究
+   问题的规模有关的。虽然分析层次彼此不必然互斥，但是仍然有三种社会网络分析水平：宏观水平、中观水平和微观水平。
+   [250px-Moreno_Sociogram_2nd_Grade.png] 莫雷诺绘制的二年级班级社会关系图
+
+中观层面
+
+   [编辑]
+   [250px-Social_Red.jpg] 社会网络图，中观层面
+
+   中观层面理论的出发点是研究介于微观和宏观之间的人口规模。然而，中观层面也可指用于揭示微观与宏观层面之间联系的特定分析视角。在中观层面上，网络通
+   常密度较低，可能呈现出不同于人际微观网络的因果机制。^[3]
+
+   组织
+   ：为实现共同目标而分工协作的社会团体。组织网络研究可以聚焦于组织内部或组织之间的正式与非正式关系。组织内部的网络本身通常包含多个分析层级，尤其
+   是在拥有多个分支机构、特许经营权或半自治部门的大型组织中。在这种情况下，研究通常在工作组层面和组织整体层面同时展开，重点关注这两个层级结构之间
+   的相互作用。^[4]在线网络群组实验已经记录了通过各种干预措施来优化群组级别协调的方法，包括在群组中添加自主代理。^[5]
+
+   随机网络分布：20世纪80年代，社交网络的指数随机图模型（Exponential Random Graph Models,
+   ERGM）成为社交网络分析中最前沿的方法之一。该模型框架能够表示许多在人类社交网络中普遍存在的社会结构效应，例如基于节点度数的结构特征、互惠性
+   、传递性，以及节点层面的同质性、属性驱动的活跃度和受欢迎度等。这些效应都基于对网络关系之间依赖性的明确假设。ERGM
+   的参数是根据网络中小型子图模式的普遍性来设定的，这些参数可以被解释为描述网络生成过程中局部社会互动机制的组合。作为面向特定行为主体集合的概率模
+   型，它超越了传统微观网络中“关系独立性”的局限，能够在社会行为理论的框架下构建更为复杂和贴合实际的网络模型。^[6]
+   [250px-Scale-free_network_sample.svg.png]
+   随机网络和无标度网络的图示中，每个图有32个节点和32条边。
+
+   无尺度网络：一种度分布服从幂律的网络结构，具有少数高连接节点（枢纽）和大量低连接节点的特征。这种结构广泛存在于社交网络等复杂系统中，有助于揭示
+   社会群体的规模分布特性。^[7]无尺度网络的具体特征会因建模理论和分析工具而有所不同，但通常具有以下共同特征：1.存在大量度数远高于平均值的节
+   点，这些“枢纽”在网络中可能具有重要作用；2.聚类系数通常随节点度数的增加而减小，且这种分布也呈幂律形式。这些特性共同构成了无尺度网络的典型结
+   构。^[8]
+
+历史
+
+   [编辑]
+
+   在19世纪90年代末，埃米尔·涂尔干（Émile Durkheim ）和 斐迪南·滕尼斯（Ferdinand Tönnies
+   ）在各自关于社会群体的理论与研究中，实际上都预示了“社交网络”这一概念的出现。滕尼斯（Tönnies）
+   认为，社会群体可以通过个人之间直接的社会纽带而存在。这些纽带要么将拥有共同价值观和信仰的个体联系在一起（他称之为
+   Gemeinschaft，德语，通常翻译为“共同体”或“社区”），要么表现为非个人化的、正式的、工具性的社会关系（称为
+   Gesellschaft，德语，通常翻译为“社会”）。^[9]
+
+   涂尔干（Durkheim）
+   对社会事实提出了非个人主义的解释。他认为当个体之间的互动形成一种无法再用个人行为者属性来解释的现实时，社会现象便由此产生。^[10]Georg
+   Simmel
+   在二十世纪之交的写作中指出，网络的性质以及网络规模会影响个体之间的相互作用。他还研究了在松散网络中进行互动的可能性，而不仅限于传统群体内部的互
+   动。^[11]
+
+   20世纪30年代，心理学、人类学和数学等多个领域的独立研究团体在社交网络研究方面取得了显著进展，推动了该领域的重大发展。^[12]^[13]^
+   [14]20世纪30年代，心理学家莫雷诺开始系统研究小组中的社会互动。此外，人类学中的社交网络理论基础来源于马林诺夫斯基、拉德克利夫-布朗和列
+   维-斯特劳斯的理论与田野研究。^[15]与 Max Gluckman 和曼彻斯特学派相关的一些社会人类学家，如 John A.
+   Barnes、J. Clyde Mitchell 和 Elizabeth Bott
+   Spillius被认为是最早进行网络分析实地研究的学者，他们考察了南部非洲、印度和英国的社区网络。^[14]
+
+   同时，英国人类学家 S.F. Nadel
+   构建了一套社会结构理论对后来的网络分析产生了重要影响。^[16]在社会学领域，塔尔科特·帕森斯（Talcott
+   Parsons）在1930年代的早期研究为采用关系视角理解社会结构奠定了基础。^[17]^[18]后来基于帕森斯的理论，社会学家彼得·布劳的研
+   究为分析社会单位与社会交换理论之间的关系提供了有力支持。^[19]^[20]^[21]
+
+   到20世纪70年代，越来越多学者致力于融合不同的研究路径和传统。其中，一个由社会学家哈里森·怀特及其在哈佛大学社会关系系的学生组成的小组发挥了
+   重要作用。并专注于政治社会学、社区社会学和社会运动网络的查尔斯·蒂利（Charles Tilly）以及斯坦利·米尔格拉姆（Stanley
+   Milgram）也在哈佛大学社会关系系独立开展研究，米尔格拉姆提出了著名的“六度分离”理论。^[22]Mark Granovetter 和
+   Barry Wellman 是哈里森·怀特的学生，他们阐述并推动了社交网络分析的发展。^[23]^[24]^[25]^[26]
+
+理论链接
+
+   [编辑]
+
+进口理论
+
+   [编辑]
+
+   多种理论框架已被引入社交网络分析，其中最主要的包括图论、平衡理论、社会比较理论，以及近年来兴起的社会身份方法。^[27]
+
+土著理论
+
+   [编辑]
+
+   社交网络分析中几乎没有形成完整的理论体系，目前较为突出的有结构性角色理论和弱联系理论。弱联系理论基于一项研究发现，在获取信息和推动创新时，更多
+   的“弱联系”可能发挥关键作用。因为小团体内部成员倾向于同质化，拥有相似的观点和许多共同特征，这种“亲同性”倾向也是成员相互吸引的原因。因为相似
+   ，所以团体中的每个成员往往对其他成员所掌握的信息有所了解。为了获得新的信息或见解，成员必须超越所在团体，去寻找其他朋友圈或熟人。Granove
+   tter 将这一现象称为“弱联系的力量”。^[28]
+
+结构孔
+
+   [编辑]
+
+   在网络背景下，人们因自身在网络中的位置而拥有优势的社会资本。网络中的联系人提供的信息、机会和观点，能够惠及网络中的核心成员。大多数社会结构通常
+   表现为由紧密联系的密集集群组成。^[29]这些集群中的信息往往较为同质且重复，而非重复的信息通常来自不同集群之间的联系人。^[30]当两个独立
+   集群之间存在非冗余信息时，它们之间通常会形成一个被称为“结构性漏洞”的连接。^[30]因此，弥合结构性漏洞的网络能够带来网络优势，这些优势在一
+   定程度上是累加的，而非重复的。理想的网络结构既包含藤蔓状的延展，也包含紧密的集群，从而使个体能够接触到多个不同的集群和结构性孔洞。^[30]
+
+   结构性漏洞丰富的网络是一种重要的社会资本形式，因为它们带来信息方面的优势。弥合结构性漏洞的网络中的核心成员能够从多个不同的来源和集群中获取信息
+   。^[30]例如，在商业网络中，这种优势对个人职业发展非常有益。如果一个人的社交网络跨越不同行业或部门，拥有广泛的联系人，他更有可能获得职位空
+   缺和机会的信息。这个观点与Mark
+   Granovetter的弱联系理论类似，该理论强调广泛接触对就业的促进作用。结构性漏洞的概念已被广泛应用于社交网络分析，并进一步用于各种实际场
+   景和基于机器学习的社会预测。^[31]
+
+研究集群
+
+   [编辑]
+
+   艺术网络
+
+   有研究利用网络分析来考察艺术家在博物馆展览中共同展出的关系网络。研究表明，这种网络会影响艺术家在历史和历史叙事中的认可度，即使在控制了艺术家的
+   个人成就因素后，影响仍然显著。^[32]^[33]其他研究则探讨了艺术家所属网络群体如何影响其个人在拍卖市场上的表现。^[34]
+
+   冲突与合作
+
+   社交网络研究正被用来探讨行为者之间相互依存的性质，以及这些相互依存关系如何影响冲突与合作的结果。研究领域涵盖抗议等集体行动中参与者的合作行为；
+   社区内通过非正式治理网络促进和平、社会规范和公共产品的提供；社交网络在国内外冲突中的作用；以及政治家、选民与官僚之间的网络关系。^[35]
+
+   犯罪网络
+
+   在犯罪学和城市社会学中，研究者高度关注犯罪行为者的社交网络。例如，谋杀行为可以被视为帮派之间的一种交流形式。谋杀事件往往从单一事件向外扩散，因
+   为较弱的帮派无法直接报复杀害更强帮派成员，但为了维护自身实力和声誉，仍会采取其他形式的暴力行为。^[36]
+
+   人口统计
+
+   在人口学领域，社交网络研究催生了新的抽样方法，用于估计和接触难以统计的人群，例如无家可归者或静脉注射毒品使用者。如受访者驱动抽样（Respon
+   dent-Driven Sampling）是一种基于网络的抽样技术，通过受访者推荐更多调查对象来进行样本扩展。^[37]^[38]
+
+   经济社会学
+
+   社会学领域几乎完全关注社会互动所产生的网络。更具体来说，经济社会学通过社会资本和社会“市场”的视角来研究个人与群体的行为互动。社会学家如
+   Mark Granovetter
+   提出了关于社会结构、信息流动、惩罚与奖励机制以及信任互动的核心原则，这些原则在政治、经济及其他机构的分析中被广泛应用。Granovetter
+   研究了社会结构和社交网络如何影响就业、价格、生产力和创新等经济成果，并总结了社会学家在分析社会结构及其对经济影响方面的重要贡献。^[39]
+
+   医疗保健
+
+   社交网络分析在医疗保健领域的应用日益广泛，不仅用于流行病学研究，还被引入患者沟通与教育、疾病预防、心理健康诊断与治疗模型，以及医疗保健组织和系
+   统的研究中。^[40]
+
+   人类生态
+
+   人类生态学是一门跨学科的研究领域，关注人类与其自然环境、社会环境及建筑环境之间的关系。其科学哲学具有悠久的历史，涉及地理学、社会学、心理学、人
+   类学、动物学以及自然生态学等多个学科。^[41]^[42]
+
+   组织研究
+
+   正式或非正式的组织关系、组织沟通、经济学、经济社会学以及其他资源转移的研究中，社交网络分析也被广泛应用。它用于考察组织之间的互动，描绘将高管联
+   系在一起的非正式关系，以及不同组织中个别员工之间的关联和联系。许多关于组织社交网络的研究集中于团队层面。^[43]
+
+   在团队网络研究中，学者们评估了诸如中心性与权力的预测因素及其结果，团队中工具性联系和表达性联系的密度与集中度，以及团队间网络的作用。研究发现，
+   组织内部的网络结构会影响员工的组织承诺、组织认同感以及人际公民行为。^[44]
+
+   社会资本
+
+   社会资本是一种经济和文化资本的形式，其核心是社会网络，交易过程以互惠、信任和合作为特征。在这种网络中，市场参与者生产的商品和服务不是主要为了自
+   身利益，而是为了共同利益。社会资本包含三个维度：结构层面、关系层面和认知层面。结构层面描述了合作伙伴之间的互动方式，以及哪些特定的合作伙伴在社
+   交网络中相互连接。此外，结构层面还反映了组织之间的联系紧密程度。^[45]这一维度与关系层面密切相关，关系层面指的是合作伙伴之间纽带的可信度、
+   规范、期望和认同感。关系层面解释了这些联系的性质，主要体现在对组织网络的信任程度上。^[45]认知层面则关注组织通过联系和互动在多大程度上共享
+   共同的目标和愿景。^[45]
+
+   社会资本是一个社会学概念，强调社会关系的价值以及合作与信任在实现积极成果中的作用。它指的是个人能够从其社会纽带中获得的资源和利益。例如，新移民
+   可以利用与当地已有移民的社会联系，获得因语言不熟悉而难以获得的工作机会。研究表明，社会资本与社交网络的使用强度之间存在正相关系。^[46]^[
+   47]^[48]在动态框架下网络中更频繁的活动会转化为更丰富的社会资本，而这种社会资本又反过来激励更多的活动发生。^[48]^[49]
+
+社会网络分析软体
+
+   [编辑]
+     * UCINET （页面存档备份，存于互联网档案馆）
+     * Pajek （页面存档备份，存于互联网档案馆）
+     * NetDraw
+     * NetLogo （页面存档备份，存于互联网档案馆）
+     * Gephi （页面存档备份，存于互联网档案馆）
+
+相关学者与组织
+
+   [编辑]
+     * 台湾社会网络学会
+
+参见
+
+   [编辑]
+     * 社交网路服务 (SNS)
+     * 关系
+     * 网路理论
+
+     * 查
+     * 论
+     * 编
+
+   社会学
+
+     * 大纲（英语：Outline of sociology）
+     * 历史
+     * 时间轴（英语：Timeline of sociology）
+     * 索引
+
+   常见方面（英语：List of basic sociology topics）
+
+     * 公共社会学
+     * 社会研究
+     * 社会理论
+     * 社会学理论
+     * 应用社会学
+
+   观点
+
+     * 冲突理论
+     * 批判理论
+     * 结构功能主义
+     * 实证主义
+     * 社会建构主义
+     * 社会达尔文主义
+     * 符号互动论
+
+   相关领域（英语：Outline of sociology）
+
+     * 人类学
+     * 比较社会学
+     * 犯罪学
+     * 文化人类学
+     * 人口学
+     * 历史社会学
+     * 工业社会
+     * 马克思主义社会学
+     * 政治社会学
+     * 乡村社会学
+     * 社会人类学
+     * 社会运动
+     * 社会心理学
+     * 社会语言学
+     * 都市社会学
+
+   子领域
+     * 艺术社会学（英语：Sociology of art）
+     * 身体社会学（英语：Sociology of the body）
+     * 人类意识社会学（英语：Sociology of human consciousness）
+     * 文化社会学
+     * 死亡社会学（英语：Sociology of death）
+     * 越轨社会学
+     * 灾难社会学（英语：Sociology of disaster）
+     * 经济社会学
+     * 教育社会学
+     * 情感社会学（英语：Sociology of emotions）
+     * 环境社会学
+     * 家庭社会学（英语：Sociology of the family）
+     * 食物社会学（英语：Sociology of food）
+     * 性别社会学
+     * 健康社会学
+     * 移民社会学（英语：Sociology of immigration）
+     * 网际网路社会学
+     * 知识社会学
+     * 语言社会学（英语：Sociology of language）
+     * 法律社会学
+     * 休闲社会学
+     * 文学社会学（英语：Sociology of literature）
+     * 医学社会学
+     * 军事社会学
+     * 音乐社会学（英语：Sociomusicology）
+     * 和平、战争和社会冲突社会学（英语：Sociology of peace, war, and social conflict）
+     * 哲学社会学（英语：Sociology of philosophy）
+     * 惩罚社会学（英语：Sociology of punishment）
+     * 种族与民族关系社会学
+     * 宗教社会学
+     * 社会学社会学（英语：Sociology of sociology）
+     * 空间社会学
+     * 体育社会学
+     * 科学知识社会学
+     * 小团体社会学（英语：Sociology of small groups）
+     * 社会阶层
+     * 信息社会学（英语：Sociotechnology）
+     * 恐怖主义社会学（英语：Sociology of terrorism）
+     * 视觉社会学（英语：Visual sociology）
+     * 工业社会学
+
+   主要理论家
+
+     * 西哀士
+     * 孔德
+     * 马蒂诺（英语：Harriet Martineau）
+     * 托克维尔
+     * 马克思
+     * 斯宾塞
+     * 勒庞
+     * 沃德（英语：Lester Frank Ward）
+     * 帕累托
+     * 滕尼斯
+     * 范伯伦
+     * 齐美尔
+     * 涂尔干
+     * 亚当斯
+     * 米德
+     * 韦伯
+     * 杜波依斯
+     * 曼海姆
+     * 伊里亚思
+     * 弗罗姆
+     * 阿多诺
+     * 盖伦
+     * 阿隆
+     * 默顿
+     * 尼斯比特
+     * 米尔斯
+     * 贝尔
+     * 舍克（英语：Helmut Schoeck）
+     * 高夫曼
+     * 鲍曼
+     * 福柯
+     * 卢曼
+     * 哈贝马斯
+     * 布希亚
+     * 布迪厄
+     * 纪登斯
+
+   研究方法
+
+     * 定量研究
+     * 质性研究
+     * 比较历史研究（英语：Comparative historical research）
+     * 计算社会学
+     * 民族志
+     * 会话分析（英语：Conversation analysis）
+     * 史学方法
+     * 面试研究（英语：Interview (research)）
+     * 数理社会学
+     * 社会网络分析
+     * 社会实验
+     * 调查
+
+   主要话题
+
+     * 社会
+     * 全球化
+     * 人的行为
+     * 人类对环境的影响
+     * 身份认同
+     * 工业革命（3 / 4 / 5）
+     * 知名度
+     * 社会复杂性（英语：Social complexity）
+     * 社会环境
+     * 社会平等
+     * 社会公平
+     * 社会权力
+     * 社会阶层
+     * 社会结构
+     * 社会循环理论（英语：Social cycle theory）
+
+     * 分类 分类
+          + 列表
+          + 期刊
+     * 共享资源页面 共享资源
+     * 专题 维基专题
+     * [40px-Social_sciences.svg.png] 社会主题
+     * 条目目录
+
+     * 查
+     * 论
+     * 编
+
+   社会网络
+
+   种类
+
+     * 城市网络
+     * 个人网络（英语：Personal network）
+     * 专业网络服务（英语：Professional network service）
+     * 性网络
+     * 价值网络（英语：Value network）
+     * 小团体
+          + 青少年派系（英语：Adolescent cliques）
+
+   网络
+
+     * 分散式社交网络
+          + 比较列表（英语：Comparison of software and protocols for distributed
+            social networking）
+     * 企业社交网络（英语：Enterprise social networking）
+     * 手机社交网络（英语：Mobile social network）
+     * 个人知识网络（英语：Personal knowledge networking）
+
+   服务
+
+     * 社交网络网站列表
+     * 超过100万用户的虚拟社区列表
+     * 用户过亿的虚拟社区列表
+
+   概念
+
+     * Ambient awareness（英语：Ambient awareness）
+     * Assortative mixing（英语：Assortative mixing）
+     * 桥 (社会网络)
+     * 桥 (社会网络)
+     * 组织网络分析（英语：Organizational network analysis）
+     * 小世界试验（英语：Small-world experiment）
+     * 电视的社会影响（英语：Social aspects of television）
+     * 社会资本
+     * 社会数据革命（英语：Social data revolution）
+     * 社会交换论
+     * 社会认同理论
+     * 社交媒体情报（英语：Social media intelligence）
+     * 社会网络分析
+     * 社交网（英语：Social web）
+     * 同族结婚结构（英语：Structural endogamy）
+     * 虚拟集体意识（英语：Virtual collective consciousness）
+
+   模型与程序
+
+     * 帐户认证
+     * 社交网络集中化（英语：Social network aggregation）
+     * 社会网络分析
+     * Blockmodeling（英语：Blockmodeling）
+     * 协同图（英语：Collaboration graph）
+     * 分享型经济
+     * 协同消费（英语：Collaborative consumption）
+     * 巨大全球图
+     * 横向沟通（英语：Lateral communication）
+     * 信誉系统
+     * 社交机器（英语：Social bot）
+     * 社交图谱（英语：Social graph）
+     * 社交网络分析软件（英语：Social network analysis software）
+     * 社交网络潜能（英语：Social networking potential）
+     * 社交电视
+     * 结构性结合（英语：Structural cohesion）
+
+   经济
+
+     * 协同金融（英语：Collaborative finance）
+     * 创作者经济（英语：Creator economy）
+     * 网红营销（英语：Influencer marketing）
+     * 共享经济
+     * 社交商业（英语：Social commerce）
+     * 病毒营销
+
+   现象
+
+     * 社区认可（英语：Community recognition）
+     * 复杂传染性（英语：Complex contagion）
+     * 陌生人联系（英语：Consequential strangers）
+     * 朋友的朋友
+     * 加好友与关注（英语：Friending and following）
+     * 友谊悖论（英语：Friendship paradox）
+     * Influence-for-hire（英语：Influence-for-hire）
+     * 六度分隔理论
+     * Social media addiction（英语：Social media addiction）
+     * 社会不可见（英语：Social invisibility）
+     * 社交网络游戏
+     * 社交盲点（英语：Social occultation）
+     * 社交隐形（英语：Social invisibility）
+     * 互联网部族（英语：Tribe (internet)）
+     * 病毒式传播
+
+   相关
+
+     * 社交网络研究者列表（英语：List of social network researchers）
+     * 用户轮廓（英语：User profile）
+          + 网络身份
+          + 人物志
+     * Viral messages（英语：Viral messages）
+     * 虚拟社群
+
+     * 查
+     * 论
+     * 编
+
+   社交网络服务
+
+   网站
+
+   个人应用
+     * [DEL: Ask.fm :DEL]
+     * AcFun
+     * Ameba
+     * ANobii
+     * Badoo
+     * BAND
+     * Bebo
+     * 哔哩哔哩
+     * Bluesky
+     * Bumble
+     * Catfan
+     * Clubhouse
+     * Cyworld
+     * Dcard
+     * Diaspora
+     * Facebook
+     * FC2
+     * Foursquare
+     * [DEL: FriendFeed :DEL]
+     * Gab
+     * 干净世界
+     * Gettr
+     * GetGlue（英语：GetGlue）
+     * Goodreads
+     * Hi5
+     * Hyves（英语：Hyves）
+     * ibibo（英语：ibibo）
+     * 爱料理
+     * 抖音
+     * 快手
+     * Instagram
+     * Ipernity
+     * Last.fm
+     * LINE
+     * LOFTER
+     * Telegram
+     * 真实社交
+     * Mobage
+     * MyMFB
+     * Myspace
+     * MyAnimeList
+     * Mixi
+     * Netlog
+     * Nextdoor（英语：Nextdoor）
+     * NICONICO
+     * Odnoklassniki
+     * [DEL: Path :DEL]
+     * Parler
+     * Pinterest
+     * Pixiv
+     * PlentyOfFish
+     * Post
+     * 噗浪
+     * Quora
+     * Rumble
+     * SNOW
+     * StudiVZ
+     * Tagged（英语：Tagged）
+     * Threads
+     * Tinder
+     * 偷偷
+     * Tout（英语：Tout）
+     * Tribe.net（英语：Tribe.net）
+     * Tuenti
+     * 汤博乐
+     * X（Twitter）
+     * V2EX
+     * Vine
+     * VKontakte
+     * Weverse
+     * WriteAPrisoner
+     * WT Social
+     * Facenama
+     * YouTube
+     * Reddit
+     * [DEL: 天涯社区 :DEL]
+     * 背包客栈
+     * 爱情公寓
+     * [DEL: 开心网 :DEL]
+     * [DEL: 猫扑网 :DEL]
+     * [DEL: 人人网 :DEL]
+     * [DEL: 街旁网 :DEL]
+     * 豆瓣
+     * 果壳网
+     * 饭否
+     * 博客网
+     * [DEL: 朋友网 :DEL]
+     * 新浪微博
+     * 小红书
+     * 新浪博客
+     * [DEL: 虾米音乐 :DEL]
+     * 百度贴吧
+     * QQ
+          + QQ空间
+     * 知乎
+     * [DEL: 哈雷聊天室 :DEL]
+     * 微信
+     * 狐友
+     * 陌陌
+          + 探探
+     * Blued
+     * 翻咔
+     * Soul
+     * 悟空问答
+     * 寻梦园
+     * [DEL: 360圈 :DEL]
+     * Ta在
+     * 飞赞
+     * [DEL: ZANK :DEL]
+     * Zalo
+
+   专业应用
+     * Academia.edu
+     * Brainly（英语：Brainly）
+     * BranchOut（英语：BranchOut）
+     * Edmodo
+     * eXo Platform（英语：eXo Platform）
+     * Hub Culture（英语：Hub Culture）
+     * IBM Connections（英语：IBM Connections）
+     * 领英
+     * 脉脉
+     * Plaxo（英语：Plaxo）
+     * ResearchGate
+     * Sciencescape（英语：Sciencescape）
+     * Solaborate
+     * Viadeo
+     * XING
+     * IdeaPlane（英语：IdeaPlane）
+     * Yammer
+     * 正和岛
+     * [DEL: 天际网 :DEL]
+
+   停止开发
+     * Friendster
+     * Jaiku
+     * Orkut
+     * SixDegrees.com（英语：SixDegrees.com）
+     * Me2day
+     * Google+
+     * 米聊
+
+   白标服务
+     * Ning
+     * Wall.fm（英语：Wall.fm）
+
+   工具
+
+     * Facebook Connect
+     * OpenSocial
+     * 社交网络分析软件（英语：Social network analysis software）
+     * Diaspora
+
+   常规
+
+     * 软件比较（英语：Comparison of social networking software）
+     * 网络身份
+     * 用户信息（英语：User profile）
+     * 虚拟社区
+     * 超过100万用户的虚拟社区列表
+
+   应用
+
+     * 社交网络广告（英语：Social network advertising）
+     * 社交网络托管服务（英语：Social network hosting service）
+     * 在线约会服务（英语：Online dating service）
+     * 移动社交网络（英语：Mobile social network）
+
+   启示
+
+     * 隐私问题（英语：Privacy issues of social networking sites）
+     * 性别差异（英语：Gender differences in social network service use）
+     * 调查应用（英语：Use of social network websites in investigations）
+
+   相关概念
+
+     * 联邦宇宙
+     * 元宇宙
+     * 网络社区
+     * 六度分隔理论
+     * 小世界网路
+     * 社群媒体
+     * 社会网络
+
+外部链接
+
+   [编辑]
+
+     * 台湾社会网络学会 （页面存档备份，存于互联网档案馆）
+     * MISNC (Multidisciplinary International Social Networks Conference)
+       Conference （页面存档备份，存于互联网档案馆）
+
+    1. ^ 张皓。“《灌园先生日记》中家族社会网络之分析研究（1927—1932）”。硕士论文，国立彰化师范大学历史学研究所，2024。
+    2. ^ 李宗信、张育诚、刘庭羽。〈《刘福才日记》中的社会关系网络--另一个观看日记的视角〉。《台湾师大历史学报》 65期，(2021年):
+       页157-213。
+    3. ^ Hedström, Peter; Sandell, Rickard; Stern, Charlotta. Mesolevel
+       Networks and the Diffusion of Social Movements: The Case of the
+       Swedish Social Democratic Party. American Journal of Sociology.
+       2000-07, 106 (1) [2025-06-24]. ISSN 0002-9602. doi:10.1086/303109
+       （英语）.
+    4. ^ Riketta, Michael; Nienaber, Susanne. Multiple Identities and Work
+       Motivation: The Role of Perceived Compatibility between Nested
+       Organizational Units *. British Journal of Management. 2007-03, 18
+       (s1) [2025-06-24]. ISSN 1045-3172.
+       doi:10.1111/j.1467-8551.2007.00526.x （英语）.
+    5. ^ Shirado, Hirokazu; Christakis, Nicholas A. Locally noisy
+       autonomous agents improve global human coordination in network
+       experiments. Nature. 2017-05, 545 (7654) [2025-06-24].
+       ISSN 0028-0836. doi:10.1038/nature22332 （英语）.
+    6. ^ Cranmer, Skyler J.; Desmarais, Bruce A. Inferential Network
+       Analysis with Exponential Random Graph Models. Political Analysis.
+       2011, 19 (1) [2025-06-24]. ISSN 1047-1987. doi:10.1093/pan/mpq037
+       （英语）.
+    7. ^ Moreira, André A.; Paula, Demétrius R.; Costa Filho, Raimundo N.;
+       Andrade, José S. Competitive cluster growth in complex networks.
+       Physical Review E. 2006-06-01, 73 (6) [2025-06-24]. ISSN 1539-3755.
+       doi:10.1103/PhysRevE.73.065101 （英语）.
+    8. ^ Mackay, Robb. Linked: How Everything is Connected to Everything
+       Else and What It Means for Business, Science and Everyday Life.
+       Complicity: An International Journal of Complexity and Education.
+       2005-12-01, 2 (1) [2025-06-24]. ISSN 1710-5668.
+       doi:10.29173/cmplct8735.
+    9. ^ Tönnies, Ferdinand, Gemeinschaft und Gesellschaft, VS Verlag für
+       Sozialwissenschaften: 231–255, 2012 [2025-06-24],
+       ISBN 978-3-531-16240-9
+   10. ^ O'Connor, James. Review Essays: The Division of Labor in Society.
+       Insurgent Sociologist. 1980-07, 10 (1) [2025-06-24].
+       ISSN 0047-0384. doi:10.1177/089692058001000108.
+   11. ^ Staubmann, Helmut, Georg Simmel: Über sociale Differenzierung.
+       Sociologische und psychologische Untersuchungen, Duncker und
+       Humblot: Leipzig 1890, 147 S. (hier zit. n. Gesamtausgabe Bd. 2,
+       Suhrkamp: Frankfurt 1989, S. 109–295), Springer Fachmedien
+       Wiesbaden: 62–66, 2016 [2025-06-24], ISBN 978-3-658-13212-5
+   12. ^ Scott, John. Social network analysis: a handbook 2. ed., Repr.
+       London: Sage Publ. 2011. ISBN 978-0-7619-6339-4.
+   13. ^ Scott, John; Carrington, Peter J. (编). The SAGE handbook of
+       social network analysis. London ; Thousand Oaks, Calif: SAGE. 2011.
+       ISBN 978-1-84787-395-8. OCLC 685111085.
+   14. ^ ^14.0 ^14.1 Alter, C. Understanding Family Policy: Theories and
+       Applications, 2nd Edition Shirley L. Zimmerman. Thousand Oaks, CA:
+       Sage Publications, 1995. 287 pp. $42.00 hardback, ISBN
+       0-8039-5460-3. Social Work. 1997-03-01, 42 (2) [2025-06-24].
+       ISSN 0037-8046. doi:10.1093/sw/42.2.207.
+   15. ^ Lévi-Strauss, Claude. Les structures élémentaires de la parenté.
+       1967-12-31 [2025-06-24]. doi:10.1515/9783112317204.
+   16. ^ S. F. Nadel The Theory of Social Structure. With a memoir by
+       Meyer Fortes. London, Cohen & West Ltd, 1957, xvip. 159p., 18/—..
+       Bulletin de l'Institut de recherches économiques et sociales.
+       1958-12, 24 (8) [2025-06-24]. ISSN 1373-9719.
+       doi:10.1017/s0770451800052623.
+   17. ^ Becker, H. THE SOCIAL SYSTEM. By Talcott Parsons. Glencoe,
+       Illinois: The Free Press, 1951. 575 pp. $6.00 and TOWARD A GENERAL
+       THEORY OR ACTION. Edited by Talcott Parsons and Edward A. Shils.
+       Cambridge, Massachusetts: Harvard University Press, 1951. 506 pp.
+       $7.50. Social Forces. 1952-05-01, 30 (4) [2025-06-24].
+       ISSN 0037-7732. doi:10.2307/2572350.
+   18. ^ Gerhardt, Uta, Talcott Parsons: The Structure of Social Action. A
+       Study in Social Theory with Special Reference to a Group of Recent
+       European Writers, New York: McGraw Hill 1937, 775 + lxi S, Springer
+       Fachmedien Wiesbaden: 133–137, 2016 [2025-06-24],
+       ISBN 978-3-658-13212-5
+   19. ^ Blau, Peter M. Exchange and Power in Social Life. 2017-09-29
+       [2025-06-24]. doi:10.4324/9780203792643.
+   20. ^ Blau, Peter M. A Theory of Social Integration. American Journal
+       of Sociology. 1960-05, 65 (6) [2025-06-24]. ISSN 0002-9602.
+       doi:10.1086/222785.
+   21. ^ Bottomore, T. B. Bureaucracy in Modern Society.Peter M. Blau.
+       American Journal of Sociology. 1956-11, 62 (3) [2025-06-24].
+       ISSN 0002-9602. doi:10.1086/222016.
+   22. ^ SemiotiX 14 - January 2009. www.semioticon.com. [2025-06-24].
+       （原始内容存档于2012-07-12）.
+   23. ^ Herz, Andreas; Müller, Annika, Wellman, Barry (1988): Structural
+       Analysis: from method and metaphor to theory and substance. In B.
+       Wellman & S. D. Berkowitz (Hrsg.), Social Structures: A Network
+       Approach. Cambridge: Cambridge University Press, S. 19 – 61.,
+       Springer Fachmedien Wiesbaden: 559–562, 2018-10-04 [2025-06-24],
+       ISBN 978-3-658-21741-9
+   24. ^ Zunz, Olivier. Charles Tilly, An urban world, Boston, Little,
+       Brown and Co, 1974, 487 p.. Annales. Histoire, Sciences Sociales.
+       1977-02, 32 (1) [2025-06-24]. ISSN 0395-2649.
+       doi:10.1017/s0395264900151315.
+   25. ^ Geiger, Roger L. <405::aid-jhbs2300110415>3.0.co;2-1 Nicholas C.
+       Mullins. Theories and theory groups in contemporary American
+       Sociology. New York: Harper & Row, 1973. Pp. x + 337. $9.95.
+       Journal of the History of the Behavioral Sciences. 1975-10, 11 (4)
+       [2025-06-24]. ISSN 0022-5061.
+       doi:10.1002/1520-6696(197510)11:4<405::aid-jhbs2300110415>3.0.co;2-
+       1.
+   26. ^ Granovetter, Mark. Economic Institutions as Social Constructions:
+       A Framework for Analysis. Acta Sociologica. 1992-01, 35 (1)
+       [2025-06-24]. ISSN 0001-6993. doi:10.1177/000169939203500101.
+   27. ^ Kilduff, Martin; Tsai, Wenpin. Social Networks and Organizations.
+       6 Bonhill Street, London England EC2A 4PU United Kingdom: SAGE
+       Publications Ltd. 2003. ISBN 978-0-7619-6957-0.
+   28. ^ Granovetter, Mark S. The Strength of Weak Ties. American Journal
+       of Sociology. 1973-05, 78 (6) [2025-06-24]. ISSN 0002-9602.
+       doi:10.1086/225469 （英语）.
+   29. ^ Burt, Ronald S. Structural Holes and Good Ideas. American Journal
+       of Sociology. 2004-09, 110 (2) [2025-06-24]. ISSN 0002-9602.
+       doi:10.1086/421787 （英语）.
+   30. ^ ^30.0 ^30.1 ^30.2 ^30.3 Swedberg, Richard. Book Reviews:
+       Networks : Ronald S. Burt: Structural Holes: The Social Structure
+       of Competition. Cambridge: Harvard University Press, 1992. Acta
+       Sociologica. 1994-10, 37 (4) [2025-06-24]. ISSN 0001-6993.
+       doi:10.1177/000169939403700410.
+   31. ^ Lin, Zihang; Zhang, Yuwei; Gong, Qingyuan; Chen, Yang; Oksanen,
+       Atte; Ding, Aaron Yi. Structural Hole Theory in Social Network
+       Analysis: A Review. IEEE Transactions on Computational Social
+       Systems. 2022-06, 9 (3) [2025-06-24]. ISSN 2329-924X.
+       doi:10.1109/TCSS.2021.3070321.
+   32. ^ Braden, L. E. A. Networks Created Within Exhibition: The
+       Curators’ Effect on Historical Recognition. American Behavioral
+       Scientist. 2021-01, 65 (1) [2025-06-24]. ISSN 0002-7642.
+       doi:10.1177/0002764218800145 （英语）.
+   33. ^ Braden, L.E.A.; Teekens, Thomas. Historic networks and
+       commemoration: Connections created through museum exhibitions.
+       Poetics. 2020-08, 81 [2025-06-24]. doi:10.1016/j.poetic.2020.101446
+       （英语）.
+   34. ^ Braden, L.E.A.; Teekens, Thomas. Reputation, Status Networks, and
+       the Art Market. Arts. 2019-07-03, 8 (3) [2025-06-24].
+       ISSN 2076-0752. doi:10.3390/arts8030081 （英语）.
+   35. ^ Larson, Jennifer M. Networks of Conflict and Cooperation. Annual
+       Review of Political Science. 2021-05-11, 24 (1) [2025-06-24].
+       ISSN 1094-2939. doi:10.1146/annurev-polisci-041719-102523 （英语）.
+   36. ^ Papachristos, Andrew V. Murder by Structure: Dominance Relations
+       and the Social Structure of Gang Homicide in Chicago. SSRN
+       Electronic Journal. 2007 [2025-06-24]. ISSN 1556-5068.
+       doi:10.2139/ssrn.855304 （英语）.
+   37. ^ Heckathorn, Douglas D.; Cameron, Christopher J. Network Sampling:
+       From Snowball and Multiplicity to Respondent-Driven Sampling.
+       Annual Review of Sociology. 2017-07-31, 43 (1) [2025-06-24].
+       ISSN 0360-0572. doi:10.1146/annurev-soc-060116-053556 （英语）.
+   38. ^ Gile, Krista J.; Beaudry, Isabelle S.; Handcock, Mark S.; Ott,
+       Miles Q. Methods for Inference from Respondent-Driven Sampling
+       Data. Annual Review of Statistics and Its Application. 2018-03-07,
+       5 (1) [2025-06-24]. ISSN 2326-8298.
+       doi:10.1146/annurev-statistics-031017-100704 （英语）.
+   39. ^ Granovetter, Mark. The Impact of Social Structure on Economic
+       Outcomes. Journal of Economic Perspectives. 2005-02-01, 19 (1)
+       [2025-06-24]. ISSN 0895-3309. doi:10.1257/0895330053147958 （英语）.
+   40. ^ Levy, Judith A.; Pescosolido, Bernice A. (编). Social Networks and
+       Health. Advances in Medical Sociology. 2002-01 [2025-06-24].
+       ISSN 1057-6290. doi:10.1016/s1057-6290(2002)8.
+   41. ^ Resilience Alliance - Document Not Found. www.resalliance.org.
+       [2025-06-24].
+   42. ^ Crona, Beatrice; Hubacek, Klaus. The Right Connections: How do
+       Social Networks Lubricate the Machinery of Natural Resource
+       Governance?. Ecology and Society. 2010, 15 (4) [2025-06-24].
+       ISSN 1708-3087. doi:10.5751/es-03731-150418.
+   43. ^ Park, Semin; Grosser, Travis J.; Roebuck, Adam A.; Mathieu, John
+       E. Understanding Work Teams From a Network Perspective: A Review
+       and Future Research Directions. Journal of Management. 2020-07, 46
+       (6) [2025-06-24]. ISSN 0149-2063. doi:10.1177/0149206320901573
+       （英语）.
+   44. ^ Bowler, Wm. Matthew; Brass, Daniel J. Relational correlates of
+       interpersonal citizenship behavior: A social network perspective..
+       Journal of Applied Psychology. 2006, 91 (1) [2025-06-24].
+       ISSN 1939-1854. doi:10.1037/0021-9010.91.1.70 （英语）.
+   45. ^ ^45.0 ^45.1 ^45.2 (Claridge, 2018).
+   46. ^ Hua Wang; Wellman, Barry. Social Connectivity in America: Changes
+       in Adult Friendship Network Size From 2002 to 2007. American
+       Behavioral Scientist. 2010-04, 53 (8) [2025-06-24]. ISSN 0002-7642.
+       doi:10.1177/0002764209356247 （英语）.
+   47. ^ Valenzuela, Sebastián; Park, Namsu; Kee, Kerk F. Is There Social
+       Capital in a Social Network Site?: Facebook Use and College
+       Students' Life Satisfaction, Trust, and Participation. Journal of
+       Computer-Mediated Communication. 2009-07, 14 (4) [2025-06-24].
+       doi:10.1111/j.1083-6101.2009.01474.x （英语）.
+   48. ^ ^48.0 ^48.1 Koley, Gaurav; Deshmukh, Jayati; Srinivasa, Srinath,
+       Aref, Samin; Bontcheva, Kalina , 编, Social Capital as Engagement
+       and Belief Revision 12467, Springer International Publishing:
+       137–151, 2020 [2025-06-24], ISBN 978-3-030-60974-0 （英语）
+   49. ^ Gaudeul, Alexia; Giannetti, Caterina. The role of reciprocation
+       in social network formation, with an application to LiveJournal.
+       Social Networks. 2013-07, 35 (3) [2025-06-24].
+       doi:10.1016/j.socnet.2013.03.003 （英语）.
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=社会网络&oldid=89365696”
+
+   分类：​
+     * 社会学术语
+     * 社会系统
+     * 社会语言学
+
+   隐藏分类：​
+     * 需要从英语维基百科翻译的条目
+     * 含有英语的条目
+     * CS1英语来源 (en)
+
+     * 本页面最后修订于2025年10月2日 (星期四) 03:10。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国内税收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发者
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) 搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 开关目录
+   社会网络
+   (BUTTON) 68种语言 添加话题

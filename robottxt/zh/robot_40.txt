@@ -1,0 +1,20 @@
+User-agent: Baiduspider
+Disallow: /print.php?*
+
+User-agent: Googlebot
+Disallow: /print.php?*
+
+User-agent: Baiduspider-image
+Disallow: /print.php?*
+
+User-agent: Sogou web spider
+Disallow: /print.php?*
+
+User-agent: Sosospider
+Disallow: /print.php?*
+
+User-agent: ChinasoSpider
+Disallow: /print.php?*
+
+User-agent: *
+Disallow: /

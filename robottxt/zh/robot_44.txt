@@ -1,0 +1,32 @@
+# robots.txt file
+User-agent: GoogleDocs
+Disallow: /
+
+User-agent: alexabot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent:  alexa site audit #Alexa audit crawler
+Disallow: /
+
+User-agent: *
+Disallow: /search
+
+# Sitemap list for https://www.shoplineapp.cn
+Sitemap: https://www.shoplineapp.cn/sitemap.xml
+
+# Sitemap list for https://www.shopline.com
+Sitemap: https://www.shopline.com/sitemap.xml
+
+# Sitemap list for https://www.shopline.sg
+Sitemap: https://www.shopline.sg/sitemap.xml
+
+# Sitemap list for https://www.shopline.my
+Sitemap: https://www.shopline.my/sitemap.xml
+
+# Sitemap list for https://www.shopline.id
+Sitemap: https://www.shopline.id/sitemap.xml
+
+Sitemap: https://shopline-cn.webflow.io/sitemap.xml

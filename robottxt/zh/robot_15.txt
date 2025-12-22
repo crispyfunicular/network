@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /user/
+Disallow: /go/
+Disallow: /templates/
+Disallow: /html/
+Disallow: /health/
+Disallow: /survey/
+Disallow: /photo/
+
