@@ -1,0 +1,121 @@
+L'app ferroviària
+de Catalunya
+
+Descarrega-la entrant
+amb el teu telèfon
+a Ferroviària.cat
+
+   O baixa per saber-ne més
+
+Tot el metro, FGC, Rodalies i TRAM
+
+Ferroviària mostra incidències i horaris en temps real amb una anàlisi
+contínua de la xarxa
+
+Més i millor informació
+
+Ferroviària fa servir dades i algoritmes propis per oferir tot de forma
+fiable, visual i intuïtiva
+
+Tots els trens i tramvies en directe
+
+Consulta quan arribaràs a la teva destinació i comparteix el viatge amb qui
+vulguis
+
+Ets ferrofriki?
+Ets Ferroviària
+
+Busca material rodant i col·labora amb la Comunitat de Ferroviària aportant
+els codis d'UT dels metros en circulació, i ara també de Rodalies
+
+   Desenvolupada per Alex Molina. Tots els drets reservats.
+   @ferroviariacat Contacte
+
+   (close) ×
+
+Contacta amb Ferroviària
+
+   ____________________ ____________________
+   ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] He llegit i accepto la Política de privadesa
+   [BUTTON Input] (not implemented)__________ Envia
+
+   (close) ×
+
+Política de privadesa
+
+   El responsable del tractament de les dades personals recollides a
+   través d'aquest web (d'ara endavant, "Ferroviària") és Alex Molina
+   (d'ara endavant, "el desenvolupador"). Per contactar-hi podeu fer
+   servir el formulari de contacte. Les dades introduïdes al formulari de
+   contacte es tracten amb l'única finalitat de gestionar les consultes.
+
+   Algunes funcions de Ferroviària poden requerir l'accés a la ubicació
+   del dispositiu, com per exemple mostrar un llistat de les estacions i
+   parades més properes. El consentiment sempre és explícit a través de la
+   interfície i dels ajustaments del navegador. Les dades tractades es fan
+   servir amb l'única finalitat de personalitzar els continguts i, per
+   major privadesa, no són emmagatzemades enlloc.
+
+   Ferroviària permet que les visites obrin un compte al que s'anomena
+   "Comunitat de Ferroviària" mitjançant un formulari de registre. Les
+   dades introduïdes al formulari de registre es tracten amb la finalitat
+   de crear i gestionar el compte i evitar peticions automatitzades. Tant
+   el correu electrònic com la contrasenya són enviats de forma segura i
+   emmagatzemats encriptats en forma de hash. L'encriptació és
+   irreversible i impedeix que puguin ser desxifrades pel desenvolupador
+   ni tercers, però mantenir-les és necessari per poder gestionar accions
+   com canviar o recuperar la contrasenya, canviar el correu electrònic o
+   tancar el compte. També s'emmagatzema la direcció IP en forma de hash
+   irreversible per evitar abusos del sistema.
+
+   La base legal per al tractament de les dades personals és el
+   consentiment explícit, el compliment de les finalitats derivades de la
+   relació establerta amb la creació del compte i la prevenció d'abusos.
+
+   Totes aquestes accions es duen a terme exclusivament a través dels
+   formularis de Ferroviària i en cap cas ni el desenvolupador ni tercers
+   demanaran la contrasenya per altres vies.
+
+   Ferroviària també desa al compte les estacions de tren i parades de
+   tramvia que es marquin com favorites per personalitzar el contingut
+   mostrat, i la data de l'última visita, per determinar els comptes
+   inactius i generar estadístiques d'ús.
+
+   Totes les dades esmentades fins ara són mantingudes mentre el compte
+   romangui actiu. Es considera que un compte és inactiu quan no s'ha
+   visitat Ferroviària amb la sessió iniciada durant més d'un any. El
+   desenvolupador es reserva el dret a eliminar els comptes inactius sense
+   previ avís, atès que l'encriptació de la direcció de correu electrònic
+   n'impedeix el seu desxifrat, i el dret a suspendre l'accés a tot o part
+   dels serveis, temporal o definitivament, a qui sota el criteri del
+   propi desenvolupador presenti un comportament abusiu o perjudicial pel
+   bon funcionament de Ferroviària o pels seus interessos, com per
+   exemple, a títol enunciatiu i sense limitar-s'hi, en cas de noms de
+   compte ofensius o d'aportacions errònies reiterades que excedeixin de
+   ser equivocacions raonables.
+
+   Tothom que tingui un compte actiu té dret a accedir, rectificar o
+   eliminar les seves dades. Aquests drets es poden exercir
+   autogestionadament a través de la secció "El meu compte" o bé fent ús
+   del formulari de contacte. El formulari de contacte no es pot fer
+   servir per gestionar canvis de contrasenya o de correu electrònic:
+   aquestes accions disposen dels seus respectius formularis.
+
+   La persona que ha obert un compte pot gestionar-ne la baixa a través de
+   la secció "El meu compte" per eliminar totes les seves dades vinculades
+   definitivament. En cas que un compte mai hagi arribat a ser activat,
+   s'esborraran les dades vinculades al cap de 24 hores.
+
+   Ferroviària també ofereix que les persones amb un compte col·laborin
+   amb certa informació col·lectiva de la Comunitat, com l'aportació de
+   les sèries dels trens. En fer-ho, les visites registrades poden veure
+   aquestes aportacions junt amb el nom del compte i l'hora.
+
+   El desenvolupador no cedirà les dades dels comptes a tercers ni les
+   farà servir per enviar correus no sol·licitats, tant per ètica com per
+   la impossibilitat tècnica de reversió de l'encriptació.

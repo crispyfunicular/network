@@ -1,0 +1,215 @@
+   #DSpace
+
+   . Obre en una nova finestra. Logo gencat
+   Menú
+     * Imatge usuari Inicia sesión. Obre en una nova finestra.
+     * Imatge menú Contacto
+     * Menú idioma Idioma: es fletxa cap avall fletxa cap avall
+          + Català
+          + English
+
+   Cercador (BUTTON) Cercador
+
+Documentació de Seguretat Pública (repositori del Departament d'Interior i
+Seguretat Pública)
+
+     * Principal
+     * Información sobre el repositorio
+
+   . Obre en una nova finestra. Logotip de la Generalitat
+
+   |Documentació de Seguretat Pública (repositori del Departament
+   d'Interior i Seguretat Pública)
+
+   Imatge capçalera
+     * Principal
+     * Seguretat
+     * Articles, jornades, formació i congressos
+     * Ver ítem
+
+Ver ítem
+
+     * Compartir en Twitter
+     * Compartir en Facebook
+     * Compartir en Telegram
+     * Compartir en WhatsApp
+     * Imprimir
+
+   JavaScript is disabled for your browser. Some features of this site may
+   not work without it.
+
+   Mostrar el registro sencillo del ítem
+
+Les xarxes criminals exploten negocis legals per reforçar el control sobre
+l’economia (2025)
+
+   dc.contributor.author Departament d'Interior i Seguretat Pública ca
+   dc.coverage.spatial Europa ca
+   dc.date.accessioned 2025-07-02T11:30:24Z
+   dc.date.available 2025-07-02T11:30:24Z
+   dc.date.issued 2025-05-07
+   dc.identifier.citation Departament d'Interior i Seguretat Pública. Les
+   xarxes criminals exploten negocis legals per reforçar el control sobre
+   l’economia. En: Notes de Seguretat (Blog)
+   <https://notesdeseguretat.blog.gencat.cat>. Barcelona: Departament
+   d'Interior i Seguretat Pública, 2025. 3 p. ca
+   dc.identifier.uri https://hdl.handle.net/20.500.14007/4330
+   dc.description.abstract Nota informativa sobre l’informe presentat per
+   Europol: «Aprofitant la legitimitat: com les xarxes criminals més
+   amenaçadores de la UE abusen de les estructures empresarials legals»,
+   que examina com les xarxes criminals fan ús fraudulent de les
+   estructures empresarials legals per reforçar el seu poder i ampliar
+   així les seves operacions criminals. ca
+   dc.format.extent 3 p. ca
+   dc.language.iso cat ca
+   dc.language.iso spa ca
+   dc.language.iso eng ca
+   dc.language.iso fra ca
+   dc.publisher Departament d'Interior i Seguretat Pública ca
+   dc.relation.ispartof Publicat dins el Blog Notes de seguretat
+   https://notesdeseguretat.blog.gencat.cat/ ca
+   dc.rights Attribution-NonCommercial-NoDerivatives 4.0 International *
+   dc.rights.uri http://creativecommons.org/licenses/by-nc-nd/4.0/ *
+   dc.subject.other Notes de seguretat
+   dc.title Les xarxes criminals exploten negocis legals per reforçar el
+   control sobre l’economia (2025) ca
+   dc.title.alternative Las redes criminales explotan negocios legales
+   para reforzar el control sobre la economía ca
+   dc.title.alternative Criminal networks exploit legal businesses to
+   strengthen control over the economy ca
+   dc.title.alternative Les réseaux criminels pénètrent les entreprises
+   légales pour renforcer leur contrôle sur l’économie ca
+   dc.type info:eu-repo/semantics/contributionToPeriodical ca
+   dc.rights.accessLevel info:eu-repo/semantics/openAccess
+   dc.embargo.terms cap ca
+   dc.description.version info:eu-repo/semantics/publishedVersion ca
+   dc.subject.lemac Crim organitzat
+   dc.subject.lemac Europol
+   ﻿
+
+Ficheros en el ítem
+
+   Thumbnail
+
+   Nombre:
+          2025_05_07_Les xarxes criminals ...
+
+   Tamaño:
+          1.321Mb
+
+   Formato:
+          PDF
+
+   Ver/Abrir
+   Thumbnail
+
+   Nombre:
+          2025_05_07_Las redes criminales ...
+
+   Tamaño:
+          1.316Mb
+
+   Formato:
+          PDF
+
+   Ver/Abrir
+   Thumbnail
+
+   Nombre:
+          2025_05_07_Criminal networks ...
+
+   Tamaño:
+          1.315Mb
+
+   Formato:
+          PDF
+
+   Ver/Abrir
+   Thumbnail
+
+   Nombre:
+          2025_05_07_Les réseaux criminels ...
+
+   Tamaño:
+          1.323Mb
+
+   Formato:
+          PDF
+
+   Ver/Abrir
+
+Este ítem aparece en la(s) siguiente(s) colección(ones)
+
+     * Articles, jornades, formació i congressos [841]
+
+   Mostrar el registro sencillo del ítem
+   Attribution-NonCommercial-NoDerivatives 4.0 International
+   Excepto si se señala otra cosa, la licencia del ítem se describe como
+   http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Ítems relacionados
+
+   Mostrando ítems relacionados por Título y Materia.
+     * Thumbnail
+
+Els grups de crim organitzat i les activitats il·legals en l’era de la
+tecnologia (2019) ﻿
+       Departament d'Interior (Publicat dins el Blog Notes de seguretat
+       https://notesdeseguretat.blog.gencat.cat/, 2019-01-09)
+       Nota informativa sobre les dades dels grups de crim organitzat i
+       les activitats il·legals en l’era de la tecnologia, segons
+       l’informe SOCTA 2017 (Serious and Organised Crime Threat
+       Assessment).
+     * Thumbnail
+
+Les noves formes del crim organitzat. Nous grups de delinqüència organitzada
+en el context europeu (1998) ﻿
+       Tolle, Ansgar (Revista Catalana de Seguretat Pública, Núm. 3,
+       1998-12)
+     * Thumbnail
+
+Europol s’uneix a la crida internacional per resoldre un cas d’assassinat
+(2024) ﻿
+       Departament d'Interior i Seguretat Pública (Publicat dins el Blog
+       Notes de seguretat https://notesdeseguretat.blog.gencat.cat/,
+       2024-09-25)
+       Nota informativa sobre com la inspecció de la policia alemanya de
+       la zona de Cloppenburg-Vechta i Europol demanen ajuda a la
+       ciutadania per resoldre un cas d’assassinat de fa 28 anys i que té
+       vincles ...
+
+   Búsquedas
+   ____________________ (BUTTON)
+   (*) Buscar en el repositorio
+   ( ) Esta colección
+
+Visualiza
+
+   Todo el repositorioPor comunidades y coleccionesPor autor/a y
+   colaborador/aPor títuloPor tipo de documentoPor materia/palabra
+   clavePor fecha de publicaciónEsta colecciónPor autor/a y
+   colaborador/aPor títuloPor tipo de documentoPor materia/palabra
+   clavePor fecha de publicación
+
+Mi cuenta
+
+   AccederRegistro
+
+Estadísticas
+
+   Ver Estadísticas de uso
+
+   Sigue las redes sociales del Departamento de Interior y Seguridad
+   Pública
+     * Icona de Twitter
+     * Icona de Facebook
+     * Icona d'Instagram
+     * Icona de Youtube
+
+   Logo generalitat
+     * Aviso legal
+     * Accesibilidad
+     * Política de cookies
+     * Mapa web
+
+   (BUTTON) Torna amunt

@@ -1,0 +1,165 @@
+     * EN ·
+     * ES ·
+     * CA
+
+   INTRANET
+   ____________________
+   (BUTTON)
+
+   Ifisc (BUTTON)
+     * L'IFISC
+          + L'IFISC
+          + DATA ANALYTICS SERVICES UNIT
+          + Unitat de computació
+          + IFISC i SARS-CoV-2
+          + Notícies
+          + Divulgació
+          + Beques i contractes
+          + Contacte
+     * Personal
+          + Personal
+          + Investigadors de plantilla
+          + Tenure track i senior research fellows
+          + Investigadors associats
+          + Investigadors visitants
+          + Investigadors postdoctorals
+          + Investigadors predoctorals
+          + Estudiants de màster i col·laboradors
+          + Personal tècnic i administratiu
+     * Recerca
+          + Recerca
+          + Projectes de recerca
+          + María de Maeztu Unit of Excellence
+     * Publicacions
+     * Esdeveniments
+          + Esdeveniments
+          + Seminaris
+          + Colloquia on Complex Systems
+          + Tallers, Conferències i Escoles
+          + Esdeveniments de divulgació
+     * Master
+
+    1.
+    2. Notícies
+    3. Xarxes Neuronals Profundes amb només una neurona
+
+Cercar a totes les notícies
+
+   Any ____________________
+   Cercar aquestes paraules ____________________
+   Ordenar per[Data__]
+   Cercar
+
+Xarxes Neuronals Profundes amb només una neurona
+
+   13 setembre de 2021
+
+   Les xarxes neuronals profundes (DNN) són una eina útil per a una àmplia
+   gamma de tasques, com la classificació d'imatges, la detecció
+   d'objectes, el redimensionament d'imatges o la generació de textos. Són
+   extremadament potents, però requereixen una bona capacitat de càlcul i
+   grans conjunts de dades per entrenar-les. Les xarxes neuronals
+   profundes solen estar formades per múltiples capes de neurones
+   acoblades en arquitectures no recurrents (feed-forward). En aquestes
+   arquitectures, en les quals es poden eliminar fàcilment centenars de
+   milers de neurones, la informació es mou en un sol camí: cap a
+   endavant, des de l'entrada fins a la sortida.
+
+   Un equip internacional d'investigadors, entre els quals hi ha
+   científics de l’IFISC (UIB-CSIC), ha desenvolupat un enfocament per
+   emular una xarxa neuronal profunda completa emprant només una neurona
+   artificial amb bucles de retard modulats per retroalimentació. La gran
+   xarxa amb molts elements que interactuen se substitueix per un únic
+   element, que representa diferents elements en el temps interactuant amb
+   els seus propis estats endarrerits. El treball s'ha publicat a Nature
+   Communications i ha estat seleccionat per a la pàgina web de Nature
+   Communications Editors' Highlights, en la secció de recerca
+   multidisciplinària recent denominada «AI and machine learning».
+
+   Aquest enfocament nou, anomenat pels autors Folded-in-Time Deep Neural
+   Network (Fit-DNN), pot reduir dràsticament el maquinari necessari i
+   ofereix una perspectiva nova sobre com construir sistemes complexos que
+   es poden entrenar, ja que només és necessari implementar una única
+   neurona i diverses línies de retard. Els sistemes de retard posseeixen
+   intrínsecament un espai de fases infinit, per la qual cosa una sola
+   neurona amb retroalimentació és suficient per aplegar i capturar tota
+   la complexitat de la xarxa.
+
+   L'enfocament Fit-DNN és molt útil per a les implementacions de
+   maquinari, en les quals la xarxa neuronal es construeix utilitzant
+   substrats físics. En una DNN típica caldria implementar cada neurona
+   amb un únic element de maquinari (hardware), però, en capturar el
+   comportament de tot el sistema amb una sola neurona, s'elimina la
+   necessitat de construir una xarxa completa. Els autors ho exemplifiquen
+   amb un esquema optoelectrònic. En aquesta mena d'implementació, només
+   es requereix un emissor de llum, a més d'alguns components de
+   telecomunicació estàndard. Les Fit-DNN permeten trobar un equilibri
+   entre la velocitat de càlcul i la necessitat de més components de
+   maquinari, ja que seria molt car construir una DNN completa. No obstant
+   això, aquest enfocament no redueix el temps del procés d'entrenament,
+   ja que continua sent necessari un ordinador tradicional.
+
+   Les Fit-DNN proporcionen una visió alternativa de les xarxes neuronals:
+   tota la complexitat topològica de les xarxes neuronals multicapa no
+   recurrents pot plegar-se al domini temporal mitjançant l'arquitectura
+   de bucle de retard.
+
+   Deep neural networks using a single neuron: folded-in-time architecture
+   using feedback-modulated delay loops. Stelzer, Florian; Röhm, Andre;
+   Vicente, Raul; Fischer, Ingo and Yanchuk, Serhiy. Nature
+   Communications 12, 5164 (1-10) (2021).
+   Doi: https://doi.org/10.1038/s41467-021-25427-4
+     __________________________________________________________________
+
+     * El Diari de la UIB
+     * Salud Ediciones
+     __________________________________________________________________
+
+   dnn
+     __________________________________________________________________
+
+Línies d'investigació relacionades
+
+Complex systems. Nonlinear and Statistical Physics
+
+Nonlinear photonics
+
+   On som
+          Edifici Instituts Universitaris de Recerca
+          Campus Universitat de les Illes Balears E-07122 Palma, Mallorca,
+          Spain
+          ifisc@ifisc.uib-csic.es
+          +34 971 17 32 90
+
+   Què fem
+          Investigació
+          Projectes d'investigació
+          Notícies
+          Esdeveniments
+
+   Social
+
+   IFISC 2025 © Inici Contacte Legal
+   AEI UIB CSIC
+
+   (BUTTON) ×
+
+Avís legal
+
+   Coming soon
+   (BUTTON) Cerrar
+
+   (BUTTON) ×
+
+intranet
+
+   Por favor, corrige los errores marcados en rojo.
+   Usuario ____________________
+   Contraseña ____________________
+   enviar
+   (BUTTON) Cerrar
+
+   This web uses cookies for data collection with a statistical purpose.
+   If you continue Browse, it means acceptance of the installation of the
+   same.
+   Més informació D'accord

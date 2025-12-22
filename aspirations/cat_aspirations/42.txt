@@ -1,0 +1,507 @@
+   Prioritats
+     * Prosperitat compartida Prosperitat compartida basada en el
+       coneixement per millorar la qualitat de vida i l'accés a
+       l'habitatge keyboard_arrow_down
+       Prosperitat compartida
+       Prosperitat compartida basada en el coneixement per millorar la
+       qualitat de vida i l'accés a l'habitatge
+          + Lideratge econòmic
+          + Reindustrialització
+          + Recerca i innovació
+          + Sistema universitari
+          + Formació professional
+          + Pobles i ciutats
+          + Habitatge digne
+          + Indústries culturals
+     * Transició energètica i verda Transició energètica, ambiental i
+       verda keyboard_arrow_down
+       Transició energètica i verda
+       Transició energètica, ambiental i verda
+          + Autonomia elèctrica
+          + Descarbonització
+          + Biodiversitat
+          + Gestió sostenible de l'aigua
+          + Mobilitat
+          + Sector agroalimentari
+     * Equitat social Equitat social, igualtat, feminisme i benestar
+       keyboard_arrow_down
+       Equitat social
+       Equitat social, igualtat, feminisme i benestar
+          + Excel·lència educativa
+          + Equitat educativa
+          + Assistència social i sanitària integrada
+          + Reducció de llistes d'espera
+          + Salut mental i qualitat de l'atenció sanitària
+          + Prestacions contra la pobresa
+          + Inclusió població nouvinguda
+          + Societat lliure de masclisme
+          + Esport 360
+          + Arts i cultura
+     * Bon govern i serveis públics Bon govern, seguretat i millors
+       serveis públics keyboard_arrow_down
+       Bon govern i serveis públics
+       Bon govern, seguretat i millors serveis públics
+          + Reforma de l'administració
+          + Transformació digital
+          + Transparència i participació
+          + Connectivitat digital
+          + Seguretat ciutadana
+          + Justícia àgil
+     * Autogovern i finançament Autogovern efectiu i finançament singular
+       keyboard_arrow_down
+       Autogovern i finançament
+       Autogovern efectiu i finançament singular
+          + Finançament singular
+          + Catalunya a l'exterior
+          + Finançament del món local
+          + Llengua
+          + Lluita contra els discursos d'odi
+
+     * El Govern El Govern dirigeix la política i l'Administració de la
+       Generalitat de Catalunya. És titular de la funció executiva i de la
+       potestat reglamentària. keyboard_arrow_down
+       El Govern
+       El Govern dirigeix la política i l'Administració de la Generalitat
+       de Catalunya. És titular de la funció executiva i de la potestat
+       reglamentària.
+          + El Consell Executiu
+          + Acords del Govern
+          + Rodes de premsa
+          + Agenda
+          + Butlletins
+          + Composició i funcions
+          + El Govern al territori
+          + Transparència exit_to_app
+          + Bones pràctiques exit_to_app
+          + Estructura de l'Administració exit_to_app
+     * Pla de Govern Unir per progressar, servir per transformar
+       keyboard_arrow_down
+       Pla de Govern XV Legislatura
+       Unir per progressar, servir per transformar
+          + Prosperitat compartida
+          + Transició energètica i verda
+          + Equitat social
+          + Bon govern i serveis públics
+          + Autogovern i finançament
+          + Enllaç plans d'acció departamental
+            Plans d'acció departamental
+          + Pla de Govern<br> <strong>Comarca a comarca</strong>
+            Pla de Govern
+            Comarca a comarca
+     * Premsa Centre d'informació sobre el Govern de la Generalitat de
+       Catalunya keyboard_arrow_down
+       Premsa
+       Centre d'informació sobre el Govern de la Generalitat de Catalunya
+          + Sala de premsa
+               o President
+               o Presidència
+               o Economia i Finances
+               o Interior i Seguretat Pública
+               o Justícia i Qualitat Democràtica
+               o Territori, Habitatge i Transició Ecològica
+               o Salut
+               o Educació i Formació Professional
+               o Drets Socials i Inclusió
+               o Empresa i Treball
+               o Igualtat i Feminisme
+               o Unió Europea i Acció Exterior
+               o Recerca i Universitats
+               o Agricultura, Ramaderia, Pesca i Alimentació
+               o Esports
+               o Cultura
+               o Política Lingüística
+               o Delegacions de Catalunya
+               o Delegació a Madrid
+               o Delegació del Govern davant la Unió Europea
+          + Galeria multimèdia
+          + Subscriu-te als butlletins
+
+     *
+     * Sala de premsa
+     * Notes de premsa
+     * Estratègia Ferroviària de Catalunya: sostenibilitat, eficiència i
+       equilibri territorial per afrontar el repte dels 10 milions
+       d'habitants
+
+Sala de premsa
+
+     * (BUTTON) ca
+     * (BUTTON) es
+     * (BUTTON) en
+
+   Sales de premsa dels departaments
+     __________________________________________________________________
+
+     * (BUTTON) President
+     * (BUTTON) Presidència (BUTTON) expand_more
+          + (BUTTON) Comunicació del Govern
+          + (BUTTON) Telecomunicacions i Transformació Digital
+          + (BUTTON) Centre Estudis Opinió
+          + (BUTTON) Administració Local
+          + (BUTTON) Administració i Funció Pública
+          + (BUTTON) Palau Robert
+     * (BUTTON) Economia i Finances (BUTTON) expand_more
+          +
+          + (BUTTON) IDESCAT
+          +
+     * (BUTTON) Interior i Seguretat Pública (BUTTON) expand_more
+          + (BUTTON) Mossos d'Esquadra
+          + (BUTTON) Protecció Civil
+          + (BUTTON) Bombers
+          + (BUTTON) Servei Català de Trànsit
+          + (BUTTON) Agents Rurals
+          + (BUTTON) CAT112 Emergències
+     * (BUTTON) Justícia i Qualitat Democràtica (BUTTON) expand_more
+          + (BUTTON) Afers Religiosos
+     * (BUTTON) Territori, Habitatge i Transició Ecològica (BUTTON)
+       expand_more
+          + (BUTTON) Agència de l'Habitatge de Catalunya
+          + (BUTTON) Agència Catalana de l'Aigua
+          + (BUTTON) Agència de Residus de Catalunya
+          + (BUTTON) Servei Meteorològic de Catalunya
+          + (BUTTON) Ferrocarrils
+          + (BUTTON) Incasòl
+     * (BUTTON) Salut
+     * (BUTTON) Educació i Formació Professional
+     * (BUTTON) Drets Socials i Inclusió (BUTTON) expand_more
+          + (BUTTON) Joventut
+     * (BUTTON) Empresa i Treball (BUTTON) expand_more
+          + (BUTTON) Polítiques Digitals
+     * (BUTTON) Igualtat i Feminisme (BUTTON) expand_more
+          + (BUTTON) Institut Català de les Dones
+     * (BUTTON) Unió Europea i Acció Exterior
+     * (BUTTON) Recerca i Universitats
+     * (BUTTON) Agricultura, Ramaderia, Pesca i Alimentació
+     * (BUTTON) Esports
+     * (BUTTON) Cultura
+     * (BUTTON) Política Lingüística
+     * (BUTTON) Delegacions de Catalunya (BUTTON) expand_more
+          + (BUTTON) Delegació a Barcelona
+          + (BUTTON) Delegació a Girona
+          + (BUTTON) Delegació a Lleida
+          + (BUTTON) Delegació a Tarragona
+          + (BUTTON) Delegació a la Catalunya Central
+          + (BUTTON) Delegació a les Terres de l'Ebre
+          + (BUTTON) Delegació a l'Alt Pirineu i Aran
+          + (BUTTON) Delegació al Penedès
+     * (BUTTON) Delegació a Madrid
+     * (BUTTON) Delegació del Govern davant la Unió Europea
+     __________________________________________________________________
+
+     * Agendaevent_available
+     * Convocatòriessettings_input_antenna
+     * Galeria multimèdiaportrait
+     * Subscriu-te als butlletinscontact_mail
+     * Segueix-nos per RSSrss_feed
+
+   ____________________ (BUTTON) search
+   Cerca avançada keyboard_arrow_down
+     * event_available
+     * settings_input_antenna
+     * portrait
+     * contact_mail
+
+   Departament
+   Departament
+   Tipus de contingut
+   Tipus de contingut
+   ____________________Des de
+   (BUTTON) arrow_drop_down
+   ____________________Fins a
+   (BUTTON) arrow_drop_down
+   (BUTTON) search
+     * event_available
+     * settings_input_antenna
+     * portrait
+     * contact_mail
+
+    11 novembre 2025 13:29
+   event_note Nota de premsa
+   (BUTTON)
+   (BUTTON)
+     * (BUTTON) Comunicació del Govern
+
+Estratègia Ferroviària de Catalunya: sostenibilitat, eficiència i equilibri
+territorial per afrontar el repte dels 10 milions d'habitants
+
+    1. El document planteja actuacions per facilitar la intermodalitat amb
+       altres modes de transport, millorar la informació i l’atenció als
+       usuaris i maximitzar la xarxa
+
+   El Govern ha aprovat l’Estratègia Ferroviària de Catalunya (EFC) per
+   donar resposta als reptes actuals i futurs en matèria
+   d’infraestructures i serveis de transport ferroviari. El document neix
+   de la voluntat de planificar les mesures que responguin a reptes com la
+   definició del nou model ferroviari català derivat de l’acord de traspàs
+   integral de Rodalies, el futur creixement de la població i dels seus
+   desplaçaments, la descarbonització de la mobilitat, la coordinació de
+   diversos processos de planificació que la Generalitat té en marxa o els
+   canvis en la normativa europea.
+
+   També de l’increment de quilometratge de la xarxa que, de tenir poc més
+   de 1500 quilòmetres l’any 2001, ha passat a 2050 quilòmetres a 31 de
+   desembre del 2024. I, sobretot, la inversió ferroviària en aquest
+   període, superior a 30.000 milions d’euros, a parts pràcticament iguals
+   entre l’Estat i la Generalitat, la qual cosa significa una mitjana de
+   més de 1200 milions d’euros per any.
+
+   L’Estratègia Ferroviària de Catalunya identifica vuit objectius:
+    1. Aconseguir que el transport ferroviari tingui un paper de primer
+       ordre en el marc de les polítiques de mobilitat sostenible, de
+       manera que incrementi la demanda captada i això incideixi en la
+       descarbonització del transport.
+    2. Considerar el ferrocarril un vector clau pel que fa a les
+       polítiques de cohesió social i territorial que afavoreix l’equitat,
+       la inclusió, la integració urbana i la competitivitat empresarial.
+    3. Assolir uns alts nivells de qualitat en la prestació dels serveis
+       ferroviaris, especialment pel que fa a la fiabilitat,
+       l’accessibilitat i l’atenció i la informació als usuaris.
+    4. Planificar un sistema competitiu i eficient de serveis ferroviaris
+       coordinant les diferents xarxes existents i facilitant l’intercanvi
+       modal amb el transport per carretera i amb els modes amables de
+       mobilitat.
+    5. Augmentar la quota modal del transport de mercaderies per
+       ferrocarril.
+    6. Promoure les empreses catalanes del sector ferroviari.
+    7. Potenciar la formació professional ferroviària, els estudis
+       universitaris vinculats al ferrocarril i la recuperació del
+       patrimoni ferroviari.
+    8. Mantenir i, en la mesura del possible, incrementar, la inversió
+       ferroviària a Catalunya, fomentant l’equitat territorial i fent que
+       aquesta inversió sigui estable.
+
+   Per assolir aquests objectius, l’Estratègia defineix unes línies
+   d’actuació i un conjunt de mesures a desenvolupar per plans, programes,
+   normatives i actuacions del Govern, amb tres horitzons temporals: 2030,
+   2040 i 2050. L’EFC preveu la potenciació de l’Administració de la
+   Generalitat com a autoritat ferroviària mitjançant, entre d’altres, la
+   mesura de promoure una nova formulació de la Llei ferroviària per donar
+   resposta als canvis de la normativa europea i de la governança del
+   sistema. També inclou la constitució de la nova empresa operadora de
+   Rodalies o la implantació de l’Agència Catalana de Seguretat
+   Ferroviària.
+
+   Per avançar en la planificació i programació de serveis i
+   infraestructures que permetin millorar i integrar millor la xarxa i
+   augmentar el nivell de servei, la fiabilitat i la seguretat del
+   sistema, inclou com a instruments:
+    1. El Pla de serveis ferroviaris de Catalunya.
+    2. La revisió del Pla d’infraestructures del transport de Catalunya
+       (PITC).
+    3. El Pla estratègic per al desenvolupament de terminals intermodals a
+       Catalunya i les actualitzacions anuals de l’Agenda Catalana del
+       Corredor Mediterrani.
+    4. La programació de les actuacions del Pla de Rodalies 2026-2030.
+    5. Altres inversions estratègiques per a la conformació del sistema,
+       com ara la construcció de tallers, l’adquisició de material rodant
+       i les mesures per afavorir la interoperativitat de la xarxa.
+
+Intermodalitat amb altres mitjans de transport
+
+   L’Estratègia planteja actuacions per facilitar la intermodalitat amb
+   altres modes de transport, com intercanviadors entre serveis
+   ferroviaris i amb les línies de bus interurbà, metropolità i urbà,
+   afavorir els transbordaments i garantir uns temps d’enllaç raonables, i
+   també amb la resta de mitjans de transport sostenibles.
+
+   També proposa zones d’estacionaments d’enllaç i de guarda segura de
+   bicicletes i altres vehicles de mobilitat personal.
+
+Informació i atenció a l’usuari
+
+   L’Estratègia també dedica un apartat a l’atenció al client i la
+   informació, tant en situacions de servei habitual com en cas
+   d’incidències o afectacions, amb mesures per afavorir l’accessibilitat
+   de la informació, millorar la senyalització, formació de personal
+   d’atenció a l’usuari, o establir una plataforma integradora de
+   planificació de desplaçaments.
+
+   Pel que fa a la seguretat, planteja incidir tant en l’àmbit de la
+   circulació dels trens, com en la protecció dels clients en trens i
+   estacions; també proposa millorar la competitivitat dels serveis
+   ferroviaris perquè puguin ser escollits com la millor opció per
+   efectuar un desplaçament de persones o un transport de mercaderies.
+
+   La maximització de la xarxa és una altra línia estratègica del
+   document, amb mesures com l’increment de la capacitat dels túnels
+   urbans de Barcelona, la implantació de sistemes de conducció avançats,
+   o fomentar la I+D+i ferroviària.
+
+   En termes de política territorial, l’Estratègia preveu, d’una banda,
+   l’articulació d’un model innovador d’integració urbana, ja que, per
+   contribuir a millorar la qualitat de vida dels ciutadans, el
+   ferrocarril ha de garantir-los el dret a l’accessibilitat, amb
+   estacions cèntriques i properes als barris més poblats i, a la vegada,
+   ha de minimitzar els riscos i els impactes acústics i visuals de les
+   línies ferroviàries. L’EFC també advoca pel paper de reequilibri
+   territorial del ferrocarril, i proposa infraestructures com l’eix
+   transversal ferroviari o la línia orbital ferroviària.
+
+   Finalment, per potenciar el sector ferroviari, inclou com a mesures la
+   concertació amb clústers, la creació de cicles formatius i la
+   contractació social i facilitar la incorporació de la dona.
+
+Context
+
+   Els darrers 25 anys, Catalunya ha experimentat un fort creixement de la
+   població, superior al 30%, que té un important impacte en molts
+   aspectes, entre els quals l’increment de la mobilitat. Aquest
+   creixement no ha estat uniforme; ha estat més gran a les vegueries del
+   Camp de Tarragona, de les comarques gironines i les corones més
+   allunyades de l’àrea metropolitana. També cal tenir en compte que a la
+   Catalunya no metropolitana, on viu el 50% de la població de Catalunya,
+   la quota del transport públic és baixa.
+
+   Actualment, Catalunya té 8,1 milions d’habitants. En el futur, fins al
+   2050, es preveu que la població continuï creixent fins a assolir els 9
+   o 10 milions d’habitants. Aquest previsible increment de població
+   comporta un increment general de la mobilitat. En conseqüència, els
+   serveis de transports i la xarxa d’infraestructures de transport de
+   Catalunya hauran d’acollir un nombre de desplaçaments substancialment
+   més alt.
+
+   El ferrocarril s’ha anat especialitzant com a mitjà de transport
+   massiu. Garanteix un transport de gran capacitat a les àrees
+   metropolitanes i, gràcies a l’alta velocitat, possibilita la
+   competitivitat. En canvi, té una difícil adaptació als entorns amb més
+   baixa densitat de població o a les topografies complexes. El nombre de
+   viatges en mitjans ferroviaris ha anat creixent en els últims anys fins
+   a arribar fins a un total d’uns 750 milions a tot Catalunya, dels quals
+   718 milions de viatges corresponen a l’ATM de l’àrea de Barcelona.
+
+   A Catalunya hi ha quatre xarxes ferroviàries que conformen un sistema,
+   però no són interoperables:
+    1. La xarxa ferroviària d’interès general, actualment gestionada per
+       Adif.
+    2. La xarxa de Ferrocarrils de la Generalitat de Catalunya (FGC),
+       composta per tres subxarxes: línia del Vallès, línia
+       Llobregat-Anoia, i línia Lleida - La Pobla de Segur.
+    3. El metro de Barcelona, gestionat per l’empresa TMB, amb vuit línies
+       independents.
+    4. El tramvia, amb les seves dues xarxes: Trambaix i Trambesòs.
+
+   1
+   Fitxers adjunts
+   Fitxers adjunts
+   Estratègia Ferroviària
+   Comparteix:
+   (BUTTON)
+
+   El Govern a les xarxes
+   undefined
+   undefined
+   undefined
+   undefined
+
+   banner acords
+   banner butlletins
+   banner premsa
+   banner transparencia
+
+     * Prosperitat compartida
+          + Lideratge econòmic
+          + Reindustrialització
+          + Recerca i innovació
+          + Sistema universitari
+          + Formació professional
+          + Pobles i ciutats
+          + Habitatge digne
+          + Indústries culturals
+     * Transició energètica i verda
+          + Autonomia elèctrica
+          + Descarbonització
+          + Biodiversitat
+          + Gestió sostenible de l'aigua
+          + Mobilitat
+          + Sector agroalimentari
+     * Equitat social
+          + Excel·lència educativa
+          + Equitat educativa
+          + Assistència social i sanitària integrada
+          + Reducció de llistes d'espera
+          + Salut mental i qualitat de l'atenció sanitària
+          + Prestacions contra la pobresa
+          + Inclusió població nouvinguda
+          + Societat lliure de masclisme
+          + Esport 360
+          + Arts i cultura
+     * Bon govern i serveis públics
+          + Reforma de l'administració
+          + Transformació digital
+          + Transparència i participació
+          + Connectivitat digital
+          + Seguretat ciutadana
+          + Justícia àgil
+     * Autogovern i finançament
+          + Finançament singular
+          + Catalunya a l'exterior
+          + Finançament del món local
+          + Llengua
+          + Lluita contra els discursos d'odi
+     * El Govern
+          + El Consell Executiu
+          + Acords del Govern
+          + Rodes de premsa
+          + Agenda
+          + Butlletins
+          + Composició i funcions
+          + El Govern al territori
+          +
+          +
+          +
+          + Transparència exit_to_app
+          + Bones pràctiques exit_to_app
+          + Estructura de l'Administració exit_to_app
+     * Pla de Govern
+          + Prosperitat compartida
+          + Transició energètica i verda
+          + Equitat social
+          + Bon govern i serveis públics
+          + Autogovern i finançament
+          + Enllaç plans d'acció departamental
+            Plans d'acció departamental
+          + Pla de Govern<br> <strong>Comarca a comarca</strong>
+            Pla de Govern
+            Comarca a comarca
+     * Premsa
+          + Sala de premsa
+          +
+          + Galeria multimèdia
+          + Subscriu-te als butlletins
+
+     * Escut de la Generalitat de Catalunya
+     *
+          + govern.cat
+          + gencat.cat
+          + president.cat
+          + catalangovernment.eu
+          + parlament.cat
+     * ____________________ (BUTTON) search
+       ContactaEN
+     * Butlletí del Govern
+       Subscriu-t'hi
+     *
+          + Accessibilitat
+          + Avís legal
+          + Política de galetes
+          + Mapa web
+       ©2025 Generalitat de Catalunya
+       (BUTTON) Torna amunt
+
+   Escut de la Generalitat de Catalunya (BUTTON) Torna amunt
+     * govern.cat
+     * gencat.cat
+     * president.cat
+     * catalangovernment.eu
+     * parlament.cat
+
+   ____________________ (BUTTON) search
+   ContactaEN
+
+   Butlletí del Govern
+   Subscriu-t'hi
+     * Accessibilitat
+     * Avís legal
+     * Política de galetes
+     * Mapa web
+     * ©2025 Generalitat de Catalunya
