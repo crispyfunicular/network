@@ -9,6 +9,8 @@
 # $1 first argument passed to the program; "tableaux/URLs.tsv" by default
 tsv=${1-tableaux/cat_tableaux/URLs.tsv}
 
+mkdir -p ./bigrammes/cat
+rm -rf ./bigrammes/cat/*
 
 while read -r line;
 do

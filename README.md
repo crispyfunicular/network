@@ -18,3 +18,8 @@ Le but de ces catégories est d'assurer une certaines représentativité des ter
 - "concordances" : dossier contenant les concordanciers générés, au format HTML, à partir des fichiers de contexte. Le mot cible est mis en évidence avec, de part et d’autre, son contexte gauche et droit  
 - "bigrammes" : dossier contenant des paires de mots contigus, pour tous les mots de chaque page aspirée  
 - "robots-txt" : dossier contenant la page robots/txt de chaque page aspirée, lorsqu'elle existe, au format .txt  
+- "pals" : dossier contenant les fichiers consolidés (agrégés) par langue, au format attendu par les scripts PALS pour l’analyse lexicométrique (cooccurrences / spécificités). Ces fichiers servent ensuite d’entrée à cooccurrents.py (cooccurrents autour du mot-cible) et éventuellement à partition.py (comparaison entre langues/parties) après tokenisation si nécessaire.  
+  - dumps-text-cat.txt : concaténation des dumps textuels catalans (un gros corpus "cat")
+  - contextes-cat.txt : concaténation des contextes catalans (toutes les fenêtres autour du mot cible)  
+  
+

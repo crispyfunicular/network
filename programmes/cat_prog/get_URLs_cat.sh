@@ -14,7 +14,14 @@ URL=${1-URL/URL_cat.txt}
 tsv="./tableaux/cat_tableaux/URLs.tsv"
 rm -f "$tsv"
 
-# ***
+mkdir -p ./aspirations/cat_aspirations
+rm -rf ./aspirations/cat_aspirations/*
+
+mkdir -p ./dumps-text/cat_dumps
+rm -rf ./dumps-text/cat_dumps/*
+
+mkdir -p ./robots-txt/cat
+rm -rf ./robots-cat/cat/*
 
 # counter for the line number of the urls file
 lineno=0

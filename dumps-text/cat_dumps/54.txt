@@ -188,11 +188,25 @@ reptes per a la regulació de la IA
 
 Trending now
 
-   La gramàtica generativa i la facultat del llenguatge: descobriments,
-   preguntes i desafiaments
-   Text i gramàtica: sintaxi textual
-   Vector director
-   SEL – Rang matrius i Compatibilitat de Sistemes
+   Data science and its relationship to library and information science: A
+   content analysis
+   IA i Governança: un repte tècnic i ètic alhora, balança minimalista amb
+   plats fúcsia i gris dins un marc negre IA i Governança: un repte tècnic
+   i ètic alhora, balança minimalista amb plats fúcsia i gris dins un marc
+   negre
+   Comportaments estratègics en models frontera: autopreservació aparent i
+   reptes per a la regulació de la IA
+   Beyond the Ordinay Beyond the Ordinay
+   From border walls to corridors: An analysis of connectivity in a
+   changing multilateral world order
+   Il·lustració minimalista d’un llibre combinat amb un diagrama de xarxa
+   neuronal, que simbolitza els fonaments de les tecnologies del web
+   semàntic, amb colors corporatius de DeGalaLab (fúcsia, blau, gris)
+   sobre fons blanc. Il·lustració minimalista d’un llibre combinat amb un
+   diagrama de xarxa neuronal, que simbolitza els fonaments de les
+   tecnologies del web semàntic, amb colors corporatius de DeGalaLab
+   (fúcsia, blau, gris) sobre fons blanc.
+   Foundations of Semantic Web Technologies
 
    Contact DeGalaLab · Creative Technology & Data Insights Contact
    DeGalaLab · Creative Technology & Data Insights

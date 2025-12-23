@@ -77,6 +77,16 @@ Reptes i limitacions
 
 
 --
+   From border walls to corridors: An analysis of connectivity in a
+   changing multilateral world order
+   Il·lustració minimalista d’un llibre combinat amb un diagrama de xarxa
+   neuronal, que simbolitza els fonaments de les tecnologies del web
+   semàntic, amb colors corporatius de DeGalaLab (fúcsia, blau, gris)
+   sobre fons blanc. Il·lustració minimalista d’un llibre combinat amb un
+   diagrama de xarxa neuronal, que simbolitza els fonaments de les
+   tecnologies del web semàntic, amb colors corporatius de DeGalaLab
+   (fúcsia, blau, gris) sobre fons blanc.
+--
    happen
 
    aplicacions xarxes neuronals Artificial Intelligence Autenticació de
