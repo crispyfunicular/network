@@ -477,15 +477,15 @@ Tag Cloud
 
 Random Posts
 
-   Convenis COEINF: ICO Oftalmologia Presentació de Windows 8 i Windows
-   Phone 8 en Català Gaudí torna a Barcelona en 4D Cursos de formació
-   Telecos COEINF El Govern aprova el Pla idigital, que posicionarà
-   Catalunya entre les 10 euroregions capdavanteres en TIC el 2020
-   International Symposium: Rare diseases and big data, from research to
-   clinical practise – 26-27 October 2017 Guia tècnica per a l’adopció de
-   programari lliure en l’administració Estats Units recupera el lideratge
-   mundial en supercomputació Conveni de col·laboració entre el COEINF i
-   barcelonaqbit-bqb/BQbInstitute La dignitat de Catalunya
+   Jornada de Formació: “Reprogramant el cervell contra els ciberatacs” el
+   19 de setembre Mobile On retail. Identificació d’agents i oportunitats
+   El reconeixement facial arriba als supermercats britànics per controlar
+   qui compra alcohol i tabac El català discriminat a les webs de les
+   institucions espanyoles Les empreses tecnològiques s’aferren a l’I+D
+   per a dinamitzar el mercat COETIC: Monogràfic sobre ciberseguretat Deu
+   avenços tecnològics que veurem en els propers deu anys La ‘revolució
+   blockchain’ a l’servei dels ODS El Nivell d’ocupació d’Enginyers
+   Informàtics frega el 100%
    Ajax loader spinner
    (refresh random posts)
 

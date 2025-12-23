@@ -1,0 +1,43 @@
+# robots.txt per DeGalaLab
+# Bots bons → poden rastrejar
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+# Bloquegem bots agressius o innecessaris
+User-agent: Yandex
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Go-http-client
+Disallow: /
+
+User-agent: Dalvik
+Disallow: /
+
+# Regles generals
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

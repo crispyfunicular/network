@@ -562,7 +562,6 @@ sota
 el
 criteri
 del
-propi
 desenvolupador
 presenti
 un

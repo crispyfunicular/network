@@ -1,0 +1,17 @@
+User-agent: Facebot
+Disallow: *
+Allow: /media/
+Allow: /static/
+
+User-agent: Twitterbot
+Disallow: *
+Allow: /media/
+Allow: /static/
+
+User-agent: *
+Disallow: /django-admin/
+Disallow: /intranet/
+Disallow: /media/
+Disallow: /static/
+Disallow  /admin/
+Crawl-delay: 5

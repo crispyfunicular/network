@@ -17,7 +17,9 @@ Loteria de
 de Nadal
 Nadal Milagros
 Milagros Tolón
-Tolón Arriba
+Tolón Carlos
+Carlos Gil
+Gil Arriba
 Arriba l
 l hivern
 hivern Eleccions
@@ -25,11 +27,11 @@ Eleccions Extremadura
 Extremadura Crisi
 Crisi habitatge
 habitatge Grip
-Grip Dana
-Dana Investigació
+Grip Tren
+Tren C3
+C3 Investigació
 Investigació dana
-dana Epstein
-Epstein Benidorm
+dana Benidorm
 Benidorm fest
 fest Previsió
 Previsió oratge

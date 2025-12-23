@@ -1,0 +1,5 @@
+# This file is used to allow robots to index our site. 
+# It is NOT used for any other purpose. 
+
+User-agent: *
+Disallow:

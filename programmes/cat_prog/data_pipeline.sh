@@ -13,10 +13,12 @@ mkdir -p ./contextes/cat
 rm -rf ./contextes/cat/*
 mkdir -p ./dumps-text/cat_dumps
 rm -rf ./dumps-text/cat_dumps/*
+mkdir -p ./robots-txt/cat
+rm -rf ./robots-cat/cat/*
 mkdir -p ./tokenisation/cat_tokenisation
 rm -rf ./tokenisation/cat_tokenisation/*
 
-./programmes/cat_prog/get_URLs_cat.sh > ./tableaux/cat_tableaux/URLs.tsv
+./programmes/cat_prog/get_URLs_cat.sh
 ./programmes/cat_prog/cat_tokenisation.sh
 ./programmes/cat_prog/bigrammes.sh
 ./programmes/cat_prog/context.sh

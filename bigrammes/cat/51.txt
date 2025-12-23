@@ -38,9 +38,7 @@ Contacto Contacto
 Contacto delatorre
 delatorre ai
 ai BUTTON
-BUTTON Main
-Main Menu
-Menu Sobre
+BUTTON Sobre
 Sobre mí
 mí Servicios
 Servicios Contacto

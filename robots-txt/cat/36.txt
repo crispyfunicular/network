@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-json/
+Disallow: /*add-to-cart=*
+Disallow: /?s=
+Disallow: */?orderby=
+Disallow: /search
+Disallow: */feed/*
+Disallow: */page/*
+Disallow: */attachment/*
+Disallow: /xmlrpc.php

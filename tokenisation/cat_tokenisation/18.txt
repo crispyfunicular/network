@@ -1900,7 +1900,7 @@ abr
 2011
 a
 les
-09
+10
 59
 S
 ha
@@ -1908,7 +1908,7 @@ visitat
 aquesta
 pàgina
 40
-671
+580
 vegades
 Política
 de

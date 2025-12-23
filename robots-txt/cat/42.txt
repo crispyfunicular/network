@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /salapremsa/api/
+Disallow: /salapremsa/app/
+Disallow: /salapremsa/scripts/
+Disallow: /salapremsa/styles/
+Disallow: /gov/api/
+Disallow: /gov/app/
+Disallow: /gov/scripts/
+Disallow: /gov/styles/
+
+User-agent: Googlebot-Image
+Disallow: /salapremsa/assets/images/
+Disallow: /gov/assets/images/
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://govern.cat/govern/docs/govern/sitemap_index.xml
+Sitemap: https://govern.cat/govern/docs/premsa/sitemap_index.xml

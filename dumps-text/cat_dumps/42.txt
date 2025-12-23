@@ -88,6 +88,8 @@
           + Pla de Govern<br> <strong>Comarca a comarca</strong>
             Pla de Govern
             Comarca a comarca
+          + Primer any del Pla de Govern
+            Primer any del Pla de Govern
      * Premsa Centre d'informació sobre el Govern de la Generalitat de
        Catalunya keyboard_arrow_down
        Premsa
@@ -463,6 +465,8 @@ Context
           + Pla de Govern<br> <strong>Comarca a comarca</strong>
             Pla de Govern
             Comarca a comarca
+          + Primer any del Pla de Govern
+            Primer any del Pla de Govern
      * Premsa
           + Sala de premsa
           +

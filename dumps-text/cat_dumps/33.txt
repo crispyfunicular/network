@@ -93,11 +93,11 @@ Política de privadesa
    previ avís, atès que l'encriptació de la direcció de correu electrònic
    n'impedeix el seu desxifrat, i el dret a suspendre l'accés a tot o part
    dels serveis, temporal o definitivament, a qui sota el criteri del
-   propi desenvolupador presenti un comportament abusiu o perjudicial pel
-   bon funcionament de Ferroviària o pels seus interessos, com per
-   exemple, a títol enunciatiu i sense limitar-s'hi, en cas de noms de
-   compte ofensius o d'aportacions errònies reiterades que excedeixin de
-   ser equivocacions raonables.
+   desenvolupador presenti un comportament abusiu o perjudicial pel bon
+   funcionament de Ferroviària o pels seus interessos, com per exemple, a
+   títol enunciatiu i sense limitar-s'hi, en cas de noms de compte
+   ofensius o d'aportacions errònies reiterades que excedeixin de ser
+   equivocacions raonables.
 
    Tothom que tingui un compte actiu té dret a accedir, rectificar o
    eliminar les seves dades. Aquests drets es poden exercir

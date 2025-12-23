@@ -1,0 +1,5 @@
+Sitemap: https://notesdeseguretat.blog.gencat.cat/sitemap.xml
+Sitemap: https://notesdeseguretat.blog.gencat.cat/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

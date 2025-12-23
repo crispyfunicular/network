@@ -1,0 +1,16 @@
+User-agent: *
+Allow: / 
+Sitemap: https://ca.greenfishingnet.com/sitemap.xml
+Sitemap: https://ca.greenfishingnet.com/sitemap-image.xml
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /

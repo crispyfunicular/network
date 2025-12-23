@@ -188,20 +188,11 @@ reptes per a la regulació de la IA
 
 Trending now
 
-   Big Data Research for Social Sciences and Social Impact (versió en
-   català)
-   "DKIM: correus verificats i fiables amb signatura digital per millorar
-   la seguretat i la reputació del domini" "DKIM: correus verificats i
-   fiables amb signatura digital per millorar la seguretat i la reputació
-   del domini"
-   Què és DKIM en els correus electrònics i per a què serveix?
-   Ciutats Intel·ligents i l’ús del Big Data
-   Il·lustració conceptual d’un centre de dades dins d’una gota d’aigua,
-   amb servidors il·luminats en blau i fúcsia, simbolitzant el consum
-   d’aigua i energia dels data centers Il·lustració conceptual d’un centre
-   de dades dins d’una gota d’aigua, amb servidors il·luminats en blau i
-   fúcsia, simbolitzant el consum d’aigua i energia dels data centers
-   Consum d’energia i aigua dels data centers
+   La gramàtica generativa i la facultat del llenguatge: descobriments,
+   preguntes i desafiaments
+   Text i gramàtica: sintaxi textual
+   Vector director
+   SEL – Rang matrius i Compatibilitat de Sistemes
 
    Contact DeGalaLab · Creative Technology & Data Insights Contact
    DeGalaLab · Creative Technology & Data Insights

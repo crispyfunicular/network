@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /cat/Intranet-ICC/
+Disallow: /esl/Intranet-ICC/
+Disallow: /eng/Intranet-ICC/
+Disallow: /cccc/Intranet-ICC/
+Disallow: /intranet/
+Disallow: /web/intranet/
+Disallow: /content/download/
+Disallow: /cat/content/download/
+Disallow: /esl/content/download/
+Disallow: /eng/content/download/
+Disallow: /web/content/php/punt_informacio/
+Disallow: /cat/Home-ICC/Consell-Rector/
+Disallow: /esl/Home-ICC/Consell-Rector/
+Disallow: /eng/Home-ICC/Consell-Rector/
+Disallow: /cccc/Home-ICC/Consell-Rector/
+Crawl-delay:  3
+
+
+
+
+

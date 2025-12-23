@@ -561,8 +561,7 @@ qui sota
 sota el
 el criteri
 criteri del
-del propi
-propi desenvolupador
+del desenvolupador
 desenvolupador presenti
 presenti un
 un comportament

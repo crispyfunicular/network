@@ -1,0 +1,27 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Error. Generalitat de Catalunya</title>
+	<style type="text/css"><!--
+	
+	.cos{padding-left:2em; width:97%; line-height:.5em}
+div#capcalera {
+	border-bottom:2px solid #BF2F14 !important;
+	clear:both;
+	color:#FFFFFF;
+	float:left;
+	margin:0;
+	width:100%;
+	}	
+
+-->
+</style>
+
+</head>
+<body>
+<div id="capcalera"><img alt="Generalitat de Catalunya - www.gencat.cat" src="/customerror/escut.gif"></a></div>
+<div id="cos"><h2>Error 404</h2></div>
+<div id="cos"><h2><img alt="" src="/customerror/pic_admir.gif">   La pàgina no s'ha trobat</h2></div>
+
+</body>
+</html>

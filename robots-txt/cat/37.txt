@@ -1,0 +1,21 @@
+Sitemap: https://www.eionet.europa.eu/sitemap.xml.gz
+
+# Define access-restrictions for robots/spiders
+# http://www.robotstxt.org/wc/norobots.html
+
+# By default we allow robots to access all areas of our site
+# already accessible to anonymous users
+
+User-agent: *
+Disallow: /*?
+Disallow: /*atct_album_view$
+Disallow: /*folder_factories$
+Disallow: /*folder_summary_view$
+Disallow: /*login_form$
+Disallow: /*mail_password_form$
+Disallow: /@@search
+Disallow: /*search_rss$
+Disallow: /*sendto_form$
+Disallow: /*summary_view$
+Disallow: /*thumbnail_view$
+Disallow: /*view$

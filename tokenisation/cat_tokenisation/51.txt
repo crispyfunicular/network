@@ -39,8 +39,6 @@ Contacto
 delatorre
 ai
 BUTTON
-Main
-Menu
 Sobre
 mí
 Servicios

@@ -659,8 +659,8 @@ Claso 10
 Jun 0
 0 Comentari
 Comentari s
-s 2782
-2782 Vist
+s 2801
+2801 Vist
 Vist s
 s Novetats
 Novetats Audiòfons
@@ -1817,12 +1817,12 @@ Comparar aquest
 aquest producte
 producte BUTTON
 BUTTON Categories
-Categories Serveis
+Categories Novetats
+Novetats Serveis
 Serveis Promocions
 Promocions i
 i ofertes
-ofertes Novetats
-Novetats Audiòfons
+ofertes Audiòfons
 Audiòfons Audioprotessista
 Audioprotessista Connectivitat
 Connectivitat Audició

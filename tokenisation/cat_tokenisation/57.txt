@@ -660,7 +660,7 @@ Jun
 0
 Comentari
 s
-2782
+2801
 Vist
 s
 Novetats
@@ -1818,11 +1818,11 @@ aquest
 producte
 BUTTON
 Categories
+Novetats
 Serveis
 Promocions
 i
 ofertes
-Novetats
 Audiòfons
 Audioprotessista
 Connectivitat

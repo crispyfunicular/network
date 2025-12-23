@@ -14,7 +14,7 @@
    Contacto
    Contacto
    delatorre.ai
-   (BUTTON) Main Menu
+   (BUTTON)
 
      * Sobre mí
      * Servicios

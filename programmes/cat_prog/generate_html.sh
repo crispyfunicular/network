@@ -96,7 +96,7 @@ EOF
 								<td><a href="../../dumps-text/cat_dumps/$lineno.txt">dump textuel</a></td>
 								<td><a href="../../concordances/cat/$lineno.html">concordancier HTML</a></td>
 								<td><a href="../../bigrammes/cat/$lineno.txt">bigrammes</a></td>
-								<td><a href="">robots.txt</a></td>
+								<td><a href="../../robots-txt/cat/$lineno.txt">robots.txt</a></td>
 								<td><a href="">concordancier couleurs</a></td>
 							</tr>
 EOF
