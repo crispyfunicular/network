@@ -1,5 +1,4 @@
- ﻿
-﻿ Pàgina
+ Pàgina
 Pàgina inicial
 inicial Trenscat
 Trenscat cat
@@ -351,8 +350,7 @@ creada el
 el 02
 02 12
 12 2007
-2007 ©
-© Bernat
+2007 Bernat
 Bernat Borràs
 Borràs Pàgina
 Pàgina inicial

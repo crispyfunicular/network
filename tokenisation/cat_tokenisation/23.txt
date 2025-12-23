@@ -1150,7 +1150,8 @@ aqüicultura
 Com
 es
 configura
-l’aparell
+l
+aparell
 de
 pesca
 per
@@ -1159,7 +1160,8 @@ principiants
 de
 la
 pesca
-d’altura
+d
+altura
 Un
 parell
 de
@@ -1418,7 +1420,6 @@ QR
 QR
 Code
 Copyright
-©
 QinHo
 Grup
 HK

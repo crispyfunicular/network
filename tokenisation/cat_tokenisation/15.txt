@@ -154,7 +154,7 @@ English
 srpski
 Svenska
 ꠍꠤꠟꠐꠤ
-தமிழ்
+தமிழ
 ไทย
 Tagalog
 Türkçe
@@ -792,8 +792,7 @@ regions
 Referències
 modifica
 1
-↑
-«xarxa»
+xarxa
 Diccionari
 de
 la
@@ -807,8 +806,7 @@ d
 Estudis
 Catalans
 2
-↑
-«xarxa»
+xarxa
 Diccionari
 Normatiu
 Valencià
@@ -818,8 +816,7 @@ de
 la
 Llengua
 3
-↑
-«xàrcia»
+xàrcia
 Diccionari
 Normatiu
 Valencià
@@ -829,8 +826,7 @@ de
 la
 Llengua
 4
-↑
-«eixàrica»
+eixàrica
 Diccionari
 de
 la
@@ -844,8 +840,7 @@ d
 Estudis
 Catalans
 5
-↑
-«eixàrcia»
+eixàrcia
 Diccionari
 Normatiu
 Valencià
@@ -855,8 +850,7 @@ de
 la
 Llengua
 6
-↑
-«ret»
+ret
 Diccionari
 de
 la
@@ -870,8 +864,7 @@ d
 Estudis
 Catalans
 7
-↑
-«ret»
+ret
 Diccionari
 Normatiu
 Valencià
@@ -881,8 +874,7 @@ de
 la
 Llengua
 8
-↑
-«filat»
+filat
 Diccionari
 de
 la
@@ -896,8 +888,7 @@ d
 Estudis
 Catalans
 9
-↑
-«filat»
+filat
 Diccionari
 Normatiu
 Valencià
@@ -907,14 +898,13 @@ de
 la
 Llengua
 10
-↑
-«The
+The
 palaeoenvironment
 of
 the
 Antrea
 Net
-Find»
+Find
 en
 anglès
 Departament
@@ -936,7 +926,6 @@ Consulta
 juny
 2015
 11
-↑
 Diccionario
 histórico
 de
@@ -988,7 +977,7 @@ NDL
 Viccionari
 Obtingut
 de
-«https
+https
 ca
 wikipedia
 org
@@ -1000,7 +989,7 @@ Xarxa
 pesca
 oldid
 3597091
-7»
+7
 Categoria
 Pesca
 Categories
@@ -1055,8 +1044,8 @@ les
 Condicions
 d
 ús
-Wikipedia®
-Viquipèdia™
+Wikipedia
+Viquipèdia
 és
 una
 marca

@@ -1,8 +1,6 @@
 
 EN
-·
 ES
-·
 CA
 INTRANET
 BUTTON
@@ -53,7 +51,8 @@ Estudiants
 de
 màster
 i
-col·laboradors
+col
+laboradors
 Personal
 tècnic
 i
@@ -237,7 +236,8 @@ hi
 ha
 científics
 de
-l’IFISC
+l
+IFISC
 UIB
 CSIC
 ha
@@ -321,10 +321,10 @@ recerca
 multidisciplinària
 recent
 denominada
-«AI
+AI
 and
 machine
-learning»
+learning
 Aquest
 enfocament
 nou
@@ -682,7 +682,6 @@ Esdeveniments
 Social
 IFISC
 2025
-©
 Inici
 Contacte
 Legal
@@ -690,7 +689,6 @@ AEI
 UIB
 CSIC
 BUTTON
-×
 Avís
 legal
 Coming
@@ -698,7 +696,6 @@ soon
 BUTTON
 Cerrar
 BUTTON
-×
 intranet
 Por
 favor

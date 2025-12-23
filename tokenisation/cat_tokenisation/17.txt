@@ -142,7 +142,8 @@ un
 pavelló
 a
 Calafell
-Instal·lació
+Instal
+lació
 gàbia
 per
 a
@@ -154,7 +155,8 @@ per
 a
 ENI
 IBERIA
-Instal·lació
+Instal
+lació
 per
 al
 Club
@@ -260,7 +262,8 @@ un
 pavelló
 a
 Calafell
-Instal·lació
+Instal
+lació
 gàbia
 per
 a
@@ -272,7 +275,8 @@ per
 a
 ENI
 IBERIA
-Instal·lació
+Instal
+lació
 per
 al
 Club
@@ -478,7 +482,8 @@ h
 jpg
 Esportives
 Confecció
-instal·lació
+instal
+lació
 i
 manteniment
 de
@@ -649,7 +654,8 @@ Disseny
 i
 Seguretat
 Hem
-instal·lat
+instal
+lat
 xarxes
 de
 seguretat
@@ -754,7 +760,8 @@ Tipus
 de
 xarxes
 esportives
-T’has
+T
+has
 parat
 a
 pensar
@@ -849,7 +856,8 @@ tot
 el
 procés
 de
-instal·lació
+instal
+lació
 i
 del
 seu
@@ -997,7 +1005,8 @@ Canviar
 preferències
 Carregant
 Normes
-d´ús
+d
+ús
 Carregant
 Informació
 legal
@@ -1025,7 +1034,8 @@ m
 a
 la
 newsletter
-Cancel·lar
+Cancel
+lar
 Enviar
 Carregant
 Ajustos

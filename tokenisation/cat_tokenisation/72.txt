@@ -159,7 +159,8 @@ Enllaç
 extern
 Inici
 Denúncies
-Col·labora
+Col
+labora
 Comunicació
 Sala
 de
@@ -207,7 +208,8 @@ de
 França
 amb
 la
-col·laboració
+col
+laboració
 d
 EUROPOL
 Desmantellada
@@ -264,7 +266,8 @@ en
 68
 episodis
 acreditats
-oscil·lant
+oscil
+lant
 pagaments
 de
 350
@@ -372,7 +375,8 @@ ha
 comptat
 amb
 la
-col·laboració
+col
+laboració
 d
 EUROPOL
 han
@@ -439,7 +443,8 @@ en
 episodis
 migratoris
 acreditats
-oscil·lant
+oscil
+lant
 pagaments
 de
 350
@@ -826,7 +831,8 @@ els
 68
 episodis
 acreditats
-oscil·lant
+oscil
+lant
 els
 pagaments
 entre
@@ -1284,7 +1290,6 @@ vida
 humana
 nbsp
 BUTTON
-×
 Per
 a
 més
@@ -1351,8 +1356,8 @@ La
 Policia
 Nacional
 frustra
-“in
-fraganti”
+in
+fraganti
 una
 bolcada
 a
@@ -1378,7 +1383,8 @@ quilograms
 de
 gasos
 fluorats
-il·lícits
+il
+lícits
 sense
 la
 traçabilitat
@@ -1430,7 +1436,8 @@ nova
 finestra
 Enllaç
 extern
-Col·labora
+Col
+labora
 Informar
 Consells
 Família
@@ -1458,7 +1465,6 @@ selectius
 Xarxa
 Blava
 Publicacions
-©
 Dirección
 General
 de

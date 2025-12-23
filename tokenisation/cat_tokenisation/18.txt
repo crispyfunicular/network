@@ -495,9 +495,11 @@ anys
 20
 es
 van
-instal·lar
+instal
+lar
 d
-instal·lar
+instal
+lar
 motors
 que
 cremaven
@@ -1693,7 +1695,8 @@ era
 la
 seva
 gran
-il·lusiò
+il
+lusiò
 el
 seu
 pare
@@ -1874,7 +1877,7 @@ a
 pescar
 Obtingut
 de
-«https
+https
 rosespedia
 cat
 index
@@ -1882,7 +1885,7 @@ php
 title
 Xarxes
 oldid
-3528»
+3528
 Attribution
 Noncommercial
 Share

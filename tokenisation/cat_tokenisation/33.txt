@@ -90,7 +90,8 @@ Busca
 material
 rodant
 i
-col·labora
+col
+labora
 amb
 la
 Comunitat
@@ -121,7 +122,6 @@ reservats
 ferroviariacat
 Contacte
 close
-×
 Contacta
 amb
 Ferroviària
@@ -139,7 +139,6 @@ not
 implemented
 Envia
 close
-×
 Política
 de
 privadesa
@@ -728,11 +727,13 @@ persones
 amb
 un
 compte
-col·laborin
+col
+laborin
 amb
 certa
 informació
-col·lectiva
+col
+lectiva
 de
 la
 Comunitat
@@ -781,7 +782,8 @@ per
 enviar
 correus
 no
-sol·licitats
+sol
+licitats
 tant
 per
 ètica

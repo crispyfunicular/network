@@ -1149,8 +1149,9 @@ l aqüicultura
 aqüicultura Com
 Com es
 es configura
-configura l’aparell
-l’aparell de
+configura l
+l aparell
+aparell de
 de pesca
 pesca per
 per a
@@ -1158,8 +1159,9 @@ a principiants
 principiants de
 de la
 la pesca
-pesca d’altura
-d’altura Un
+pesca d
+d altura
+altura Un
 Un parell
 parell de
 de Quin
@@ -1417,8 +1419,7 @@ Codi QR
 QR QR
 QR Code
 Code Copyright
-Copyright ©
-© QinHo
+Copyright QinHo
 QinHo Grup
 Grup HK
 HK Co

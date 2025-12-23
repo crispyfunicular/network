@@ -230,7 +230,8 @@ Français
 Gaeilge
 Galego
 עברית
-हिन्दी
+हिन
+दी
 Hrvatski
 Magyar
 Հայերեն
@@ -258,7 +259,8 @@ Norsk
 nynorsk
 Norsk
 bokmål
-ଓଡ଼ିଆ
+ଓଡ
+ିଆ
 Polski
 Português
 Runa
@@ -274,7 +276,7 @@ Slovenčina
 srpski
 Svenska
 Ślůnski
-தமிழ்
+தமிழ
 ไทย
 Türkçe
 Українська
@@ -458,7 +460,8 @@ en
 una
 xarxa
 que
-col·labora
+col
+labora
 per
 produir
 un
@@ -495,7 +498,8 @@ Dins
 l
 entorn
 d
-intel·ligència
+intel
+ligència
 artificial
 és
 freqüent
@@ -1218,7 +1222,8 @@ artificial
 és
 un
 conjunt
-paral·lel
+paral
+lel
 d
 unitats
 de
@@ -1235,7 +1240,8 @@ gran
 part
 de
 la
-intel·ligència
+intel
+ligència
 de
 la
 xarxa
@@ -1347,7 +1353,8 @@ d
 un
 conjunt
 massivament
-paral·lel
+paral
+lel
 d
 unitats
 de
@@ -1365,7 +1372,8 @@ unitats
 on
 resideix
 la
-intel·ligència
+intel
+ligència
 de
 la
 xarxa
@@ -1657,8 +1665,8 @@ suma
 major
 que
 algun
-«valor
-llindar»
+valor
+llindar
 la
 neurona
 es
@@ -1712,16 +1720,16 @@ cada
 node
 té
 una
-«funció
+funció
 d
-activació»
+activació
 coneguda
 també
 com
 a
-«funció
+funció
 de
-transferència»
+transferència
 que
 li
 indica
@@ -1753,7 +1761,7 @@ pot
 generar
 un
 valor
-«1»
+1
 si
 l
 entrada
@@ -1772,7 +1780,7 @@ produeix
 generarà
 un
 valor
-«0»
+0
 No
 obstant
 això
@@ -1981,7 +1989,7 @@ la
 xarxa
 es
 pot
-«entrenar»
+entrenar
 per
 fer
 tasques
@@ -2006,7 +2014,8 @@ molts
 per
 fer
 tasques
-intel·ligents
+intel
+ligents
 de
 classificació
 o
@@ -2520,7 +2529,8 @@ una
 xarxa
 neuronal
 és
-paral·lela
+paral
+lela
 per
 la
 qual
@@ -3174,7 +3184,8 @@ Kohonen
 Creixement
 dinàmic
 de
-cèl·lules
+cèl
+lules
 Gas
 neuronal
 creixent
@@ -3603,7 +3614,8 @@ concrets
 i
 són
 fàcilment
-paral·lelitzades
+paral
+lelitzades
 Això
 inclou
 problemes
@@ -3962,7 +3974,8 @@ Com
 aconseguir
 això
 sense
-apel·lar
+apel
+lar
 a
 mesures
 d
@@ -4166,9 +4179,8 @@ facial
 Referències
 modifica
 1
-↑
-«xarxa
-neuronal»
+xarxa
+neuronal
 Cercaterm
 TERMCAT
 Centre
@@ -4179,7 +4191,6 @@ Consulta
 octubre
 2023
 2
-↑
 enllaç
 sense
 format
@@ -4260,7 +4271,7 @@ Treccani
 1
 Obtingut
 de
-«https
+https
 ca
 wikipedia
 org
@@ -4273,7 +4284,7 @@ neuronal
 artificial
 o
 ldid
-36350668»
+36350668
 Categories
 Xarxes
 neuronals
@@ -4345,8 +4356,8 @@ les
 Condicions
 d
 ús
-Wikipedia®
-Viquipèdia™
+Wikipedia
+Viquipèdia
 és
 una
 marca

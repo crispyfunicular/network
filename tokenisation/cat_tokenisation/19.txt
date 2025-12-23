@@ -1,9 +1,7 @@
 
 Ratera
-»
 Feed
 Ratera
-»
 Comments
 Feed
 oEmbed
@@ -92,7 +90,8 @@ Sutura
 i
 Trenat
 Mèdic
-Metàl·lica
+Metàl
+lica
 o
 Conductors
 de
@@ -230,7 +229,8 @@ Polièster
 Polipropilè
 Niló
 Polietilè
-d’alt
+d
+alt
 mòdul
 HMPE
 Vídeos
@@ -273,7 +273,8 @@ fusos
 El
 fus
 és
-l’element
+l
+element
 mòbil
 on
 es
@@ -324,7 +325,8 @@ generalment
 es
 fa
 servir
-l’Ect
+l
+Ect
 115
 ja
 que
@@ -350,7 +352,8 @@ també
 es
 fa
 servir
-l’Ect
+l
+Ect
 140
 ja
 que
@@ -367,7 +370,8 @@ davant
 dels
 547cm3
 de
-l’Ect
+l
+Ect
 115
 i
 permet
@@ -445,11 +449,13 @@ punt
 de
 trenat
 control
-d’ànima
+d
+ànima
 semàfor
-comptametres…
+comptametres
 Proteccions
-d’acord
+d
+acord
 amb
 estàndards
 CE
@@ -557,7 +563,6 @@ Box
 08243
 MANRESA
 Barcelona
-–
 Spain
 ratera
 ratera
@@ -583,7 +588,6 @@ nos
 LinkedIn
 YouTube
 Certificació
-©
 2024
 TALLERES
 RATERA

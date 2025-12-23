@@ -65,8 +65,9 @@ llevar cada
 cada matí
 matí amb
 amb la
-la il·lusió
-il·lusió de
+la il
+il lusió
+lusió de
 de retrobar
 retrobar lo
 lo És
@@ -194,8 +195,7 @@ professionalitat i
 i el
 el màxim
 màxim compromís
-compromís ©
-© 2025
+compromís 2025
 2025 Xarxes
 Xarxes de
 de Pesca
@@ -231,6 +231,5 @@ BUTTON BUTTON
 BUTTON BUTTON
 BUTTON BUTTON
 BUTTON BUTTON
-BUTTON ×
-× BUTTON
+BUTTON BUTTON
 BUTTON Tancar

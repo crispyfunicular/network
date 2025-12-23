@@ -70,13 +70,15 @@ les
 seves
 corresponents
 infraestructures
-S’inclouran
+S
+inclouran
 les
 connexions
 entre
 xarxes
 diferents
-S’inclourà
+S
+inclourà
 també
 la
 xarxa
@@ -123,7 +125,8 @@ de
 les
 futures
 revisions
-d’aquesta
+d
+aquesta
 decisió
 Conjunts
 d
@@ -673,7 +676,8 @@ les
 característiques
 físiques
 les
-instal·lacions
+instal
+lacions
 i
 els
 equipaments
@@ -798,7 +802,8 @@ les
 característiques
 físiques
 les
-instal·lacions
+instal
+lacions
 i
 els
 equipaments
@@ -1443,7 +1448,6 @@ Web
 ICGC
 1
 0
-©
 2015
 Institut
 Cartogràfic

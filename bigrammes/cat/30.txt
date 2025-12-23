@@ -22,8 +22,9 @@ latérale BUTTON
 BUTTON masquer
 masquer Navigation
 Navigation Page
-Page d’accueil
-d’accueil Portails
+Page d
+d accueil
+accueil Portails
 Portails thématiques
 thématiques Article
 Article au
@@ -80,14 +81,16 @@ Le contenu
 contenu de
 de la
 la page
-page n’est
-n’est pas
+page n
+n est
+est pas
 pas pris
 pris en
 en charge
 charge dans
-dans d’autres
-d’autres langues
+dans d
+d autres
+autres langues
 langues Fichier
 Fichier Discussion
 Discussion français
@@ -151,8 +154,9 @@ Télécharger le
 le code
 code QR
 QR Dans
-Dans d’autres
-d’autres projets
+Dans d
+d autres
+autres projets
 projets Apparence
 Apparence BUTTON
 BUTTON déplacer
@@ -201,43 +205,53 @@ aperçu PNG
 PNG pour
 pour ce
 ce fichier
-fichier SVG 
-SVG  617 × 599
-617 × 599 pixels
+fichier SVG
+SVG 617
+617 599
+599 pixels
 pixels Autres
 Autres résolutions
-résolutions 247 × 240
-247 × 240 pixels
-pixels 494 × 480
-494 × 480 pixels
-pixels 791 × 768
-791 × 768 pixels
+résolutions 247
+247 240
+240 pixels
+pixels 494
+494 480
+480 pixels
+pixels 791
+791 768
+768 pixels
 pixels 1
-1 055 × 1
-055 × 1 024
+1 055
+055 1
+1 024
 024 pixels
 pixels 2
-2 109 × 2
-109 × 2 048
+2 109
+109 2
+2 048
 048 pixels
 pixels 6
-6 746 × 6
-746 × 6 550
+6 746
+746 6
+6 550
 550 pixels
 pixels Fichier
-Fichier d’origine
-d’origine Fichier
+Fichier d
+d origine
+origine Fichier
 Fichier SVG
 SVG nominalement
 nominalement de
 de 6
-6 746 × 6
-746 × 6 550
+6 746
+746 6
+6 550
 550 pixels
-pixels taille 
-taille  1
-1 31 Mio
-31 Mio Ce
+pixels taille
+taille 1
+1 31
+31 Mio
+Mio Ce
 Ce fichier
 fichier et
 et sa
@@ -264,8 +278,11 @@ Standard gauge
 gauge rail
 rail of
 of Catalonia
-Catalonia Madrid–Zaragoza–Barcelona–French
-Madrid–Zaragoza–Barcelona–French border
+Catalonia Madrid
+Madrid Zaragoza
+Zaragoza Barcelona
+Barcelona French
+French border
 border HSL
 HSL Eix
 Eix Transversal
@@ -299,16 +316,18 @@ Travail personnel
 personnel Auteur
 Auteur Vinals
 Vinals Conditions
-Conditions d’utilisation
-d’utilisation Moi
+Conditions d
+d utilisation
+utilisation Moi
 Moi en
 en tant
 tant que
 que détenteur
 détenteur des
 des droits
-droits d’auteur
-d’auteur sur
+droits d
+d auteur
+auteur sur
 sur cette
 cette œuvre
 œuvre je
@@ -317,16 +336,17 @@ la publie
 publie sous
 sous les
 les licences
-licences suivantes 
-suivantes  w
+licences suivantes
+suivantes w
 w fr
 fr Creative
 Creative Commons
 Commons paternité
 paternité partage
 partage à
-à l’identique
-l’identique Ce
+à l
+l identique
+identique Ce
 Ce fichier
 fichier est
 est disponible
@@ -339,8 +359,7 @@ la licence
 licence Creative
 Creative Commons
 Commons Attribution
-Attribution –
-– Partage
+Attribution Partage
 Partage dans
 dans les
 les Mêmes
@@ -354,27 +373,25 @@ Vous êtes
 êtes libre
 libre de
 de partager
-partager –
-– de
+partager de
 de copier
 copier distribuer
 distribuer et
 et transmettre
 transmettre cette
 cette œuvre
-œuvre d’adapter
-d’adapter –
-– de
+œuvre d
+d adapter
+adapter de
 de modifier
 modifier cette
 cette œuvre
 œuvre Sous
 Sous les
 les conditions
-conditions suivantes 
-suivantes  paternité
-paternité –
-– Vous
+conditions suivantes
+suivantes paternité
+paternité Vous
 Vous devez
 devez donner
 donner les
@@ -411,21 +428,23 @@ en aucune
 aucune façon
 façon suggérant
 suggérant que
-que l’auteur
-l’auteur vous
+que l
+l auteur
+auteur vous
 vous soutient
 soutient ou
 ou approuve
-approuve l’utilisation
-l’utilisation que
+approuve l
+l utilisation
+utilisation que
 que vous
 vous en
 en faites
 faites partage
 partage à
-à l’identique
-l’identique –
-– Si
+à l
+l identique
+identique Si
 Si vous
 vous modifiez
 modifiez transformez
@@ -449,8 +468,9 @@ ou compatible
 compatible à
 à celle
 celle de
-de l’original
-l’original https
+de l
+l original
+original https
 https creativecommons
 creativecommons org
 org licenses
@@ -551,8 +571,9 @@ Documentation Licensetruetrue
 Licensetruetrue Vous
 Vous pouvez
 pouvez choisir
-choisir l’une
-l’une de
+choisir l
+l une
+une de
 de ces
 ces licences
 licences Légendes
@@ -585,16 +606,15 @@ de Wikidata
 Wikidata nom
 nom d
 d utilisateur
-utilisateur Wikimédia 
-Wikimédia  Vinals
+utilisateur Wikimédia
+Wikimédia Vinals
 Vinals auteur
 auteur ou
 ou autrice
 autrice chaîne
-chaîne  
-  Vinals
-Vinals URL 
-URL  https
+chaîne Vinals
+Vinals URL
+URL https
 https commons
 commons wikimedia
 wikimedia org
@@ -614,8 +634,7 @@ auteur licence
 licence Creative
 Creative Commons
 Commons Attribution
-Attribution –
-– Partage
+Attribution Partage
 Partage dans
 dans les
 les Mêmes
@@ -686,11 +705,13 @@ mai 2010
 à 19
 19 08
 08 6
-6 746 × 6
-746 × 6 550
+6 746
+746 6
+6 550
 550 1
-1 31 Mio
-31 Mio Vinals
+1 31
+31 Mio
+Mio Vinals
 Vinals Information
 Information Description
 Description en
@@ -700,8 +721,11 @@ Standard gauge
 gauge rail
 rail of
 of Catalonia
-Catalonia Madrid–Zaragoza–Barcelona–French
-Madrid–Zaragoza–Barcelona–French border
+Catalonia Madrid
+Madrid Zaragoza
+Zaragoza Barcelona
+Barcelona French
+French border
 border HSL
 HSL Eix
 Eix Transversal
@@ -743,8 +767,8 @@ autres wikis
 wikis suivants
 suivants utilisent
 utilisent ce
-ce fichier 
-fichier  Utilisation
+ce fichier
+fichier Utilisation
 Utilisation sur
 sur ca
 ca wikipedia
@@ -794,8 +818,7 @@ gallery Ce
 Ce document
 document provient
 provient de
-de «
-« https
+de https
 https fr
 fr wikipedia
 wikipedia org
@@ -807,8 +830,7 @@ ferroviària estàndard
 estàndard de
 de Catalunya
 Catalunya svg
-svg »
-» Politique
+svg Politique
 Politique de
 de confidentialité
 confidentialité À

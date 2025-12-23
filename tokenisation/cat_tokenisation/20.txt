@@ -1,6 +1,5 @@
 
 Llotjavilanova
-»
 Canal
 d
 informació
@@ -44,12 +43,10 @@ des
 Tècniques
 de
 pesca
-←
 Palangre
 de
 fons
 Curricà
-→
 Les
 soltes
 juntament
@@ -78,13 +75,15 @@ fondejades
 al
 mar
 perquè
-s’hi
+s
+hi
 enredin
 els
 peixos
 Són
 xarxes
-d’emmallament
+d
+emmallament
 i
 com
 el
@@ -105,7 +104,8 @@ i
 així
 el
 peix
-s’embolica
+s
+embolica
 fàcilment
 a
 la
@@ -174,7 +174,8 @@ trenquin
 la
 fina
 malla
-L’armadora
+L
+armadora
 suposa
 un
 60
@@ -253,7 +254,8 @@ El
 seu
 ús
 actualment
-s’ha
+s
+ha
 restringit
 bastant
 La
@@ -275,7 +277,8 @@ de
 2
 a
 5
-d’alçada
+d
+alçada
 una
 vegada
 muntades
@@ -284,7 +287,8 @@ molt
 de
 bos
 També
-s’anomenaven
+s
+anomenaven
 verateres
 les
 que
@@ -308,7 +312,8 @@ per
 a
 lluç
 També
-s’agafen
+s
+agafen
 llobarros
 i
 rogers

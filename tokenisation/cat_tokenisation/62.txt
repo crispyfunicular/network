@@ -3,16 +3,13 @@ INS
 INS
 Indeksonline
 net
-»
 Feed
 Indeksonline
 net
-»
 Comments
 Feed
 Indeksonline
 net
-»
 Europol
 Më
 shumë
@@ -52,7 +49,7 @@ kryejnë
 me
 sukses
 trajnimin
-“Murtaja”
+Murtaja
 INS
 INS
 Ballina
@@ -690,11 +687,13 @@ sospitosa
 d
 haver
 estat
-col·locada
+col
+locada
 per
 serveis
 d
-intel·ligència
+intel
+ligència
 vinculats
 a
 Ucraïna
@@ -805,7 +804,6 @@ les
 condicions
 d
 ús
-©
 2010
 2024
 Portal
@@ -813,7 +811,6 @@ IndeksonlineTots
 els
 drets
 reservats
-✕
 INS
 INS
 IFRAME

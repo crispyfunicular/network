@@ -123,7 +123,7 @@ Norsk
 bokmål
 Română
 Sunda
-தமிழ்
+தமிழ
 中文
 Modifica
 els
@@ -237,7 +237,8 @@ xarxes
 de
 pesca
 en
-instal·lacions
+instal
+lacions
 terrestres
 fixes
 per
@@ -332,7 +333,7 @@ Carrelet
 esnandes
 sunset
 JPG
-”Carrelet”
+Carrelet
 a
 Esnandes
 França
@@ -395,7 +396,8 @@ l
 altre
 extrem
 Cada
-instal·lació
+instal
+lació
 és
 operada
 per
@@ -769,7 +771,8 @@ manté
 l
 equilibri
 Cada
-instal·lació
+instal
+lació
 té
 una
 profunditat
@@ -792,7 +795,8 @@ conseqüència
 es
 realitzen
 diferents
-instal·lacions
+instal
+lacions
 segons
 l
 estat
@@ -879,7 +883,6 @@ Kerala
 Referències
 modifica
 1
-↑
 Shore
 operated
 stationary
@@ -893,17 +896,13 @@ a
 Wayback
 Machine
 2
-↑
-«Nieuwpoort
-«
+Nieuwpoort
 Carrelets
-»
 de
 pesca
 per
 a
 llogar
-»
 Arxivat
 de
 l
@@ -917,7 +916,6 @@ Consulta
 juliol
 2021
 3
-↑
 Hugues
 De
 Lussac
@@ -938,7 +936,7 @@ com
 gener
 2018
 p
-60–
+60
 ISBN
 978
 0
@@ -946,7 +944,6 @@ ISBN
 96168
 8
 4
-↑
 Adolfo
 Targioni
 Tozzetti
@@ -960,10 +957,9 @@ Sordo
 Muti
 1874
 p
-219–
+219
 5
-↑
-«Panoramio
+Panoramio
 Images
 from
 Kollam
@@ -975,13 +971,11 @@ Arxivat
 a
 Wayback
 Machine
-»
 Consulta
 14
 abril
 2015
 6
-↑
 U
 S
 News
@@ -997,7 +991,6 @@ p
 juny
 2004
 7
-↑
 Retti
 di
 raccolta
@@ -1057,7 +1050,7 @@ Fort
 Kochi
 Obtingut
 de
-«https
+https
 ca
 wikipedia
 org
@@ -1069,7 +1062,7 @@ Xarxa
 xinesa
 pesca
 oldid
-36411270»
+36411270
 Categoria
 Pesca
 Categories
@@ -1129,8 +1122,8 @@ les
 Condicions
 d
 ús
-Wikipedia®
-Viquipèdia™
+Wikipedia
+Viquipèdia
 és
 una
 marca

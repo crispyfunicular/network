@@ -22,7 +22,10 @@ do
         # display each line in the stderr
 	    echo "Tokenising $dump_path" 1>&2
         tokenisation_path="./tokenisation/cat_tokenisation/$lineno.txt"
-        cat "$dump_path" | tr -s "[:punct:][:space:][:cntrl:]" "\n" > "$tokenisation_path"
+        # sed : replace all non alphanumerical characters by a space " "
+        # tr : replace all space and control characters by \n
+        # -s : in cas of multiple characters, replace it by a single one.
+        cat "$dump_path" | sed 's/[^[:alnum:]]/ /g' | tr -s '[:space:][:cntrl:]' '\n' > "$tokenisation_path"
     fi
 
 done < $tsv

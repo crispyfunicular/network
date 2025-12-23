@@ -23,7 +23,8 @@ BUTTON
 masquer
 Navigation
 Page
-d’accueil
+d
+accueil
 Portails
 thématiques
 Article
@@ -81,13 +82,15 @@ contenu
 de
 la
 page
-n’est
+n
+est
 pas
 pris
 en
 charge
 dans
-d’autres
+d
+autres
 langues
 Fichier
 Discussion
@@ -152,7 +155,8 @@ le
 code
 QR
 Dans
-d’autres
+d
+autres
 projets
 Apparence
 BUTTON
@@ -202,42 +206,52 @@ PNG
 pour
 ce
 fichier
-SVG 
-617 × 599
+SVG
+617
+599
 pixels
 Autres
 résolutions
-247 × 240
+247
+240
 pixels
-494 × 480
+494
+480
 pixels
-791 × 768
+791
+768
 pixels
 1
-055 × 1
+055
+1
 024
 pixels
 2
-109 × 2
+109
+2
 048
 pixels
 6
-746 × 6
+746
+6
 550
 pixels
 Fichier
-d’origine
+d
+origine
 Fichier
 SVG
 nominalement
 de
 6
-746 × 6
+746
+6
 550
 pixels
-taille 
+taille
 1
-31 Mio
+31
+Mio
 Ce
 fichier
 et
@@ -265,7 +279,10 @@ gauge
 rail
 of
 Catalonia
-Madrid–Zaragoza–Barcelona–French
+Madrid
+Zaragoza
+Barcelona
+French
 border
 HSL
 Eix
@@ -300,7 +317,8 @@ personnel
 Auteur
 Vinals
 Conditions
-d’utilisation
+d
+utilisation
 Moi
 en
 tant
@@ -308,7 +326,8 @@ que
 détenteur
 des
 droits
-d’auteur
+d
+auteur
 sur
 cette
 œuvre
@@ -318,7 +337,7 @@ publie
 sous
 les
 licences
-suivantes 
+suivantes
 w
 fr
 Creative
@@ -326,7 +345,8 @@ Commons
 paternité
 partage
 à
-l’identique
+l
+identique
 Ce
 fichier
 est
@@ -340,7 +360,6 @@ licence
 Creative
 Commons
 Attribution
-–
 Partage
 dans
 les
@@ -355,7 +374,6 @@ Vous
 libre
 de
 partager
-–
 de
 copier
 distribuer
@@ -363,8 +381,8 @@ et
 transmettre
 cette
 œuvre
-d’adapter
-–
+d
+adapter
 de
 modifier
 cette
@@ -372,9 +390,8 @@ cette
 Sous
 les
 conditions
-suivantes 
+suivantes
 paternité
-–
 Vous
 devez
 donner
@@ -412,20 +429,22 @@ aucune
 façon
 suggérant
 que
-l’auteur
+l
+auteur
 vous
 soutient
 ou
 approuve
-l’utilisation
+l
+utilisation
 que
 vous
 en
 faites
 partage
 à
-l’identique
-–
+l
+identique
 Si
 vous
 modifiez
@@ -450,7 +469,8 @@ compatible
 à
 celle
 de
-l’original
+l
+original
 https
 creativecommons
 org
@@ -552,7 +572,8 @@ Licensetruetrue
 Vous
 pouvez
 choisir
-l’une
+l
+une
 de
 ces
 licences
@@ -586,15 +607,14 @@ Wikidata
 nom
 d
 utilisateur
-Wikimédia 
+Wikimédia
 Vinals
 auteur
 ou
 autrice
 chaîne
- 
 Vinals
-URL 
+URL
 https
 commons
 wikimedia
@@ -615,7 +635,6 @@ licence
 Creative
 Commons
 Attribution
-–
 Partage
 dans
 les
@@ -687,10 +706,12 @@ mai
 19
 08
 6
-746 × 6
+746
+6
 550
 1
-31 Mio
+31
+Mio
 Vinals
 Information
 Description
@@ -701,7 +722,10 @@ gauge
 rail
 of
 Catalonia
-Madrid–Zaragoza–Barcelona–French
+Madrid
+Zaragoza
+Barcelona
+French
 border
 HSL
 Eix
@@ -744,7 +768,7 @@ wikis
 suivants
 utilisent
 ce
-fichier 
+fichier
 Utilisation
 sur
 ca
@@ -795,7 +819,6 @@ Ce
 document
 provient
 de
-«
 https
 fr
 wikipedia
@@ -808,7 +831,6 @@ estàndard
 de
 Catalunya
 svg
-»
 Politique
 de
 confidentialité

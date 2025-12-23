@@ -1,5 +1,4 @@
 
-﻿
 Pàgina
 inicial
 Trenscat
@@ -352,7 +351,6 @@ el
 02
 12
 2007
-©
 Bernat
 Borràs
 Pàgina

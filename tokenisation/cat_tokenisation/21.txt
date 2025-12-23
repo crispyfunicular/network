@@ -66,7 +66,8 @@ cada
 matí
 amb
 la
-il·lusió
+il
+lusió
 de
 retrobar
 lo
@@ -195,7 +196,6 @@ i
 el
 màxim
 compromís
-©
 2025
 Xarxes
 de
@@ -232,6 +232,5 @@ BUTTON
 BUTTON
 BUTTON
 BUTTON
-×
 BUTTON
 Tancar

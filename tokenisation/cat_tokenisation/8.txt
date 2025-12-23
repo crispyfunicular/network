@@ -1,11 +1,9 @@
 
 internet
-»
 canal
 d
 informació
 internet
-»
 Canal
 dels
 comentaris
@@ -68,11 +66,13 @@ xarxes
 socials
 son
 llocs
-d’internet
+d
+internet
 formats
 per
 comunitats
-d’individus
+d
+individus
 amb
 interessos
 o
@@ -81,7 +81,7 @@ en
 comú
 família
 treball
-amistat…
+amistat
 i
 que
 permet
@@ -135,7 +135,8 @@ els
 individus
 que
 comparteixen
-l’àmbit
+l
+àmbit
 laboral
 o
 que
@@ -201,9 +202,11 @@ buscava
 unir
 ex
 companys
-d’escola
+d
+escola
 o
-d’universitats
+d
+universitats
 Després
 van
 aparèixer
@@ -214,7 +217,8 @@ que
 pretenia
 reunir
 amics
-L’any
+L
+any
 2003
 es
 van

@@ -269,10 +269,10 @@ la
 Catalunya
 Sud
 vegeu
-«Xarxa
+Xarxa
 ferroviària
 de
-Catalunya»
+Catalunya
 La
 xarxa
 ferroviària
@@ -2127,12 +2127,11 @@ Catalunya
 Referències
 modifica
 1
-↑
 tpcf
 fr
 Obtingut
 de
-«https
+https
 ca
 wikipedia
 org
@@ -2149,7 +2148,7 @@ alunya
 del
 Nord
 oldid
-34480283»
+34480283
 Categories
 Ferrocarril
 a
@@ -2203,8 +2202,8 @@ les
 Condicions
 d
 ús
-Wikipedia®
-Viquipèdia™
+Wikipedia
+Viquipèdia
 és
 una
 marca

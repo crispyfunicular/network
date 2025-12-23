@@ -273,7 +273,7 @@ quan
 un
 potencial
 de
-membrana–
+membrana
 una
 qualitat
 intrínseca
@@ -288,7 +288,6 @@ càrrega
 elèctrica
 de
 membrana
-–
 arriba
 a
 un
@@ -774,7 +773,8 @@ polsos
 basats
 en
 un
-oscil·lador
+oscil
+lador
 global
 La
 codificació
@@ -804,7 +804,6 @@ neurones
 Referències
 modifica
 1
-↑
 Maass
 Wolfgang
 Neural
@@ -813,7 +812,8 @@ Networks
 9
 1997
 pàg
-1659–1671
+1659
+1671
 DOI
 10
 1016
@@ -826,7 +826,6 @@ ISSN
 0893
 6080
 2
-↑
 Gerstner
 Wulfram
 Kistler
@@ -857,7 +856,6 @@ X
 OCLC
 57417395
 3
-↑
 Alnajjar
 F
 Murase
@@ -868,13 +866,13 @@ Behavior
 5
 2008
 pàg
-306–324
+306
+324
 DOI
 10
 1177
 1059712308093869
 4
-↑
 X
 Zhang
 Spike
@@ -894,7 +892,8 @@ anglès
 Dec
 2013
 p
-6798–6805
+6798
+6805
 DOI
 10
 1109
@@ -908,7 +907,6 @@ ISBN
 5717
 3
 5
-↑
 Tavanaei
 Amirhossein
 Ghodrati
@@ -926,7 +924,8 @@ Networks
 3
 2019
 pàg
-47–63
+47
+63
 arXiv
 1804
 08150
@@ -941,7 +940,6 @@ neunet
 PMID
 30682710
 6
-↑
 Rate
 Coding
 or
@@ -962,7 +960,7 @@ Neural
 Networks
 Obtingut
 de
-«https
+https
 ca
 wikipedia
 org
@@ -976,7 +974,7 @@ de
 polsos
 ol
 did
-35576819»
+35576819
 Categoria
 Neurociència
 La
@@ -1019,8 +1017,8 @@ les
 Condicions
 d
 ús
-Wikipedia®
-Viquipèdia™
+Wikipedia
+Viquipèdia
 és
 una
 marca
