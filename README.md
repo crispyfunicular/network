@@ -1,11 +1,11 @@
 # network / réseau
-Étude synchronique de l’emploi du terme « réseau » ou « network » en espagnol, catalan et mandarin ...
+Étude synchronique de l’emploi du terme « réseau » ou « network » en espagnol, catalan et mandarin .
 
 ## Sens retenus
 1. Informatique et numérique : réseau de neuronnes, réseau informatique, réseau sans fil...  
 2. Social et organisationnel : réseau social, réseau criminel...  
 3. Transports et infrastructures : réseau fluvial, réseau ferroviaire, réseau routier, réseau de transports...  
-Le but de ces catégories est d'assurer une certaines représentativité des termes récoltés (échantillonnage qualitatif avant échantillonage quantitatif). Nous sommes évidemments conscient-es que certaines expression peuvent être classées dans plusieurs catégories à la fois.  
+Le but de ces catégories est d'assurer une certaine représentativité des termes récoltés (échantillonnage qualitatif avant échantillonnage quantitatif). Nous sommes évidemment conscient-es que certaines expressions peuvent être classées dans plusieurs catégories à la fois.  
 
 ## Structure du projet  
 - "programmes" : dossier contenant l'ensemble des scripts pour les trois langues  
