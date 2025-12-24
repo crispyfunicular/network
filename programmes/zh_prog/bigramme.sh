@@ -12,7 +12,7 @@ echo "En train de créer les Bigrammes..."
 
 for file in "$dump_unigramme_dir"/*.txt; do
 
-    id=$(basename "$file"_dump_unigramme.txt)
+    id=$(basename "$file" _dump_unigramme.txt)
     bigramfile="${id}_bigramme.txt"
 
     # 1. tail -n +2: creer un pseudo fichier qui commence par la 2e ligne du texte original
