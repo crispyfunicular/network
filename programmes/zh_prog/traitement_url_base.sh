@@ -23,21 +23,14 @@ echo -e "
 
 <div class="hero has-text-centered">
   <div class="hero-body">
-    <h1 class="title">Network（网络wang luo）— URLs Collectées</h1>
+    <h1 class="title">Réseau（网络wǎng luò）— URLs Collectées</h1>
   </div>
 </div>
-
-<nav class="tabs is-centered">
-  <ul>
-    <li><a href="../../index.html">Accueil</a></li>
-    <li class="is-active"><a href="tableau-fr.html">Tableau</a></li>
-  </ul>
-</nav>
 
 <div class="columns is-centered">
   <div class="column is-full">
     <div class="block">
-      <h3 class="title is-4 has-background-info has-text-white has-text-weight-semibold">Tableau des URL</h3>
+      <h3 class="title is-4 has-background-info has-text-white has-text-weight-semibold">Tableau des URLs</h3>
       <div class="table-container">
         <table class="table is-bordered is-hoverable is-striped is-fullwidth">
           <thead class="has-background-info has-text-white">
@@ -151,10 +144,11 @@ do
           fi
       fi
 
-    # extraire dump_texte
-    # l'utilisation de lynx pour omttre les balises de HTML
-    # -assume_charset=utf-8
-    lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$html_file" > "$dump_file"
+    # extraire dump_texte : l'utilisation de lynx pour omttre les balises de HTML
+    # Même si le HTML est en UTF-8, lynx peut parfois introduire des artefacts
+    # ou des octets invalides (ex: 0x85) lors de l'extraction du texte.
+    # On force un nettoyage final avec iconv -c pour éviter que Python ne plante.
+    lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$html_file" | iconv -c -f utf-8 -t utf-8 > "$dump_file"
 
     # compter la frequence du mot  网络 dans ce html
     COMPTE=$(grep -o "$MOT" "$dump_file" | wc -l)
@@ -167,14 +161,14 @@ do
     base_url=$(echo "$URL" | cut -d'/' -f1-3)
 
     # le chemin sauvegardé vers le robot.txt
-    robots_file="../../robottxt/zh/robot_$lineno.txt"
+    robots_file="../../robots-txt/zh/robot_$lineno.txt"
 
     # Essaie de telechargement juste 1 fois 10 secondes
     wget -q -T 10 -t 1 -O "$robots_file" "$base_url/robots.txt"
 
     #
     if [ -s "$robots_file" ]; then
-      robots_cell="<a href=\"../robottxt/zh/robot_$lineno.txt\">robot.txt</a>"
+      robots_cell="<a href=\"../robots-txt/zh/robot_$lineno.txt\">robot.txt</a>"
     else
       robots_cell="Absence"
       rm "$robots_file" 2>/dev/null
@@ -190,7 +184,7 @@ do
       <td><a href=\"../dumps-text/zh_dumps/$lineno.txt\">Dump_Texte</a></td>
       <td><a href=\"../contextes/zh/$lineno.txt\">Contexte</a></td>
       <td><a href=\"../concordances/zh/$lineno-concord.html\">Concordance</a></td>
-      <td><a href=\"../bigrammes/zh/${lineno}_bigramme.txt\">Bigramme</a></td>
+      <td><a href=\"../bigrammes/zh_bigrammes/${lineno}_bigramme.txt\">Bigramme</a></td>
       <td>$robots_cell</td>
       <td><a href=\"../concor_coloration/zh/${lineno}_color.html\">concodance_coloré</a></td>
       </tr>" >> "$TABLEAU_HTML"

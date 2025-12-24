@@ -3,16 +3,16 @@
 export LANG=en_US.UTF-8
 
 
-unigramme_dir="../../unigrammes/zh"
-bigramme_dir="../../bigrammes/zh"
+dump_unigramme_dir="../../tokenisation/zh_tokenisation/dump_tokenisation"
+bigramme_dir="../../bigrammes/zh_bigrammes"
 
 mkdir -p "$bigramme_dir"
 
 echo "En train de créer les Bigrammes..."
 
-for file in "$unigramme_dir"/*.txt; do
+for file in "$dump_unigramme_dir"/*.txt; do
 
-    id=$(basename "$file" _unigramme.txt)
+    id=$(basename "$file"_dump_unigramme.txt)
     bigramfile="${id}_bigramme.txt"
 
     # 1. tail -n +2: creer un pseudo fichier qui commence par la 2e ligne du texte original

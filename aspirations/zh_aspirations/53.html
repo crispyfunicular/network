@@ -205,7 +205,19 @@
 <img src="https://img11.litenews.cn/635/2024/01/03/5d2181019cbddec0489f45dc7433ce28.png">
 </a >
 </li>
-</ul>        </div>
+</ul>
+<script>
+// 创建一个媒体查询列表对象
+const mediaQuery = window.matchMedia('(max-width: 768px)');
+
+// 检查当前是否匹配
+if (mediaQuery.matches) {
+ $(".rightbox").css({"display":"none"});
+} else {
+  $(".rightbox").css({"display":"block"});
+}
+
+</script>        </div>
     </div>
     <div class="clearfix"></div>
     <div class="backtoTop"><i class="fa fa-arrow-circle-o-up"></i></div>
