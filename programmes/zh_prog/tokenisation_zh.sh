@@ -5,6 +5,14 @@
 # mais le decodage par defaut(peut-etre 8-bits table) en bash avec sed et tr a été mal interpreté.
 export LANG=en_US.UTF-8
 
+if ! python3 -c "import thulac" &> /dev/null; then
+    echo "Error : La bibliothèque 'thulac' n'est pas installée."
+    echo "Veuillez l'installer manuellement avec l'une des commandes :"
+    echo "   pip install thulac  ou  uv pip install thulac "
+    echo "Une fois l'installation terminée, relancez ce script."
+    exit 1
+fi
+
 
 
 # les chemins vers les fichier en tant que l'entrée
