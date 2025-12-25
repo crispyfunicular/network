@@ -134,11 +134,11 @@ Entitats col·laboradores
 
 Recent Posts
 
+     * Zerobyte té un bypass d’autenticació per debilitat primària
+     * El servei de salut irlandès compensarà cada víctima del seu
+       ciberatac amb 750 euros
      * Vulnerabilitat d’elevació de privilegis en les respostes a
        preguntes personalitzades
-     * L’educació digital, eina clau per combatre la nova onada de fraus
-       en línia
-     * Vulnerabilitat d’elevació de privilegis de Microsoft Partner Center
 
    Page load link
 

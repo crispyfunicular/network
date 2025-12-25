@@ -477,14 +477,18 @@ Tag Cloud
 
 Random Posts
 
-   Presentació i prova pilot ePEQ Member de l’AQPE Neix la plataforma
-   digital impulsada per Merkel que donarà treball a cent mil joves La
-   gran banca de Wall Street fa marxa enrere en el seu pla d’introduir
-   futurs del bitcoin Augmented Reality Games Hackathon L’Observatori
-   Nacional del 5G dóna una nova empenta tecnològica a Barcelona
-   Inscriu-te al premi Talgo a l’excel·lència professional de la dona a
-   l’enginyeria Taller “introducció al paradigma agile” el 4 de febrer a
-   les 18:30 al COEINF COEINF News #416
+   Antonio Rodríguez de la Torre, nou Director d’Operacions de Digital
+   Parks Canvi de data (per vaga general a França) El COEINF participa en
+   la inauguració Curs 2018-19 a l’ETSE de la URV Acte commemoratiu del
+   15è aniversari del Barcelona Breakfast Conclusions sobre l’estudi sobre
+   l’escassa presència femenina en el sector TIC El Govern impulsarà un
+   nou model d’Administració Digital basada en una nova relació amb la
+   ciutadania D-Link aposta per modernitzar les xarxes WiFi empresarials
+   amb la tecnologia Wave2 La 1ªEdició TalentTIC a la Lul·liana 2019
+   tracta el desenvolupament de rols professionals Una bateria minúscula
+   per subministrar energia a microxips Estudis universitaris per a majors
+   de 50 anys La Intel·ligència Artificial no existeix; Machine Learning
+   al rescat!
    Ajax loader spinner
    (refresh random posts)
 

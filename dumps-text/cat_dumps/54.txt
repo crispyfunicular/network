@@ -188,25 +188,20 @@ reptes per a la regulació de la IA
 
 Trending now
 
-   Data science and its relationship to library and information science: A
-   content analysis
-   IA i Governança: un repte tècnic i ètic alhora, balança minimalista amb
-   plats fúcsia i gris dins un marc negre IA i Governança: un repte tècnic
-   i ètic alhora, balança minimalista amb plats fúcsia i gris dins un marc
-   negre
-   Comportaments estratègics en models frontera: autopreservació aparent i
-   reptes per a la regulació de la IA
-   Beyond the Ordinay Beyond the Ordinay
-   From border walls to corridors: An analysis of connectivity in a
-   changing multilateral world order
-   Il·lustració minimalista d’un llibre combinat amb un diagrama de xarxa
-   neuronal, que simbolitza els fonaments de les tecnologies del web
-   semàntic, amb colors corporatius de DeGalaLab (fúcsia, blau, gris)
-   sobre fons blanc. Il·lustració minimalista d’un llibre combinat amb un
-   diagrama de xarxa neuronal, que simbolitza els fonaments de les
-   tecnologies del web semàntic, amb colors corporatius de DeGalaLab
-   (fúcsia, blau, gris) sobre fons blanc.
-   Foundations of Semantic Web Technologies
+   Big data and the Internet of Things: Two sides of the same coin?
+   (versió en català)
+   El màrqueting digital com a capa de personalització: estratègies que
+   evolucionen sense perdre l’essència El màrqueting digital com a capa de
+   personalització: estratègies que evolucionen sense perdre l’essència
+   El màrqueting digital com a capa de personalització: estratègies que
+   evolucionen sense perdre l’essència
+   Big Data Research for Social Sciences and Social Impact (versió en
+   català)
+   "DKIM: correus verificats i fiables amb signatura digital per millorar
+   la seguretat i la reputació del domini" "DKIM: correus verificats i
+   fiables amb signatura digital per millorar la seguretat i la reputació
+   del domini"
+   Què és DKIM en els correus electrònics i per a què serveix?
 
    Contact DeGalaLab · Creative Technology & Data Insights Contact
    DeGalaLab · Creative Technology & Data Insights

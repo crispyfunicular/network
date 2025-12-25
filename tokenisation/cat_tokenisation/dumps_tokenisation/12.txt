@@ -7,11 +7,6 @@ Ferriol
 Canal
 d
 informació
-Mas
-Ferriol
-Canal
-dels
-comentaris
 oEmbed
 JSON
 oEmbed
@@ -1184,6 +1179,8 @@ Ferriol
 Phone
 alt
 Envelope
+ajax
+loader
 ajax
 loader
 Nombre

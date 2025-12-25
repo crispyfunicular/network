@@ -9,3 +9,4 @@
 ./programmes/cat_prog/concordancier.sh
 ./programmes/cat_prog/make_pals_corpus.sh
 ./programmes/cat_prog/generate_html.sh
+./programmes/cat_prog/wordcloud.sh

@@ -7,7 +7,7 @@
           + Alemany
           + Francès
 
-   23.12.2025 | 12:30
+   25.12.2025 | 12:19
 
    Ajuntament de Santa Perpètua de Mogoda Ajuntament de Santa Perpètua de
    Mogoda
@@ -348,12 +348,12 @@ Adreces i telèfons
 
 Meteo
 
-     * Dimarts, 23 de desembre entre mig i molt ennuvolat
-       T.Màx: 11°
-       T.Min: -1°
-     * Dimecres, 24 de desembre entre poc i mig ennuvolat
+     * Dijous, 25 de desembre plugim
+       T.Màx: 10°
+       T.Min: 5°
+     * Divendres, 26 de desembre plugim
        T.Màx: 14°
-       T.Min: 4°
+       T.Min: 6°
 
 Butlletí digital
 

@@ -1,5 +1,5 @@
-   #alternate alternate alternate Mas Ferriol » Canal d'informació Mas
-   Ferriol » Canal dels comentaris oEmbed (JSON) oEmbed (XML) JSON
+   #alternate alternate alternate Mas Ferriol » Canal d'informació oEmbed
+   (JSON) oEmbed (XML) JSON
 
    Vés al contingut
 
@@ -269,7 +269,7 @@ Orientació familiar
 
    Phone-alt Envelope
 
-   ajax-loader
+   ajax-loader ajax-loader
 
    Nombre _
    Telefono _

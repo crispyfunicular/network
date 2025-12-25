@@ -92,7 +92,7 @@ alimentària
      * Infància i adolescència
      * Malalties mentals
 
-   4106 Visitat
+   4110 Visitat
    [favicon-15x15.png]
    alimara
 
@@ -581,9 +581,9 @@ You may be interested
    Banys de bosc: fonaments i aplicabilitat terapèutica en l’àmbit social
    i de la salut
    Serveis socials
-   2628 Visites
+   2629 Visites
    Serveis socials
-   2628 Visites
+   2629 Visites
 
 Banys de bosc: fonaments i aplicabilitat terapèutica en l’àmbit social i de
 la salut
@@ -596,9 +596,9 @@ la salut
    La formació a la comunitat educativa en relació amb el Servei
    d’Infància i Família com a element clau
    Formació
-   2589 Visites
+   2590 Visites
    Formació
-   2589 Visites
+   2590 Visites
 
 La formació a la comunitat educativa en relació amb el Servei d’Infància i
 Família com a element clau
@@ -610,9 +610,9 @@ Família com a element clau
    manca de formació de…
    L’evidència de les dades per a la millora de l’acció social (I)
    Serveis socials
-   2681 Visites
+   2686 Visites
    Serveis socials
-   2681 Visites
+   2686 Visites
 
 L’evidència de les dades per a la millora de l’acció social (I)
 
