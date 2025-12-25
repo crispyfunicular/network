@@ -11,11 +11,13 @@ tsv=${1-tableaux/cat_tableaux/URLs.tsv}
 
 mkdir -p ./concordances/cat
 rm -rf ./concordances/cat/*
+mkdir -p ./concor_coloration/cat
+rm -rf ./concor_coloration/cat/*
 
 while read -r line;
 do
 
-	# increment the line counter by 1	
+	# increment the line counter by 1
 	lineno=$(echo "$line" | cut -f 1)
 
     dump_path="./dumps-text/cat_dumps/$lineno.txt"
@@ -24,6 +26,7 @@ do
         # display each line in the stderr
 	    echo "Getting context $dump_path" 1>&2
         concordances_path="./concordances/cat/$lineno.html"
+        concordances_color_path="./concor_coloration/cat/$lineno.html"
         cat << EOF > "$concordances_path"
 <html>
 	<head>
@@ -39,9 +42,9 @@ do
                 <table class="table is-bordered is-hoverable is-striped is-fullwidth">
                     <thead class="has-background-info has-text-white">
                         <tr>
-                            <th>Left Context</th>
-                            <th>Cible</th>
-                            <th>Right Context</th>
+                            <th>Contexte gauche</th>
+                            <th>Mot cible</th>
+                            <th>Contexte droit</th>
                         </tr>
                     </thead>
 					<tbody>
@@ -55,6 +58,15 @@ EOF
     </body>
 </html>
 EOF
+
+        # copie le concordancier monochrome dans le dossier concordancier coloré
+        cp -v "$concordances_path" "$concordances_color_path"
+        # boucle sur les 20 mots les plus spécifiques du corpus contextuel (on exclut le mot cible ainsi que les en-têtes de colone du csv puis on garde uniquement la première colone)
+        for word in $(cat ./pals/pals_cat/cooccurents-contextes-cat.csv | grep -v -E -i '(xarxa|xarxes)' | tail -n +2 | head -n 20 | cut -d "," -f 1)
+        do
+            # entoure le mot fréquent d'une balise span avec les classes css Bulma rouge et gras
+            sed -i "s/\($word\)/<span class=\"has-text-danger has-text-weight-bold\">\1<\/span>/Ig" "$concordances_color_path"
+        done
     fi
 
 done < $tsv

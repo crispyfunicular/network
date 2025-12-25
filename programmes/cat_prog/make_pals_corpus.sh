@@ -28,13 +28,13 @@ cat << EOF > "$html_path"
                 <table class="table is-bordered is-hoverable is-striped is-fullwidth">
                     <thead class="has-background-info has-text-white">
 EOF
-# les titre de colones sont sur la première ligne du fichier CSV (head -n 1) en séparant les colonnes du csv par des balises html <tr><th>
+# les titres de colones sont sur la première ligne du fichier CSV (head -n 1) en séparant les colonnes du csv par des balises html <tr><th>
 cat pals/pals_cat/cooccurents-dumps-text-cat.csv | head -n 1 | sed 's/^/<tr><th>/' | sed 's/,/<\/td><th>/g' | sed 's/,/<\/th><th>/g' >> "$html_path"
 cat << EOF >> "$html_path"
                     </thead>
 					<tbody>
 EOF
-# on ignore les titre de colones sont sur la première ligne du fichier CSV (tail -n +2) en séparant les colones du csv par des balises <tr><td>
+# on ignore les titres de colones sont sur la première ligne du fichier CSV (tail -n +2) en séparant les colones du csv par des balises <tr><td>
 cat pals/pals_cat/cooccurents-dumps-text-cat.csv | tail -n +2 | sed 's/^/<tr><td>/' | sed 's/,/<\/td><td>/g' | sed 's/$/<\/td><\/tr>/' >> "$html_path"
 cat << EOF >> "$html_path"
                     </tbody>
