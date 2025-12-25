@@ -8,3 +8,5 @@ cat ./tokenisation/cat_tokenisation/contextes_tokenisation/*.txt > "./pals/conte
 # Affiche le tout en colonnes
 python ./programmes/cooccurrents.py --target "(xarxa|xarxes)" -s i -l 5 --match-mode regex ./pals/pals_cat/dumps-text-cat.txt | column -t -s $'\t' | head -n 50 > pals/pals_cat/cooccurents-dumps-text-cat.txt
 python ./programmes/cooccurrents.py --target "(xarxa|xarxes)" -s i -l 5 --match-mode regex ./pals/pals_cat/contextes-cat.txt | column -t -s $'\t' | head -n 50 > pals/pals_cat/cooccurents-contextes-cat.txt
+
+# Présente les résultats au format HTML
