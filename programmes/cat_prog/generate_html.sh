@@ -107,10 +107,10 @@ done < $tsv
 
 # Write the end of the HTML table/file
 cat << EOF >> "$output_path"
-						</tbody>
-					</table>
-                </div>
-            </section>
-        </body>
-    </html>
+					</tbody>
+				</table>
+			</div>
+		</section>
+	</body>
+</html>
 EOF
