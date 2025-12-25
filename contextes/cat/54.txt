@@ -1,95 +1,114 @@
-   #alternate alternate DeGala Lab » Canal d'informació DeGala Lab » Canal
-   dels comentaris DeGala Lab » Xarxes Neuronals Artificials Canal dels
-   comentaris oEmbed (JSON) oEmbed (XML) JSON
+   CERTIFIED
+
+Com mesurar la complexitat d'una xarxa neuronal en termes d'una sèrie de
+variables i quina mida tenen alguns models de xarxes neuronals més grans sota
+aquesta comparació?
+
+   by Acadèmia EITCA / Dijous, 17 Agost 2023 / Publicat a Intel·ligència
+   Artificial, EITC/AI/DLPP Deep Learning amb Python i PyTorch, Xarxa
+   neuronal, Construcció de xarxes neuronals, Revisió de l'examen
+
+   La complexitat d'una xarxa neuronal es pot mesurar de diverses maneres,
+   però un dels mètodes més senzills i utilitzats és examinant el nombre
+   de variables, també conegudes com a paràmetres, dins de la xarxa. Els
+   paràmetres d'una xarxa neuronal inclouen pesos i biaixos, que s'ajusten
+   durant el procés d'entrenament per minimitzar la funció de pèrdua.
+   Entendre el nombre de paràmetres és important perquè afecta directament
+   els requisits computacionals, l'ús de la memòria i la capacitat de la
+   xarxa per generalitzar des de dades d'entrenament fins a dades no
+   vistes.
+
+   Per calcular el nombre de paràmetres d'una xarxa neuronal, cal tenir en
+   compte l'arquitectura de la xarxa, que inclou el nombre de capes, el
+   tipus de capes (per exemple, completament connectades, convolucionals,
+   recurrents) i el nombre de neurones o unitats en cada capa. Desglossem
+   el procés per a diferents tipus de capes que s'utilitzen habitualment a
+   les xarxes neuronals:
+
+Capes totalment connectades
+--
+   50) = 4 \times (7500 + 50) = 4 \times 7550 = 30200 \]
+
+Complexitat general de la xarxa
+
+   Per determinar el nombre total de paràmetres d'una xarxa neuronal, cal
+   sumar els paràmetres de totes les capes. Per exemple, considereu una
+   xarxa neuronal de feedforward simple amb l'arquitectura següent:
+
+   1. Capa d'entrada: 784 unitats (p. ex., per a imatges de 28 × 28
+--
+   Paràmetres totals:
+
+Exemple d'un model de xarxa neuronal gran
+
+   Un dels models de xarxes neuronals més grans pel que fa al nombre de
+   paràmetres és GPT-3 (Generative Pre-trained Transformer 3),
+   desenvolupat per OpenAI. GPT-3 és un model basat en transformadors, que
+--
+   àmplia gamma de tasques de processament del llenguatge natural amb una
+   gran precisió. L'arquitectura de GPT-3 inclou múltiples capes de
+   transformador, cadascuna amb nombrosos capçals d'atenció i xarxes de
+   feedforward, que contribueixen al gran nombre de paràmetres.
+
+Consideracions pràctiques
+
+   Quan es treballa amb grans xarxes neuronals, s'han de tenir en compte
+   diverses consideracions pràctiques:
 
 --
-   (BUTTON) Menú
+   d'inferència.
 
-   Xarxes Neuronals Artificials Xarxes Neuronals Artificials
-
-Xarxes Neuronals Artificials
-
-   Les xarxes neuronals artificials imiten el funcionament del cervell
-   humà per aprendre de l’experiència. Des de reconèixer imatges fins a
-   ajudar en diagnòstics mèdics, aquestes estructures digitals són un dels
-   pilars de la intel·ligència artificial moderna.
-
-   Pàgina d'inici Debats Tecnològics Xarxes Neuronals Artificials
-
-Xarxes Neuronals Artificials
-
-   La diferència entre allò que poden fer els ordinadors i allò que poden
+   La complexitat d'una xarxa neuronal, mesurada pel nombre de paràmetres,
+   és un aspecte fonamental que influeix en el seu rendiment, requisits
+   computacionals i capacitat de generalització. Entendre com calcular i
+   gestionar aquesta complexitat és important per dissenyar xarxes
+   neuronals efectives. Amb els avenços en el maquinari i les tècniques
+   d'optimització, ara és possible entrenar i desplegar models
 --
+   és possible en intel·ligència artificial.
 
-   Un dels avenços que ha impulsat aquesta tendència és el model
-   computacional conegut com a xarxa neuronal artificial. Es tracta d’una
-   aproximació per crear intel·ligència artificial — programes que imiten
-   certes funcions cognitives dels humans.
+Altres preguntes i respostes recents sobre Construcció de xarxes neuronals:
 
-   Per entendre-les millor, cal mirar de prop com funcionen les xarxes més
-   senzilles i com aquestes mateixes idees permeten construir estructures
-   molt més grans i complexes.
-
-   Diagrama que mostra com les xarxes neuronals artificials imiten el
-   cervell humà. Diagrama que mostra com les xarxes neuronals artificials
-   imiten el cervell humà. El cervell humà conté més de 80 mil milions de
-   neurones, que intercanvien informació mitjançant impulsos elèctrics.
-   Aquestes neurones no es connecten totes amb totes, sinó que formen
-   xarxes especialitzades que realitzen funcions concretes. Així és com
-   aprenem: les connexions entre neurones s’enforteixen o s’afebleixen
-   segons l’experiència.
-
-   Inspirant-se en aquest mecanisme, es van inventar les xarxes neuronals
-   artificials (ANNs). Inicialment van néixer per entendre i emular el
-   funcionament del cervell, però avui han adquirit un paper propi:
+     * Quina és la funció que s'utilitza a PyTorch per enviar una xarxa
+       neuronal a una unitat de processament que crearia una xarxa
+       neuronal especificada en un dispositiu especificat?
+     * La funció d'activació s'executa a les dades d'entrada o de sortida
+       d'una capa?
+     * En quins casos les xarxes neuronals poden modificar els pesos de
+       manera independent?
+     * Keras es diferencia de PyTorch en la manera en què PyTorch
 --
-   Igual que les neurones biològiques són les unitats bàsiques del
-   cervell, les neurones artificials són els blocs de construcció d’una
-   xarxa neuronal artificial. Reben informació, responen a estímuls i,
-   quan s’agrupen en xarxa, són capaces de generar patrons i coneixement a
-   escala computacional.
-
-Origen i evolució
-
-   Les primeres xarxes neuronals artificials es van començar a
-   desenvolupar a mitjans del segle XX, inspirades en la recerca sobre el
-   cervell humà. Un dels primers models, el perceptró, va demostrar que
---
-Aplicacions quotidianes
-
-   Avui dia, fem servir xarxes neuronals sense adonar-nos-en. Quan un
-   telèfon intel·ligent reconeix la nostra veu i converteix la parla en
-   text, quan un traductor automàtic suggereix la millor frase, o quan una
-   plataforma de música recomana cançons que poden agradar-nos, hi ha
-   xarxes neuronals funcionant darrere. Aquestes aplicacions mostren com
-   la tecnologia ha passat d’un àmbit estrictament científic a formar part
-   de la vida diària.
---
-Reptes i limitacions
-
-   Tot i els seus èxits, les xarxes neuronals també tenen reptes.
-   Necessiten quantitats enormes de dades per entrenar-se, poden consumir
-   molta energia i, sovint, actuen com a “caixes negres”: donen resultats
---
-
-   Si vols aprofundir més, pots consultar aquest article de referència a
-   Wikipedia sobre xarxes neuronals artificials.
-
+       Keras no, i per tant Keras requereix solucions manuals com, per
+       exemple, passar dades falses a través del model?
+     * Com flueixen les dades a través d'una xarxa neuronal a PyTorch i
+       quin és el propòsit del mètode d'enviament?
+     * Quin és l'objectiu del mètode d'inicialització a la classe 'NNet'?
+     * Per què hem d'aplanar les imatges abans de passar-les per la xarxa?
+     * Com definim les capes completament connectades d'una xarxa neuronal
+       a PyTorch?
+     * Quines biblioteques hem d'importar quan es construeix una xarxa
+       neuronal amb Python i PyTorch?
 
 --
-   happen
+     * programa: EITC/AI/DLPP Deep Learning amb Python i PyTorch (anar al
+       programa de certificació)
+     * Lliçó: Xarxa neuronal (anar a la lliçó relacionada)
+     * Tema: Construcció de xarxes neuronals (anar al tema relacionat)
+     * Revisió de l'examen
 
-   aplicacions xarxes neuronals Artificial Intelligence Autenticació de
-   correu electrònic Big Data blocksy child theme bones pràctiques per a
-   temes WordPress child theme wordpress coherència narrativa com crear un
-   child theme com funcionen les ANNs com funcionen les xarxes neuronals
-   comunicació Correus verificats crear child theme pas a pas CSS
-   personalitzat en child theme dades aplicades al màrqueting deep
+   Etiquetat sota: Intel·ligència Artificial, Complexitat computacional,
+   GPT-3, Formació de models, Xarxes neuronals, Paràmetres
+
+   Inici » Intel·ligència Artificial » EITC/AI/DLPP Deep Learning amb
+   Python i PyTorch » Xarxa neuronal » Construcció de xarxes neuronals »
+   Revisió de l'examen » » Com mesurar la complexitat d'una xarxa neuronal
+   en termes d'una sèrie de variables i quina mida tenen alguns models de
+   xarxes neuronals més grans sota aquesta comparació?
+
+Centre de certificació
 --
-   optimitzar actualitzacions de temes WordPress personalització de
-   disseny a WordPress personalització segura a WordPress personalitzar
-   tema wordpress phishing Protocols de correu reptes xarxes neuronals
-   Reputació de domini seguretat web Signatura digital simbiosi humà-IA
-   style.css child WordPress tema pare vs tema fill xarxes neuronals IA
-   ètica
-   Sobre deGalaLab Sobre deGalaLab
+                                                           Acadèmia EITCA
+
+     * Acadèmia EITCA a les xarxes socials
+     *
+     *

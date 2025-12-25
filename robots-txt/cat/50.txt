@@ -1,12 +1,10 @@
-User-agent: *
-Disallow: /*blackhole
-Disallow: /?blackhole
+Sitemap: https://delatorre.ai/sitemap_index.xml
 
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *
 Disallow:
 
-Sitemap: https://cidai.eu/sitemap_index.xml
+Sitemap: https://delatorre.ai/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

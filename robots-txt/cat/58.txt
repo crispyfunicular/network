@@ -1,8 +1,5 @@
+Sitemap: https://notesdeseguretat.blog.gencat.cat/sitemap.xml
+Sitemap: https://notesdeseguretat.blog.gencat.cat/news-sitemap.xml
 User-agent: *
-Disallow: /sample-*
-Disallow: /blog/sample-*
-Disallow: /_hcms/preview/
-Disallow: /hs/manage-preferences/
-Disallow: /hs/preferences-center/
-Disallow: /*?*hs_preview=*
-Disallow: /*?*hsCacheBuster=*
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

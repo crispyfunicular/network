@@ -1,152 +1,190 @@
-   #alternate alternate alternate alternate CIDAI » Canal d'informació
-   CIDAI » Canal dels comentaris oEmbed (JSON) oEmbed (XML) JSON
+   #delatorre.ai » Feed delatorre.ai » Feed de los comentarios oEmbed
+   (JSON) oEmbed (XML) JSON
 
-   Vés al contingut
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGG4CM9B
 
-     * Cat
-     * En
-     * Es
+   Ir al contenido
 
-   Linkedin-in X-twitter
+   delatorre.ai
 
-   CIDAI. Centre Of Innovation for Data tech and Artificial Intelligence
-   Menú
+     * Sobre mí
+     * Servicios
+     * Contacto
 
-     * Sobre el CIDAI
-          + GovernançaEl CIDAI és una iniciativa col·laborativa en què hi
-            participa l’administració pública, empreses privades i centres
-            tecnològics i d’innovació catalans.
-          + Catalonia AIEl CIDAI és un dels quatre pilars de la
-            Catalonia.AI, enfocat a promoure la innovació tecnològica
-            basada en la IA.
-          + DIH4CATEl DIH4CAT, a la vegada, és un dels més de 150 DIHs
-            europeus distribuïts per les diverses regions de tots els
-            estats membres de la UE a través del Programa Europa Digital.
-     * Projectes
-          + Projectes d’impacteEls projectes d’impacte PAI es generen a
-            partir d’un repte complex, proposat bé per una empresa,
-            l’administració o entitats d’altra naturalesa
-          + Proves de concepteLes proves de concepte són projectes de
-            menor envergadura que mostren desenvolupaments realitzats pels
-            membres del CIDAI per demostrar la viabilitat de solucions
-            tecnològiques.
-     * Ecosistemes
-          + MasterclassesOferim sessions formatives especialitzades sobre
-            tecnologia, estratègia o negoci al voltant de la IA i les
-            dades, desenvolupades per especialistes dels membres del
-            CIDAI.
-          + TallersDissenyem i executem tallers per a impulsar la
-            innovació empresarial i sectorial a partir de reptes clau.
-          + HackatonsMitjançant activitats tipus Hackatons o Datathons
-            promovem la innovació col·laborativa entre experts, empreses i
-            acadèmia
-          + Eina d’AutoavaluacióDes del CIDAI posem al seu servei una eina
-            d’autoavaluació de la seva maduresa tecnològica
-          + Mapatge EcosistemaAquest mapatge que té per objectiu
-            identificar i visualitzar les empreses i agents de
-            l’ecosistema català al voltant de la Intel·ligència Artificial
-            i l’economia de les dades.
-          + Diagnosi LeanServei destinat a organitzacions amb maduresa
-            digital mitja que tenen interès en identificar com l’analítica
-            avançada i la IA podria millorar la seva activitat i negoci.
-     * Adopció i divulgació
-          + ConferènciesL’AI Congress Barcelona és el punt de trobada per
-            a professionals, proveïdors i usuaris de la tecnologia i
-            empreses i entitats innovadores que treballen al voltant de la
-            Intel·ligència Artificial
-          + Llibres BlancsEls Llibres Blancs analitzen l’estat de
-            l’adopció de la IA en diferents sectors rellevants de
-            l’economia catalana.
-          + Observatori d’InnovacióDescobriu com la IA influeix en les
-            tendències tecnològiques en documents monogràfics sectorials
-            que el CIDA posa a la vostra disposició.
-     * Actualitat
-          + BlogArticles d’opinió
-          + AgendaTots els esdeveniments que organitzem al voltant de
-            CIDAI
-     * Contacte
+   Contacto
+   Contacto
+   delatorre.ai
+   (BUTTON)
 
-   Masterclasses
+     * Sobre mí
+     * Servicios
+     * Contacto
 
-Introducció a les Xarxes Neuronals
+Xarxes neuronals
 
-   Dijous 04 novembre de 2021 a les 16:00 h
-     * Idioma: Castellà
+   Por delatorre.ai / junio 7, 2024
+   DALL·E 2024 06 07 09.58.45 A Detailed Scene Representing Various
+   Aspects Of Deep Learning A Complex Neural Network With Multiple Layers
+   Analyzing And Processing Vast Amounts O
 
-   Inici > Ecosistemes > Masterclasses > Introducció a les Xarxes
-   Neuronals
+1. Concepte
 
-   Compartir
+   Les xarxes neuronals són sistemes computacionals inspirats en la xarxa
+   neuronal del cervell humà, compostes per múltiples unitats de
+   processament interconnectades anomenades neurones artificials. Aquestes
+   xarxes són capaces d’aprendre i generalitzar a partir de dades,
+   fent-les útils per a una àmplia gamma de tasques d’intel·ligència
+   artificial.
 
-   Introducció teòrica i pràctica a les xarxes neuronals i a les seves
-   aplicacions. A la part teòrica s’explicarà com el model de Perceptró de
-   Frank Rosenblatt ha evolucionat a les xarxes de Deep Learning d’avui
-   dia. Es repassaran els conceptes teòrics com la Loss function, el
-   mètode de descens del gradient, els diferents mètrics i la matriu de
-   confusió. Es mostrà com preparar un dataset per fer un experiment i com
-   escollir una xarxa per resoldre una tasca concreta: xarxes de
-   classificació, xarxes de detecció d’objectes i de segmentació
-   semàntica.
+2. Definició acadèmica precisa
 
-   A la segona part, es posaran en pràctica els coneixements de la part
-   teòrica amb l’entorn de Google Colab. A través d’un Jupyter Notebook es
-   mostrarà com fer algun experiment. Al final de la sessió el Jupyter
-   Notebook estarà disponible per als assistents perquè el puguin
-   utilitzar per continuar experimentant.
+   Les xarxes neuronals són una classe d’algoritmes d’aprenentatge
+   automàtic dissenyats per reconèixer patrons. Es basen en la simulació
+   de la xarxa de neurones del cervell humà, amb neurones artificials
+   organitzades en capes. Cada capa està composta per múltiples neurones
+   que reben senyals d’entrada, les processa mitjançant funcions
+   matemàtiques i transmeten els resultats a la següent capa.
 
-   Adreçada a:
+   El funcionament d’una xarxa neuronal comença amb la capa d’entrada, on
+   les dades inicials s’introdueixen al sistema. Aquestes dades passen per
+   una sèrie de capes ocultes, on les neurones calculen pesos i biais per
+   ajustar-se als patrons observats en les dades d’entrenament. Finalment,
+   la capa de sortida proporciona el resultat final de la xarxa, que pot
+   ser una classificació, una regressió o qualsevol altra forma de
+   predicció.
 
-   -Persones que sentin curiositat per a les possibilitats de Deep
-   Learning i amb ganes de fer algun experiment. És recomanable tenir
-   coneixements de programació (preferiblement en Python) i d’àlgebra
-   lineal.
+   L’entrenament de xarxes neuronals implica l’ús de l’algoritme de
+   retropropagació, que ajusta els pesos de les connexions internes per
+   minimitzar l’error entre les prediccions de la xarxa i els valors reals
+   observats. Això es fa passant les dades d’entrenament a través de la
+   xarxa i comparant la sortida amb el resultat esperat, calculant l’error
+   i propagant-lo enrere per ajustar els pesos.
 
-Programa
+   Les xarxes neuronals poden ser de diferents tipus, incloent les xarxes
+   neuronals convolucionals (CNN) utilitzades principalment per al
+   reconeixement d’imatges, i les xarxes neuronals recurrents (RNN)
+   dissenyades per processar dades seqüencials com el text i el llenguatge
+   parlat. Les CNN són especialment efectives en la identificació de
+   patrons visuals en les imatges mitjançant l’ús de convolucions, mentre
+   que les RNN són adequades per a tasques que impliquen dades temporals o
+   seqüencials gràcies a la seva capacitat per mantenir informació en la
+   memòria a curt termini.
 
-   Els temes principals dels quals parlaràs en la ponència:
+   El potencial de les xarxes neuronals és enorme, amb aplicacions que van
+   des del reconeixement de veu i la visió per computadora fins a la
+   traducció automàtica i la predicció financera. A mesura que la
+   capacitat de processament i la disponibilitat de dades continuen
+   augmentant, les xarxes neuronals seguiran sent una eina fonamental en
+   el desenvolupament de solucions d’intel·ligència artificial avançada.
 
-   – Xarxes neuronals
-   – Deep Learning
+3. Definició simplificada
 
-   Part I: Introducció teòrica a Deep Learning (1h):
-   Explicació dels conceptes bàsics per entendre i entrenar una xarxa
-   neuronal.
+   Les xarxes neuronals són sistemes computacionals inspirats en el
+   cervell humà, formats per neurones artificials que treballen
+   conjuntament per reconèixer patrons i fer prediccions a partir de
+   dades.
 
-   Part II: Sessió pràctica d’una hora per familiaritzar-se amb l’entorn
-   de Google Colab i posar en marxa algunes xarxes neuronals.
+4. Metàfora per entendre-ho
 
-   Masterclass impartida per CVC (core partner de CIDAI)
+   Les xarxes neuronals són com un equip de detectius que treballen junts
+   per resoldre un cas complex. Cada detectiu (neurona) analitza una pista
+   (dada) i comparteix les seves conclusions amb els altres, ajudant
+   l’equip a trobar la solució final (predicció).
 
-Impartit per:
+5. Dita catalana relacionada
 
-   Coen Antens
-   Responsable de la Unitat de Suport Tecnològic del CVC
+   Val més saber que haver.
 
-Subscriu-te als butlletins de vigilància tecnològica
+   Aquesta dita significa que el coneixement és més valuós que la
+   possessió material. En el context de les xarxes neuronals, el
+   coneixement que la xarxa adquireix a través de l’entrenament (saber) és
+   més valuós que la simple acumulació de dades (haver), ja que permet fer
+   prediccions i prendre decisions informades.
+     * Termcat: mineria de dades
 
-   Nom _
-   Cognom _
-   Email _
-   He llegit i accepto la Política de Privacitat
-   [ ] He llegit i accepto la Política de Privacitat
-   (BUTTON) Subscriu-t'hi
+   Anterior
 
-   El CIDAI implementa l’eix d’innovació de l’Estratègia d’Intel·ligència
-   Artificial de Catalunya (Catalonia.AI)  a Catalunya per impulsar
-   projectes i la transferència de coneixement de solucions centrades en
-   IA. El CIDAI és també el node d’IA del DIH4CAT.
+   Aprenentatge Automàtic (Machine Learning)
+   Siguiente
 
-   Adreça
-   C/Bilbao, 72 Edif. A.
-   08005 – Barcelona
+   Processament del Llenguatge Natural (NLP)
 
-   Contacte
-   Tel. +34 93 7419 100
-   info@cidai-catalonia-ai.eu
+Related Posts
 
-   © CIDAI, 2025 – Crèdits
-     * Política de cookies
-     * Avís legal
-     * Política de privacitat
+   Intel·ligència Artificial (IA)
 
-   CIDAI
+Intel·ligència Artificial (IA)
+
+   Conceptes IA / junio 7, 2024
+
+   Aprenentatge Automàtic (Machine Learning)
+
+Aprenentatge Automàtic (Machine Learning)
+
+   Conceptes IA / junio 7, 2024
+
+     * Sobre mí
+     * Blog
+
+   Derechos de autor © 2025 delatorre.ai
+
+   Gestionar consentimiento
+   Para ofrecer las mejores experiencias, utilizamos tecnologías como las
+   cookies para almacenar y/o acceder a la información del dispositivo. El
+   consentimiento de estas tecnologías nos permitirá procesar datos como
+   el comportamiento de navegación o las identificaciones únicas en este
+   sitio. No consentir o retirar el consentimiento, puede afectar
+   negativamente a ciertas características y funciones.
+   Funcional [ ] Funcional Siempre activo
+   El almacenamiento o acceso técnico es estrictamente necesario para el
+   propósito legítimo de permitir el uso de un servicio específico
+   explícitamente solicitado por el abonado o usuario, o con el único
+   propósito de llevar a cabo la transmisión de una comunicación a través
+   de una red de comunicaciones electrónicas.
+   Preferencias [ ] Preferencias
+   El almacenamiento o acceso técnico es necesario para la finalidad
+   legítima de almacenar preferencias no solicitadas por el abonado o
+   usuario.
+   Estadísticas [ ] Estadísticas
+   El almacenamiento o acceso técnico que es utilizado exclusivamente con
+   fines estadísticos. El almacenamiento o acceso técnico que se utiliza
+   exclusivamente con fines estadísticos anónimos. Sin un requerimiento,
+   el cumplimiento voluntario por parte de tu proveedor de servicios de
+   Internet, o los registros adicionales de un tercero, la información
+   almacenada o recuperada sólo para este propósito no se puede utilizar
+   para identificarte.
+   Marketing [ ] Marketing
+   El almacenamiento o acceso técnico es necesario para crear perfiles de
+   usuario para enviar publicidad, o para rastrear al usuario en una web o
+   en varias web con fines de marketing similares.
+     * Administrar opciones
+     * Gestionar los servicios
+     * Gestionar {vendor_count} proveedores
+     * Leer más sobre estos propósitos
+
+   (BUTTON) Aceptar (BUTTON) Denegar (BUTTON) Ver preferencias (BUTTON)
+   Guardar preferencias Ver preferencias
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Gestionar consentimiento
+
+   Scroll al inicio
+
+   Review Your Cart
+   0
+   ____________________
+   (BUTTON)
+
+   Discount
+   (BUTTON)
+   Add Coupon Code
+   ____________________ (BUTTON) Apply
+   Subtotal
+   Total Installment Payments
+   Bundle Discount
+   Checkout
+
+
+   0

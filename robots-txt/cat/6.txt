@@ -1,27 +1,20 @@
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	<title>Error. Generalitat de Catalunya</title>
-	<style type="text/css"><!--
-	
-	.cos{padding-left:2em; width:97%; line-height:.5em}
-div#capcalera {
-	border-bottom:2px solid #BF2F14 !important;
-	clear:both;
-	color:#FFFFFF;
-	float:left;
-	margin:0;
-	width:100%;
-	}	
+User-agent: *
+Disallow: /_uac/adpage.html
+Disallow: /_huff_uac/adpage.html
+Disallow: /postid
+Disallow: /preview
+Disallow: /search/
 
--->
-</style>
+Disallow: /loterias/loteria-de-navidad/comprobar/0*
+Disallow: /loterias/loteria-de-navidad/comprobar/1*
+Disallow: /loterias/loteria-de-navidad/comprobar/2*
+Disallow: /loterias/loteria-de-navidad/comprobar/3*
+Disallow: /loterias/loteria-de-navidad/comprobar/4*
+Disallow: /loterias/loteria-de-navidad/comprobar/5*
+Disallow: /loterias/loteria-de-navidad/comprobar/6*
+Disallow: /loterias/loteria-de-navidad/comprobar/7*
+Disallow: /loterias/loteria-de-navidad/comprobar/8*
+Disallow: /loterias/loteria-de-navidad/comprobar/9*
 
-</head>
-<body>
-<div id="capcalera"><img alt="Generalitat de Catalunya - www.gencat.cat" src="/customerror/escut.gif"></a></div>
-<div id="cos"><h2>Error 404</h2></div>
-<div id="cos"><h2><img alt="" src="/customerror/pic_admir.gif">   La pàgina no s'ha trobat</h2></div>
-
-</body>
-</html>
+User-agent: bingbot
+Disallow: /files/image_720_0/uploads/

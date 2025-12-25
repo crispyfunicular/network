@@ -1,132 +1,82 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
 User-agent: *
-Disallow: /search
-Disallow: /es/search
-Disallow: /ca/search
-
-Allow: /
-
-Sitemap: https://www.segre.com/sitemap-index.xml
-Sitemap: https://www.segre.com/sitemap-google-news-ca.xml
-Sitemap: https://www.segre.com/sitemap-google-news-es.xml
-
-
-# Agents nocius coneguts 
-   
-User-agent: 008 Disallow: /
-User-agent: AddThis.com Disallow: /
-User-agent: admantx Disallow: /
-User-agent: AhrefsBot Disallow: / 
-User-agent: anthropic-ai Disallow: /
-User-agent: BDCbot Disallow: /
-User-agent: Bender Disallow: /
-User-agent: BIXOCRAWLER Disallow: / 
-User-agent: bl.uk_lddc_bot Disallow: /
-User-agent: BLEXBot Disallow: /
-User-agent: BUbiNG Disallow: /
-User-agent: CCBot Disallow: / 
-User-agent: ChatGPT-User Disallow: /
-User-agent: Cliqzbot Disallow: / 
-User-agent: CNCDialer Disallow: / 
-User-agent: crawler4j Disallow: / 
-User-agent: CrystalSemanticsBot Disallow: /
-User-Agent: CyberAlert Disallow: /
-User-agent: DigExt Disallow: / 
-User-agent: discobot Disallow: /
-User-agent: discoverybot Disallow: /
-User-agent: dloader Disallow: / 
-User-agent: dloader(NaverRobot) Disallow: / 
-User-agent: DOC Disallow: / 
-User-agent: dotbot Disallow: / 
-User-agent: Download Ninja Disallow: /  
-User-agent: DTS Agent Disallow: / 
-User-agent: Exabot Disallow: / 
-User-agent: Ezooms Disallow: /
-User-Agent: FairShare Disallow: / 
-User-agent: Fetch Disallow: / 
-User-agent: Flamingo_SearchEngine Disallow: / 
-User-agent: Freshbot Disallow: /
-User-agent: Genieo Disallow: / 
-User-agent: Gigabot Disallow: /                    
-User-agent: GPTBot Disallow: /
-User-agent: grub-client Disallow: / 
-User-agent: Heritrix Disallow: / 
-User-agent: heritrix/3.3.0 Disallow: / 
-User-agent: HTTrack Disallow: / 
-User-agent: ia_archiver Disallow: / 
-User-agent: integromedb Disallow: /
-User-agent: IstellaBot Disallow: /
-User-agent: JikeSpider Disallow: /
-User-agent: Jyxobot Disallow: /
-User-agent: k2spider Disallow: / 
-User-agent: Kimengi Disallow: / 
-User-agent: Kimengi/nineconnections.com Disallow: /
-User-agent: larbin Disallow: / 
-User-agent: LexxeBot/1.0 Disallow: /
-User-agent: libwww Disallow: / 
-User-agent: linko Disallow: / 
-User-agent: Livelapbot Disallow: / 
-User-agent: magpie-crawler Disallow: / 
-User-agent: Mail.Ru Disallow: /
-User-agent: Maxthon Disallow: / 
-User-agent: MetaURI Disallow: / 
-User-agent: Microsoft.URL.Control Disallow: / 
-User-agent: MJ12bot Disallow: / 
-User-agent: Moreover Disallow: / 
-User-agent: Moreoverbot Disallow: /
-User-agent: MSIECrawler Disallow: / 
-User-agent: nabot Disallow: / 
-User-agent: NaverBot Disallow: / 
-User-agent: NerdByNature.Bot Disallow: /
-User-agent: netEstate NE Crawler Disallow: /
-User-agent: NetSeer crawler Disallow: /
-User-agent: Newscan Disallow: /
-User-agent: NextGenSearchBot Disallow: /
-User-agent: NPBot Disallow: / 
-User-agent: nutch Disallow: / 
-User-agent: Offline Explorer Disallow: / 
-User-agent: omgilibot Disallow: / 
-User-agent: Orthogaffe Disallow: / 
-User-agent: PiplBot Disallow: / 
-User-agent: Pixray-Seeker Disallow: /
-User-agent: proximic Disallow: / 
-User-agent: psbot Disallow: /
-User-agent: QuerySeekerSpider Disallow: / 
-User-agent: rogerbot Disallow: / 
-User-agent: seokicks Disallow: /
-User-agent: SEOkicks-Robot Disallow: / 
-User-agent: SiteBot Disallow: /
-User-agent: SiteBot/0.1 Disallow: /
-User-agent: sitecheck.internetseer.com Disallow: / 
-User-agent: SiteSnagger Disallow: / 
-User-agent: Slurp Disallow: / 
-User-agent: sogou Disallow: /
-User-agent: Sosospider Disallow: /
-User-agent: spbot Disallow: / 
-User-agent: Spinn3r Disallow: /
-User-agent: Teleport Disallow: / 
-User-agent: TeleportPro Disallow: / 
-User-Agent: trendictionbot Disallow: / 
-User-agent: trovitBot Disallow: /
-User-agent: TurnitinBot Disallow: /
-User-agent: UbiCrawler Disallow: / 
-User-agent: uMBot-LN Disallow: / 
-User-agent: UnisterBot Disallow: /
-User-agent: UniversalFeedParser Disallow: / 
-User-agent: WBSearchBot Disallow: /
-User-agent: WebCopier Disallow: / 
-User-agent: WebReaper Disallow: /
-User-agent: WebStripper Disallow: / 
-User-agent: WebZIP Disallow: / 
-User-agent: WeSEE:Search Disallow: /
-User-agent: wget Disallow: /
-User-agent: Wotbot Disallow: / 
-User-agent: wotbox Disallow: /
-User-agent: Xenu Disallow: / 
-User-agent: Yandex Disallow: /
-User-agent: Yasni Disallow: /
-User-agent: Zao Disallow: / 
-User-agent: Zealbot Disallow: / 
-User-agent: ZyBORG Disallow: /
-User-agent: ClaudeBot Disallow: /  
-User-agent: Claude-web Disallow: /
-
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+Allow: /themes/*.css$
+Allow: /themes/*.js$
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+Allow: /themes/*.svg
+Allow: /themes/*.ico
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.md
+Disallow: /composer/Metapackage/README.txt
+Disallow: /composer/Plugin/ProjectMessage/README.md
+Disallow: /composer/Plugin/Scaffold/README.md
+Disallow: /composer/Plugin/VendorHardening/README.txt
+Disallow: /composer/Template/README.txt
+Disallow: /modules/README.txt
+Disallow: /sites/README.txt
+Disallow: /themes/README.txt
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed 
+Sitemap: https://www.laveulliure.ad/ca/google-news-ca.xml
+Sitemap: https://www.laveulliure.ad/es/google-news-es.xml

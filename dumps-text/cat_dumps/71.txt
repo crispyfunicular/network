@@ -1,185 +1,2300 @@
-   #alternate alternate alternate alternate
+   #alternate
 
-   [p?c1=2&c2=14117633&cv=4.4.0&cj=1]
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5PWPD4D4
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=G-WYV9ZTVCCV
+   Vés al contingut
 
-   Català Castellà
-   Newsletter Subscriu-te
+   Diari d'Andorra
 
    (BUTTON)
-   Menú SEGRE
-   (BUTTON) Login
+     * Cerca una notícia
 
-   LleidaComarquesSuccessosEsportsSocietatEconomiaAgriculturaCultura Opini
-   óAgenda🛒 Botiga
-
-   ____________________ (BUTTON) Cerca
-     * SEGRE Digital | Edició en paper [iconalink18.png]
-     * Subscripcions [iconalink18.png]
-     * Lleida
-     * Comarques
-       (BUTTON) Abrir
-          + Alt Urgell
-          + Alta Ribagorça
-          + Cerdanya
-          + Les Garrigues
-          + La Noguera
-          + Pallars Jussà
-          + Pallars Sobirà
-          + Pla d'Urgell
-          + Segarra
-          + Segrià
-          + Solsonès
-          + Urgell
-          + Val d'Aran
-     * Successos i tribunals
-     * Esports | Lleida en joc
-     * Societat i virals
-     * TV i streaming
-     * Economia
-     * Agricultura i ramaderia
-     * Món i política
-     * Opinió
-     * Cultura
-     * Agenda 🔗
-     * Podcasts
-     * Suplements
-       (BUTTON) Abrir
-          + Lectura
-          + Vint-i-dos
-          + Salut
-          + Cercle
-          + Motor
-          + Pimec Joves
-          + Esqueles
-     * Lleida TV 🔗
-     * Botiga SEGRE [iconalink18.png]
-     * Newsletters
-     * Club del Subscriptor
-     * Treballa amb nosaltres
-
-   ÚLTIMA HORA
-
-   Cadenes obligatòries en moltes carreteres de Lleida
-   (BUTTON) Cerrar
-
-   Nacional i internacional
-
-   SUCCESSOS DESASTRE NATURAL
-
-Grècia investiga si els focs són obra de xarxes criminals
-
-   Sicília declara l'estat d'emergència a l'enfrontar-se a mig centenar
-   d'incendis || La Unió Europea uneix esforços per ajudar
-
-   Facebook Twitter Whatsapp Whatsapp Linkedin Copiar enllaç
-   Un resident observa les flames que s’atansen, durant un incendi, al
-   poble grec de Pefki.
-
-   Un resident observa les flames que s’atansen, durant un incendi, al
-   poble grec de Pefki.EFE/KOSTAS TSIRONIS
-   Publicat per
-   Agències
-
-   Creat: 10.08.2021 | 03:02
-
-   Actualitzat: 10.08.2021 | 03:02
-
-   El fiscal del Tribunal Suprem hel·lè, Vassilios Pliótas, va ordenar
-   ahir una investigació per esbrinar si els greus incendis que han
-   arrasat desenes de milers d’hectàrees forestals i deixat centenars de
-   famílies sense llar en els últims dies han estat causats per membres
-   d’una organització criminal.
-
-   Els incendis ja han deixat dos víctimes mortals. La segona mort va
-   tenir lloc ahir, quan un home de 70 anys que ajudava en l’extinció d’un
-   incendi a Eratini, al golf de Corint, va caure amb l’excavadora per un
-   barranc.
-
-   A més, el comandant d’aviació dins de l’Exèrcit, Yorgos Kumendákos, va
-   dimitir ahir a causa de la gestió de les tasques d’extinció.
-
-   A Itàlia, l’illa de Sicília ha declarat l’estat d’emergència després
-   d’enfrontar-se a més de cinquanta incendis des del cap de setmana
-   passat, una situació que podria empitjorar per una onada de calor que
-   farà apujar els termòmetres fins als 45 graus en els pròxims dies.
-
-   Per la seua banda, la Unió Europea continua unint esforços, a través
-   del Mecanisme de Protecció Civil, per intentar ajudar en les operacions
-   d’extinció dels incendis a Grècia i altres països del Mediterrani.
-
-   El més llegit
-
-   El secretari de Salut Pública i el conseller d’Agricultura van informar
-   del cas de grip aviària. - J. MARTÍNEZ
-
-   Agricultura i ramaderia
-
-El brot de grip aviària detectat a Lleida, en una granja de Bellpuig, "top,
-moderna i amb totes les mesures"
-
-   Segre
-
-   El secretari de Salut Pública, Esteve Fernández, i el conseller
-   d'Agricultura, Òscar Ordeig, en roda de premsa per informar sobre un
-   focus de grip aviària en una granja de Ponent.
-
-   Agricultura i ramaderia
-
-Detectat un positiu de grip aviària en una granja de gallines ponedores de
-l'Urgell
-
-   Segre
-
-   Un exemplar de sisó en una àrea estepària protegida del canal
-   Segarra-Garrigues, gestionada per ASG. - ASG
-
-   Comarques
-
-La Unió Europea ho admet: les zepes del secà de Lleida poden posar-se en
-regadiu
-
-   EDUARDO BAYONA
-
-   Les doctores i investigadores Jessica González i Sònia Gatius. -
-   IRBLLEIDA
-
-   Societat
-
-Ajuda a dues doctores de Lleida per a la dedicació exclusiva a investigació
-
-   Redacció
-
-   tracking
-
-   Carrer del Riu, nº 6, 25007, Lleida
-   Telèfon: 973.24.80.00
-   Fax: 973.24.60.31
-   redaccio@segre.com
-
-   Síguenos en:
-
-   Facebook Twitter Instagram Tiktok Linkedin Whatsapp
-
-   Grup Segre
-     * Qui som
+     * Categories (BUTTON) Toggle submenu
+          + Principal
+               o Economia
+               o Política
+               o Internacional
+               o Cultura
+               o Entrevistes
+               o Immigració
+               o Sanitat
+          + Secundàries
+               o Opinió
+               o Successos
+               o Societat
+               o Educació
+               o Habitatge
+               o Justicia
+     * Parròquies (BUTTON) Toggle submenu
+          + Principal
+               o Andorra La Vella
+               o Canillo
+               o Encamp
+               o Escaldes-Engordany
+          + Secundàries
+               o La Massana
+               o Ordino
+               o Sant Julià
+     * Vídeos
      * Contacte
-     * Altres webs del grup
-     * Mapa del lloc
-     * Envia la teva noticia
+
+     * Catalan
+     * Español
+
+Buscar
+
+     * Cercar
+
      *
 
-   Comercial
-     * Subscripcions
-     * Accés al Diari Digital
-     * Botiga
-     * Tarifes publicitàries
-   Legal
-          + Avís legal
-          + Política de privacitat
-          + Política de cookies
-          + Configuració de cookies
-          + Transparència
-          + Canal ètic
-       Generalitat de Catalunya ACPC
+Menú de cuenta de usuario
+
+     * Entra
+
+Els dos últims casos d’okupació al Pirineu han estat a la Seu d’Urgell
+
+Entre 2023 i 2024, l'Alt Urgell ha comptabilitzat 8 denúncies per ocupació
+d’habitatges
+
+   iStock
+   iStock
+   per l’autor La Veu Lliure
+   2 minuts de lectura Publicat el divendres, 5 desembre 2025 - 16:17
+
+   L’Alt Urgell ha tancat els dos darrers anys amb una incidència molt
+   baixa d’okupacions, però els dos últims casos registrats al Pirineu el
+   2024 han tingut lloc precisament a la Seu d’Urgell, segons dades dels
+   Mossos d’Esquadra recollides en un estudi difós recentment per l’ACN.
+
+   Entre 2023 i 2024, la comarca ha comptabilitzat 8 denúncies per
+   ocupació d’habitatges: sis el 2023 i només dues el 2024, totes dues
+   localitzades a la capital comarcal. Aquest descens contrasta amb la
+   situació d’altres zones del Pirineu, on la problemàtica es manté o fins
+   i tot empitjora.
+
+La Cerdanya, la comarca pirinenca amb més casos
+
+   A la resta de l’Alt Pirineu, la Cerdanya es confirma com la comarca amb
+   més ocupacions denunciades, amb 15 casos en dos anys (7 el 2023 i 8 el
+   2024). La gran majoria també es concentren a la capital: 7 denúncies a
+   Puigcerdà només el 2024.
+
+   Situació oposada a la Val d’Aran i l’Alta Ribagorça, on no s’ha
+   registrat cap ocupació denunciada en els dos darrers anys. Al Pallars
+   Jussà n’hi ha hagut 10 (5 cada any) i al Pallars Sobirà, 2 (una cada
+   any).
+
+El Berguedà, el principal focus d’okupacions al Pirineu i amb un creixement
+explosiu
+
+   Tot i que els últims casos coneguts al Pirineu s’han produït a la Seu
+   d’Urgell, el gruix de les ocupacions en territori pirinenc se situa a
+   comarques prepirinenques com el Berguedà i la Garrotxa, que encapçalen
+   el rànquing amb molta diferència:
+     * Garrotxa: 80 denúncies en dos anys (40 el 2023 i 40 el 2024). Només
+       a Olot se’n van denunciar 35 el 2024.
+     * Berguedà: 66 denúncies en dos anys. El 2024 va viure un augment del
+       212%: de 16 casos el 2023 a 50 el 2024, 35 dels quals a Berga.
+
+   Aquesta escalada situa el Berguedà com la comarca pirinenca amb la
+   tendència més alarmant i el segon increment més alt de Catalunya, només
+   superat pel Pla de l’Estany.
+
+   En canvi, com a dada destacada, al Solsonès no s’ha denunciat cap
+   okupació entre 2023 i 2024.
+
+Catalunya supera les 8.300 okupacions denunciades en un sol any
+
+   En el conjunt del país, el fenomen de l’ocupació continua en
+   creixement. El 2024, Catalunya va registrar 8.314 denúncies, la xifra
+   més alta des que existeixen registres detallats:
+     * 6.257 ocupacions consumades
+     * 2.057 intents frustrats
+
+   El 2025, fins al 31 d’octubre, els Mossos acumulaven ja 6.058
+   denúncies.
+
+Afegeix un comentari nou
+
+   El teu nom ______________________________
+
+   Comentari
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Sobre els formats de text
+
+HTML restringit
+
+     * Etiquetes HTML permeses: <a href hreflang> <em> <strong> <cite>
+       <blockquote cite> <code> <ul type> <ol start type> <li> <dl> <dt>
+       <dd> <h2 id> <h3 id> <h4 id> <h5 id> <h6 id>
+     * Les línies i paràgrafs es trenquen automàticament.
+     * Les adreces web i de correu electrònic es transformen en enllaços
+       automàticament.
+
+   Desa Vista prèvia
+
+Notícies relacionades
+
+   ANA
+   Successos
+
+Ferit un turista a un accident sense equipaments d'hivern a Canillo
+
+   SAAS
+   SanitatSuccessos
+
+Un endocrí del SAAS es nega a tractar una persona trans perquè no es veu prou
+capacitat
+
+   iStock
+   Successos
+
+VÍDEO | Un usuari exposa el cas d'una doble nacionalitat
+
+   La Veu Lliure
+   Successos
+
+VÍDEO | Les influencers Abril Cols i Andrea Garte mostren un furt a Balanzen
+
+   ANA
+   Successos
+
+Un centenar de funcionaris jubilats preparen demandes contra el Govern per la
+prima del GADA
+
+   Bombers
+   Successos
+
+Un incendi crema dos contenidors al centre de la Seu sense ferits
+
+   ANA
+   Successos
+
+Una fuita d’oxigen a la Fundació Sant Hospital de la Seu obliga a desplaçar
+els Bombers
+
+   Policia d'Andorra
+   Successos
+
+Una turista detinguda per agredir la seva exparella davant la filla menor
+
+   Policia d'Andorra
+   Successos
+
+Un turista detingut per oposar-se a donar la identificació i insultar la
+Policia a Andorra la Vella
+
+   Independant
+   Successos
+
+Declara a Perpinyà l’home drogat que va atropellar gendarmes dient que anava
+a pagar una multa a Andorra
+
+   Bombers
+   Successos
+
+Tres ferits lleus per una allau prop de la frontera d'Andorra
+
+   ARXIU
+   Successos
+
+Ferit un motorista de 59 anys per un accident a la rotonda de la Comella
+
+   ANA
+   JusticiaSuccessos
+
+El TC avala la proporcionalitat de la presó provisional en un cas d’agressió
+sexual
+
+   RàdioSeu
+   Successos
+
+Ramaders protesten a tocar de Puigcerdà
+
+   Europa Press
+   Successos
+
+Detingut per conducció temerària amb lesions a una vianant
+
+   iStock
+   Successos
+
+La Policia confirma que no investiga empreses que clonin targetes
+
+   RàdioSeu
+   Successos
+
+18 anys de presó per abusar sexualment de les dues filles i cinc menors a
+l'Aran
+
+   RTVE
+   Successos
+
+La padrina d’Escaldes insisteix en el procés judicial contra TheGrefg
+
+   France3
+   Successos
+
+Interceptats més de 370 quilos de tabac de contraban a la frontera amb
+Andorra
+
+   Policia d'Andorra
+   Successos
+
+Detingut un home per una segona violació l'any 2023 descoberta en la
+investigació
+
+   FC Barcelona
+   Successos
+
+Tributs demana detalls a Laporta per una notificació d'intercanvi
+d’informació fiscal
+
+   Policia d'Andorra
+   Successos
+
+Investigació a Andorra per una presumpta violació a Arinsal
+
+   El Pas de la Case
+   Successos
+
+Les intercepcions de tabac il·legal han augmentat un 73% a Arieja l'últim any
+
+   FranceBlue
+   Successos
+
+“Si cal passar la nit de Cap d’Any bloquejant l'accés a Andorra, la passarem”
+
+   La Veu Lliure
+   Successos
+
+VÍDEO | Una padrina perd el control del vehicle, causant danys materials
+
+   ANA
+   Successos
+
+Detinguda una conductora de patinet elèctric amb MDMA i negar-se a la prova
+de tòxics
+
+   Andorra La Vella
+   Policia d'Andorra
+   Successos
+
+Detingut a Andorra la Vella un home per furts i ús irregular de targetes de
+crèdit
+
+   iStock
+   Successos
+
+Cap sospitós encara per la crema de dos vehicles en menys de 24 hores a
+Montferrer i Castellbò
+
+   Justicia.ad
+   JusticiaSuccessos
+
+El TC manté la pena de presó a un traficant i rebutja l’excusa de ser menor
+de 21 anys
+
+   LMD Info
+   Successos
+
+Un agricultor de Gers se suïcida després de l’abatiment massiu de bestiar a
+França
+
+   ARXIU
+   Successos
+
+Un ferit en un accident entre dos turismes al centre d’Andorra la Vella
+
+   France Blue
+   Successos
+
+VÍDEO | Enfrontaments entre agricultors i els cossos de seguretat a l'Arieja
+
+   ARXIU
+   Successos
+
+Uns suposats propietaris cobrarien fins a 500 euros pel certificat
+d’habitabilitat
+
+   FranceBlue
+   Successos
+
+L’accés a Andorra, paralitzat indefinidament per l’abatiment de bestiar
+
+   ANA
+   Successos
+
+Comerciants del Pas demanen més contundència amb el contraban: “Una
+barbaritat, potser n’hi havia 30 o 40 fent corredisses"
+
+   Encamp
+   JDalmau
+   Successos
+
+El creador de contingut J. Dalmau mostra a les xarxes l’estat de casa seva
+després d’un incendi
+
+   InformerMotor
+   Successos
+
+VÍDEO | Agredeixen en grup un home que va intentar defensar un taxista a
+Andorra
+
+   FranceBlue
+   Successos
+
+França demana "tacte" als pagesos i els veterinaris admeten un clima
+"inacceptable" per l'abatiment de bestiar
+
+   Radio3
+   SocietatSuccessos
+
+Tall de circulació a l'Arieja per una concentració de pagesos
+
+   Policia d'Andorra
+   Successos
+
+L’accidentat a Aixirivall conduïa amb una taxa d’alcoholèmia d’1,74
+
+   Sant Julià
+   Europa Press
+   SanitatSuccessos
+
+L’acusació demanarà la cerca i captura de Carlos Mur, resident a Andorra
+
+   ARXIU
+   JusticiaSuccessos
+
+La fiscalia acusa el massatgista d’haver seleccionat dones vulnerables mentre
+la defensa demana l'absolució
+
+   GQ
+   Successos
+
+Els youtubers Willyrex y Vegetta777 porten Hisenda a l'Audiencia Nacional
+
+   iSanidad
+   Successos
+
+Carlos Mur i Pablo Busca no es presenten a declarar pels 'protocols de la
+vergonya'
+
+   Policia d'Andorra
+   Successos
+
+Detinguda a Escaldes una dona per intimidar la seva parella amb un ganivet
+
+   Escaldes-Engordany
+   Policia d'Andorra
+   Successos
+
+Baralles i agressions amb una barra de ferro i un ganivet acaben amb quatre
+arrestats
+
+   Andorra La Vella
+   iSanidad
+   Successos
+
+L'excap de Salut Mental Carlos Mur declara a Madrid pel ‘protocol de la
+vergonya’ de les residències durant la Covid
+
+   FranceBlue
+   Successos
+
+Quatre joves moren en estavellar-se en un accident d'avioneta als Pirineus
+francesos
+
+   La Veu Lliure
+   Successos
+
+Detingut el lladre que va robar la bicicleta de 25.000 euros al resident a
+Andorra Jorge Martín
+
+   ARXIU
+   Successos
+
+Ferit un conductor de 63 anys després de sortir de la via a Sant Julià
+
+   ARXIU
+   Successos
+
+Ferida una motorista en un espinós accident a Encamp
+
+   Encamp
+   X
+   Successos
+
+Mor Pere Guiu, històric del Departament de Joventut i figura destacada del
+bàsquet
+
+   La Veu Lliure
+   Successos
+
+Vuit ferits lleus en una col·lisió entre dos turismes a la C-14, a l’alçada
+dels túnels d’Oliana
+
+   iStock
+   Successos
+
+Els dos últims casos d’okupació al Pirineu han estat a la Seu d’Urgell
+
+   FranceBlue
+   Successos
+
+Més de 650 vehicles controlats en direcció a Andorra en l'operació XXL amb
+200 gendarmes
+
+   iStock
+   Successos
+
+Un vídeo del Comú de Sant Julià es queda sense àudio per la manca d'acords
+d’Andorra amb Meta
+
+   iStock
+   PolíticaSuccessos
+
+Esports obliga la FAC a revisar els estatuts després de rebutjar la
+retribució anual de la junta
+
+   RàdioSeu
+   Successos
+
+La justícia espanyola confirma sis anys de presó per a dos condemnats
+d'agressió sexual a la Seu
+
+   PS
+   Successos
+
+Mor Maria Carmen Garcia Oliva, figura destacada del PS
+
+   RTVE
+   JusticiaSuccessos
+
+Recursos massius contra les condemnes a BPA
+
+   Mossos
+   Successos
+
+Judici al conductor d'un vehicle andorrà caçat a 200 km/h a la C-14
+
+   UE
+   InternacionalSuccessos
+
+Detinguda Federica Mogherini acusada d'adjudicacions irregulars en programes
+de formació de la UE
+
+   ARXIU
+   Successos
+
+Ferida una motorista de 31 anys en un accident a Escaldes
+
+   Un conductor de bus hauria venut targetes fraudulentes
+   Successos
+
+Un usuari exposa que un conductor de bus ven targetes mensuals fraudulentes
+
+   ANA
+   Successos
+
+Dol a la Garrotxa per la mort de l'excursionista al Pas per una allau
+
+   Jutjats de la Seu | RàdioSeu
+   ImmigracióSuccessos
+
+Augmenta un 28% el tràfic de drogues i un 8% les violacions a Lleida
+
+   ANA
+   Successos
+
+Projecte Vida denuncia que el sistema d’addiccions expulsa pacients quan
+tenen recaigudes
+
+   Arxiu
+   Successos
+
+Ferida una motorista per un accident a la rotonda de Prada Casadet
+
+   Andorra La Vella
+   RàdioSeu
+   Successos
+
+Un incendi crema completament una casa a Ansovell sense causar ferits
+
+   Policia d'Andorra| Detinguts tres sospitosos de formar part d’una banda
+   dedicada a furts
+   Successos
+
+Detinguts tres sospitosos de formar part d’una banda dedicada a furts en
+trasters
+
+   ARXIU | El SAAS investiga la mort d’un infant de 15 mesos
+   SanitatSuccessos
+
+El SAAS investiga la mort d’un infant de 15 mesos a l’Hospital Nostra Senyora
+de Meritxell
+
+   Mossos d'Esquadra | Granades Puigcerdà de la guerra civil
+   Successos
+
+Localitzen vuit granades de mà de la Guerra Civil en una casa en
+rehabilitació a Puigcerdà
+
+   Policia d'Andorra | Tabac de contraban
+   Successos
+
+Una baralla en un local d’oci d’Andorra la Vella deixa un ferit al rostre i
+una detenció
+
+   Andorra La Vella
+   ANA
+   Successos
+
+Un excursionista mor en una allau al Pas de la Casa
+
+   Balazen
+   Successos
+
+Balanzen pateix un peculiar robatori per part de turistes
+
+   Policia d'Andorra
+   Successos
+
+Detinguda a Canillo una conductora després de bolcar una furgoneta sota els
+efectes de l’alcohol
+
+   Canillo
+   Policia d'Andorra | Tabac de contraban
+   Successos
+
+La Policia intervé més de 20.000 euros en tabac de contraban en un operatiu
+conjunt amb la Duana
+
+   Roben una bicicleta única a Jorge Martín | Mundo Deportivo
+   Successos
+
+Roben una bicicleta única a Jorge Martín
+
+   IFRAME: https://www.youtube.com/embed/IopC2QiwPJE
+
+   JusticiaSuccessos
+
+VÍDEO | El fiscal del Cas Pujol diu que la cooperació amb Andorra va ser
+correcta i legal
+
+   ANA
+   JusticiaSuccessos
+
+Pacients defensen el professionalisme del massatgista jutjat per presumptes
+violacions
+
+   ANA
+   Successos
+
+El TC ratifica la condemna a un traficant de cocaïna d'Andorra en un cas
+marcat per la polèmica
+
+   Policia d'Andorra
+   Successos
+
+Un home es fuga d’una pensió abans de ser extradit d'Andorra a Armènia
+
+   Mossos
+   Successos
+
+Atracament amb pistola al BonÀrea de Cardona
+
+   Diario de Sevilla
+   Successos
+
+El CEO de Shopify es burla de l’ordre espanyola que bloqueja part d’Internet
+per la LaLiga
+
+   ANA
+   Successos
+
+El TS ratifica la innocència dels britànics acusats de violar a una cambrera
+
+   EFE
+   Successos
+
+Una menor traslladada a l’hospital després d’un accident entre dos turismes
+
+   ANA
+   Successos
+
+VÍDEO | Una agència de publicitat andorrana rep un avís per no comunicar-se
+en català a les xarxes
+
+   Oliana/RadioSeu
+   Successos
+
+Tres persones ateses a Oliana per inhalació de fum d'un incendi
+
+   ANA
+   JusticiaSuccessos
+
+Setanta testimonis declararan al Tribunal de Corts per l'acusació a un
+massatgista per presumptes violacions
+
+   ANA
+   Successos
+
+Els Pujol reclamen tancar la causa i exposen que la investigació es va
+iniciar amb proves obtingudes “il·legalment” d’Andorra
+
+   iStock
+   Successos
+
+Una moto de neu en flames calcina la sala d’innivació dels llacs Encampadana
+
+   Policia d'Andorra
+   Successos
+
+Investiguen una possible agressió després que l'afectada sortís corrent d’un
+vehicle al semàfor
+
+   Policia d'Andorra
+   Successos
+
+Enxampat un home que amagava més de 5.500 paquets de contraban a una pista
+d’esquí d'Andorra
+
+   EFE
+   Successos
+
+Els fills de Jordi Pujol arriben a l’Audiència Nacional per a l’inici del
+judici
+
+   Mossos
+   Successos
+
+Investigada una resident a Andorra com la possible mare del nadó mort a l’Alt
+Urgell
+
+   EFE
+   Successos
+
+Tot a punt perquè comenci el judici a Jordi Pujol i els seus fills per la
+fortuna oculta a Andorra
+
+   Gendarmerie
+   Successos
+
+Una excursionista va demanar mobilitzar un equip de rescat als Pirineus
+perquè tenia "fred el peu"
+
+   Google
+   Successos
+
+Un jubilat haurà de pagar 104.138 euros de sanció per declarar-se falsament
+resident a Andorra
+
+   ANA
+   Successos
+
+VÍDEO | Incendi d’un vehicle a la zona d’escalada de Coll de Nargó
+
+   ANA
+   Successos
+
+La Fiscalia manté l’acusació i demana 9 anys per una presumpta violació
+
+   Europa Press
+   Successos
+
+Una ferida a l'accident amb tres vehicles implicats a la CG1
+
+   Levante EMV
+   Successos
+
+Jordi Pujol: "Sempre vaig estar al marge dels diners del llegat del meu pare
+i d’Andorra"
+
+   ElDebate
+   Successos
+
+“És un avís directe a qualsevol funcionari que pretengui posar el seu càrrec
+al servei d’interessos aliens a l’interès públic”
+
+   Diario de Lugo
+   Successos
+
+La Policia Nacional detecta 27 conductors francesos sense permís de conduir a
+la Vall d’Aran
+
+   Mossos
+   Successos
+
+Investiguen com a possible homicidi la mort d’un nadó a l’Alt Urgell
+
+   ANA
+   Successos
+
+Un ferit per l'espinós accident d'un vehicle a la carretera de Grau Roig
+
+   EFE
+   Successos
+
+Villarejo insisteix que Rajoy va ordenar l’operatiu contra la família Pujol
+
+   La Liga
+   Successos
+
+La CNMC demana LaLiga a més transparència i límits en la venda de drets
+audiovisuals
+
+   iStock
+   Successos
+
+El responsable d’una botiga de CBD condemnat per fer treballar la seva mare
+il·legalment
+
+   Getty Images
+   Successos
+
+Meta, condemnada a pagar 479 milions d’euros a la premsa espanyola per
+competència deslleial
+
+   La Veu Lliure
+   Successos
+
+Ferit un motorista per un accident a Andorra la Vella
+
+   La Veu Lliure
+   Successos
+
+El sancionat per fer soroll amb un Lamborghini aclareix que es tracta d’una
+sanció administrativa
+
+   YouTube
+   Successos
+
+Morad, detingut de nou: ara per saltar-se una ordre d'allunyament
+
+   ANA
+   Successos
+
+Confirmen la mort de la dona condemnada a Andorra pel crim d’assassinar el
+seu exmarit
+
+   Google
+   Successos
+
+Pensaven sortir tranquil·lament d’Andorra amb 1.700 paquets de tabac
+
+   Concòrdia
+   Successos
+
+Concòrdia exposa una suplantació d’identitat a TikTok i alerta als seus
+seguidors
+
+   iStock
+   Successos
+
+Els Mossos descobreixen un “supermercat de droga” domèstic: la Fiscalia
+demana fins a 6 anys de presó
+
+   ANA
+   Successos
+
+Sant Julià farà una auditoria per trobar la causa del despreniment del Centre
+Cultural
+
+   Sant Julià
+   Oliana/RadioSeu
+   Successos
+
+Preocupació a Oliana per la nova onada de robatoris: "sovint són
+multireincidents"
+
+   ANA
+   ImmigracióSuccessos
+
+La Unió Sindical alerta de subcontractacions irregulars d’extracomunitaris a
+Andorra
+
+   Policia d'Andorra
+   Successos
+
+Dos detinguts per insults i amenaces a agents i treballadors d’un local de la
+capital
+
+   Diversand
+   Successos
+
+Diversand denuncia una onada de comentaris transfòbics pel cas d'una jove
+
+   EFE
+   Successos
+
+Jordi Pujol, ingressat per una pneumònia a pocs dies del seu judici
+
+   RadioSeu
+   Successos
+
+Vaga del transport públic: S'anuncien talls de carretera al Pirineu i a
+l’estació d’autobusos
+
+   RadioSeu
+   Successos
+
+Un ferit a Oliana per una explosió de gas propà que ha obligat a desallotjar
+els veïns
+
+   Google
+   Successos
+
+Panamà conclou la liquidació forçosa de la Banca Privada d’Andorra
+
+   ANA
+   Successos
+
+Detinguts cinc homes al Pas acusats de contraban de tabac i pertinença a un
+grup organitzat
+
+   ANA
+   Successos
+
+Denunciat penalment un andorrà per circular a 187 km/h a la Segarra
+
+   Estadio Deportivo
+   Successos
+
+El cas de l'acomiadament de Sarabia de l’FC Andorra reobre el debat a LaLiga
+sobre quina legislació ha de complir
+
+   RTVE
+   Successos
+
+Una trama criminal simulava operar des d’Andorra per defugir l’IVA en la
+venda de mòbils
+
+   Policia Andorra
+   Successos
+
+La Policia comissa més de 3.200 paquets de tabac de contraban al Pas
+
+   Arxiu
+   Successos
+
+Condemnat a 8 anys de presó pel conductor que va atropellar cinc joves a la
+sortida d’una discoteca
+
+   XXSS
+   Successos
+
+FOTONOTÍCIA | Noves imatges de suposats contrabandistes travessant la neu
+
+   EFE
+   Successos
+
+Augment de robatoris en habitatges a Torà: vuit detinguts en una operació
+contra grups criminals itinerants
+
+   Policia Andorra
+   Successos
+
+Detinguda una dona per furtar joies en diversos domicilis d'Andorra la Vella
+
+   Pas de la Casa
+   Successos
+
+Els veïns del Pas del Casa exposen "l’incivisme" que viuen cada dia
+
+   HuffPost
+   Successos
+
+Rubiales afirma que Andorra no ha trobat "cap irregularitat" als comptes de
+Piqué en la investigació del 'Cas Supercopa'
+
+   -
+   Successos
+
+FOTONOTÍCIA | Suposats contrabandistes al Pas acampen a la neu en condicions
+extremes
+
+   Balanzen
+   Successos
+
+Abril Cols explica les dificultats d'emprendre davant denúncies reiterades
+d’un únic veí
+
+   ANA
+   ImmigracióSuccessos
+
+Immigració rebutja nombroses sol·licituds de temporers per les exigències de
+l'Entry/Exit
+
+   Instagram
+   Successos
+
+VÍDEO | Una persona trans afirma que ha rebut amenaces a l'empresa
+
+   Policia Andorra
+   Successos
+
+Detingut amb un positiu d’alcoholèmia de 2,35 després d’un accident de
+trànsit sense permís de conduir
+
+   EFE
+   Successos
+
+“Andorra confirma que no tinc cap relació amb els diners de Piqué”
+
+   MARCA
+   Successos
+
+LaLiga provoca caigudes de webs amb bloquejos massius d’IP en la seva
+ofensiva antipirateria
+
+   DDM
+   Successos
+
+Traslladada a l’hospital una persona ferida per un accident a la RN20
+
+   LaDêpeché
+   Successos
+
+Segueix la investigació a l’Arieja del menor armat que hauria apuntat
+indigents al mercat
+
+   Mariano Rajoy
+   Successos
+
+La notificació de la justícia andorrana que Rajoy no pot ignorar
+
+   ARXIU
+   Successos
+
+Els comerciants del Pas de la Casa alerten: el contraban de tabac fa marxar
+la clientela tradicional
+
+   ARXIU
+   Successos
+
+Ferida una padrina en ser atropellada al pont de les Riberaigües
+
+   FranceBlue
+   Successos
+
+Detingut un menor passejant amb un fusell de caça en un mercat a l'Arieja
+
+   EFE
+   Successos
+
+Rubiales afirma que Espanya ha investigat comptes de Piqué a Andorra pel 'Cas
+Supercopa'
+
+   Tusi/ Arxiu
+   Successos
+
+Detingut per possessió de “tusi” a Encamp després d’un episodi amb una dona
+amb al·lucinacions
+
+   Policia Andorra
+   Successos
+
+Extradit a Andorra un home detingut a Armènia per robatoris de joies
+valorades en més de 30.000 euros
+
+   El Mundo
+   Successos
+
+Oriol Pujol: "Haver tingut diners a Andorra és una vergonya"
+
+   Policia Andorra
+   Successos
+
+Arrestada una conductora a Encamp per bolcar el cotxe amb una taxa
+d’alcoholèmia d’1,49
+
+   Policia
+   Successos
+
+La Policia deté una extreballadora domèstica per furtar en un pis amb una
+còpia de la clau
+
+   ActuFr
+   Successos
+
+Una preocupant onada de robatoris sacseja diverses localitats de l’Arieja
+
+   Mossos d’Esquadra
+   Successos
+
+Roben un patinet elèctric després de demanar provar-lo a Lleida
+
+   DR
+   Successos
+
+Treballs nocturns obligaran a tallar parcialment la carretera de França a
+Andorra el 17 i 18 de novembre
+
+   ANA
+   Successos
+
+Un total de 4.000 empreses han incomplert l'obligació de presentar l'IS els
+últims anys
+
+   TheObjective
+   Successos
+
+La justícia andorrana demana a Espanya notificar Rajoy, Montoro i Fernández
+Díaz que continuen imputats
+
+   RàdioSeu
+   Successos
+
+Demanen la dimissió immediata de l’alcalde de Naut Aran després de ser
+condemnat per assetjament sexual
+
+   RTVA
+   Successos
+
+Ferit un motorista en una col·lisió amb un 4x4 a Sispony
+
+   RadioSeu
+   Successos
+
+Enxampen en un control un rus amb un rifle i cinc caps d’animals diferents a
+la Cerdanya
+
+   ANA
+   Successos
+
+Sancions de 3.300 euros a tres empreses per contractació il·legal
+
+   iStock
+   Successos
+
+El Govern reparteix més de 30.000 euros en publicitat del projecte “Tracem el
+futur d’Andorra”
+
+   3cat
+   Successos
+
+Accident a la C-14 provoca retencions a l’altura de Coll de Nargó
+
+   RTVA
+   Successos
+
+Villarejo declara a Andorra i diu que li han amenaçat per testificar sobre
+l’‘Operació Catalunya’
+
+   EFE
+   Successos
+
+Condemnat l’alcalde de Naut Aran per assetjar una jove en una discoteca de
+Vielha
+
+   Google
+   Successos
+
+Mor als 98 anys Jacqueline Pradère, pionera del comerç modern i impulsora de
+Pyrénées
+
+   iStock
+   Successos
+
+La història d’una treballadora resident a Andorra: "amb un sou mínim és
+gairebé impossible viure sola"
+
+   GQ Mexico
+   Successos
+
+Messi hauria comprat més d'un rellotge a l'investigat de 'l'Operació Cronos'
+a Andorra
+
+   ANA
+   Successos
+
+L'accident que ha tallat la C-14 a Bassella deixa tres ferits amb un vehicle
+andorrà implicat
+
+   RTVA
+   Successos
+
+Incidència al Col·legi María Moliner: alumna cau des d’una altura
+considerable
+
+   Google
+   Successos
+
+Accident a la C-14 a Bassella: habilitat un pas alternatiu
+
+   EFE
+   Successos
+
+Tall de trànsit a la C-14 a Bassella per un accident
+
+   Policia Andorra
+   Successos
+
+Conduïa fent ziga-zagues i va acabar a la vorera: detinguda a Andorra la
+Vella amb 1,52 d’alcohol
+
+   Policia Andorra
+   Successos
+
+Detingut a Andorra la Vella un acusat de violar i agredir la seva parella
+
+   ANA
+   Successos
+
+Empresaris, polítics, esportistes i influencers declaren per la possible
+trama de compravenda de rellotges de luxe a Andorra
+
+   Policia d'Andorra
+   Successos
+
+Policies fora de servei eviten dues temptatives de suïcidi a Escaldes i
+Encamp
+
+   Bombers
+   Successos
+
+Els Bombers rescaten un excursionista a Os de Civís després d’una caiguda
+
+   ANA
+   Successos
+
+El narcotraficant que va ajudar a desmantellar una xarxa de prostitució a
+Andorra demana la seva llibertat
+
+   ANA
+   Successos
+
+Intervenció dels Bombers per un incendi a l’Avinguda Tarragona
+
+   La Veu Lliure- Contraban
+   Successos
+
+Els contrabandistes responen amb el seu propi “pla de xoc” després de
+l’ofensiva del Govern
+
+   La Comella
+   Successos
+
+La defensa de l'acusat d’agressions sexuals a menors en nega tots els fets i
+reclama l’absolució
+
+   France24
+   Successos
+
+La fosca història d'un assassinat amb un fusell de caça a mans d'un familiar
+a l'Arieja
+
+   RadioBalaguer
+   Successos
+
+La Fiscalia catalana demana 14 anys per a un acusat d'apunyalar dues vegades
+la parella
+
+   Tribunal Constitucional
+   Successos
+
+El TC reafirma la condemna de 14 anys a l’agressor de la cambrera de Soldeu
+
+   Mossos
+   Successos
+
+Detinguda una parella a Bellvís per estafar més de 2.000 euros amb la targeta
+d’un home mort
+
+   RadioSeu
+   Successos
+
+Un empresari de Vielha passa a disposició judicial acusat d’una presumpta
+agressió sexual a una menor
+
+   José Manuel Villarejo
+   Successos
+
+Villarejo declararà a Andorra en la causa de l’operació Catalunya
+
+   Justice.fr
+   JusticiaSuccessos
+
+El tribunal de Foix decidirà qui paga pel doble homicidi d’una pagesa i la
+seva filla atropellades en una protesta
+
+   Actu.fr
+   Successos
+
+Intervinguts més de 750 paquets de tabac de contraban d'origen andorrà prop
+de Montpeller
+
+   ANA
+   Successos
+
+Fiscalia demana 16 anys pel massatgista acusat de violar dues dones a
+Escaldes
+
+   Policia
+   Successos
+
+Tres avisos per presumptes violacions durant el 2025
+
+   ANA
+   Successos
+
+La fiscalia sol·licita 13 anys per un acusat d’agressions sexuals a tres
+menors
+
+   Policia Andorra
+   Successos
+
+La Policia deté 17 persones per conduir sota els efectes de l'alcohol i les
+drogues
+
+   Policia Andorra
+   Successos
+
+Detingut a l’Aldosa per conduir drogat i amb cocaïna a sobre
+
+   ANA
+   Successos
+
+Andorra la Vella blinda la carretera de la Comella per frenar les curses
+il·legals
+
+   Andorra La Vella
+   La Veu Lliure
+   Successos
+
+Traslladen a l'Hospital un home de 56 anys per un accident a la rotonda del
+Gall
+
+   Mossos
+   Successos
+
+Presó provisional per a un veí de Bellpuig acusat d’apunyalar el seu pare
+
+   RTVA
+   Successos
+
+Ferit un motorista en un accident de trànsit a Erts
+
+   Nevera
+   Successos
+
+VÍDEO | Una nevera cau d'un tercer pis a un cotxe aparcat a Andorra
+
+   Actu Perpignan
+   Successos
+
+Les autoritats franceses intercepten 240 quilos de tabac de contraban
+procedent d’Andorra
+
+   ANA
+   Successos
+
+Cent casos reals porten els allotjaments turístics a reactivar el circuit
+judicial
+
+   RadioSeu
+   HabitatgeSuccessos
+
+Polèmica a Bellver de Cerdanya per la promoció de 18 habitatges de protecció
+oficial
+
+   Policia
+   Successos
+
+L'enxampen begut amb el permís suspès i intenta fugir corrent de la policia
+
+   ANA
+   Successos
+
+Ferida en ser atropellada a Andorra la Vella
+
+   ANA
+   Successos
+
+El vent desestabilitza una bastida i obliga a tancar l’estació d’autobusos
+d’Andorra la Vella
+
+   La Veu Lliure
+   Successos
+
+Investigació per la col·lisió múltiple a Canillo que ha deixat quatre ferits
+
+   Canillo
+   PasCasenc
+   Successos
+
+Esfondren l'edifici prop del Pas de la Casa que il·legals 'okupaven'
+
+   Encamp
+   Google
+   Successos
+
+Troben Paola Lens, la jove argentina desapareguda que venia a Andorra a fer
+la temporada
+
+   Diari de Mallorca
+   Successos
+
+Investigació per localitzar l’argentina que volia fer la temporada a Andorra
+
+   ANA
+   Successos
+
+Extradit un empresari resident a Canillo acusat de delictes fiscals a Espanya
+
+   Canillo
+   Diario de Cuyo
+   Successos
+
+Desapareguda una argentina que va viatjar a Espanya per a treballar a Andorra
+
+   La Veu Lliure
+   Successos
+
+El Pas de la Casa registra 47 detencions aquest any i el Govern reforça els
+controls fronterers
+
+   Encamp
+   Policia Andorra
+   Successos
+
+Detinguda a Andorra la Vella una dona per furtar una jaqueta de 1.530 euros
+
+   Policia d'Andorra
+   Successos
+
+Detingut a Canillo amb una taxa d’alcoholèmia de 2,41 després d’un accident
+
+   ACN
+   Successos
+
+Un nou apunyalament en una baralla nocturna al centre de Lleida
+
+   GSV
+   Successos
+
+Un grup 'okupa' durant fa més d'un any un edifici de Rialp i acumula tensions
+amb els veïns
+
+   La Veu Lliure
+   Successos
+
+Puigcerdà esclata contra el vandalisme, el funicular destrossat i fora de
+servei per un atac “deliberat i incívic”
+
+   CCA
+   Successos
+
+Calen foc i roben un club ciclista de l'Urgell
+
+   Policía Andorra
+   Successos
+
+La Policia comissa 3.500 paquets de tabac valorats en més de 13.700 euros en
+dues intervencions
+
+   La Veu Lliure
+   Successos
+
+Continua la investigació del resident implicat en la compravenda de rellotges
+de luxe a Andorra
+
+   La Veu Lliure
+   Successos
+
+VÍDEO | Els veïns del Pas de la Casa alerten que els contrabandistes desafien
+el pla de xoc del Govern i mantenen les escenes esperpèntiques
+
+   COPSA Andorra
+   Successos
+
+Els màxims responsables de l’Agència de Resolució d’Entitats Bancàries a
+batllia per una querella dels Cierco
+
+   ACN
+   Successos
+
+Detinguda una dona per vendre cocaïna des del seu domicili a Lleida
+
+   Policia Andorra
+   Successos
+
+Un resident d’Andorra entra a presó per frau fiscal i contraban de rellotges
+
+   Policia d'Andorra
+   Successos
+
+Detingut a Andorra un home buscat per INTERPOL per haver comès una agressió
+sexual a un menor
+
+   Cadena SER
+   Successos
+
+Sis investigats per circular amb vehicles a la Vall del
+Madriu-Perafita-Claror
+
+   Policia Andorra
+   Successos
+
+Detingut amb 228 grams de cocaïna, marihuana i haixix en un escorcoll a
+Escaldes-Engordany
+
+   ElPaís
+   Successos
+
+Informe de l'Operació Yohara: Per què l'Audiència Nacional espanyola cita a
+Jordi Cinca?
+
+   Policia Andorra
+   Successos
+
+Cau un entramat de rellotges de luxe a Andorra: 20 milions sota sospita
+
+   RadioSeu
+   Successos
+
+Un home acusat d'agredir sexualment diverses vegades una menor a Puigcerdà a
+canvi d'un telèfon mòbil
+
+   Google
+   Successos
+
+Ferida una padrina per un atropellament a Escaldes
+
+   Policía Andorra
+   Successos
+
+Detingut un padrí per intimidar a una veïna amb un ganivet i un pal
+
+   Policia Andorra
+   Successos
+
+Intervenció policial a un domicili per un incident entre un home amb un
+ganivet i unes veïnes
+
+   La Massana
+   Successos
+
+La Massana suspèn el treballador responsable del pla de pensions per
+presumptes irregularitats
+
+   La Massana
+   CadenaSER
+   Successos
+
+Dos ferits per un accident a la CG2 a Canillo
+
+   Canillo
+   Policia d'Andorra
+   Successos
+
+La Policia reconeix un home de 68 anys conduint amb el permís retirat
+
+   Policía Andorra
+   Successos
+
+La Policia d'Andorra l'enxampa amb una cullera amb crac i intenta una
+agressió amb amenaces
+
+   X
+   Successos
+
+VÍDEO | Pluges intenses a Tarragona: Avís vermell, serveis paralitzats i més
+de 600 trucades al 112
+
+   La Veu Lliure
+   Successos
+
+Dos detinguts a l’Arieja per apallissar un conseller amb qui havien tingut
+problemes legals
+
+   RTVA
+   Successos
+
+Se li avaria el cotxe enmig de la carretera de l'Obac i en empènyer-lo li
+passa per sobre
+
+   Mossos
+   Successos
+
+Assalten una parella de padrins en una masia aïllada de l'Urgell i fugen amb
+la seva furgoneta
+
+   RTVA
+   Successos
+
+Peruans en Andorra alerta de la proliferació “d'hotels pastera” amb els nous
+requisits d’immigració a Andorra
+
+   ARXIU
+   Successos
+
+Traslladat a l’Hospital un home detingut per una batussa a la via pública
+sota els efectes de les drogues
+
+   Telecinco
+   Successos
+
+La família del professor de ball mort a Lleida exigeix que no es consideri
+“accident” sinó “homicidi imprudent”
+
+   ANA
+   Successos
+
+Campanya contra la conducció sota els efectes de l'alcohol i les drogues
+dilluns vinent
+
+   La Veu Lliure
+   Successos
+
+Un membre algerià “especialment actiu” d’una xarxa de tràfic entre França i
+Andorra, detingut a la frontera
+
+   Mossos
+   Successos
+
+Un agent dels Mossos mor tirotejat a Lleida
+
+   RadioSeu
+   Successos
+
+Evacuen en helicòpter un treballador ferit en un accident laboral a una
+escola de la Seu
+
+   ana
+   Successos
+
+La Justícia espanyola interrogarà com a testimoni Jordi Cinca en el cas dels
+“diamants de sang”
+
+   Ambulància
+   Successos
+
+Accident a la sortida d’Escaldes mobilitza diversos equips d’emergència
+
+   Escaldes-Engordany
+   Hospital
+   Successos
+
+Ferida i evacuada a l’Hospital per un atropellament a Encamp
+
+   Google
+   Successos
+
+El Detingut a Lleida acusat de violar la seva filla queda en llibertat amb
+càrrecs
+
+   Google
+   Successos
+
+Veí alerta de mala olor i la Policia confirma la mort d’una dona a un pis de
+l’avinguda Doctor Mitjavila
+
+   ACN / Albert Lijarcio Jutjats de La Seu d'Urgell
+   Successos
+
+L'acusada d'assassinar la filla al Coll de Nargó podria afrontar fins a 25
+anys de presó
+
+   Policia
+   Successos
+
+Detingut a Encamp un conductor amb una taxa d’alcoholèmia de 2,40 després
+d’un accident
+
+   Ana
+   Successos
+
+Detingut a Andorra la Vella per agredir la seva parella davant la filla menor
+
+   Arxiu
+   Successos
+
+Tres accidents de trànsit a Andorra deixen quatre ferits en un sol dia
+
+   Mossos
+   Successos
+
+Detingut a Lleida un home acusat de violar la seva filla al mig del carrer
+davant del seu altre fill menor
+
+   EFE
+   Successos
+
+Un andorrà mor en una col·lisió frontal a Oliola
+
+   El Mundo
+   Successos
+
+Demanen tres anys de presó per un mossèn que va criticar el terrorisme
+islàmic
+
+   Policia Andorra
+   Successos
+
+VÍDEO | Detingut a Andorra un home per tràfic de drogues en l’operació
+“Ferro” amb més de 300 grams de cocaína
+
+   SAAS
+   Successos
+
+Detingut un metge de l’Hospital acusat d’abusos a una noia amb discapacitat
+
+   Daily Mail
+   Successos
+
+Nou judici per a l’acusada de l’assassinat de Florent Grégoire després
+d’interposar recurs
+
+   Forces de Defensa d’Israel
+   Successos
+
+L'activista andorrana a la Flotilla, retinguda per Israel a bord del Sirius
+
+   ActuPyréenees
+   Successos
+
+Campanya de controls policials a l’Arieja contra el contraban
+
+   Instagram
+   Successos
+
+Espot s’acomiada de Jane Goodall: “He tingut l’oportunitat d’agrair a la Dra.
+Goodall la sensibilitat cap a Andorra"
+
+   A.M.
+   Successos
+
+Una consellera del PSOE acusada de passar una factura de 5.000 euros de mòbil
+a l'Ajuntament per un viatge a Andorra
+
+   La Veu Lliure Andorra
+   Successos
+
+Israel incomunica el 'Sirius', amb una activista andorrana a bord, a pocs
+quilòmetres de Gaza
+
+   Google
+   Successos
+
+Ferit per un atropellment a Escaldes
+
+   Bombers
+   Successos
+
+Rescaten un padrí desaparegut entre Montferrer i Castellbò
+
+   Digital de Cuenta
+   Successos
+
+L’acusat de la mort d'un home a Espanya, resident a Andorra, podria entrar en
+presó preventiva
+
+   Google
+   Successos
+
+El germà de Morad va marcar amb navalla el ‘somriure del Joker’ a tres joves
+a Molins de Rei
+
+   Morad
+   Successos
+
+Detingut el germà del raper Morad acusat d'apunyalar tres joves a Molins de
+Rei
+
+   LaDêpeche
+   Successos
+
+Un andorrà acaba en una vinya amb 550 cartons de tabac després de fugir de la
+policia a prop de Montpeller
+
+   Policia Andorra
+   Successos
+
+Enxampat amb més d'11 grams de cocaïna i 140 de haixix
+
+   Mossos
+   Successos
+
+Un multireincident acusat de robar un rellotge de mig milió d’euros a un
+turista a Barcelona
+
+   RadioSeu
+   Successos
+
+Dos ferits, un d'ells greu, en un accident a l'Alt Urgell
+
+   Última Hora Mallorca
+   Successos
+
+FOTONOTÍCIA | Un cotxe andorrà atrapat a la platja després d’un remolc que
+acaba en tragèdia mecànica
+
+   La Veu Lliure
+   Successos
+
+VÍDEO | El pla de xoc contra el contraban al Pas comença a funcionar
+
+   Actu24
+   Successos
+
+FOTONOTÍCIA | Els Gendarmes inspeccionen autobusos i equipatges en la
+campanya contra el contraban a la frontera amb Andorra
+
+   ElConfidencial
+   Successos
+
+Finances nega al PS que BPA fos una entitat pública
+
+   France24
+   Successos
+
+Controls a l'Arieja destapen 74 irregularitats vinculades a negocis i
+vehicles provinents d'Andorra
+
+   ActuToulouse
+   JusticiaSuccessos
+
+Vint anys de presó per l'autora de l’assassinat de Florent Grégoire,
+desaparegut a Andorra fa nou anys
+
+   ACN
+   Successos
+
+Localitzat sense vida el boletaire de 83 anys desaparegut al Pallars Jussà
+
+   Policia Andorra
+   Successos
+
+Campanya per sancionar els alts sorolls de motors a partir de la setmana
+vinent
+
+   Policia Andorra
+   Successos
+
+Detingut un motorista borratxo després d’accidentar-se amb el permís suspès a
+la Massana
+
+   La Veu Lliure
+   Successos
+
+VÍDEO | Nova escena de contrabandistes corrents amb bosses plenes de tabac al
+Pas de la Casa
+
+   RTVA
+   Successos
+
+El TS pendent del cas dels dos britànics absolts d’una presumpta violació al
+Pas
+
+   RTVA
+   Successos
+
+Empleats de l'APDA sense cobrar i Punjabi avisa que "no cobren perquè no
+volen que cobrin"
+
+   Ambulància
+   Successos
+
+Dos ferits lleus en un accident a l'N-260 a Ribera d’Urgellet
+
+   EFE
+   Successos
+
+Sarkozy, a presó cinc anys per rebre finançament il·legal de Gadafi
+
+   RadioSeu
+   Successos
+
+La Fiscalia demana sis anys de presó per abusos sexuals a una menor a Vielha
+
+   ARXIU
+   Successos
+
+La Fiscalia analitza la denúncia de l’excap de Protecció de Dades per
+vulneracions institucionals
+
+   Policia Andorra
+   Successos
+
+Detingut un home acusat d’agredir en públic la seva mare i tocar sexualment
+els seus fills
+
+   Arxiu
+   Successos
+
+La família del jove desaparegut a Andorra rebutja els “escenaris inventats”
+de l'acusada
+
+   Depeche
+   Successos
+
+Xoc brutal a l'RN20 direcció Andorra: un motorista en estat greu després de
+col·lidir amb un camió
+
+   ARXIU
+   Successos
+
+Tots els menors implicats en la pallissa en manada a una nena de 13 anys
+afrontaran responsabilitats
+
+   Instagram
+   Successos
+
+Nova estafa suplantant Espot amb IA: "si acceptes aconseguiràs la llibertat
+financera"
+
+   LaDêpeché
+   Successos
+
+Els Gendarmes detenen un polonès acusat de contraban amb tabac i alcohol
+d’Andorra
+
+   iSTOCK
+   Successos
+
+Més bandes juvenils violentes a Andorra: així són els “los 44” i “El Bloque”
+
+   Policia Andorra
+   Successos
+
+Un conductor enxampat amb una taxa d'alcoholèmia de 3,04
+
+   Policia
+   Successos
+
+La Policia intensifica els controls després de tres denúncies contra 'los 44'
+
+   RTVE
+   Successos
+
+El cas de la banda de menors “els 44” ja acumula tres denúncies i es troba
+als tribunals
+
+   France24
+   Successos
+
+Judici a la dona acusada d’haver matat un jove desaparegut a Andorra l'any
+2016
+
+   Facebook
+   Successos
+
+VÍDEO | El contraban desafia el pla de xoc: més imatges descriuen la realitat
+al Pas
+
+   IFRAME: https://www.youtube.com/embed/p0rKjKzr0dI
+
+   Successos
+
+Banderas Rojas explica el modus operandi dels “44”, la banda de menors que ha
+deixat una menor a l’Hospital d'una pallissa
+
+   RADIOSEU
+   Successos
+
+VÍDEO | Tres detinguts i 4.500 plantes de marihuana desmantellades a un bosc
+de Tremp
+
+   Homs
+   Successos
+
+Homs reclama expulsions immediates pels membres de "bandes llatines"
+violentes
+
+   Parlament de Catalunya/Sergi Ramos
+   Successos
+
+Sílvia Orriols sobre 'los 44': "Les bandes llatines als països catalans són
+el resultat del deute colonial d'Espanya"
+
+   Google
+   Successos
+
+Troben dos homes morts en un pis de Lleida
+
+   Google
+   Successos
+
+El grup de menors 'los 44' van apallissar durant dues hores una nena de 13
+anys
+
+   Policia Andorra
+   Successos
+
+Els 44, el grup de menors que apallissen altres amb humiliacions que
+comparteixen en les xarxes
+
+   Policia.ad
+   Successos
+
+Alarmes a Encamp i Escaldes per les agressions d’un grup de menors conegut
+com “els 44”
+
+   Seu de la Justícia/ARXIU
+   Successos
+
+La fallida d’Assegurances Generals i Carlemany manté un forat de 30 milions
+d’euros
+
+   Google
+   Successos
+
+Quatre anys de presó per a la dona que va agredir la parella amb una
+maquineta d’afaitar
+
+   Punt Àvui
+   Successos
+
+La família de Joel Mont continua lluitant per aclarir la seva mort dos anys
+després
+
+   Hospital
+   Successos
+
+Un motorista de 33 anys resulta ferit en un accident a Sant Julià de Lòria
+
+   Google
+   Successos
+
+Els Bombers d’Andorra rescaten un jove de 20 anys al riu Rubials
+
+   Google
+   JusticiaSuccessos
+
+El Tribunal de Corts reobre la causa contra Rajoy
+
+   El parc Suzanne-Noël à Lavelanet, a l'Arieja. DDM F.A
+   Successos
+
+Un poble del Pirineu francès en alerta després d'una agressió sexual i el
+rumor d'un assassinat
+
+   Ambulància
+   Successos
+
+Ferit un home de 68 anys per un atropellament a Andorra la Vella
+
+   Policia Andorra
+   Successos
+
+Detingut per desobeir una ordre d’expulsió d'Andorra
+
+   Policia Andorra
+   Successos
+
+(FOTONOTÍCIA) Comissats prop de 15.000 euros en tabac a dos homes detinguts
+acusats de contrabandistes
+
+   Google/ El Español/ Alejandro Ernesto
+   Successos
+
+VÍDEO | Protestes propalestines obliguen a cancel·lar l’última etapa de la
+Vuelta Ciclista
+
+   Mossos
+   Successos
+
+Mor un dels tres ferits en el tiroteig de Mollet del Vallès
+
+   Arxiu
+   Successos
+
+Detingut per donar positiu d’alcoholèmia en un accident a Andorra la Vella
+
+   Rajoy
+   Successos
+
+El Tribunal de Corts admet a tràmit el recurs de Drets Humans contra Rajoy
+
+   RTVE
+   Successos
+
+Tres ferits, dos en estat crític, per un tiroteig a Mollet
+
+   Policia Andorra
+   Successos
+
+Enxampat duplicant la taxa d'alcoholèmia a Andorra la Vella
+
+   La Veu Lliure
+   Successos
+
+(FOTONOTÍCIA) | Sorpresa a Andorra per l'aparició d'un cartell: "País Venut"
+
+   Sergi Pérez | Consell General
+   Successos
+
+L’APDA, sota control polític? La reforma legislativa posa en dubte l’Acord
+d’Associació
+
+   Inter Escaldes
+   Successos
+
+S'ajorna l’inici de la lliga per la falta d'autoritzacions de 88 jugadors
+
+   ARXIU
+   Successos
+
+Impulsarà Fiscalia la denúncia de Punjabi per pressions polítiques?
+
+   iStock
+   Successos
+
+La víctima de la dutxa del gimnàs va enxampar l'home mentre el gravava
+despullat
+
+   Policia
+   Successos
+
+Detenen un home per gravar a altres a les dutxes del gimnàs
+
+   Policia.ad
+   Successos
+
+VÍDEO | Contrabandistes corren al Pas fugint de la Policia
+
+   Resma Punjabi
+   Successos
+
+"Jordana va demanar la meva dimissió fa mesos"
+
+   Google
+   Successos
+
+Ferit un motorista per un accident a Andorra la Vella
+
+   PyrénéesFM
+   Successos
+
+VÍDEO | Revolta a Foix després de la caiguda de Bayrou, per ara cap bloqueig
+als accessos a Andorra
+
+   iStock
+   Successos
+
+Primera multa a Andorra per incomplir la nova llei del català
+
+   Mossos
+   Successos
+
+Un menor mort i un altre ferit per una agressió amb una arma blanca a Sants
+
+   iStock
+   Successos
+
+Detingut un turista a Escaldes acusat de robar joies en un domicili
+
+   La Razón
+   Successos
+
+L'assassinat d’una refugiada ucraïnesa al bus sacseja els EUA
+
+   ANA
+   Successos
+
+De la frontera a la presó: la policia impedeix que entri al país amb speed i
+haixix
+
+   GBNEWS
+   Successos
+
+VÍDEO | L'afició anglesa contra Keir Starmer a l'Anglaterra-Andorra: "és un
+covard!"
+
+   France24
+   Successos
+
+El xoc entre dues motos va provocar l'accident mortal de l'Arieja
+
+   pyreneesfm
+   Successos
+
+Un motorista mor a l'RN20 en un tràgic accident a l’Arièja
+
+   Policia Andorra
+   Successos
+
+Clients i treballadors van ajudar a frenar una agressió a una dona a una
+cafeteria d’Andorra la Vella
+
+   Policia
+   Successos
+
+La Policia deté un home acusat d'empentar un padrí perquè caigués per les
+escales
+
+   Policia
+   Successos
+
+Nit de violència a la capital: dos arrestats, un per atacar la parella i un
+altre per agressió racista
+
+   Policia
+   Successos
+
+Detingut un home com a presumpte autor d'una agressió sexual a una menor
+
+   Mossos
+   Successos
+
+El guàrdia civil condemnat va demanar 30.000 euros al contrabandista
+assassinat amb vincles a Andorra
+
+   RTVE
+   Successos
+
+Giorgio Armani mor als 91 anys: el geni que va redefinir l’elegància
+
+   El Mundo
+   Successos
+
+Un guàrdia civil i un familiar de Marc Márquez, a presó per un assassinat
+vinculat a Andorra l'any 2022
+
+   Pizza
+   SanitatSuccessos
+
+Salut investiga un brot de gastroenteritis que afecta dos equips de bàsquet
+
+   iStock
+   Successos
+
+Dues clíniques de psicologia sancionades per ús indegut de dades de pacients
+
+   iStock
+   Successos
+
+La Policia investiga robatoris en dos edificis d’Andorra la Vella
+
+   Mossos d'Esquadra
+   Successos
+
+El tiet de Marc Márquez i un Guàrdia Civil, detinguts per l’assassinat d’un
+contrabandista vinculat a Andorra
+
+   Mossos
+   Successos
+
+Augmenten un 42% les violacions a la demarcació de Lleida
+
+   Policia d'Andorra
+   Successos
+
+Detingut begut a la Massana després de ser vist circulant de manera erràtica
+
+   Policia d'Andorra
+   Successos
+
+Andorra extradeix a Xile un fugitiu vinculat a tràfic de drogues i dos
+homicidis
+
+   Ambulància
+   Successos
+
+Ferida per un atropellament a Andorra la Vella
+
+   HazteOír
+   Successos
+
+El personal de l'Hermitage va voler evitar la difusió de l'escena de la
+pancarta
+
+   permís
+   Successos
+
+Li suspenen el permís i dies després una patrulla el reconeix conduint a Erts
+
+   Policia Andorra
+   Successos
+
+La Policia deté una dona per esgarrapar violentament a la parella a Ordino
+
+   RadioSeu
+   Successos
+
+VÍDEO | Retencions quilomètriques a la Seu per l'accident a l'N-145
+
+   Ponts
+   Successos
+
+La pluja provoca retencions a Ponts i complica l’operació tornada a Andorra
+
+   Ambulància
+   Successos
+
+Una motorista ferida en un accident a la Massana
+
+   HazteOír
+   Successos
+
+VÍDEO | La Policia identifica membres d’Hazte Oír per la pancarta de Sánchez
+
+   HazteOír
+   Successos
+
+"Per terra, mar i aire a Espanya i on faci falta. Avui: Andorra"
+
+   Imatge del vídeo/ La Razón
+   Successos
+
+VÍDEO | Una pancarta de "Sánchez corrupto" davant de l'hotel on s'allotja
+
+   RadioSeu
+   Successos
+
+La Seu pateix l'‘aqua challenge’: la piscina tanca per restes de femta
+
+   Hospital
+   Successos
+
+Tres ferits per un accident de trànsit a l’avinguda Salou
+
+   Policia d'Andorra
+   Successos
+
+Arrestat per agredir sexualment a una veïna a l'ascensor
+
+   Policia Andorra
+   Successos
+
+Detingut al Pas per intentar agredir el company de pis amb un ganivet de
+cuina
+
+   Mossos d'Esquadra
+   Successos
+
+Els Mossos eviten la detonació de dos artefactes explosius a la Seu
+
+   [INS: :INS]
+
+Navegación principal
+
+     * Cercar
+
+     * Categories
+     * Parròquies
+     * Vídeos
+     * Contacte
+
+Pie de página
+
+     * Qui som?
+     * Política de cookies
+     * Política de privacitat
+     * Contacte
+
+   La Veu LLiure
+     * Twitter
+     * Instagram
+     * youtube
+     * Tiktok
+     * Facebook
+
+   Diseño Web Madrid Copyright © 2025 La Veu Lliure

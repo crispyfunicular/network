@@ -1,33 +1,15 @@
+User-agent: Googlebot
+Disallow:
+Crawl-delay: 300 
+ 
+User-agent: bingbot
+Disallow:
+Crawl-delay: 300 
+ 
+User-agent: msnbot
+Disallow:
+Crawl-delay: 300 
+ 
 User-agent: *
-Disallow: /*?route=checkout/
-Disallow: /*?route=account/
-Disallow: /*?route=affiliate/
-Disallow: /*?route=product/search
-Disallow: /*&limit
-Disallow: /*?limit
-Disallow: /*?sort
-Disallow: /*&sort
-Disallow: /*?order
-Disallow: /*&order
-Disallow: /*?price
-Disallow: /*&price
-Disallow: /*?mode
-Disallow: /*&mode
-Disallow: /*?cat
-Disallow: /*&cat
-Disallow: /*?dir
-Disallow: /*&dir
-Disallow: /*?color
-Disallow: /*&color
-Disallow: /*?product_id
-Disallow: /*&product_id
-Disallow: /*?minprice
-Disallow: /*&minprice
-Disallow: /*?maxprice
-Disallow: /*&maxprice
-Disallow: /*?page=1
-Disallow: /*&create=1
-Disallow: /*?keyword
-Disallow: /*?av
-
-Sitemap: https://gestion.claso.net/sitemap.xml
+Disallow: /
+Crawl-delay: 300

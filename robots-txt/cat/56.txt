@@ -1,12 +1,8 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /checkout/
-Disallow: /cart/
-Disallow: /*add-to-cart=*
-Disallow: /*?wc-ajax=get_refreshed_fragments*
-Disallow: /login*
-Disallow: /my-account*
-Crawl-Delay: 60
-
-Sitemap: https://ca.eitca.org/sitemap_index.xml
+Disallow: /sample-*
+Disallow: /blog/sample-*
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*

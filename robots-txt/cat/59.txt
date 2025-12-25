@@ -1,15 +1,120 @@
-User-agent: Googlebot
-Disallow:
-Crawl-delay: 300 
- 
-User-agent: bingbot
-Disallow:
-Crawl-delay: 300 
- 
-User-agent: msnbot
-Disallow:
-Crawl-delay: 300 
- 
-User-agent: *
+User-agent: * #per a tots els cercadors
+Disallow: /admin
+Disallow: /gestor
+Disallow: /media/backups
+Disallow: /media/csv
+Disallow: /media/repository
+Disallow: /media/images
+Disallow: /dinamic
+Disallow: /publicitat
+Disallow: /themes
+Disallow: /media/thumbnails
+Disallow: /media/uncompresed
+Disallow: /vcard/
+Disallow: /pdflist/
+
+Crawl-delay: 60
+
+User-agent: ia_archiver-web.archive.org
 Disallow: /
-Crawl-delay: 300
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: bingbot
+Crawl-delay: 30
+
+User-agent: Twitterbot
+Allow: /media/repository
+Allow: /media/images
+Allow: /media/thumbnails
+Allow: /themes
+
+User-agent: facebookexternalhit
+Allow: /media/repository
+Allow: /media/images
+Allow: /media/thumbnails
+Allow: /themes
+
+User-agent: Googlebot
+Allow: /themes/*/images/favicons/
+Disallow: /themes/
+
+User-agent: Googlebot-Image
+Allow: /themes/*/images/favicons/
+Disallow: /themes/
+
+Sitemap: https://www.staperpetua.cat/sitemap.xml
+

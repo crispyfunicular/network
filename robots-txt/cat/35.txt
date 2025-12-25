@@ -1,48 +1,13 @@
-#     ____                  _           _   _
-#    / ___|   ___   _ __   (_)   __ _  | | | |  _   _
-#   | |  _   / _ \ | '_ \  | |  / _` | | | | | | | | |
-#   | |_| | |  __/ | | | | | | | (_| | | | | | | |_| |
-#    \____|  \___| |_| |_| |_|  \__,_| |_| |_|  \__, |
-#                                               |___/
-#
-#  See something you can improve? We're hiring in genially.com/we-are-hiring/
-
-
-User-Agent: GoogleBot
-
-Disallow: *utm_source=
-Disallow: *utm_campaign=
-Disallow: *utm_content=
-Disallow: *_ga=
-Disallow: *?source=
-Disallow: *error*
-Allow: *.xml
-
-Allow: /*/*
-Disallow: /*
-
-
-User-Agent: *
-
-Disallow: *utm_source=
-Disallow: *utm_campaign=
-Disallow: *utm_content=
-Disallow: *_ga=
-Disallow: *?source=
-Disallow: *error*
-Allow: *.xml
-
-Allow: /*/*
-Disallow: /*
-
-User-agent: Twitterbot
-User-agent: Google-InspectionTool
-User-agent: facebookexternalhit
-User-agent: LinkedInBot
+User-agent: *
 Allow: /
-
-User-agent: Applebot-Extended
-User-agent: GPTBot
-User-agent: Google-Extended
-Disallow: /
-Sitemap: https://view.genially.com/sitemap.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-json/
+Disallow: /*add-to-cart=*
+Disallow: /?s=
+Disallow: */?orderby=
+Disallow: /search
+Disallow: */feed/*
+Disallow: */page/*
+Disallow: */attachment/*
+Disallow: /xmlrpc.php

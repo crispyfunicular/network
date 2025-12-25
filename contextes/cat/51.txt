@@ -1,72 +1,90 @@
-     * Contacto
-
-Xarxes neuronals
-
-   Por delatorre.ai / junio 7, 2024
+     * Notícies
+     * Agenda
+     * Xarxes socials
+     * Sala de premsa (BUTTON) Sala de premsa
+       Sala de premsa
 --
-1. Concepte
-
-   Les xarxes neuronals són sistemes computacionals inspirats en la xarxa
-   neuronal del cervell humà, compostes per múltiples unitats de
-   processament interconnectades anomenades neurones artificials. Aquestes
-   xarxes són capaces d’aprendre i generalitzar a partir de dades,
-   fent-les útils per a una àmplia gamma de tasques d’intel·ligència
-   artificial.
+     * Notícies
+     * Agenda
+     * Xarxes socials
+     * Sala de premsa (BUTTON) Sala de premsa
+       Sala de premsa
 --
-2. Definició acadèmica precisa
+    2. Actualitat/
+    3. Notícies/
+    4. Com recuperen les xarxes neuronals la seva funció després dʼuna
+       pèrdua de neurones?
 
-   Les xarxes neuronals són una classe d’algoritmes d’aprenentatge
-   automàtic dissenyats per reconèixer patrons. Es basen en la simulació
-   de la xarxa de neurones del cervell humà, amb neurones artificials
-   organitzades en capes. Cada capa està composta per múltiples neurones
-   que reben senyals d’entrada, les processa mitjançant funcions
-   matemàtiques i transmeten els resultats a la següent capa.
+Com recuperen les xarxes neuronals la seva funció després dʼuna pèrdua de
+neurones?
 
-   El funcionament d’una xarxa neuronal comença amb la capa d’entrada, on
-   les dades inicials s’introdueixen al sistema. Aquestes dades passen per
-   una sèrie de capes ocultes, on les neurones calculen pesos i biais per
-   ajustar-se als patrons observats en les dades d’entrenament. Finalment,
-   la capa de sortida proporciona el resultat final de la xarxa, que pot
-   ser una classificació, una regressió o qualsevol altra forma de
-   predicció.
-
-   L’entrenament de xarxes neuronals implica l’ús de l’algoritme de
-   retropropagació, que ajusta els pesos de les connexions internes per
-   minimitzar l’error entre les prediccions de la xarxa i els valors reals
-   observats. Això es fa passant les dades d’entrenament a través de la
-   xarxa i comparant la sortida amb el resultat esperat, calculant l’error
-   i propagant-lo enrere per ajustar els pesos.
-
-   Les xarxes neuronals poden ser de diferents tipus, incloent les xarxes
-   neuronals convolucionals (CNN) utilitzades principalment per al
-   reconeixement d’imatges, i les xarxes neuronals recurrents (RNN)
-   dissenyades per processar dades seqüencials com el text i el llenguatge
-   parlat. Les CNN són especialment efectives en la identificació de
 --
-   memòria a curt termini.
-
-   El potencial de les xarxes neuronals és enorme, amb aplicacions que van
-   des del reconeixement de veu i la visió per computadora fins a la
-   traducció automàtica i la predicció financera. A mesura que la
-   capacitat de processament i la disponibilitat de dades continuen
-   augmentant, les xarxes neuronals seguiran sent una eina fonamental en
-   el desenvolupament de solucions d’intel·ligència artificial avançada.
-
-3. Definició simplificada
-
-   Les xarxes neuronals són sistemes computacionals inspirats en el
-   cervell humà, formats per neurones artificials que treballen
-   conjuntament per reconèixer patrons i fer prediccions a partir de
+   Un equip de recerca interdisciplinari liderat per investigadors de la
+   UB ha desenvolupat una nova eina experimental que permet produir un
+   dany en una zona concreta dʼuna xarxa neuronal in vitro de pocs
+   mil·límetres i enregistrar quins efectes té a la xarxa sencera.
+   Lʼobjectiu dʼaquest experiment és entendre els mecanismes de resposta
+   que tenen lloc en els circuits neuronals del cervell i que eviten una
+   propagació general del dany, al mateix temps que restitueixen la
+   funcionalitat dels circuits afectats. Una de les conclusions principals
+   de la recerca és que la xarxa activa ràpidament mecanismes
+   dʼautoregulació que reforcen les connexions existents i restitueixen
+   lʼoperativitat del circuit.
 --
-4. Metàfora per entendre-ho
-
-   Les xarxes neuronals són com un equip de detectius que treballen junts
-   per resoldre un cas complex. Cada detectiu (neurona) analitza una pista
-   (dada) i comparteix les seves conclusions amb els altres, ajudant
+   Un equip de recerca interdisciplinari liderat per investigadors de la
+   UB ha desenvolupat una nova eina experimental que permet produir un
+   dany en una zona concreta dʼuna xarxa neuronal in vitro de pocs
+   mil·límetres i enregistrar quins efectes té a la xarxa sencera.
+   Lʼobjectiu dʼaquest experiment és entendre els mecanismes de resposta
+   que tenen lloc en els circuits neuronals del cervell i que eviten una
+   propagació general del dany, al mateix temps que restitueixen la
+   funcionalitat dels circuits afectats. Una de les conclusions principals
+   de la recerca és que la xarxa activa ràpidament mecanismes
+   dʼautoregulació que reforcen les connexions existents i restitueixen
+   lʼoperativitat del circuit.
 --
 
-   Aquesta dita significa que el coneixement és més valuós que la
-   possessió material. En el context de les xarxes neuronals, el
-   coneixement que la xarxa adquireix a través de l’entrenament (saber) és
-   més valuós que la simple acumulació de dades (haver), ja que permet fer
-   prediccions i prendre decisions informades.
+   Segons explica Soriano, lʼexperiment mostra la gran capacitat de les
+   xarxes neuronals per «autoregular-se i remodelar-se en resposta a
+   canvis sobtats o alteracions greus». També és un bon exemple de «la
+   importància de modelar xarxes neuronals com a sistemes complexos, on el
+   conjunt és molt més ric que la suma de les seves parts», afegeix.
+
+   El cervell, i en general les xarxes neuronals biològiques, tenen
+   mecanismes de resposta contra la pèrdua de neurones deguda a danys o a
+   malalties. En accidents vasculars cerebrals, per exemple, la pèrdua
+--
+   iniciar una allau de deteriorament.
+
+   Entendre com actuen aquests mecanismes a nivell de xarxa és molt
+   complicat, tant per la grandària del cervell com per la dificultat
+   intrínseca de seguir en detall lʼevolució dʼun gran nombre de neurones
+--
+
+   Lʼexperiment ha consistit a enregistrar primer lʼactivitat de tota la
+   xarxa neuronal per establir quina és la seva funcionalitat
+   característica. Després, amb un làser dʼalta potència sʼha eliminat de
+   manera precisa un grup de neurones i, tot seguit, sʼha tornat a
+   enregistrar la xarxa en detall per seguir el seu desenvolupament al
+   llarg del temps.
+
+   Els investigadors han observat que el grup de neurones més pròxim a la
+   zona afectada perd activitat dʼuna manera immediata, però la va
+   recuperant gradualment gràcies a lʼacció de tota la xarxa.
+   «Sorprenentment, en només quinze minuts, aquest grup assoleix nivells
+   dʼactivitat similars als que tenia abans del dany, malgrat haver perdut
+--
+   zona afectada», explica Soriano. «Com que en quinze minuts no hi ha
+   temps per establir connexions noves —detalla lʼinvestigador—, concloem
+   que la xarxa actua tot reforçant les connexions existents, reconduint
+   el flux dʼestímuls neuronals cap als veïns immediats de la zona
+   afectada, evitant-ne el deteriorament i, per tant, un col·lapse
+   progressiu de la xarxa en forma dʼallau».
+
+   Lʼestudi, a més, reforça la importància dels models in vitro com a eina
+--
+     * Bústia ètica
+
+   La Universitat a les xarxes
+     * Instagram
+     * LinkedIn

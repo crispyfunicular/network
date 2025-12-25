@@ -1,17 +1,20 @@
 #!/bin/bash
 
 # Prends tous les unigrammes tokenisés catalans et les agrège dans un fichier
+echo "Aggrégation des corpus globaux"
 cat ./tokenisation/cat_tokenisation/dumps_tokenisation/*.txt > "./pals/dumps-text-cat.txt"
 cat ./tokenisation/cat_tokenisation/contextes_tokenisation/*.txt > "./pals/contextes-cat.txt"
 
 # Analyse la spécificité de Lafon pour les cooccurrents de "xarxa" (ou "xarxes") situés jusqu'à 5 tokens avant ou après le mot cible.
 # Affiche le tout en colonnes au format txt (en utilisant la commande "column") et au format csv (en utilisant la commande "cut") pour faciliter la conversion en HTML (voir plus bas)
+echo "Analyses de la spécificité avec PALS"
 python ./programmes/cooccurrents.py --target "(xarxa|xarxes)" -s i -l 5 -N 50 --match-mode regex ./pals/pals_cat/dumps-text-cat.txt | column -t -s $'\t' > pals/pals_cat/cooccurents-dumps-text-cat.txt
 python ./programmes/cooccurrents.py --target "(xarxa|xarxes)" -s i -l 5 -N 50 --match-mode regex ./pals/pals_cat/contextes-cat.txt | column -t -s $'\t' > pals/pals_cat/cooccurents-contextes-cat.txt
 python ./programmes/cooccurrents.py --target "(xarxa|xarxes)" -s i -l 5 -N 50 --match-mode regex ./pals/pals_cat/dumps-text-cat.txt | cut -f 1- --output-delimiter ',' > pals/pals_cat/cooccurents-dumps-text-cat.csv
 python ./programmes/cooccurrents.py --target "(xarxa|xarxes)" -s i -l 5 -N 50 --match-mode regex ./pals/pals_cat/contextes-cat.txt | cut -f 1- --output-delimiter ',' > pals/pals_cat/cooccurents-contextes-cat.csv
 
 # Présente les résultats au format HTML
+echo "Présentation des résultats de l'analyse au format HTML"
 html_path="./pals/pals_cat/index.html"
 cat << EOF > "$html_path"
 <html>

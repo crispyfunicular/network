@@ -1,81 +1,33 @@
-     * Inici
-     * Blog d'Audiologia
-     * Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
+   Home » Notícies
 
-Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
+El ‘Nobel’ de la informàtica reconeix els avenços en les xarxes neuronals
 
-   Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
-   Publicat per Claso 10 Jun 0 Comentari(s) 2839 Vist(s) Novetats ,
-   Audiòfons
+   Submitted by editor Coeinf on 2 abril 2019 – 09:00No Comment
 --
-   En els últims anys, la tecnologia dels audiòfons ha avançat de manera
-   impressionant, i un dels majors avenços ha estat la implementació de
-   xarxes neuronals profundes. Marques com Oticon, líders en el sector de
-   l’audició, estan utilitzant aquesta tecnologia per oferir solucions
-   auditives molt més intel·ligents i precises. Però, què són les xarxes
-   neuronals profundes i com milloren l’experiència dels usuaris
-   d’audiòfons? T’ho expliquem a continuació.
-
-Què és una Xarxa Neuronal Profunda?
-
-   Les xarxes neuronals profundes (DNN, per les seves sigles en anglès)
-   són un tipus d'intel·ligència artificial que imita el funcionament del
-   cervell humà. Estan formades per capes de "neurones" artificials que
+   “Els premis Turing són com els Nobel de la informàtica i vénen a
+   reconèixer un camp que, després d’una etapa d’estancament, ha tornat a
+   ressorgir. Les xarxes neuronals han tingut un important passat i tenen
+   un prometedor futur “. Així destaca el catedràtic de Sistemes de la
+   Informació i Informàtica de Gestió de la Universitat Pablo de Olavide
 --
+   Geoffrey Hinton, Yann LeCun i Yoshua Bengio.
 
-   En els audiòfons, aquesta tecnologia s’utilitza per processar sons de
-   manera més eficient i precisa. Les xarxes neuronals poden identificar i
-   distingir sons importants (com les veus) d’aquells que no ho són (com
-   el soroll de fons). A mesura que el dispositiu rep més informació, la
-   xarxa neuronal aprèn a millorar i adaptar-se, oferint una experiència
-   auditiva personalitzada.
-
-   [red-neuronal-profunda-en-audifonos-la-innovacion-de-oticon-1.jpg]
-
-Com Funciona la Xarxa Neuronal en els Audiòfons?
-
-   Oticon ha implementat xarxes neuronals profundes en els seus audiòfons
-   per millorar el processament del so. Tradicionalment, els audiòfons
-   amplificaven tots els sons per igual, cosa que de vegades resultava en
-   una experiència auditiva poc natural o molesta en entorns sorollosos.
-   Amb la tecnologia de xarxes neuronals, els audiòfons Oticon poden fer
-   molt més que simplement amplificar el so.
-     * Captació del so: L’audiòfon rep el so del seu entorn a través del
+   Les xarxes neuronals, presents en multitud de dispositius ja
+   habituals, com els assistents de veu o els sistema de seguretat dels
+   vehicles, intenten imitar el cervell humà i han passat de treballar amb
 --
-       sons de fons.
+   milió de dòlars del premi als tres investigadors. El primer treballa
+   per a Google; el segon, per a Facebook; i el tercer per a IBM i
+   Microsoft. Les tres companyies compten amb les xarxes neuronals com a
+   eines fonamentals en els seus programes de reconeixement, classificació
+   i control.
 
-     * Processament intel·ligent: La xarxa neuronal profunda analitza cada
-       component del so, diferenciant entre el que és rellevant (com una
-       conversa) i el que és soroll (com el so del trànsit o el vent).
+   Les xarxes neuronals es basen en sistemes matemàtics cada vegada més
+   complexos que poden aprendre de l’anàlisi de quantitats d’informació,
+   segons explica Salmerón, que també és investigador i membre d’entitats
 --
-
-     * Adaptació en temps real: A mesura que l’audiòfon rep més informació
-       de l’entorn i de l'usuari, la xarxa neuronal s’adapta i millora.
-       Per exemple, en una conversa en una cafeteria sorollosa, l’audiòfon
-       pot reduir el soroll de fons i centrar-se més en la veu de la
---
-       qualitat auditiva més precisa i còmoda en diferents contextos.
-
-Beneficis de les Xarxes Neuronals en els Audiòfons
-
-   La implementació de xarxes neuronals profundes porta amb si nombrosos
-   beneficis per a qui utilitza audiòfons:
-     * Major claredat en l’audició: Gràcies a la capacitat de diferenciar
---
-       o reunions, on el soroll de fons pot dificultar la comprensió.
-
-     * Ajust automàtic a l’entorn: Els audiòfons amb xarxes neuronals
-       s’ajusten automàticament a diferents entorns sonors, sense
-       necessitat d’intervenció per part de l’usuari. Això vol dir que no
---
-       oferir una experiència auditiva més còmoda i satisfactòria.
-
-     * Rendiment en temps real: Els audiòfons amb xarxes neuronals
-       profundes no només són més intel·ligents, sinó que també són més
-       ràpids. La capacitat de processar i ajustar el so en temps real
---
-       sense retards ni distorsions.
-
-   Oticon ha estat una de les marques pioneres a integrar xarxes neuronals
-   profundes en els seus audiòfons, i el resultat ha estat una millora
-   significativa en la qualitat de vida dels usuaris. Aquests dispositius
+   intel·ligents. Investigadors del Departament d’Enginyeria Mecànica de
+   la Universitat de Màlaga (UMA) han desenvolupat un sistema de seguretat
+   per a vehicles inspirat en les xarxes neuronals d’impuls ( spiking
+   neural networks ), models artificials que actuen de forma molt similar
+   a les biològiques, a l’hora de processar la informació.

@@ -1,74 +1,145 @@
-   ____________________ (BUTTON)
 
-POLÍTICA DE PRIVACITAT XARXES SOCIALES
-
-     * Home
-     * POLÍTICA DE PRIVACITAT XARXES SOCIALES
-
-   De conformitat amb el que s’estableix en la normativa vigent i
+   A la vida real, tenim una identitat: el nostre nom, DNI, el carrer on
+   vivim, el nostre treball…, però a la xarxa també existeix una identitat
+   que ens caracteritza a Internet. En aquest mòdul aprendrem què és la
+   identitat digital, com es forma, i el que implica per a nosaltres en
 --
-   d’11 de juliol, de Serveis de la Societat de la Informació i de Comerç
-   Electrònic (LSSI-CE), PRODENTS CENTRE ODONTOLOGIC SL informa els
-   usuaris, que ha procedit a crear un perfil en les Xarxes Socials
-   Facebook, Twitter i Instagram, amb la finalitat principal de publicitar
-   els seus productes i serveis.
---
-     * DOMINI WEB: www.prodentsbcn.com
+   Què és la identitat digital?
 
-   L’usuari disposa d’un perfil en la mateixa Xarxa Social i ha decidit
-   unir-se a la pàgina creada per PRODENTS CENTRE ODONTOLOGIC SL, mostrant
-   així interès en la informació que es publiciti en la Xarxa. En unir-se
-   a la nostra pàgina, ens facilita el seu consentiment per al tractament
-   d’aquelles dades personals publicades en el seu perfil.
-   L’usuari pot accedir en tot moment a les polítiques de privacitat de la
-   pròpia Xarxa Social, així com configurar el seu perfil per a garantir
-   la seva privacitat.
-   PRODENTS CENTRE ODONTOLOGIC SL té accés i tracta aquella informació
-   pública de l’usuari, especialment, el seu nom de contacte. Aquestes
-   dades, només són utilitzats dins de la pròpia Xarxa Social. No són
-   incorporats a cap sistema de tractament.
+   És tot allò que saben els altres de nosaltres a través de les xarxes
+   socials, a través d'Internet, de serveis on ens hem registrat… Totes
+   les empremtes que deixem quan utilitzem Internet, com ara comentaris,
+--
+   interessats, sobre els quals hem llegit o hem vist a Internet.
+
+   També a les xarxes socials es deixen rastres amb els likes, comentaris,
+   retuits… Les diferents xarxes socials tenen també diferents nivells de
+   privacitat que poden deixar aquesta informació més o menys exposada.
+   Els termes i condicions de privacitat solen canviar freqüentment, i
+--
+   Un perfil digital es pot definir com la materialització de la identitat
+   digital. La manera de definir la identitat digital és mitjançant la
+   creació de perfils als diferents serveis, correus, xarxes socials… Hem
+   de saber configurar-los i gestionar-los correctament per deixar visible
+   allò que volem i a qui.
+
+   Ara bé, això no vol dir hàgim de tenir por d'utilitzar les xarxes
+   socials, blogs, correu, etc., ja que són eines necessàries i molt
+   útils. Tampoc no es tracta d'utilitzar-les totes: hem de saber
+--
+   digital, per exemple, per veure el contingut de diverses comptes a la
+   vegada, i publicar i esborrar contingut més fàcilment. Si fem ús de
+   diverses xarxes socials i volem mantenir una coherència entre elles,
+   eines com Hootsuite o TweetDeck poden ajudar-nos.
+
+   També hi ha eines que ajuden en la detecció de l’existència de perfils
+   digitals. L’eina Check User ens permet comprovar si un determinar nom
+   d’usuari existeix a les xarxes socials. Tot i que a vegades tenim
+   diferents noms per cada xarxa social, és molt comú reutilitzar-lo
+   (igual que les contrasenyes) i d’aquesta manera trobar més informació
+   de l’usuari en qüestió.
+--
+Protecció de perfils i identitats
+
+   Quan ens donem d’alta a un servei, una xarxa social, blog… sempre ens
+   demanaran:
+     * Usuari (a vegades serà el nostre correu electrònic).
+--
+       federada: Google, Facebook).
+
+   I, en funció del tipus de xarxa o servei, també podrà demanar dades més
+   personals:
+     * Informació personal (data de naixement, sexe, professió ….)
+--
+   personals. Cal tenir una contrasenya robusta i, si es pot, un doble
+   factor d'autenticació activat. Però també hem de tenir en compte les
+   xarxes socials, a les que no tan sols es consumeixen continguts, sinó
+   que també se’n comparteixen.Aquesta compartició comporta una pèrdua de
+   privacitat, doncs les persones amb qui compartim la informació del que
+--
+   que altres persones ens etiquetin a fotos que publiquen des dels seus
+   perfils, d’aquesta manera minimitzem la informació que hi ha sobre
+   nosaltres a les xarxes, a allò que nosaltres volem que sigui públic.
+
+   Sempre cal seguir les recomanacions que ens ofereixen els serveis per
+--
+
+   Us mostrem els passos a seguir per esborrar-ho definitivament. Val a
+   dir, però, que algunes vegades, algunes xarxes socials ho posen molt
+   difícil:
+     * Per esborrar comptes de xarxes socials:
+          + Si només hi ha un compte, es pot entrar a la xarxa i anar a
+            l'opció d'eliminar el compte i tots els seus registres.
+          + Però si volem eliminar diversos comptes, disposem de les eines
+--
+   emmagatzemada als seus servidors. Per això, el primer pas és sempre
+   tenir cura del que compartim a Internet i amb qui ho compartim, ja que
+   una vegada es troba a la xarxa, el més probable és que mai desaparegui
+   per complet.
+
+   Recomanacions de configuracions a les xarxes socials
+
+   Actualment, les xarxes socials són el nostre mètode principal de
+   comunicació tant en l'àmbit professional com amb els nostres amics i
+   familiars. Hi compartim contingut personal com ara aniversaris,
+   esdeveniments als quals hem anat, opinions sobre un tema del moment,
+   fins i tot professionals… És important entendre que tot el que
+   compartim en les xarxes socials pot arribar a ser vist per persones que
+   no coneixem o que no volem que tinguin accés a aquesta informació.
 
 --
-       publicada en la pàgina de PRODENTS CENTRI ODONTOLOGIC SL.
-     * Enviar missatges personals i individuals a través dels canals de la
-       Xarxa Social.
-     * Actualitzacions de l’estat de la pàgina que es publicaran en el
-       perfil de l’usuari.
---
-   SL, podrà publicar en aquesta última comentaris, enllaços, imatges o
-   fotografies o qualsevol altre tipus de contingut multimèdia suportat
-   per la Xarxa Social. L’usuari, en tots els casos, ha de ser el titular
-   d’aquests, gaudir dels drets d’autor i de propietat intel·lectual o
-   comptar amb el consentiment dels tercers afectats. Es prohibeix
---
-   Les imatges que puguin publicar-se en la pàgina no seran emmagatzemades
-   en cap sistema de tractament per part de PRODENTS CENTRE ODONTOLOGIC
-   SL, però si que romandran en la Xarxa Social.
+   nostres publicacions.
 
-Concursos i promocions
+   Internet Segura: Guia per a l'ús segur de les xarxes sociales
+
+   En el vídeo següent podeu observar els riscos associats a una mala
 --
-   i promocions, en els quals podrà participar l’usuari unit a la seva
-   pàgina. Les bases de cadascun d’ells, quan s’utilitzi per a això la
-   plataforma de la Xarxa Social, seran publicades en aquesta. Complint
-   sempre amb la LSSI-CE i amb qualsevol altra norma que li sigui
-   aplicable.
-   La Xarxa Social no patrocina, avala ni administra, de cap manera, cap
-   de les nostres promocions, ni està associada a cap d’elles.
-
-Publicitat
-
-   PRODENTS CENTRE ODONTOLOGIC SL utilitzarà la Xarxa Social per a
-   publicitar els seus productes i serveis, en tot cas, si decideix
-   tractar les seves dades de contacte per a realitzar accions directes de
+   suplantació d’identitat. La suplantació d’identitat consisteix en què
+   un tercer (un atacant) utilitza les nostres dades per fer-se passar per
+   nosaltres amb perfils de xarxes socials falsos o comptes de correu
+   electrònic amb el nostre nom. Poden utilitzar les fotografies de
+   Facebook o Instagram per donar veracitat al compte, i fer creure amics
 --
-   gaudir de les promocions o estar informats de la seva activitat.
-
-   A continuació detallem l’enllaç a la política de privacitat de la Xarxa
-   Social:
-   assessorament i adaptació a la lssi-ce · documentació
+   contrasenyes entre diferents serveis. Els atacants recullen
+   contrasenyes de filtracions de llocs web i intenten utilitzar-les en
+   tots els serveis que puguin beneficiar-los, com ara xarxes socials,
+   bancs i correu electrònic. D'aquesta manera es poden aconseguir diners
+   o mitjans per realitzar campanyes de spam, a més de robar la nostra
 --
-   POLÍTICA DE PRIVACITAT
-   POLÍTICA DE COOKIES
-   POLÍTICA DE PRIV. XARXES SOCIALS
-   AVÍS LEGAL
+Denunciar el robatori de la teva identitat digital
 
+   Quan detectem indicis que algun compte de les nostres xarxes socials o
+   serveis que usem ha pogut ser robada (no pots entrar en el compte com
+   ho feies habitualment, veus que des del teu compte s'estan enviant
+--
+   que un robatori d'identitat comporta.
+
+   Totes les xarxes socials i serveis han de disposar d'algun mitjà,
+   telèfon o aplicació perquè puguis fer-lo.. a continuació us indiquem la
+   manera de fer-lo en les xarxes més conegudes (font):
+
+   Gmail:
+--
+   https://help.twitter.com/forms/impersonation
+
+Optimització de la imatge i la reputació. Empremta digital a les Xarxes
+
+   Informació disponible a Internet sobre nosaltres (o altres)
+--
+   El nostre nom d'usuari o nickname implica més del que pensem a
+   Internet. És molt comú utilitzar el mateix nom d’usuari a diferents
+   plataformes, com ara fòrums, blogs, aplicacions en línia, xarxes
+   socials… I si aquest nom d’usuari està lligat al nostre nom propi,
+   podem estar exposant més informació de la que volem.
+--
+
+   I finalment, però no per ells menys important ,una altra cosa important
+   per a la nostra reputació digital és usar només aquelles xarxes socials
+   o professionals que anem a utilitzar, és millor no ser present que ser
+   present i no tenir cap mena d'activitat en mesos, o no respondre a
+--
+
+   També hem de vigilar la informació que compartim nosaltres. En general,
+   la gran majoria de serveis web, des d'una xarxa social fins a un banc,
+   no ens demanaran dades personals, i encara menys la contrasenya, a
+   través d'un fòrum o xat de missatgeria instantània. Davant del dubte,

@@ -1,265 +1,654 @@
-   #alternate alternate alternate Prodents BCN » Feed Prodents BCN »
-   Comments Feed JSON oEmbed (JSON) oEmbed (XML)
+   #Formació del professorat start Mapa del lloc Canvis recents Current
+   namespace Plain HTML Wiki Markup
 
-     *
-     *
-     *
+   gencat.cat
+   gencat.cat
+   Ateneu
+   Ateneu
+   (BUTTON) Obrir navegació
+   Curs de Ciberseguretat a l'aula
 
-      933 30 60 50
+   Curs de Ciberseguretat a l'aula
+     * <<
+       Tanca
+     * <
+       Tanca
 
-     info@prodentsbcn.com
+    1.
+    2. Inici
+    3. Mòdul4
+    4. 1identitats
 
-   prodents
-   (BUTTON)
+   (BUTTON) Formació del professorat Formació del professorat
+     * Entra
 
-     * Inici
-     * SOBRE NOSALTRES
-     * SERVEIS
-          + Pròtesis
-          + Implants
-          + Endodòncia
-          + Estètica
-     * INSTAL·LACIONS
-     * CONTACTE
-     * Català
-          + Español
+Identitat i perfil
 
-   ____________________ (BUTTON)
+   A la vida real, tenim una identitat: el nostre nom, DNI, el carrer on
+   vivim, el nostre treball…, però a la xarxa també existeix una identitat
+   que ens caracteritza a Internet. En aquest mòdul aprendrem què és la
+   identitat digital, com es forma, i el que implica per a nosaltres en
+   termes de seguretat i privacitat. Només així es pot controlar i reduir
+   l’impacte negatiu que pot tenir en les nostres vides i en el nostre dia
+   a dia laboral.
 
-POLÍTICA DE PRIVACITAT XARXES SOCIALES
+   IFRAME: //www.youtube.com/embed/uaaC57tcci0
 
-     * Home
-     * POLÍTICA DE PRIVACITAT XARXES SOCIALES
+Identitat i perfil digital
 
-   De conformitat amb el que s’estableix en la normativa vigent i
-   aplicable de protecció de dades de caràcter personal i la Llei 34/2002,
-   d’11 de juliol, de Serveis de la Societat de la Informació i de Comerç
-   Electrònic (LSSI-CE), PRODENTS CENTRE ODONTOLOGIC SL informa els
-   usuaris, que ha procedit a crear un perfil en les Xarxes Socials
-   Facebook, Twitter i Instagram, amb la finalitat principal de publicitar
-   els seus productes i serveis.
+   Què és la identitat digital?
 
-Dades de PRODENTS CENTRE ODONTOLOGIC SL:
+   És tot allò que saben els altres de nosaltres a través de les xarxes
+   socials, a través d'Internet, de serveis on ens hem registrat… Totes
+   les empremtes que deixem quan utilitzem Internet, com ara comentaris,
+   l'ús d'aplicacions, registres de correus electrònics… formen part de la
+   identitat digital, i pot ser rastrejat. Es pot tenir més d'una
+   identitat digital, i això és molt important tenir-ho en compte de cara
+   a saber definir-les i gestionar-les.
 
-     * NIF: B67100370
-     * ADREÇA: CL ARIZALA 11 17 PLT BJ 08028, BARCELONA
-     * CORREU ELECTRÒNIC: info@prodentsbcn.com
-     * DOMINI WEB: www.prodentsbcn.com
+   Les maneres en què deixem rastres digitals són diverses. Els llocs web
+   i les botigues en línia utilitzen galetes per rastrejar els moviments
+   entre llocs web, i d'aquesta manera generar un perfil personal nostre
+   amb els nostres comportaments i tendències. Així aconsegueixen
+   mostrar-nos publicitat de productes en els quals podríem estar
+   interessats, sobre els quals hem llegit o hem vist a Internet.
 
-   L’usuari disposa d’un perfil en la mateixa Xarxa Social i ha decidit
-   unir-se a la pàgina creada per PRODENTS CENTRE ODONTOLOGIC SL, mostrant
-   així interès en la informació que es publiciti en la Xarxa. En unir-se
-   a la nostra pàgina, ens facilita el seu consentiment per al tractament
-   d’aquelles dades personals publicades en el seu perfil.
-   L’usuari pot accedir en tot moment a les polítiques de privacitat de la
-   pròpia Xarxa Social, així com configurar el seu perfil per a garantir
-   la seva privacitat.
-   PRODENTS CENTRE ODONTOLOGIC SL té accés i tracta aquella informació
-   pública de l’usuari, especialment, el seu nom de contacte. Aquestes
-   dades, només són utilitzats dins de la pròpia Xarxa Social. No són
-   incorporats a cap sistema de tractament.
+   També a les xarxes socials es deixen rastres amb els likes, comentaris,
+   retuits… Les diferents xarxes socials tenen també diferents nivells de
+   privacitat que poden deixar aquesta informació més o menys exposada.
+   Els termes i condicions de privacitat solen canviar freqüentment, i
+   usualment els acceptem sense llegir-los detingudament. Per tant, la
+   informació que un temps abans estava protegida o resguardada pot estar
+   ara en mans de tercers, que la utilitzaran per treure'n un benefici
+   econòmic.
 
-Drets dels interessats
+   Evidentment, en funció de com gestionem la identitat digital,
+   repercutirà directament en la nostra reputació, la nostra visibilitat i
+   la nostra privacitat.
 
-   En relació als drets d’accés, rectificació, limitació de tractament,
-   supressió, portabilitat i oposició al tractament de les seves dades de
-   caràcter personal, dels quals vostè disposa i que poden ser exercitats
-   davant PRODENTS CENTRE ODONTOLOGIC SL, d’acord amb el RGPD, ha de tenir
-   en compte els següents matisos:
-     * Dret d’Accés: És el dret de l’usuari a obtenir informació sobre les
-       seves dades concretes de caràcter personal i del tractament que
-       s’hagi realitzat o realitzi, així com de la informació disponible
-       sobre l’origen d’aquestes dades i les comunicacions realitzades o
-       previstes d’aquests.
-     * Dret de Rectificació: És el dret de l’afectat al fet que es
-       modifiquin les dades que resultin ser inexactes o incomplets. Només
-       podrà satisfer-se en relació a aquella informació que es trobi sota
-       el control de PRODENTS CENTRE ODONTOLOGIC SL, per exemple, eliminar
-       comentaris publicats en la pròpia pàgina, imatges o continguts web
-       on constin dades de caràcter personal de l’usuari.
-     * Dret a la Limitació de tractament: És el dret al fet que es limitin
-       els fins del tractament previstos de manera original pel
-       responsable del tractament.
-     * Dret de Supressió: És el dret a suprimir les dades de caràcter
-       personal de l’usuari, a excepció del que es preveu en el propi RGPD
-       o en altres normatives aplicables que determinin l’obligatorietat
-       de la conservació d’aquests, dins del termini i en la forma
-       escaient.
-     * Dret de portabilitat: El dret a rebre les dades personals que
-       l’usuari, hagi facilitat, en un format estructurat, d’ús comú i
-       lectura mecànica, i a transmetre’ls a un altre responsable.
-     * Dret d’Oposició: És el dret de l’usuari al fet que no es dugui a
-       terme el tractament de les seves dades de caràcter personal o se
-       cessi el tractament dels mateixos per part de PRODENTS CENTRI
-       ODONTOLOGIC SL.
+   Què és un perfil digital?
 
-PRODENTS CENTRE ODONTOLOGIC SL realitzarà les següents actuacions:
+   Un perfil digital es pot definir com la materialització de la identitat
+   digital. La manera de definir la identitat digital és mitjançant la
+   creació de perfils als diferents serveis, correus, xarxes socials… Hem
+   de saber configurar-los i gestionar-los correctament per deixar visible
+   allò que volem i a qui.
 
-     * Accés a la informació pública del perfil.
-     * Publicació en el perfil de l’usuari de tota aquella informació ja
-       publicada en la pàgina de PRODENTS CENTRI ODONTOLOGIC SL.
-     * Enviar missatges personals i individuals a través dels canals de la
-       Xarxa Social.
-     * Actualitzacions de l’estat de la pàgina que es publicaran en el
-       perfil de l’usuari.
-     * L’usuari sempre pot controlar les seves connexions, eliminar els
-       continguts que deixin d’interessar-li i restringir amb qui
-       comparteix les seves connexions, per a això haurà d’accedir a la
-       seva configuració de privacitat.
+   Ara bé, això no vol dir hàgim de tenir por d'utilitzar les xarxes
+   socials, blogs, correu, etc., ja que són eines necessàries i molt
+   útils. Tampoc no es tracta d'utilitzar-les totes: hem de saber
+   seleccionar quina és la més adequada per assolir l'objectiu:
+     * Quin tipus d'informació volem transmetre?: personal, professional,
+       de empresa, familiar, de valors…
+     * Com volem transmetre la informació?: Visual, gràfica, textual…
 
-Publicacions
+Gestionant la teva identitat digital
 
-   L’usuari, una vegada unit a la pàgina de PRODENTS CENTRE ODONTOLOGIC
-   SL, podrà publicar en aquesta última comentaris, enllaços, imatges o
-   fotografies o qualsevol altre tipus de contingut multimèdia suportat
-   per la Xarxa Social. L’usuari, en tots els casos, ha de ser el titular
-   d’aquests, gaudir dels drets d’autor i de propietat intel·lectual o
-   comptar amb el consentiment dels tercers afectats. Es prohibeix
-   expressament qualsevol publicació en la pàgina, ja siguin textos,
-   gràfics, fotografies, vídeos, etc. que atemptin o siguin susceptibles
-   d’atemptar contra la moral, l’ètica, el bon gust o el decòrum, i/o que
-   infringeixin, violin o infringeixin els drets de propietat
-   intel·lectual o industrial, el dret a la imatge o la Llei. En aquests
-   casos, PRODENTS CENTRE ODONTOLOGIC SL es reserva el dret a retirar
-   immediatament el contingut, podent sol·licitar el bloqueig permanent de
-   l’usuari.
-   PRODENTS CENTRI ODONTOLOGIC SL no es farà responsable dels continguts
-   que lliurement ha publicat un usuari.
-   L’usuari ha de tenir present que les seves publicacions seran conegudes
-   pels altres usuaris, per la qual cosa ell mateix és el principal
-   responsable de la seva privacitat.
-   Les imatges que puguin publicar-se en la pàgina no seran emmagatzemades
-   en cap sistema de tractament per part de PRODENTS CENTRE ODONTOLOGIC
-   SL, però si que romandran en la Xarxa Social.
+   Existeixen eines que ens ajuden a gestionar la nostra identitat
+   digital, per exemple, per veure el contingut de diverses comptes a la
+   vegada, i publicar i esborrar contingut més fàcilment. Si fem ús de
+   diverses xarxes socials i volem mantenir una coherència entre elles,
+   eines com Hootsuite o TweetDeck poden ajudar-nos.
 
-Concursos i promocions
+   També hi ha eines que ajuden en la detecció de l’existència de perfils
+   digitals. L’eina Check User ens permet comprovar si un determinar nom
+   d’usuari existeix a les xarxes socials. Tot i que a vegades tenim
+   diferents noms per cada xarxa social, és molt comú reutilitzar-lo
+   (igual que les contrasenyes) i d’aquesta manera trobar més informació
+   de l’usuari en qüestió.
 
-   PRODENTS CENTRE ODONTOLOGIC SL es reserva el dret a realitzar concursos
-   i promocions, en els quals podrà participar l’usuari unit a la seva
-   pàgina. Les bases de cadascun d’ells, quan s’utilitzi per a això la
-   plataforma de la Xarxa Social, seran publicades en aquesta. Complint
-   sempre amb la LSSI-CE i amb qualsevol altra norma que li sigui
-   aplicable.
-   La Xarxa Social no patrocina, avala ni administra, de cap manera, cap
-   de les nostres promocions, ni està associada a cap d’elles.
+Protecció de perfils i identitats
 
-Publicitat
+   Quan ens donem d’alta a un servei, una xarxa social, blog… sempre ens
+   demanaran:
+     * Usuari (a vegades serà el nostre correu electrònic).
+     * Contrasenya (depèn del servei, es pot fer servir una identitat
+       federada: Google, Facebook).
 
-   PRODENTS CENTRE ODONTOLOGIC SL utilitzarà la Xarxa Social per a
-   publicitar els seus productes i serveis, en tot cas, si decideix
-   tractar les seves dades de contacte per a realitzar accions directes de
-   prospecció comercial, serà sempre, complint amb les exigències legals
-   del RGPD i de la LSSI-CE.
-   No es considerarà publicitat el fet de recomanar a altres usuaris la
-   pàgina de PRODENTS CENTRE ODONTOLOGIC SL perquè també ells puguin
-   gaudir de les promocions o estar informats de la seva activitat.
+   I, en funció del tipus de xarxa o servei, també podrà demanar dades més
+   personals:
+     * Informació personal (data de naixement, sexe, professió ….)
+     * Telèfon
+     * Segona adreça de correu per seguretat
 
-   A continuació detallem l’enllaç a la política de privacitat de la Xarxa
-   Social:
-   assessorament i adaptació a la lssi-ce · documentació
-     * Facebook: https://www.facebook.com/help/323540651073243/
-     * Twitter: https://twitter.com/privacy
-     * Instagram: http://instagram.com/about/legal/privacy/
+   Quan es donen totes aquestes dades, hem de vigilar de seleccionar les
+   opcions correctes perquè no siguin visibles per part de ningú.
 
-Segueix-nos a Facebook
+   Paral·lelament, hem de llegir les polítiques de privacitat i les
+   condicions d'ús abans de donar el consentiment; en cas que no estiguem
+   d'acord o no siguin clares, no hem de fer l'alta. Aquestes polítiques
+   canvien regularment. Per això cal revisar-les quan això es produeixi.
 
-   Facebook Pagelike Widget
+   Protecció de la imatge personal i l’honor: intimitat, confidencialitat
 
-   ×
+   Per què és necessari protegir la imatge personal?
 
-Make an appointment and we’ll contact you.
+   Protegir la imatge personal implica protegir bé l'accés a les dades
+   personals. Cal tenir una contrasenya robusta i, si es pot, un doble
+   factor d'autenticació activat. Però també hem de tenir en compte les
+   xarxes socials, a les que no tan sols es consumeixen continguts, sinó
+   que també se’n comparteixen.Aquesta compartició comporta una pèrdua de
+   privacitat, doncs les persones amb qui compartim la informació del que
+   fem, en poden treure conclusions que poden donar-los informació dels
+   nostres hàbits de conducta, desplaçaments, preferències de consum,
+   esport, etc.
 
-   Error: Contact form not found.
+   El resultat directe és una pèrdua de privacitat, més o menys consentida
+   o provocada per la nostra conducta. Però també pot ser potenciada o
+   amplificada per programes maliciosos com “Addware”, que usen aquestes
+   informacions per extreure'n un perfil nostre i incrustar anuncis
+   publicitaris als que podem ser especialment sensibles.
 
-Message Sent
+   Però no sols és això. Amb aquesta informació que compartim, qualsevol
+   que en tingui accés pot crear perfils falsos amb imatges i frases que
+   nosaltres hem publicat, per fer versemblant que el aquest perfil
+   d’identitat suplantador l’hem creat nosaltres i no un impostor/a. Amb
+   aquests perfils de suplantació d’identitat, es poden cometre altres
+   tipus d’atacs o delictes que veurem més endavant, i en el millor dels
+   casos, desprestigiar-nos davant dels nostres amics, coneguts o companys
+   de feina.
 
-     * Inici
-     * SOBRE NOSALTRES
-     * SERVEIS
-          + Pròtesis
-          + Implants
-          + Endodòncia
-          + Estètica
-     * INSTAL·LACIONS
-     * CONTACTE
-     * Català
-          + Español
+   Per evitar-ho, el primer que hem de fer és limitar la informació que
+   publiquem en temps real de la que se’n pugui deduir on som (reunions
+   públiques, espectacles, etc.). També hem de limitar la possibilitat de
+   que altres persones ens etiquetin a fotos que publiquen des dels seus
+   perfils, d’aquesta manera minimitzem la informació que hi ha sobre
+   nosaltres a les xarxes, a allò que nosaltres volem que sigui públic.
 
-Facebook
+   Sempre cal seguir les recomanacions que ens ofereixen els serveis per
+   tal de protegir correctament les nostres dades exposades i revisar
+   sempre la nostra empremta digital.
 
-   Facebook Pagelike Widget
+   Així ho recomana Google:
 
-Contacte
+   https://tinyurl.com/y5j7oc8d
 
-      933 30 60 50
+   Podem esborrar la nostra empremta digital?
 
-      info@prodentsbcn.com
-     *
-     *
-     *
-     *
+   Quan ens trobem amb alguna dada, foto o perfil que ens agradaria
+   eliminar, no sabem si realment esborrant-ho o demanant al servei que ho
+   té publicat que ho esborri serà suficient per no tornar-ho a veure en
+   cap altre lloc.
 
-ADREÇA
+   Us mostrem els passos a seguir per esborrar-ho definitivament. Val a
+   dir, però, que algunes vegades, algunes xarxes socials ho posen molt
+   difícil:
+     * Per esborrar comptes de xarxes socials:
+          + Si només hi ha un compte, es pot entrar a la xarxa i anar a
+            l'opció d'eliminar el compte i tots els seus registres.
+          + Però si volem eliminar diversos comptes, disposem de les eines
+            següents, que ens ajuden a fer-ho:
+               o https://www.deseat.me/
+               o https://www.accountkiller.com/es
 
-   Centro Odontológico Prodents
-   Avenida Madrid 36
-   Barcelona
-   08028, Barcelona
+     * Si es tracta d'informació personal, dades publicades que no volem
+       que siguin exposades, fotos… podem omplir el formulari següent a
+       Google per tal de demanar que deixi d'indexar les pàgines que
+       contenen aquesta informació i, si està al seu abast, que les
+       esborrin:
 
-   POLÍTICA DE PRIVACITAT
-   POLÍTICA DE COOKIES
-   POLÍTICA DE PRIV. XARXES SOCIALS
-   AVÍS LEGAL
+   https://www.google.com/webmasters/tools/legal-removal-request?complaint
+   _type=rtbf
 
-   Centro Odontológico Prodents © 2021
-     * Inici
-     * SOBRE NOSALTRES
-     * SERVEIS
-          + Pròtesis
-          + Implants
-          + Endodòncia
-          + Estètica
-     * INSTAL·LACIONS
-     * CONTACTE
-     * Català
-          + Español
+   Malauradament, és gairebé impossible esborrar per complet qualsevol
+   peça d’informació que s’hagi trobat en algun moment a Internet. No
+   podem saber si algun individu o corporació ha fet una còpia i la té
+   emmagatzemada als seus servidors. Per això, el primer pas és sempre
+   tenir cura del que compartim a Internet i amb qui ho compartim, ja que
+   una vegada es troba a la xarxa, el més probable és que mai desaparegui
+   per complet.
 
-   Aquest lloc web utilitza Cookies pròpies i de tercers, per a recopilar
-   informació amb la finalitat de millorar els nostres serveis, així com
-   analitzar els seus hàbits de navegació. L'usuari té la possibilitat de
-   configurar les seves preferències a CONFIGURACIÓ..
-   (BUTTON) Close GDPR Cookie Banner
-   (BUTTON) Acceptar (BUTTON) Rebutjar (BUTTON) Configuració (BUTTON)
-   Close GDPR Cookie Banner
+   Recomanacions de configuracions a les xarxes socials
 
-   Hola 👋 ¿En qué podemos ayudarte?
-   Abrir chat
+   Actualment, les xarxes socials són el nostre mètode principal de
+   comunicació tant en l'àmbit professional com amb els nostres amics i
+   familiars. Hi compartim contingut personal com ara aniversaris,
+   esdeveniments als quals hem anat, opinions sobre un tema del moment,
+   fins i tot professionals… És important entendre que tot el que
+   compartim en les xarxes socials pot arribar a ser vist per persones que
+   no coneixem o que no volem que tinguin accés a aquesta informació.
 
-   (BUTTON) Close GDPR Cookie Settings
-     * (BUTTON) Resum de la privacitat
-     * (BUTTON) Cookies necessàries per motius tècnics
-     * (BUTTON) Cookies analítiques
+   La principal recomanació de configuració és mantenir el nostre perfil
+   en manera privada, i protegir la informació més sensible perquè no
+   tothom la pugui veure. En cas de tractar-se d'un perfil professional o
+   de centre, interessarà tenir-lo obert, però tenint en compte totes les
+   recomanacions anteriors.
 
-   PRODENTS CENTRE ODONTOLOGIC SL  GDPR Cookie Compliance
-   Resum de la privacitat
+   A Facebook, tenim l'opció de veure el nostre perfil i biografia com la
+   veuria algú que no tenim agregat en el nostre grup d'amics. Aquesta és
+   una manera idònia per verificar que allò que compartim es manté amb un
+   cert nivell de privacitat.
 
-   Aquest lloc web utilitza Cookies pròpies i de tercers, per a recopilar
-   informació amb la finalitat de millorar els nostres serveis, per a
-   mostrar-li publicitat relacionada amb les seves preferències, així com
-   analitzar els seus hàbits de navegació. L'usuari té la possibilitat de
-   configurar les seves preferències a la opció CONFIGURACIÓ.
-   Cookies necessàries per motius tècnics
+   Twitter ens permet tenir un compte tancat amb clau, que fa que només
+   els nostres seguidors (als qui hem d'acceptar explícitament) puguin
+   veure els nostres tuits.
 
-   Les cookies tècniques són aquelles que permeten a l'usuari la navegació
-   a través d'una pàgina web, plataforma o aplicació i la utilització de
-   les diferents opcions o serveis que en ella existeixin.
-   Enable or Disable Cookies [ ] Activat Desactivat
-   Cookies analítiques
+   Instagram té una funcionalitat semblant: si el nostre compte és privat,
+   només aquells usuaris que acceptem com a seguidors podran veure les
+   nostres publicacions.
 
-   Esta web utiliza Google Analytics para recopilar información anónima
-   tal como el número de visitantes del sitio, o las páginas más
-   populares.
+   Internet Segura: Guia per a l'ús segur de les xarxes sociales
 
-   Dejar esta cookie activa nos permite mejorar nuestra web.
-   Enable or Disable Cookies [ ] Activat Desactivat
-   (BUTTON) Activar tot (BUTTON) Rebutjar tot (BUTTON) Guardar canvis
+   En el vídeo següent podeu observar els riscos associats a una mala
+   gestió de la identitat digital:
+
+   IFRAME: //www.youtube.com/embed/7NQy2AUqgyU
+
+   Recomanacions d’exposició d'informació personal: possibles perills
+
+   La nostra informació personal és valuosa, i els atacants ho saben.
+   Totes les dades personals poden ser utilitzades per a finalitats
+   diverses que ens poden afectar negativament. Per això és important
+   minimitzar la quantitat d’informació que tenim exposada a Internet.
+
+   Un dels principals perills de tenir informació sensible exposada és la
+   suplantació d’identitat. La suplantació d’identitat consisteix en què
+   un tercer (un atacant) utilitza les nostres dades per fer-se passar per
+   nosaltres amb perfils de xarxes socials falsos o comptes de correu
+   electrònic amb el nostre nom. Poden utilitzar les fotografies de
+   Facebook o Instagram per donar veracitat al compte, i fer creure amics
+   i familiars que en realitat som nosaltres.
+
+   Les finalitats poden ser diverses, però usualment es tracta de
+   realitzar campanyes de phishing basant-se en la confiança que els
+   nostres contactes tenen en nosaltres. Per exemple, poden parlar amb
+   familiars o amics per missatgeria instantània i aconseguir que facin un
+   clic en un enllaç que els porta a una pàgina web fraudulenta, des d'on
+   es poden extreure les credencials.
+
+   Però sovint les suplantacions d’identitat digital s'esdevenen per causa
+   del robatori de contrasenyes. Per això és important no reutilitzar
+   contrasenyes entre diferents serveis. Els atacants recullen
+   contrasenyes de filtracions de llocs web i intenten utilitzar-les en
+   tots els serveis que puguin beneficiar-los, com ara xarxes socials,
+   bancs i correu electrònic. D'aquesta manera es poden aconseguir diners
+   o mitjans per realitzar campanyes de spam, a més de robar la nostra
+   informació.
+
+Denunciar el robatori de la teva identitat digital
+
+   Quan detectem indicis que algun compte de les nostres xarxes socials o
+   serveis que usem ha pogut ser robada (no pots entrar en el compte com
+   ho feies habitualment, veus que des del teu compte s'estan enviant
+   missatges que no són teus, etc), cal actuar ràpid i denunciar o parar
+   al més aviat possible aquest robatori per a evitar tots els problemes
+   que un robatori d'identitat comporta.
+
+   Totes les xarxes socials i serveis han de disposar d'algun mitjà,
+   telèfon o aplicació perquè puguis fer-lo.. a continuació us indiquem la
+   manera de fer-lo en les xarxes més conegudes (font):
+
+   Gmail:
+
+   Com protegir un Compte de Google hackeada o vulnerada?:
+
+   https://support.google.com/accounts/answer/6294825?hl=es-419#zippy=
+
+   Informar d'un abús o hackeo del compte:
+
+   https://support.google.com/mail/contact/abuse
+
+   TikTok:
+
+   Què fer si algú està entrant al teu compte sense permís?
+   https://www.tiktok.com/safety/resources/hacked-account?lang=es
+
+   Instagram:
+
+   Denunciar suplantació d'identitat del teu compte o d'altres:
+   https://help.instagram.com/446663175382270/ Denunciar que han piratejat
+   el teu compte: https://help.instagram.com/368191326593075/
+
+   Facebook:
+
+   Denunciar suplantació d'identitat del teu compte o d'altres:
+   https://es-es.facebook.com/help/fakeaccount
+
+   Denunciar comptes hackeades i falses:
+   https://es-es.facebook.com/help/1216349518398524/
+
+   Twitter:
+
+   Denunciar suplantació d'identitat del teu compte:
+   https://help.twitter.com/forms/impersonation
+
+Optimització de la imatge i la reputació. Empremta digital a les Xarxes
+
+   Informació disponible a Internet sobre nosaltres (o altres)
+
+   El nostre nom d'usuari o nickname implica més del que pensem a
+   Internet. És molt comú utilitzar el mateix nom d’usuari a diferents
+   plataformes, com ara fòrums, blogs, aplicacions en línia, xarxes
+   socials… I si aquest nom d’usuari està lligat al nostre nom propi,
+   podem estar exposant més informació de la que volem.
+
+   Això pot afectar negativament la nostra reputació i la del nostre
+   centre o departament si no sabem separar correctament la nostra
+   identitat digital professional de la personal. És important fer aquesta
+   distinció i sempre tenir-la en compte quan realitzem comentaris o donem
+   la nostra opinió personal, i mai utilitzar un compte professional o que
+   ens identifiqui a fòrums públics si no volem que aquesta informació
+   quedi exposada.
+
+   De la mateixa manera, un nickname pot acabar identificant-nos a
+   diferents plataformes, i pot donar la impressió que tenim un perfil
+   digital que no s’ajusta correctament al nostre perfil professional.
+   Això se soluciona utilitzant noms d’usuari diferents per finalitats
+   diferents, de forma que no ens identifiquin i no interfereixin.
+
+   I finalment, però no per ells menys important ,una altra cosa important
+   per a la nostra reputació digital és usar només aquelles xarxes socials
+   o professionals que anem a utilitzar, és millor no ser present que ser
+   present i no tenir cap mena d'activitat en mesos, o no respondre a
+   consultes, a sol·licitud d'amistats, missatges directes, etc.
+
+   Al següent vídeo podeu veure recomanacions de com gestionar una bona
+   reputació digital
+
+   IFRAME: //www.youtube.com/embed/Fg19Ua-74kY
+
+   Utilització segura d’eines de comunicació instantània: xat i fòrums
+
+   És important entendre que, quan ens comuniquem a través de la
+   missatgeria instantània, solem compartir no només missatges de text,
+   sinó també altres tipus de contingut com ara imatges, vídeos,
+   documents, enllaços… Hem de tenir en compte aquesta mena de contingut
+   igual que fem quan rebem un correu electrònic, sobretot quan es tracta
+   de l'intercanvi de missatges en fòrums en línia anònims, on no sabem
+   amb qui ens estem comunicant. El material il·lícit o perillós, com els
+   virus, poden estar ocults darrere de qualsevol mena de contingut.
+
+   També hem de vigilar la informació que compartim nosaltres. En general,
+   la gran majoria de serveis web, des d'una xarxa social fins a un banc,
+   no ens demanaran dades personals, i encara menys la contrasenya, a
+   través d'un fòrum o xat de missatgeria instantània. Davant del dubte,
+   és millor desconfiar, i verificar nosaltres mateixos que la raó per la
+   qual ens contacten sigui verídica.
+
+   Seguretat i protecció en la missatgeria instantània
+
+Protecció de dades personals
+
+   Els ciutadans en general, i els alumnes i docents en particular, tenen
+   dret a la privacitat, tant a la vida física com a la virtual. Per
+   aquest motiu, des de l'any 1995, hi ha lleis que ens protegeixen d’un
+   ús abusiu de les possibilitats que ofereix el tractament automatitzat
+   de les nostres dades personals, tant pel que fa a la captura i
+   generació, com pel que fa a la compartició i correlació. Amb això es
+   pretén aconseguir el que se’n diu 'perfilat de l’usuari', és a dir,
+   identificar els trets de personalitat, econòmics, localització… que
+   poden ser emprats per influir en les decisions de les persones.
+
+   Concepte de dada personal
+
+   Per començar, cal aclarir uns quants conceptes:
+
+   Una dada personal és tota informació sobre una persona física
+   identificada o identificable. Dit d'una altra manera, quan la identitat
+   es pot determinar, directa o indirectament, mitjançant un
+   identificador.
+     * Dades identificatives: nom, cognoms, domicili, telèfon, correu
+       electrònic, signatura, DNI, passaport, número de telèfon mòbil,
+       adreça…
+     * De característiques personals: estat civil, dades de família, data
+       de naixement, edat, nacionalitat, llengua materna, pertinença a
+       clubs i associacions…
+     * De circumstàncies socials: dades d'habitatge, situació familiar,
+       propietats, aficions, estils de vida, pertinença a clubs i
+       associacions…
+     * Acadèmiques i professionals: formació, titulacions acadèmiques,
+       historial acadèmic, experiència professional, pertinença a
+       col·legis o associacions professionals…
+     * D'ocupació: professió, llocs de treball, dades no econòmiques de
+       nòmina…
+
+   Les dades especialment protegides
+
+   És consideren dades de categoria especial les dades d’una persona
+   física que revelin l’origen ètnic o racial, les opinions polítiques,
+   les conviccions religioses o filosòfiques, o l'afiliació sindical, i el
+   tractament de dades genètiques, dades biomètriques, dades relatives a
+   la salut o a la vida sexual.
+
+   Com es pot accedir a les dades personals
+
+     * Cessió o comunicació de dades personals és qualsevol revelació de
+       les dades a una persona diferent de la persona titular.
+
+     * Violació de seguretat és tota acció que ocasioni la destrucció, la
+       pèrdua o l’alteració accidental o il·lícita de les dades personals
+       transmeses, conservades o tractades, o la seva comunicació o accés
+       no autoritzat.
+
+Consideracions amb les dades personals
+
+   Qué es pot fer amb les dades personals?
+
+     * Licitud del tractament. Les dades han de ser tractades amb el
+       consentiment explícit de la persona interessada o sobre una base o
+       fonament jurídic.
+     * Lleialtat. No es poden recollir dades personals per mitjans
+       fraudulents o il·lícits.
+     * Transparència. Tota comunicació o informació relativa al tractament
+       de dades personals ha de ser fàcilment accessible i fàcil
+       d’entendre.
+     * Limitació de la finalitat. Les dades personals no han de ser
+       tractades de manera incompatible i diferent a la finalitat per a la
+       qual es van recollir.
+     * Minimització. Les dades recollides han de ser pertinents, adequades
+       i no excessives, en relació amb les finalitats que legitimen el
+       tractament.
+     * Exactitud. Les dades han de ser exactes i actualitzades.
+     * Conservació. Les dades no podran mantenir-se o conservar-se durant
+       més temps del que sigui necessari per a la finalitat del
+       tractament.
+     * Integritat i confidencialitat. S’ha d’aplicar la seguretat adequada
+       per a evitar tractaments no autoritzats, pèrdues, destrucció o dany
+       accidental de les dades.
+
+   Tractament
+
+   El tractament és qualsevol operació o conjunt d’operacions realitzades
+   sobre dades personals, automatitzades o no: recollida, registre,
+   organització, estructuració, conservació, adaptació o modificació,
+   extracció, consulta, utilització, comunicació per transmissió, difusió,
+   destrucció…
+
+   Classificació de la informació
+
+   Els nivells de seguretat de classificació de la informació de la
+   Generalitat de Catalunya són els següents:
+     * Públic. Informació pública sense restriccions de difusió del
+       contingut: notícies, anuncis a la ciutadania… Per exemple, tot allò
+       que inclou la web de Gencat.
+     * Intern. Informació no crítica on es pot permetre una lleu pèrdua
+       d’integritat i informació: Intranet departamental, blogs de la
+       Generalitat de Catalunya, usuaris d’aplicació, consultes i
+       suggeriments, assistents a cursos, plecs, infraestructures,
+       oposicions…
+     * Sensible. La informació és restringida a àrees o unitats amb
+       requeriments avançats de control d’accés i garanties d’integritat i
+       autenticitat: gestió de personal, dades pressupostàries,
+       estadístiques de servei o operativa, actuacions de cossos operatius
+       de la Generalitat de Catalunya, registres de ciutadans amb dades
+       acadèmiques…
+     * Crític. La informació és confidencial, restringida a un cercle
+       reduït d’individus, amb requeriments de xifrat i traçabilitat dels
+       accessos: gestió de centres penitenciaris, eleccions, gabinets
+       jurídics, subvencions…
+     * Molt crític. La informació és altament confidencial, accessible per
+       un nombre molt restringit d’individus, amb requeriments
+       d’integritat, autenticitat i traçabilitat molt alts: dades de
+       seguretat pública, informació policial, gestió de claus
+       criptogràfiques…
+
+   Els projectes s'haurien de classificar en funció d'aquests nivells. Per
+   tant, qualsevol canvi significatiu o la creació de documents s’ha de
+   fer amb les mesures de seguretat corresponents al nivell de seguretat
+   del projecte.
+
+   Bones pràctiques en la protecció de dades
+
+   En general, hem d’evitar que qualsevol dada personal pugui:
+     * Ser revelada a persones no autoritzades.
+     * Transferida a tercers sense l’autorització explícita del titular de
+       les dades.
+     * Emprada d’una forma diferent a l’autoritzada explícitament.
+     * Retinguda més temps del necessari per a la finalitat per a la qual
+       s’ha recollit.
+
+   Per aconseguir-ho, hem de:
+     * Identificar el nivell de criticitat de la dada.
+     * Conservar l’evidència de l’autorització explícita de cada usuari.
+     * Controlar-ne qualsevol accés, restringint-lo com calgui i
+       registrant-ne qui i quan el fa.
+     * Vigilar i controlar l’accés a les còpies de seguretat.
+     * Programar la destrucció automàtica de les dades tan bon punt
+       caduquin.
+     * Desar xifrades les dades especialment sensibles, tot i controlar-ne
+       els accessos, a tots els suports, en línia o no.
+     * Transparència en els processos de captura, generació i tractament
+       de les dades…
+
+   També hem de disposar d’uns mecanismes de traçabilitat de les
+   operacions realitzades amb les dades, i han d'estar preparades per ser
+   auditades.
+
+   Riscs, atacs i sancions
+
+   Els principals riscos són:
+     * El robatori de dades personals. Es pot realitzar mitjançant algun
+       engany (enginyeria social, phishing, etc.) o explotant alguna
+       vulnerabilitat o error de configuració o instal·lació.
+     * L'exfiltració (leak). Tot i que es podria igualar al robatori de
+       dades, es parla d’exfiltració o fuita de dades quan algun
+       treballador o persona autoritzada en fa una còpia i la treu de
+       l'organització de forma il·legal. Aquesta exfiltració es pot fer
+       per divulgar les dades o per fer extorsió a canvi de no revelar-ne
+       el contingut.
+     * La manipulació. Com en el cas de l'exfiltració, però en lloc de
+       divulgar-les, es manipulen per provocar algun error en els
+       processos que les empren.
+     * La destrucció total. Per exemple, en un atac de ransomware (segrest
+       de dades), però també per fallida, destrucció o robatori.
+
+   L’Agència Catalana de Protecció de Dades (APDCAT) pot sancionar a les
+   administracions públiques catalanes per qualsevol dels atacs esmentats,
+   si no es pot demostrar que hi havia procediments de protecció per
+   evitar-ho, i s’estaven aplicant de forma adient, segons els
+   procediments aprovats.
+
+Drets dels ciutadans a la privacitat de les seves dades
+
+   El Reglament General de Protecció de Dades (RGPD) amplia el catàleg de
+   drets que tenen les persones en relació a les seves dades.
+
+   Als drets ja habituals d’accés, rectificació, supressió (dret a
+   l’oblit), oposició, decisions individuals automatitzades, se
+   n'afegeixen de nous. A més, quan es recullen les dades, s’ha d’informar
+   a les persones afectades dels aspectes que esmenta l'RGPD, que amplia
+   el contingut d’aquesta informació a qüestions com el supòsit que permet
+   el tractament de les dades, d’acord amb el principi de licitud, o el
+   termini de conservació de les dades.
+
+   Dret d'accés
+
+   La persona titular de les dades té dret a obtenir del responsable del
+   tractament confirmació sobre si s’estan tractant-les o no i, si és el
+   cas, a l’accés a les seves dades i a la informació següent:
+     * Les finalitats del tractament.
+     * Les categories de les dades personals.
+     * Els destinataris o les categories de destinataris als quals se li
+       comunicaran les dades.
+     * El termini previst de conservació de les dades personals (si és
+       possible).
+     * L'existència del dret a sol·licitar del responsable la rectificació
+       o supressió de les dades o la limitació del tractament, o a
+       oposar-se al tractament.
+     * El dret a presentar una reclamació davant d’una autoritat de
+       control.
+     * L’origen de les dades (en el cas que no s’hagin obtingut
+       directament de la persona).
+     * L'existència de decisions automatitzades, inclosa l’elaboració de
+       perfils
+
+   Dret de rectificació
+
+   La persona titular de les dades té dret a obtenir sense dilació
+   indeguda del responsable del tractament la rectificació de les dades
+   personals quan aquestes siguin inexactes o quan es completin.
+
+   Dret de supressió (dret a l’oblit)
+
+   La persona titular de les dades té dret a obtenir sense dilació
+   indeguda del responsable del tractament la supressió de les dades. El
+   responsable del tractament està obligar a fer-ho en els casos següents:
+     * quan les dades ja no siguin necessàries per a la finalitat amb què
+       van ser recollides.
+     * quan la persona hagi retirat el seu consentiment.
+     * quan les dades s’hagin tractat de manera il·lícita.
+     * quan les dades s’hagin de suprimir per donar compliment a una
+       obligació legal.
+     * quan les dades s’hagin obtingut de nens en relació amb l'oferta
+       directa de serveis de la societat de la informació.
+
+   Dret d'oposició
+
+   La persona titular de les dades té dret a oposar-se a què les dades
+   siguin tractades, inclosa l’elaboració de perfils o el màrqueting
+   directe. El responsable del tractament haurà de deixar de tractar les
+   dades personals tret que acrediti motius legítims que prevalguin sobre
+   els drets i les llibertats de la persona interessada, o per al
+   l’exercici o la defensa de reclamacions.
+
+   Dret de limitació del tractament
+
+   La persona titular de les dades té dret a obtenir del responsable del
+   tractament la limitació del tractament de dades en el cas que:
+     * la persona n'impugni l'exactitud.
+     * el responsable ja no les necessiti, però la persona sí que les
+       necessiti (reclamacions).
+     * s’hagin de verificar els motius legítims del responsable en un cas
+       d’oposició.
+     * el tractament sigui il·lícit, però la persona no vulgui que se
+       suprimeixin.
+
+   Dret a la portabilitat de les dades
+
+   Implica que les dades personals d’una persona es puguin transmetre d’un
+   responsable a un altre, sense necessitat que aquestes siguin transmeses
+   prèviament al propi interessat (sempre que sigui tècnicament possible).
+
+   El dret a la portabilitat de les dades és una forma avançada del dret
+   d'accés, gràcies al qual la persona interessada té dret a rebre les
+   dades personals que l’afecten i que ha facilitat a un responsable del
+   tractament en un format estructurat, d'ús comú i de lectura mecànica, i
+   transmetre-les a un altre responsable, si es compleixen els requisits
+   següents:
+     * el tractament està basat en el consentiment o en un contracte. El
+       tractament es fa per mitjans automatitzats.
+     * la persona interessada ho sol·licita respecte de les dades que ha
+       proporcionat al responsable i que l'afecten, incloses les dades
+       derivades de la pròpia activitat de la persona interessada.
+
+   Excepte on es digui una altra cosa, el contingut d'aquest wiki està
+   subjecte a la llicència següent: CC Attribution-Noncommercial-Share
+   Alike 3.0 Unported
+
+   Materials i recursos per a la formació Materials i recursos per a la
+   formació
+   Creative Commons License Creative Commons License
+   DokuWiki DokuWiki
+   Entorn virtual de formació Entorn virtual de formació
+   gencat.cat
+
+   Avís legal: La ©Generalitat de Catalunya permet la reutilització dels
+   continguts i de les dades sempre que se citi la font i la data
+   d'actualització, que no es desnaturalitzi la informació i que no es
+   contradigui amb una llicència específica.
+
+   Avís legal: La ©Generalitat de Catalunya permet la reutilització dels
+   continguts i de les dades sempre que se citi la font i la data
+   d'actualització, que no es desnaturalitzi la informació i que no es
+   contradigui amb una llicència específica.
+   gencat.cat

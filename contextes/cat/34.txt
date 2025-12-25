@@ -1,134 +1,238 @@
-   Aquest web ja no és operatiu. Accediu a www.icgc.cat
-   Home  >   Home CCCC  >   Official geoinformation (CPC)  >   Grup I - 7.
-   Xarxes de transport
+   #La xarxa de transports | Genially
 
-   [Home]
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K3DDDL4
+--
+   Get started free
 
-Grup I - 7. Xarxes de transport
+La xarxa de transports
 
-   Xarxes de carreteres, ferrocarril, transport aeri i vies navegables,
-   amb les seves corresponents infraestructures. S’inclouran les
-   connexions entre xarxes diferents. S’inclourà també la xarxa
-   transeuropea de transport, segons la definició de la Decisió nº
-   1692/96/CE del Parlament Europeu i del Consell, de 23 de juliol de
-   1996, sobre les orientacions comunitàries per al desenvolupament de la
-   xarxa transeuropea de transport i de les futures revisions d’aquesta
-   decisió.
+   egp
+--
+   Created on July 13, 2020
+
+   La xarxa de transports en Espanya i la vertebració del territorri.
+
+Start designing with a free template
+--
+Transcript
+
+   La XARXA de TRANSPORTS i la VERTEBRACIÓ del TERRITORI
+
+   1 Funció i importància2 Tipus de transport 3 Vertebració del territori
+   i desequilibris 4 Creixement del transport per carretera 5 La xarxa de
+   carreteres 6 La xarxa ferroviària 7 El transport marítim 8 El transport
+   aeri 9 Transport i contaminació
+
+   Geografia. La xarxa de transports
+
+   Funció i importància
+
+   La xarxa de transports permet el desplaçament de persones i
+   mercaderies.
 
 --
-Conjunts d'informació inclosos en aquest grup:
+   Espanya. Són un element essencial en la vertebració del territori.
 
-   10701 Xarxa de transport per carreteres
+   Geografia. La xarxa de transports
 
-   10702 Xarxa de transport ferroviari
-
-   10703 Xarxa de transport marítim
-
-   10704 Xarxa de transport aeri
-
-   10705 Xarxa de camins
-
-   10706 Sistema viari integrat
-
-   10707 Xarxa de monitorització del trànsit
-
-   Visualitzeu la informació
+   Evolució del transport de viatgers i mercaderies
 --
+   2007-2014
 
+   Geografia. La xarxa de transports
 
-XARXA DE TRANSPORT PER CARRETERES
-
-
+   Tipus de transports
 --
-DENOMINACIÓ
+   per ferrocarril
 
-   Xarxa de transport per carreteres
+   Geografia. La xarxa de transports
 
-DESCRIPCIÓ
+   Vertebració del territori i desequilibris
 
-   Inventari de les infraestructures i serveis associats de la xarxa de
-   transport per carretera de béns i passatgers. Inclou la localització,
-   el traçat i les característiques dels elements que integren la xarxa;
-   els fluxos i rutes de transport de mercaderies i passatgers; les
-   infraestructures nodals bàsiques; els pk; la nomenclatura i la
-   classificació funcional; l'estat de la xarxa i la intensitat de
-   trànsit.
+   La xarxa de transport és essencial en la vertebració del territori
+   per:facilita el moviment de persones i mercaderies que conecten els
+   distints llocs, factor fonamental per al desenvolupament econòmic. la
+   seua funció social i cultural permet el desplaçament diari de les
+   persones per treball, cultura, oci... La xarxa presenta desequilibris
+   territorials
 
+   Geografia. La xarxa de transports
+
+   La xarxa de transport encara presenta desequilibris territorials en
+   accessibilitat, amb zones pitjor dotades a l' interior i zona
+   occidental de la península. S'han potenciat els eixos principals,
 --
+   Zones de menor accessibilitat
 
+   Geografia. La xarxa de transports
 
-XARXA DE TRANSPORT FERROVIARI
-
-
+   Des de 1990, s'ha produit un considerable augment de la xarxa de
+   transports. Actualment, amb la construcció d' autovies, autopistes, l
+   'Alta Velocitat ferroviària i aeroports, ha evolucionat d' una forma
 --
-DENOMINACIÓ
+   amb el al mapa d'accesibilitat viària de 2014.
 
-   Xarxa de transport ferroviari
+   Geografia. La xarxa de transports
 
-DESCRIPCIÓ
-
-   Inventari de les infraestructures i serveis associats de la xarxa de
-   transport per ferrocarril de béns i passatgers. Inclou la localització,
-   el traçat i les característiques dels elements que integren la xarxa;
-   els fluxos i rutes de transport de mercaderies i passatgers; les
-   infraestructures nodals bàsiques; l'estat de la xarxa i la intensitat
-   de trànsit.
-
+   L' Espanya invertebrada
 --
-1. Direcció General de Transports i Mobilitat
+   eliminats, línies abandonades, infraestructures obsoletes...
 
-Accés a les dades: xarxa ferroviària
+   Geografia. La xarxa de transports
 
-Accés a les especificacions
+   L'Espanya invertebrada, despoblada i oblidada
 --
+   +info
 
+   Geografia. La xarxa de transports
 
-XARXA DE TRANSPORT MARÍTIM
-
-
+   El transport per carretera: un creixement vertiginós, tant de persones
 --
-DENOMINACIÓ
+   punts per sota de la mitjana UE).
 
-   Xarxa de transport marítim
+   Geografia.La xarxa de transports
 
-DESCRIPCIÓ
+   La causa principal de l'augment constant del transport per carretera de
 --
+   ràpides d'alta capacitat (autovies i autopistes).
 
+   Xarxa de carreteres estatal i autonòmiques
 
-XARXA DE TRANSPORT AERI
+   Geografia.La xarxa de transports
 
-
+   Principals fluxos de mercaderies per carretera en 2015 (milers de
 --
-DENOMINACIÓ
+   carretera
 
-   Xarxa de transport aeri
+   Geografia. La xarxa de transports
 
-DESCRIPCIÓ
+   Principals fluxos de mercaderies per carretera en 2015 (milers de
+   tones)
+
+   Geografia. La xarxa de transports
+
+   Geografia. La xarxa de transports
+
+   El sistema espanyol de transport per carretera, ferrocarril i aeri
+   presenta una disposició radial
+
+   Geografia. La xarxa de transports
+
+   Un sistema de carreteres radial i centralitzat (heretat del passat i
 --
+   radis d'una bicicleta) les carreteres cap a la perifèria.
 
+   Geografia. La xarxa de transports
 
-XARXA DE CAMINS
-
-
+   El Pla Director d'Infraestructures 1993-1995 regeix la política de
 --
-DENOMINACIÓ
+   sobre (o paral.leles a) les carreteres nacionals.
 
-   Xarxa de camins
+   Geografia. La xarxa de transports
 
-DESCRIPCIÓ
+   Amb el canvi de govern en 1996, la política de vies d'alta capacitat
 --
+   un cost de 2.000 milions.
 
+   Geografia. La xarxa de transports
 
-XARXA DE MONITORITZACIÓ DEL TRÀNSIT
-
-
+   Situació actual de les vies d'alta capacitat
 --
-DENOMINACIÓ
+   +info
 
-   Xarxa de monitorització del trànsit
+   Geografia. La xarxa de transports
 
-DESCRIPCIÓ
+   Previsió accessibilitat per carretera: Horitzó 2020
 
-   Dades d'informació i seguretat viàries: xarxa de radars, estat del
-   trànsit i indicències viàries.
+   Geografia. La xarxa de transports
 
+   La xarxa ferroviària, a l'igual que la de carreteres, presenta un
+   traçat radial, amb centre a Madrid
+
+   xarxa ferroviària 2016
+
+   Es composa de: Convencional, amb ramificacions cap a línies secundàries
+   Rodalies Alta Velocitat Ferrocarril de via estreta/metro
+
+   Geografia. La xarxa de transports
+
+   L' Alta Velocitat minora el temps del trajecte, però deixa amples zones
+--
+   Madrid-Saragossa-Tarragona Madrid-Zamora-León A Coruña-Vigo
+
+   Geografia. La xarxa de transports
+
+   L'aposta per l'AVE, els problemes de l'abandonament dels trens de
+   mitjana distància i de l'accesibilitat: vist en el punt 3
+
+   Geografia. La xarxa de transports
+
+   L' AVE i el procés de privatització d'un servei públic
+--
+   +info
+
+   Geografia. La xarxa de transports
+
+   El transport marítim: un creixement enorme en la primera i segona
+--
+   de mercaderies; més de 30 milions de persones; 8,6 milions de creuers
+
+   Geografia. La xarxa de transports
+
+   Mapes de tràfic portuari
+
+   Geografia. La xarxa de transports
+
+   Un creixement del transport marítim basat en el tràfic de vaixells
+--
+   contaminació i turisme massificat.
+
+   Geografia. La xarxa de transports
+
+   2020, una nova ampliació del port de València que duplicarà l'extensió
+--
+   natural de l'Albufera i agreujarà el model turístic de masses existent.
+
+   Geografia. La Xarxa de transports
+
+   El transport aeri és bàsicament de passatgers; el de mercaderies de
+--
+   fiasco: Ciudad Real, Castelló inaugurat sense vols.
+
+   Geografia. La Xarxa de transports
+
+   Transport i contaminació
+
+   Geografia. La Xarxa de transports
+
+   contaminació acústica i atmosfèrica
+--
+   disparat el problema.
+
+   Geografia. La Xarxa de transports
+
+   Mapa: rutes aèries comercials al món, més de 36 milions de volsen 2017
+--
+   major que les seus emissions de gasos.
+
+   Geografia. La xarxa de transports
+
+   Més de 202.000 vols en un sol dia.
+--
+   +info
+
+   Geografia. La xarxa de transports
+
+   Creuers: impacte visual i territorial, turisme massificat. Contaminen
+--
+   +info
+
+   Geografia. La xarxa de transports
+
+   Mapa: comparació del diòxid de nitrogen març 2019-març 2020
+--
+   transport de combustió.
+
+   Geografia. La xarxa de transports
+
+   Fonts:

@@ -1,305 +1,42 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-598B2T7W
+   Aquest portal web únicament utilitza cookies pròpies amb finalitat
+   tècnica, no recapta ni cedeix dades de caràcter personal dels usuaris
+   sense el seu coneixement.
 
-   drag_handle
-     * (BUTTON) Notícies
-     * (BUTTON) Esports
-     * EI Temps
-     * A la carta
-     * Programació
+   Més informació X Acceptar i tancar
 
-     * search
-     * (BUTTON) En directe
-
-   andorradifusio_rtva_fiscalies_francesa_andorrana_signen_protocol_colabo
-   racio_411201914622
-
-   Les fiscalies francesa i andorrana signen un protocol de col·laboració
-
-   Continua la bona sintonia i la col·laboració entre la justícia francesa
-   i l'andorrana. Aquest dilluns s'ha signat un protocol d'entesa amb el
-   qual les fiscalies del Principat i de Tolosa continuaran amb
-   l'intercanvi d'informació, però també amb el de formació del personal
-   dels dos òrgans.
-
-   Author
-   |
-
-   04.11.19
-   (BUTTON) share
+   (BUTTON) Tancar
+     * ESEspañol
+     * GLGalego
+     * CA-VALENCIAValencià
+     * CACatalà
+     * EUEuskera
      __________________________________________________________________
 
-   El contraban, les xarxes criminals relacionades amb aspectes com ara el
-   tràfic de drogues, armes i blanqueig de diners en general són aspectes
-   en els quals col·laboren els dos estats.
-
-   La fiscal de Tolosa, Monique Olivier, no ha volgut parlar d'augment de
-   la delinqüència, però sí d'una transformació. Per la seva banda, el
-   fiscal general, Alfons Alberca, ha explicat que la signatura d'aquest
-   dilluns ajudarà a continuar treballant amb la mateixa entesa dins el
-   marc d'un protocol ben definit.
-
-   Informa: Sílvia Mestre
-
-   Etiquetes
-   tribunals
-
-   Destacat
-   andorradifusio_rtva_denegat_recurs_empara_policia_va_amenacar_241202413
-   229
-
-   Societat
-
-   Denegat el recurs d'empara del policia que va amenaçar un company
-
-   24.01.24
-   andorradifusio_rtva_tc_denega_recusacio_dos_batlles_712024111742
-
-   Societat
-
-   El TC denega la recusació de dos batlles
-
-   07.01.24
-   andorradifusio_rtva_confirma_pena_18_mesos_preso_policia_30102023131723
-
-   Societat
-
-   Es confirma la pena de 18 mesos de presó a un policia per amenaçar un
-   company
-
-   30.10.23
-   andorradifusio_rtva_meritxell_mateu_pagara_multa_20000_euros_3010202313
-   1724
-
-   Societat
-
-   Meritxell Mateu pagarà la multa de 20.000 euros de cop
-
-   30.10.23
-   andorradifusio_rtva_defensa_assegura_bpa_no_va_actuar_30102023115115
-
-   Societat
-
-   La defensa assegura que BPA no va actuar amb "ignorància volguda" amb
-   Pallardó
-
-   30.10.23
-   andorradifusio_rtva_tribunal_comptes_questiona_contracte_ironman_772023
-   122137
-
-   Societat
-
-   El Tribunal de Comptes qüestiona el contracte de l'Ironman
-
-   07.07.23
-   andorradifusio_rtva_tribunal_superior_desestima_recursos_proces_elector
-   al_672023193850
-
-   Societat
-
-   El Tribunal Superior desestima els recursos contra el procés electoral
-
-   06.07.23
-   andorradifusio_rtva_tribunal_constitucional_dona_segona_oportunitat_par
-   ella_trencada_2972022183544
-
-   Societat
-
-   El Tribunal Constitucional dona una segona oportunitat a una parella
-   trencada per la malaltia i la incapacitació de la dona
-
-   29.07.22
-   andorradifusio_rtva_tc_torna_reconeixer_lentitud_justicia_2772022134355
-
-   Societat
-
-   El TC torna a reconèixer la lentitud de la justícia
-
-   27.07.22
-   andorradifusio_rtva_diversos_politics_democrates_exculpen_meritxell_mat
-   eu_2362022133336
-
-   Societat
-
-   Diversos polítics demòcrates exculpen Meritxell Mateu de l'acusació de
-   tràfic d'influències i corrupció
-
-   23.06.22
-   andorradifusio_rtva_conductor_camio_detingut_atropellament_mortal_passa
-   _disposicio_1662022154447
-
-   Societat
-
-   El conductor del camió detingut per l'atropellament mortal passa a
-   disposició judicial
-
-   16.06.22
-   andorradifusio_rtva_batllia_dona_15_dies_expresident_espanyol_146202213
-   1649
-
-   Societat
-
-   La Batllia dona 15 dies a l'expresident espanyol Mariano Rajoy per
-   declarar per pressions a ciutadans andorrans
-
-   14.06.22
-   andorradifusio_rtva_condemnat_atropellament_mortal_avinguda_tarragona_d
-   emana_1362022123339
-
-   Societat
-
-   El condemnat per l'atropellament mortal a l'avinguda Tarragona demana
-   la rebaixa de pena de 5 anys a 7 mesos
-
-   13.06.22
-   andorradifusio_rtva_fiscalia_demana_10_6_anys_preso_parella_27520221213
-   59
-
-   Societat
-
-   La fiscalia demana 10 i 6 anys de presó per a una parella acusada de
-   proxenetisme i tràfic d'éssers humans
-
-   27.05.22
-   andorradifusio_rtva_fiscalia_demana_8_mesos_preso_condicional_acusat_24
-   5202216232
-
-   Societat
-
-   La fiscalia demana 8 mesos de presó condicional per a l'acusat
-   d'agredir un jove a les portes d'una discoteca
-
-   24.05.22
-   andorradifusio_rtva_tribunal_corts_condemna_cins_anys_preso_homicidi_19
-   52022131742
-
-   Societat
-
-   El Tribunal de Corts condemna a cinc anys de presó per homicidi l'autor
-   de l'atropellament mortal a l'avinguda Tarragona
-
-   19.05.22
-   andorradifusio_rtva_families_cas_mestre_maria_moliner_acusat_1852022203
-   230
-
-   Societat
-
-   Les famílies del cas del mestre del María Moliner acusat d'abusos
-   sexuals presenten recurs contra l'absolució
-
-   18.05.22
-   andorradifusio_rtva_forenses_catalans_colaboraran_justicia_andorrana_ac
-   celerar_1152022132558
-
-   Societat
-
-   Pèrits catalans col·laboraran amb la justícia andorrana en
-   especialitats que no estan cobertes al país
-
-   11.05.22
-   andorradifusio_rtva_absolt_mestre_colegi_maria_moliner_acusat_274202214
-   1145
-
-   Societat
-
-   Absolt el mestre del col·legi María Moliner acusat el 2019 d'abusos a
-   menors
-
-   27.04.22
-   andorradifusio_rtva_enric_casadevall_calcula_retard_justicia_podria_224
-   2022134759
-
-   Societat
-
-   Enric Casadevall calcula que el retard de la justícia podria estar
-   resolt en tres o quatre anys
-
-   22.04.22
-   andorradifusio_rtva_csj_veu_be_pla_xoc_justicia_642022132811
-
-   Societat
-
-   El CSJ veu bé el pla de xoc de la justícia però recela de la figura del
-   secretari judicial adjunt
-
-   06.04.22
-   andorradifusio_rtva_judici_atorpellament_avinguda_tarragona_29_canvien_
-   14202221414
-
-   Societat
-
-   Judici per l'atropellament a l'avinguda Tarragona, 29 segons que
-   canvien vides
-
-   01.04.22
-   andorradifusio_rtva_autor_atropellament_mortal_avinguda_tarragona_no_14
-   2022143716
-
-   Societat
-
-   L'autor de l'atropellament mortal a l'avinguda Tarragona no va auxiliar
-   la víctima tot i ser metge
-
-   01.04.22
-   andorradifusio_rtva_dona_filla_home_va_morir_atropellat_31320221423
-
-   Societat
-
-   La dona i la filla de l'home que va morir atropellat a l'avinguda
-   Tarragona es retiren de l'acusació particular a canvi d'una
-   indemnització
-
-   31.03.22
-   andorradifusio_rtva_baralla_parella_drogues_acaba_judici_trafic_1532022
-   125912
-
-   Societat
-
-   Una baralla de parella per drogues acaba en un judici per tràfic
-   d'estupefaents
-
-   15.03.22
-   andorradifusio_rtva_mante_pols_afer_vel_escola_1822022134350
-
-   Societat
-
-   Es manté el pols per l'afer del vel a l'escola
-
-   18.02.22
-   andorradifusio_rtva_justicia_dona_rao_nena_vol_portar_vel_1722022152431
-
-   Societat
-
-   La justícia dona la raó a la nena que vol portar el vel a l'escola i
-   afirma que s'han vulnerat els seus drets
-
-   17.02.22
-   andorradifusio_rtva_advocats_volen_rebaixar_tensions_resta_justicia_922
-   022132237
-
-   Societat
-
-   Els advocats volen rebaixar les tensions amb la resta de la justícia
-
-   09.02.22
-   andorradifusio_rtva_tres_casos_andorra_pendents_resoldre_tribunal_25120
-   22185225
-
-   Societat
-
-   Tres casos d'Andorra, pendents de resoldre al Tribunal Europeu de Drets
-   Humans
-
-   25.01.22
-   andorradifusio_rtva_judici_causa_primera_torna_ajornar_positiu_10120221
-   23129
-
-   Societat
-
-   El judici de la causa primera de BPA es torna a ajornar pel positiu de
-   la Covid-19 d'un advocat
-
-   10.01.22
-   (BUTTON) keyboard_arrow_left (BUTTON) keyboard_arrow_right
+     * ENEnglish (only selected content)
+     * FRFrench (seulement le contenu sélectionné)
+     * DEGerman (nur ausgewählte Inhalte)
+
+   (BUTTON) Tancar
+   Seleccionar compte de Twitter:
+   @policia
+   @info_dgp
+
+   (BUTTON) Tancar
+   Seleccionar compte de twitter:
+   @policia
+   @info_dgp
+
+   Anar al contingut Veure accessibilitat
+   Portal web de la Policia Nacional
+   caValencià
+   Logotip Govern d'Espanya. Ministeri de l'Interior. Policia Nacional
+   Logotip Govern d'Espanya. Ministeri de l'Interior. Policia Nacional
+   Dependències
+   Dependències
+   Buscar
+   buscar
+   Contacta
+   contacta
      *
      *
      *
@@ -308,109 +45,239 @@
      *
      *
 
-   Informació
+     * dni electrònic Obri nova finestra. Enllaç extern.
+     * cita prèvia dni i passaport Obri nova finestra. Enllaç extern.
 
-   Notícies
+   Introdueix text a buscar i prema Enter per a anar a la pàgina de
+   resultats ____________________
+   (BUTTON) (BUTTON)
+     * dni electrònic Obri nova finestra. Enllaç extern.
+     * cita prèvia dni i passaport Obri nova finestra. Enllaç extern.
 
-   Societat
+     * Inici
+     * Denúncies
+     * Col·labora
+     * Comunicació
+          + Sala de premsa
+          + Actualitat policial
+     * La teua policia
+     * Estrangeria
+     * Fons Europeus
+     * Seu electrònica Obri nova finestra. Enllaç extern.
 
-   Política
+   eixir del menú
+   menú
 
-   Economia
+Sala de premsa
 
-   Cultura
+    1.
+    2. Comunicació
+    3. Sala de premsa
+    4. Notícia
 
-   Esports
+   Operació conjunta de Policia Nacional i Policia Nacional de França, amb
+   la col·laboració d'EUROPOL
 
-   Més
+Desmantellada una de les xarxes de trànsit de migrants més actives i
+perilloses d'Europa, amb destinació final a Espanya
 
-   EI Temps
+   La xarxa criminal operava des d'Espanya, França, Bèlgica i Regne Unit,
+   utilitzant rutes clandestines i vehicles adaptats sense mesures de
+   seguretat per a traslladar a més de 500 migrants, en 68 episodis
+   acreditats, oscil·lant pagaments de 350 i 1.500 euros per persona,
+   depenent del trajecte
 
-   Agenda.ad
+   Les víctimes, en la seua majoria d'origen marroquí i algerià, eren
+   traslladades en condicions inhumanes, incloent menors d'edat, en
+   trajectes per carretera i *ferri cap a Espanya i França
 
-   Trànsit
+   S'han dut a terme quatre registres domiciliaris (dos a Espanya i dos a
+   França), i han sigut detingudes set persones a Espanya (4) i França
+   (3), entre els quals es troben els principals capitostos i
+   transportistes de l'organització criminal
 
-   Programes
+   04/07/25
+   Agents de la Policia Nacional, en una operació conjunta amb la Policia
+   Nacional de França que ha comptat amb la col·laboració d'EUROPOL, han
+   aconseguit la desarticulació d'una de les xarxes criminals de trànsit
+   de migrants irregulars més actives i perilloses d'Europa, la destinació
+   final de les quals era Espanya. Esta organització criminal operava des
+   d'Espanya, França, Bèlgica i Regne Unit, utilitzant rutes clandestines
+   i vehicles adaptats sense mesures de seguretat per a traslladar a més
+   de 500 migrants, en 68 episodis migratoris acreditats, oscil·lant
+   pagaments de 350 i 1.500 euros per persona depenent del trajecte. Les
+   víctimes, majoritàriament d'origen marroquí i algerià, eren
+   transportades en condicions inhumanes, incloent menors d'edat, en
+   trajectes per carretera i *ferri cap a Espanya i França.
 
-   Programació
+   La *investigaci&*oacute;n policial c*omenz&*oacute; a l'abril de 2023 a
+   *trav&*eacute;s dels canals de c*ooperaci&*oacute;n internacional, que
+   van alertar sobre moviments sospitosos entre Regne Unit, el Marroc,
+   França i *Espa&*ntilde;a, amb un *patr&*oacute;n coincident en rutes
+   utilitzades habitualment per traficants de migrants. La xarxa criminal
+   funcionava amb una estructura *jer&*aacute;*rquica clarament definida,
+   alta mobilitat operativa i una capacitat *log&*iacute;*stica que *le
+   *permit&*iacute;a moure centenars de persones de manera clandestina.
 
-   A la carta
+   &*nbsp;
+   <*h3 c*lass="display-*4Serif">M&*eacute;tots de *ocultaci&*oacute;n i
+   greu risc per a la vida
 
-   Andorra Actualitat
+   &*nbsp;
 
-   L'Informatiu
+   L'operatiu policial ha sigut el resultat d'una *investigaci&*oacute;n
+   de m&*aacute;s de 14 mesos, desenvolupada des d'abril de 2023 i juny de
+   2025, en la qual es van identificar dues rutes principals de trasllat:
+   una terrestre des de *Almer&*iacute;a i Murcia, i una altra
+   internacional des de Regne Unit a *trav&*eacute;s del pas de Calais
+   (França) en *ferri i carretera. En tots dos casos, les
+   *v&*iacute;cestafes eren transportades en furgonetes i camions tancats,
+   amb falsos compartiments, sense *ventilaci&*oacute;n, sense mesures de
+   seguretat, i sense accés a aigua o aliments.
 
-   Reportatges
+   &*nbsp;
 
-   RTVA.ad
+   Les *v&*iacute;cestafes, en el seu major&*iacute;a de nacionalitat
+   *marroqu&*iacute; i algeriana, inclosos menors d'edat, eren
+   traslladades en *veh&*iacute;culs amuntegats, en espais reduïts i sense
+   *ventilaci&*oacute;n, sovint tombats en la part posterior. Algunes
+   passaven fins a sis hores tancades en furgonetes que creuaven el Canal
+   de la Manxa en *ferri, en condicions de greu risc per a la seua
+   vida.&*nbsp;&*nbsp;
 
-   Avís legal
+   &*nbsp;
+   <*h3 c*lass="display-*4Serif">Cobraven entre 350 i 1.500 euros per
+   persona
 
-   Política de Privacitat
+   &*nbsp;
 
-   Política de Cookies
+   La *organizaci&*oacute;n criminal *manten&*iacute;a una
+   c*oordinaci&*oacute;n estreta i eficaç amb grups situats al Marroc,
+   articulant un circuit complet de *tr&*aacute;*fico de persones,
+   arribant a traficar amb m&*aacute;s de 500 migrants, en els 68 episodis
+   acreditats, oscil·lant els pagaments entre 350 euros pel transport per
+   carretera fins als 1.500 euros del transport clandestí en *ferri.
 
-   Sobre RTVA
+   &*nbsp;
 
-   Contacte
+   Les *v&*iacute;cestafes eren tractades com a mà d'obra per a treballs
+   *agr&*iacute;cues o *explotaci&*oacute;n laboral en diferents zones del
+   *pa&*iacute;#st. Moltes d'elles van ser allotjades en &*ldquo;pisos de
+   seguretat&*rdquo; en l'extraradi de Parell&*iacute;s, en condicions
+   d'amuntegament, abans de ser traslladades definitivament a
+   *Espa&*ntilde;a.
+   <*h3 c*lass="display-*4Serif">&*nbsp;
+   <*h3 c*lass="display-*4Serif">Nova ruta d'accés a *Espa&*ntilde;a
+   <*h3 c*lass="display-*4Serif">&*nbsp;
 
-   Vols treballar a RTVA?
+   Durant la *investigaci&*oacute;n, els agents van detectar l'existència
+   d'una nova ruta utilitzada per esta xarxa, que c*onsist&*iacute;a en
+   l'arribada dels migrants en qualitat de turistes al Regne Unit des del
+   Marroc, utilitzant vols comercials per a facilitar l'accés sense alçar
+   sospites. Després de la seua arribada, abans d'esgotar l'estada regular
+   *all&*iacute;, la xarxa *establec&*iacute;a contacte amb un dels
+   responsables situat a França, qui coordinava el trasllat
+   clandestinament fins a França i després a *Espa&*ntilde;a, ocultant als
+   migrants com *mercanc&*iacute;a o simulant mudances, per a eludir
+   controls fronterers.
 
-(BUTTON)
+   &*nbsp;
 
-   Informació
+   L'estructura criminal generava beneficis superiors al mitjà
+   *mill&*oacute;n d'euros i operava amb una *log&*iacute;*stica avançada,
+   *jerarqu&*iacute;a definida i ramificacions en *Espa&*ntilde;a, França,
+   B&*eacute;*lgica, Regne Unit i el Marroc.
 
-   Notícies
+   &*nbsp;
 
-   Societat
+   Durant els d&*iacute;as 13 al 16 de juny, es *desarroll&*oacute; un
+   ampli operatiu policial en c*oordinaci&*oacute;n amb les autoritats
+   franceses. Es van realitzar quatre registres domiciliaris (dos en
+   *Espa&*ntilde;a, a la província de Barcelona&*nbsp; i dos a França),
+   que van permetre la *detenci&*oacute;n dels set responsables de la
+   *organizaci&*oacute;n criminal en *Espa&*ntilde;a (4) i França (3).
+   &*nbsp;*Adem&*aacute;s, s'han confiscat 42.335 euros en efectiu, 2.180
+   lliures esterlines, 10.690 d&*iacute;*rhams *marroqu&*iacute;és, tres
+   *veh&*iacute;culs, *tel&*eacute;*fonos m&*oacute;vils i
+   *documentaci&*oacute;n relacionada amb pagaments, comptes i
+   comunicacions.
 
-   Política
+   &*nbsp;
 
-   Economia
+   La *desarticulaci&*oacute;n d'esta xarxa ha sigut possible gràcies a
+   l'intercanvi de *informaci&*oacute;n i c*oordinaci&*oacute;n operativa
+   entre cossos policials de *Espa&*ntilde;a i França, as&*iacute; com a
+   la *implicaci&*oacute;n de 100 agents especialitzats. Esta
+   *actuaci&*oacute;n reforça el compromís de la *Polic&*iacute;a Nacional
+   en la lluita contra les xarxes internacionals de tràfic i
+   *tr&*aacute;*fico de persones, especialment en rutes que suposen un
+   greu risc per a la vida humana.
 
-   Cultura
+   &*nbsp;
+   (BUTTON) ×
+   Per a més informació, comunicar amb el Gabinet de Premsa de la Direcció
+   General de la Policia (Telèfon 91.322.33.19)
 
-   Esports
+Últimes notícies
 
-(BUTTON)
+     * Les recerques de la Policia Nacional conduïxen a la detenció a
+       Argentina d'un productor de pornografia infantil
+       23/12/25
+     * La Policia Nacional desarticula una secta destructiva que
+       utilitzava rituals *santeros per al control psicològic dels adeptes
+       23/12/25
+     * La Policia Nacional recupera a Lleó una corona visigoda d'or datada
+       en el segle VI
+       23/12/25
+     * La Policia Nacional desarticula una organització criminal dedicada
+       al tràfic de persones entre Colòmbia i Espanya
+       22/12/25
+     * Veure més
 
-   Més
+SEGUEIX-NOS!
 
-   EI Temps
+     *
+     *
+     *
+     *
+     *
+     *
+     *
 
-   Agenda.ad
+     * Mapa web
+     * Accessibilitat
+     * Polítiques de Certificació
+     * Certificats Digitals D.G.P.
 
-   Trànsit
+     * Els teus tràmits
+          + Denunciar
+          + Dni electrònic Obri nova finestra. Enllaç extern.
+          + Cita prèvia dni i passaport Obri nova finestra. Enllaç extern.
+          + Seu electrònica Obri nova finestra. Enllaç extern.
+     * Col·labora
+          + Informar
+          + Consells
+          + Família i dona
+          + Tràfic d'éssers humans
+          + Buscats
+          + Desapareguts
+     * Comunicació
+          + Sala de premsa
+          + Actualitat Policial
+     * La teua policia
+          + Coneix-nos
+          + Processos selectius
+          + Xarxa Blava
+          + Publicacions
 
-(BUTTON)
+   © Dirección General de la Policía 2020
+     * |Protecció de dades
+     * |Avís legal
 
-   Programes
-
-   Programació
-
-   A la carta
-
-   Andorra Actualitat
-
-   L'Informatiu
-
-   Reportatges
-
-(BUTTON)
-
-   RTVA.ad
-
-   Avís legal
-
-   Política de Privacitat
-
-   Política de Cookies
-
-   Sobre RTVA
-
-   Contacte
-
-   Vols treballar a RTVA?
-   ©2025 Ràdio i Televisió d’Andorra, S.A.
-
-Les fiscalies francesa i andorrana signen un protocol de col·laboració | RTVA
+     * twitter
+     * tik tok
+     * facebook
+     * instagram
+     * whatsapp
+     * youtube
+     * telegram

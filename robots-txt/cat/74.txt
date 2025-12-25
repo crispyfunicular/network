@@ -1,72 +1,92 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
-
 User-agent: *
-# CSS, JS, Images
-Allow: /core/*.css$
-Allow: /core/*.css?
-Allow: /core/*.js$
-Allow: /core/*.js?
-Allow: /core/*.gif
-Allow: /core/*.jpg
-Allow: /core/*.jpeg
-Allow: /core/*.png
-Allow: /core/*.svg
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /profiles/*.svg
-# Directories
-Disallow: /core/
-Disallow: /profiles/
-# Files
-Disallow: /README.md
-Disallow: /composer/Metapackage/README.txt
-Disallow: /composer/Plugin/ProjectMessage/README.md
-Disallow: /composer/Plugin/Scaffold/README.md
-Disallow: /composer/Plugin/VendorHardening/README.txt
-Disallow: /composer/Template/README.txt
-Disallow: /modules/README.txt
-Disallow: /sites/README.txt
-Disallow: /themes/README.txt
-# Paths (clean URLs)
-Disallow: /admin/
-Disallow: /comment/reply/
-Disallow: /filter/tips
-Disallow: /node/add/
-Disallow: /search/
-Disallow: /user/register
-Disallow: /user/password
-Disallow: /user/login
-Disallow: /user/logout
-Disallow: /media/oembed
-Disallow: /*/media/oembed
-# Paths (no clean URLs)
-Disallow: /index.php/admin/
-Disallow: /index.php/comment/reply/
-Disallow: /index.php/filter/tips
-Disallow: /index.php/node/add/
-Disallow: /index.php/search/
-Disallow: /index.php/user/password
-Disallow: /index.php/user/register
-Disallow: /index.php/user/login
-Disallow: /index.php/user/logout
-Disallow: /index.php/media/oembed
-Disallow: /index.php/*/media/oembed
+Disallow: /file
+Disallow: /queue/receive
+Disallow: /api/
+Disallow: /app/
+Disallow: /classification/
+Disallow: /translation/
+Disallow: /rbac/
+Disallow: /*/submit/
+Disallow: /document/queue/
+Disallow: /authentication/
+Disallow: /notifications/
+Disallow: /notifications$
+Disallow: /email/
+Disallow: /ajax/
+Disallow: */cms/
+Disallow: /cms/
+Disallow: /payment/
+Disallow: /payment$
+Disallow: /mixpanel/
+Disallow: /*/invite/
+Disallow: /*/trial/
+Disallow: /*/request/
+Disallow: */followers$
+Disallow: */followers?
+Disallow: */group$
+Disallow: */group?
+Disallow: /*/studylist/
+Disallow: /studylist/
+Disallow: /practice$
+Disallow: /practice?
+Disallow: /practice/
+Disallow: /*/registration?
+Disallow: /*/registration/
+Disallow: /*/login?
+Disallow: /*/document/upload?
+Disallow: /*/document/upload/
+Disallow: /*/upgrade$
+Disallow: /*/upgrade?
+Disallow: /*/search/*
+Disallow: /*/search?*
+Disallow: /*/search?*languages=
+Disallow: /*/search/*languages=
+Disallow: /en/search$
+Disallow: /en/search/
+Disallow: /*/app-store/
+Disallow: /tiktoken_bg.wasm
+Disallow: /rest-api/
+Disallow: /next-api/*
+Disallow: /*/notes?
+Disallow: /27m703Hm/xhr/api/v2/collector
+Disallow: /27m703Hm/xhr/b/s
+Disallow: /27m703Hm/init.js
+Disallow: /*?_pxhc=*
+Disallow: /users/anonymous/*
+Disallow: /*/user/*/uploads
+Disallow: /27m703Hm/captcha/*
+Disallow: /.well-known/assetlinks.json
+Disallow: /cdn-cgi/scripts/5c5dd728/cloudflare-static/email
+
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: YandexBot
+User-agent: Baiduspider
+User-agent: Amazonbot
+User-agent: Meta-ExternalAgent
+User-agent: FacebookBot
+User-agent: Applebot-extended
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: ClaudeBot
+User-agent: Claude-web
+User-agent: omgili
+User-agent: cohere-ai
+User-agent: Scrapy
+User-agent: Diffbot
+User-agent: ImagesiftBot
+User-agent: TurnitinBot
+Disallow: /
+
+Sitemap: https://www.studocu.com/sitemap/document_index.xml
+Sitemap: https://www.studocu.com/sitemap/institution_index.xml
+Sitemap: https://www.studocu.com/sitemap/course_index.xml
+Sitemap: https://www.studocu.com/sitemap/qa_index.xml
+Sitemap: https://www.studocu.com/sitemap/quiz_index.xml
+Sitemap: https://www.studocu.com/sitemap/book_index.xml
+Sitemap: https://www.studocu.com/sitemap/high-school_index.xml
+Sitemap: https://www.studocu.com/sitemap/high-school-course_index.xml
+Sitemap: https://www.studocu.com/sitemap/high-school-degree_index.xml
+Sitemap: https://www.studocu.com/sitemap/degree-course_index.xml
+Sitemap: https://www.studocu.com/sitemap/document-thumbnail_index.xml
+Sitemap: https://www.studocu.com/sitemap/teachers-document_index.xml

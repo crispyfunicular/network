@@ -1,39 +1,47 @@
-   Home » Notícies
+          + Notícies
+          + Agenda
+          + Xarxes Socials
+          + La Ràdio
+          + L'Informatiu
+--
+               o Biblioteca
+               o EMA
+               o Xarxa de Centres Cívics
+          + SPM és Nadal
+          + Educació
+--
+          + Notícies
+          + Agenda
+          + Xarxes Socials
+          + La Ràdio
+          + L'Informatiu
+--
+     * Notícies
+     * Agenda
+     * Xarxes Socials
+     * La Ràdio
+     * L'Informatiu
+--
+   de la República Àrab Sahrauí Democràtica el 27 de febrer i, en aquest
+   marc, penjar la bandera sahrauí en un lloc destacat de l’espai públic i
+   fer-ne difusió per xarxes socials.
 
-El ‘Nobel’ de la informàtica reconeix els avenços en les xarxes neuronals
+   La Corporació demana al govern espanyol, com a potència administradora
+--
+   una ràpida i integra recuperació. La Corporació ha aprovat per
+   unanimitat una moció on referma el seu compromís en la lluita contra el
+   narcotràfic i les xarxes criminals de la droga que s'assenten a Espanya
+   i estableixen les rutes delictives a les nostres costes. La proposta
+   reclama al Ministeri de l'Interior i al Departament de l'Interior de la
+--
+          + Notícies
+          + Agenda
+          + Xarxes Socials
+          + La Ràdio
+          + L'Informatiu
+--
+          + Hemeroteca
 
-   Submitted by editor Coeinf on 2 abril 2019 – 09:00No Comment
---
-   “Els premis Turing són com els Nobel de la informàtica i vénen a
-   reconèixer un camp que, després d’una etapa d’estancament, ha tornat a
-   ressorgir. Les xarxes neuronals han tingut un important passat i tenen
-   un prometedor futur “. Així destaca el catedràtic de Sistemes de la
-   Informació i Informàtica de Gestió de la Universitat Pablo de Olavide
---
-   Geoffrey Hinton, Yann LeCun i Yoshua Bengio.
-
-   Les xarxes neuronals, presents en multitud de dispositius ja
-   habituals, com els assistents de veu o els sistema de seguretat dels
-   vehicles, intenten imitar el cervell humà i han passat de treballar amb
---
-   milió de dòlars del premi als tres investigadors. El primer treballa
-   per a Google; el segon, per a Facebook; i el tercer per a IBM i
-   Microsoft. Les tres companyies compten amb les xarxes neuronals com a
-   eines fonamentals en els seus programes de reconeixement, classificació
-   i control.
-
-   Les xarxes neuronals es basen en sistemes matemàtics cada vegada més
-   complexos que poden aprendre de l’anàlisi de quantitats d’informació,
-   segons explica Salmerón, que també és investigador i membre d’entitats
---
-   intel·ligents. Investigadors del Departament d’Enginyeria Mecànica de
-   la Universitat de Màlaga (UMA) han desenvolupat un sistema de seguretat
-   per a vehicles inspirat en les xarxes neuronals d’impuls ( spiking
-   neural networks ), models artificials que actuen de forma molt similar
-   a les biològiques, a l’hora de processar la informació.
---
-   l’escassa presència femenina en el sector TIC El Govern impulsarà un
-   nou model d’Administració Digital basada en una nova relació amb la
-   ciutadania D-Link aposta per modernitzar les xarxes WiFi empresarials
-   amb la tecnologia Wave2 La 1ªEdició TalentTIC a la Lul·liana 2019
-   tracta el desenvolupament de rols professionals Una bateria minúscula
+   Xarxes socials: Facebook Facebook Youtube Youtube Instagram Instagram
+   Whatsapp Whatsapp
+     * Crèdits

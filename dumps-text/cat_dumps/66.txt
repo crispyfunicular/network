@@ -1,215 +1,416 @@
-   #DSpace
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-598B2T7W
 
-   . Obre en una nova finestra. Logo gencat
-   Menú
-     * Imatge usuari Inicia sesión. Obre en una nova finestra.
-     * Imatge menú Contacto
-     * Menú idioma Idioma: es fletxa cap avall fletxa cap avall
-          + Català
-          + English
+   drag_handle
+     * (BUTTON) Notícies
+     * (BUTTON) Esports
+     * EI Temps
+     * A la carta
+     * Programació
 
-   Cercador (BUTTON) Cercador
+     * search
+     * (BUTTON) En directe
 
-Documentació de Seguretat Pública (repositori del Departament d'Interior i
-Seguretat Pública)
+   andorradifusio_rtva_fiscalies_francesa_andorrana_signen_protocol_colabo
+   racio_411201914622
 
-     * Principal
-     * Información sobre el repositorio
+   Les fiscalies francesa i andorrana signen un protocol de col·laboració
 
-   . Obre en una nova finestra. Logotip de la Generalitat
+   Continua la bona sintonia i la col·laboració entre la justícia francesa
+   i l'andorrana. Aquest dilluns s'ha signat un protocol d'entesa amb el
+   qual les fiscalies del Principat i de Tolosa continuaran amb
+   l'intercanvi d'informació, però també amb el de formació del personal
+   dels dos òrgans.
 
-   |Documentació de Seguretat Pública (repositori del Departament
-   d'Interior i Seguretat Pública)
+   Author
+   |
 
-   Imatge capçalera
-     * Principal
-     * Seguretat
-     * Articles, jornades, formació i congressos
-     * Ver ítem
+   04.11.19
+   (BUTTON) share
+     __________________________________________________________________
 
-Ver ítem
+   El contraban, les xarxes criminals relacionades amb aspectes com ara el
+   tràfic de drogues, armes i blanqueig de diners en general són aspectes
+   en els quals col·laboren els dos estats.
 
-     * Compartir en Twitter
-     * Compartir en Facebook
-     * Compartir en Telegram
-     * Compartir en WhatsApp
-     * Imprimir
+   La fiscal de Tolosa, Monique Olivier, no ha volgut parlar d'augment de
+   la delinqüència, però sí d'una transformació. Per la seva banda, el
+   fiscal general, Alfons Alberca, ha explicat que la signatura d'aquest
+   dilluns ajudarà a continuar treballant amb la mateixa entesa dins el
+   marc d'un protocol ben definit.
 
-   JavaScript is disabled for your browser. Some features of this site may
-   not work without it.
+   Informa: Sílvia Mestre
 
-   Mostrar el registro sencillo del ítem
+   Etiquetes
+   tribunals
 
-Les xarxes criminals exploten negocis legals per reforçar el control sobre
-l’economia (2025)
+   Destacat
+   andorradifusio_rtva_denegat_recurs_empara_policia_va_amenacar_241202413
+   229
 
-   dc.contributor.author Departament d'Interior i Seguretat Pública ca
-   dc.coverage.spatial Europa ca
-   dc.date.accessioned 2025-07-02T11:30:24Z
-   dc.date.available 2025-07-02T11:30:24Z
-   dc.date.issued 2025-05-07
-   dc.identifier.citation Departament d'Interior i Seguretat Pública. Les
-   xarxes criminals exploten negocis legals per reforçar el control sobre
-   l’economia. En: Notes de Seguretat (Blog)
-   <https://notesdeseguretat.blog.gencat.cat>. Barcelona: Departament
-   d'Interior i Seguretat Pública, 2025. 3 p. ca
-   dc.identifier.uri https://hdl.handle.net/20.500.14007/4330
-   dc.description.abstract Nota informativa sobre l’informe presentat per
-   Europol: «Aprofitant la legitimitat: com les xarxes criminals més
-   amenaçadores de la UE abusen de les estructures empresarials legals»,
-   que examina com les xarxes criminals fan ús fraudulent de les
-   estructures empresarials legals per reforçar el seu poder i ampliar
-   així les seves operacions criminals. ca
-   dc.format.extent 3 p. ca
-   dc.language.iso cat ca
-   dc.language.iso spa ca
-   dc.language.iso eng ca
-   dc.language.iso fra ca
-   dc.publisher Departament d'Interior i Seguretat Pública ca
-   dc.relation.ispartof Publicat dins el Blog Notes de seguretat
-   https://notesdeseguretat.blog.gencat.cat/ ca
-   dc.rights Attribution-NonCommercial-NoDerivatives 4.0 International *
-   dc.rights.uri http://creativecommons.org/licenses/by-nc-nd/4.0/ *
-   dc.subject.other Notes de seguretat
-   dc.title Les xarxes criminals exploten negocis legals per reforçar el
-   control sobre l’economia (2025) ca
-   dc.title.alternative Las redes criminales explotan negocios legales
-   para reforzar el control sobre la economía ca
-   dc.title.alternative Criminal networks exploit legal businesses to
-   strengthen control over the economy ca
-   dc.title.alternative Les réseaux criminels pénètrent les entreprises
-   légales pour renforcer leur contrôle sur l’économie ca
-   dc.type info:eu-repo/semantics/contributionToPeriodical ca
-   dc.rights.accessLevel info:eu-repo/semantics/openAccess
-   dc.embargo.terms cap ca
-   dc.description.version info:eu-repo/semantics/publishedVersion ca
-   dc.subject.lemac Crim organitzat
-   dc.subject.lemac Europol
-   ﻿
+   Societat
 
-Ficheros en el ítem
+   Denegat el recurs d'empara del policia que va amenaçar un company
 
-   Thumbnail
+   24.01.24
+   andorradifusio_rtva_tc_denega_recusacio_dos_batlles_712024111742
 
-   Nombre:
-          2025_05_07_Les xarxes criminals ...
+   Societat
 
-   Tamaño:
-          1.321Mb
+   El TC denega la recusació de dos batlles
 
-   Formato:
-          PDF
+   07.01.24
+   andorradifusio_rtva_confirma_pena_18_mesos_preso_policia_30102023131723
 
-   Ver/Abrir
-   Thumbnail
+   Societat
 
-   Nombre:
-          2025_05_07_Las redes criminales ...
+   Es confirma la pena de 18 mesos de presó a un policia per amenaçar un
+   company
 
-   Tamaño:
-          1.316Mb
+   30.10.23
+   andorradifusio_rtva_meritxell_mateu_pagara_multa_20000_euros_3010202313
+   1724
 
-   Formato:
-          PDF
+   Societat
 
-   Ver/Abrir
-   Thumbnail
+   Meritxell Mateu pagarà la multa de 20.000 euros de cop
 
-   Nombre:
-          2025_05_07_Criminal networks ...
+   30.10.23
+   andorradifusio_rtva_defensa_assegura_bpa_no_va_actuar_30102023115115
 
-   Tamaño:
-          1.315Mb
+   Societat
 
-   Formato:
-          PDF
+   La defensa assegura que BPA no va actuar amb "ignorància volguda" amb
+   Pallardó
 
-   Ver/Abrir
-   Thumbnail
+   30.10.23
+   andorradifusio_rtva_tribunal_comptes_questiona_contracte_ironman_772023
+   122137
 
-   Nombre:
-          2025_05_07_Les réseaux criminels ...
+   Societat
 
-   Tamaño:
-          1.323Mb
+   El Tribunal de Comptes qüestiona el contracte de l'Ironman
 
-   Formato:
-          PDF
+   07.07.23
+   andorradifusio_rtva_tribunal_superior_desestima_recursos_proces_elector
+   al_672023193850
 
-   Ver/Abrir
+   Societat
 
-Este ítem aparece en la(s) siguiente(s) colección(ones)
+   El Tribunal Superior desestima els recursos contra el procés electoral
 
-     * Articles, jornades, formació i congressos [841]
+   06.07.23
+   andorradifusio_rtva_tribunal_constitucional_dona_segona_oportunitat_par
+   ella_trencada_2972022183544
 
-   Mostrar el registro sencillo del ítem
-   Attribution-NonCommercial-NoDerivatives 4.0 International
-   Excepto si se señala otra cosa, la licencia del ítem se describe como
-   http://creativecommons.org/licenses/by-nc-nd/4.0/
+   Societat
 
-Ítems relacionados
+   El Tribunal Constitucional dona una segona oportunitat a una parella
+   trencada per la malaltia i la incapacitació de la dona
 
-   Mostrando ítems relacionados por Título y Materia.
-     * Thumbnail
+   29.07.22
+   andorradifusio_rtva_tc_torna_reconeixer_lentitud_justicia_2772022134355
 
-Els grups de crim organitzat i les activitats il·legals en l’era de la
-tecnologia (2019) ﻿
-       Departament d'Interior (Publicat dins el Blog Notes de seguretat
-       https://notesdeseguretat.blog.gencat.cat/, 2019-01-09)
-       Nota informativa sobre les dades dels grups de crim organitzat i
-       les activitats il·legals en l’era de la tecnologia, segons
-       l’informe SOCTA 2017 (Serious and Organised Crime Threat
-       Assessment).
-     * Thumbnail
+   Societat
 
-Les noves formes del crim organitzat. Nous grups de delinqüència organitzada
-en el context europeu (1998) ﻿
-       Tolle, Ansgar (Revista Catalana de Seguretat Pública, Núm. 3,
-       1998-12)
-     * Thumbnail
+   El TC torna a reconèixer la lentitud de la justícia
 
-Europol s’uneix a la crida internacional per resoldre un cas d’assassinat
-(2024) ﻿
-       Departament d'Interior i Seguretat Pública (Publicat dins el Blog
-       Notes de seguretat https://notesdeseguretat.blog.gencat.cat/,
-       2024-09-25)
-       Nota informativa sobre com la inspecció de la policia alemanya de
-       la zona de Cloppenburg-Vechta i Europol demanen ajuda a la
-       ciutadania per resoldre un cas d’assassinat de fa 28 anys i que té
-       vincles ...
+   27.07.22
+   andorradifusio_rtva_diversos_politics_democrates_exculpen_meritxell_mat
+   eu_2362022133336
 
-   Búsquedas
-   ____________________ (BUTTON)
-   (*) Buscar en el repositorio
-   ( ) Esta colección
+   Societat
 
-Visualiza
+   Diversos polítics demòcrates exculpen Meritxell Mateu de l'acusació de
+   tràfic d'influències i corrupció
 
-   Todo el repositorioPor comunidades y coleccionesPor autor/a y
-   colaborador/aPor títuloPor tipo de documentoPor materia/palabra
-   clavePor fecha de publicaciónEsta colecciónPor autor/a y
-   colaborador/aPor títuloPor tipo de documentoPor materia/palabra
-   clavePor fecha de publicación
+   23.06.22
+   andorradifusio_rtva_conductor_camio_detingut_atropellament_mortal_passa
+   _disposicio_1662022154447
 
-Mi cuenta
+   Societat
 
-   AccederRegistro
+   El conductor del camió detingut per l'atropellament mortal passa a
+   disposició judicial
 
-Estadísticas
+   16.06.22
+   andorradifusio_rtva_batllia_dona_15_dies_expresident_espanyol_146202213
+   1649
 
-   Ver Estadísticas de uso
+   Societat
 
-   Sigue las redes sociales del Departamento de Interior y Seguridad
-   Pública
-     * Icona de Twitter
-     * Icona de Facebook
-     * Icona d'Instagram
-     * Icona de Youtube
+   La Batllia dona 15 dies a l'expresident espanyol Mariano Rajoy per
+   declarar per pressions a ciutadans andorrans
 
-   Logo generalitat
-     * Aviso legal
-     * Accesibilidad
-     * Política de cookies
-     * Mapa web
+   14.06.22
+   andorradifusio_rtva_condemnat_atropellament_mortal_avinguda_tarragona_d
+   emana_1362022123339
 
-   (BUTTON) Torna amunt
+   Societat
+
+   El condemnat per l'atropellament mortal a l'avinguda Tarragona demana
+   la rebaixa de pena de 5 anys a 7 mesos
+
+   13.06.22
+   andorradifusio_rtva_fiscalia_demana_10_6_anys_preso_parella_27520221213
+   59
+
+   Societat
+
+   La fiscalia demana 10 i 6 anys de presó per a una parella acusada de
+   proxenetisme i tràfic d'éssers humans
+
+   27.05.22
+   andorradifusio_rtva_fiscalia_demana_8_mesos_preso_condicional_acusat_24
+   5202216232
+
+   Societat
+
+   La fiscalia demana 8 mesos de presó condicional per a l'acusat
+   d'agredir un jove a les portes d'una discoteca
+
+   24.05.22
+   andorradifusio_rtva_tribunal_corts_condemna_cins_anys_preso_homicidi_19
+   52022131742
+
+   Societat
+
+   El Tribunal de Corts condemna a cinc anys de presó per homicidi l'autor
+   de l'atropellament mortal a l'avinguda Tarragona
+
+   19.05.22
+   andorradifusio_rtva_families_cas_mestre_maria_moliner_acusat_1852022203
+   230
+
+   Societat
+
+   Les famílies del cas del mestre del María Moliner acusat d'abusos
+   sexuals presenten recurs contra l'absolució
+
+   18.05.22
+   andorradifusio_rtva_forenses_catalans_colaboraran_justicia_andorrana_ac
+   celerar_1152022132558
+
+   Societat
+
+   Pèrits catalans col·laboraran amb la justícia andorrana en
+   especialitats que no estan cobertes al país
+
+   11.05.22
+   andorradifusio_rtva_absolt_mestre_colegi_maria_moliner_acusat_274202214
+   1145
+
+   Societat
+
+   Absolt el mestre del col·legi María Moliner acusat el 2019 d'abusos a
+   menors
+
+   27.04.22
+   andorradifusio_rtva_enric_casadevall_calcula_retard_justicia_podria_224
+   2022134759
+
+   Societat
+
+   Enric Casadevall calcula que el retard de la justícia podria estar
+   resolt en tres o quatre anys
+
+   22.04.22
+   andorradifusio_rtva_csj_veu_be_pla_xoc_justicia_642022132811
+
+   Societat
+
+   El CSJ veu bé el pla de xoc de la justícia però recela de la figura del
+   secretari judicial adjunt
+
+   06.04.22
+   andorradifusio_rtva_judici_atorpellament_avinguda_tarragona_29_canvien_
+   14202221414
+
+   Societat
+
+   Judici per l'atropellament a l'avinguda Tarragona, 29 segons que
+   canvien vides
+
+   01.04.22
+   andorradifusio_rtva_autor_atropellament_mortal_avinguda_tarragona_no_14
+   2022143716
+
+   Societat
+
+   L'autor de l'atropellament mortal a l'avinguda Tarragona no va auxiliar
+   la víctima tot i ser metge
+
+   01.04.22
+   andorradifusio_rtva_dona_filla_home_va_morir_atropellat_31320221423
+
+   Societat
+
+   La dona i la filla de l'home que va morir atropellat a l'avinguda
+   Tarragona es retiren de l'acusació particular a canvi d'una
+   indemnització
+
+   31.03.22
+   andorradifusio_rtva_baralla_parella_drogues_acaba_judici_trafic_1532022
+   125912
+
+   Societat
+
+   Una baralla de parella per drogues acaba en un judici per tràfic
+   d'estupefaents
+
+   15.03.22
+   andorradifusio_rtva_mante_pols_afer_vel_escola_1822022134350
+
+   Societat
+
+   Es manté el pols per l'afer del vel a l'escola
+
+   18.02.22
+   andorradifusio_rtva_justicia_dona_rao_nena_vol_portar_vel_1722022152431
+
+   Societat
+
+   La justícia dona la raó a la nena que vol portar el vel a l'escola i
+   afirma que s'han vulnerat els seus drets
+
+   17.02.22
+   andorradifusio_rtva_advocats_volen_rebaixar_tensions_resta_justicia_922
+   022132237
+
+   Societat
+
+   Els advocats volen rebaixar les tensions amb la resta de la justícia
+
+   09.02.22
+   andorradifusio_rtva_tres_casos_andorra_pendents_resoldre_tribunal_25120
+   22185225
+
+   Societat
+
+   Tres casos d'Andorra, pendents de resoldre al Tribunal Europeu de Drets
+   Humans
+
+   25.01.22
+   andorradifusio_rtva_judici_causa_primera_torna_ajornar_positiu_10120221
+   23129
+
+   Societat
+
+   El judici de la causa primera de BPA es torna a ajornar pel positiu de
+   la Covid-19 d'un advocat
+
+   10.01.22
+   (BUTTON) keyboard_arrow_left (BUTTON) keyboard_arrow_right
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Informació
+
+   Notícies
+
+   Societat
+
+   Política
+
+   Economia
+
+   Cultura
+
+   Esports
+
+   Més
+
+   EI Temps
+
+   Agenda.ad
+
+   Trànsit
+
+   Programes
+
+   Programació
+
+   A la carta
+
+   Andorra Actualitat
+
+   L'Informatiu
+
+   Reportatges
+
+   RTVA.ad
+
+   Avís legal
+
+   Política de Privacitat
+
+   Política de Cookies
+
+   Sobre RTVA
+
+   Contacte
+
+   Vols treballar a RTVA?
+
+(BUTTON)
+
+   Informació
+
+   Notícies
+
+   Societat
+
+   Política
+
+   Economia
+
+   Cultura
+
+   Esports
+
+(BUTTON)
+
+   Més
+
+   EI Temps
+
+   Agenda.ad
+
+   Trànsit
+
+(BUTTON)
+
+   Programes
+
+   Programació
+
+   A la carta
+
+   Andorra Actualitat
+
+   L'Informatiu
+
+   Reportatges
+
+(BUTTON)
+
+   RTVA.ad
+
+   Avís legal
+
+   Política de Privacitat
+
+   Política de Cookies
+
+   Sobre RTVA
+
+   Contacte
+
+   Vols treballar a RTVA?
+   ©2025 Ràdio i Televisió d’Andorra, S.A.
+
+Les fiscalies francesa i andorrana signen un protocol de col·laboració | RTVA

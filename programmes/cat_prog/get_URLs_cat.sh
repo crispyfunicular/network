@@ -1,37 +1,59 @@
 #!/bin/bash
 
-# ./miniprojet-3.sh ../urls/fr.txt > ../tableaux/tableau-fr.html
-
-# $# number of arguments passed to the program
-#if [ $# -ne 1 ]
-#then
-#	echo "ce programme demande un argument"
-#	exit 1
-#fi
-
 # $1 first argument passed to the program
 URL=${1-URL/URL_cat.txt}
+
+# Ouput file
 tsv="./tableaux/cat_tableaux/URLs.tsv"
 rm -f "$tsv"
 
+# Cleaning of the aspiration directory
 mkdir -p ./aspirations/cat_aspirations
 rm -rf ./aspirations/cat_aspirations/*
 
+# Cleaning of the dumps-text directory
 mkdir -p ./dumps-text/cat_dumps
 rm -rf ./dumps-text/cat_dumps/*
 
+# Cleaning of the robot-txt directory
 mkdir -p ./robots-txt/cat
 rm -rf ./robots-cat/cat/*
 
+# total number of URLs to process
+total=$(wc -l $URL | cut -d ' ' -f 1)
+
 # counter for the line number of the urls file
-lineno=0
+lineno=1
 while read -r line;
 do
-	# display each line in the stderr
-	echo "Fetching $line" 1>&2
+	# display the current counter and each URL in the stderr
+	echo "$lineno/$total: Fetching $line" 1>&2
 
-	# increment the line counter by 1	
+	# increment the line counter by 1
 	lineno=$(expr $lineno + 1)
+
+	###
+	# robots.txt
+	###
+
+	# Adds "robots.txt" after each URL's root
+	robot_URL=$(echo "$line" | sed -n 's/^\(https\?:\/\/[^\/]*\/\).*$/\1robots.txt/p')
+
+	# Try to fetch robots.txt URL
+	response_robot=$(curl -s -I -L -w "%{response_code}" -o /dev/null "$robot_URL")
+
+	# Check the response code of the robots.txt HTTP request
+	ok_robot=$(echo $response_robot | grep ^2)
+	
+	if [ -n "$ok_robot" ]
+	then
+		robots_path="./robots-txt/cat/$lineno.txt"
+		curl -s "$robot_URL" > "$robots_path"
+	fi
+
+	###
+	# Target URL
+	###
 
     # curl: make an http request
 	# -s --silent (do not display extra metadata)
@@ -54,17 +76,6 @@ do
 
 	# ok if the http response code starts with 2 (200, 201,...)
 	ok=$(echo $response_code | grep ^2)
-
-	# Adds "robots.txt" after each URL's root
-	robot_URL=$(echo "$line" | sed -n 's/^\(https\?:\/\/[^\/]*\/\).*$/\1robots.txt/p')
-	response_robot=$(curl -s -I -L -w "%{response_code}" -o /dev/null "$robot_URL")
-	ok_robot=$(echo $response_robot | grep ^2)
-	
-	if [ -n "$ok_robot" ]
-	then
-		robots_path="./robots-txt/cat/$lineno.txt"
-		curl -s "$robot_URL" > "$robots_path"
-	fi
 
 	if [ -n "$ok" ]
 	then

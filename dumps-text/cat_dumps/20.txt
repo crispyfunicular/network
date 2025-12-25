@@ -1,110 +1,189 @@
-   #Llotjavilanova » Canal d'informació alternate alternate alternate
+   #Ratera » Feed Ratera » Comments Feed oEmbed (JSON) oEmbed (XML) JSON
 
-   938150250 info@llotjavilanova.com
-     * Notícies
-     * Arts de pesca
-     * Espècies
-     * Receptes
-     * Restaurants
-     * Punts de venta
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P6XHJPQ
 
-   Llotjavilanova
+     * Catàlegs
+     * El teu pressupost
+
+   ca
+   es en fr
 
      * Inici
-     * La Confraria
-          + Qui som
-          + La Flota
-          + La Llotja
-     * Meteorologia
-     * Blog
-     * Contactar
+     * Aplicacions
+          + Cordes
+               o Esport i temps lliure
+               o Grans diàmetres
+               o Cordes elàstiques
+               o Espiroidal
+               o Cordills i cordes vàries
+          + Industria tèxtil
+               o Calçat i roba
+               o Trenzas planas
+               o Fibres naturals
+               o Pasamaneria
+               o Accessoris i complements
+          + Marítima
+               o Xarxa de pesca
+               o Cordes nàutiques
+               o Grans diàmetres
+          + Tubulars i recobriments
+               o Fundes
+               o Recobriments
+          + Médica
+               o Sutura i Trenat Mèdic
+          + Metàl·lica
+               o Conductors de fluids
+               o Conductors elèctrics
+     * Productes
+          + Trenadores
+               o Ecartament 80
+               o Ecartament 104
+               o Ecartament 115
+               o Ecartament 140
+               o Ecartament 154
+               o Ecartament 160
+               o Ecartament 208
+               o Ecartament 240
+               o Ecartament 342
+               o Ecartament 432
+               o Ecartament 574
+               o Ecartament 680
+          + Bobinadores
+               o Bobinadores Semiautomàtiques
+               o Bobinadores Automàtiques
+          + Auxiliars
+               o Plegadors
+               o Filetes i desbobinadores
+               o Màquina buida bobines
+     * Ratera
+     * Notícies
+     * Contacte
+          + Seu central
+          + Ratera al món
+          + Treballa a Ratera
+     *
 
-   Select Page
    ____________________
+   (BUTTON)
 
-Soltes
+   Xarxa de pesca
 
-   by | des. 31, 2018 | Tècniques de pesca
-   ← Palangre de fons Curricà →
+Maquinària per a la producció de trenats per a xarxa de pesca
 
-   Les soltes, juntament amb el tresmall o armallada i el bolero, són arts
-   de fons, que estan formats per xarxes rectangulars que es deixen
-   fondejades al mar perquè s’hi enredin els peixos.
+   Les màquines trenadores Ratera poden fer xarxa de pesca de monofilament
+   o multifilament. Ratera ofereix les trenadores i tots els accessoris
+   necessaris per realitzar un producte perfecte.
+   Contacta amb nosaltres
 
-   Són xarxes d’emmallament, i com el seu nom indica es cala de manera que
-   la xarxa no quedi tibant i així el peix s’embolica fàcilment a la
-   malla. Són, sens dubte, les xarxes més senzilles en estructura de totes
-   les emprades en arts de fons. Estan formades per una sola xarxa armada
-   sobre dues ralingues, la de suro i la de plom, amb una separació entre
-   ralinga i xarxa de 15 a 20cm, de fil més fort, muntada en banda a fi
-   que les sacsejades dels peixos no trenquin la fina malla. L’armadora
-   suposa un 60% de la llargada de la xarxa abans de ser muntada. Avui sol
-   haver-hi dues mides de malla: una anomenada de roger i una altra
-   anomenada de lluç.
+Aplicacions
 
-   Les soltes es calen cap a la caiguda del sol i a vegades a la matinada,
-   i és normal llevar-les abans de la sortida del sol.
+     * Xarxa trenada
+     * Xarxes de pesca
+     * Xarxa amb nusos
+     * Gàbies flotants
+     * Piscifactories
 
-   Generalment es calen en llocs nets, a profunditats situades entre les
-   30 i les 80 braces. El seu ús, actualment, s’ha restringit bastant. La
-   seva mida oscil.la entre els 50 i els 60 metres de llargària i de 2 a 5
-   d’alçada, una vegada muntades, amb molt de bos.
+Materials
 
-   També s’anomenaven verateres les que servien per a per a verats,
-   bogueres les que es calaven per a boga, i lluceres per a lluç. També
-   s’agafen llobarros i rogers.
-   [soltes-400x284.jpg]
+     * Polièster
+     * Polipropilè
+     * Niló
+     * Polietilè d’alt mòdul (HMPE)
 
-Soltes calades
+Vídeos
 
-   [joana-u-400x284.jpg]
+   IFRAME:
+   //www.youtube.com/embed/nxOX5wEfTjc?autoplay=0&controls=1&origin=https:
+   //ratera.com/ca/&loop=0&mute=0
 
-Vaixell de la flota de Vilanova
+Ens adaptem al teu producte
 
-   [marinada-400x284.jpg]
+   Alguns exemples de màquines especials que Ratera ofereix són:
+     * Número de fusos: El fus és l’element mòbil on es carrega la bobina
+       amb el fil que serà trenat. Les trenadores per a xarxes de pesca
+       solen ser en general de 16 fusos.
+     * Ecartament: Diàmetre en mm de la platina. Això determinarà la
+       capacitat de les bobines dels fusos. En xarxa de pesca, generalment
+       es fa servir l’Ect.115, ja que ofereix una alta velocitat,
+       resistència i versatilitat, ideal per fabricar cordills entre Ø2 i
+       Ø6mm. No obstant això, també es fa servir l’Ect.140 ja que ofereix
+       una major capacitat de bobina 1.211 cm3 (davant dels 547cm3 de
+       l’Ect.115) i permet allargar el cicle de canvi de rodets de cada
+       màquina. Ideal per a trenes entre Ø5 i Ø9mm.
+     * Plegador creuat: Per alimentar el teler de nusos, cal preparar
+       bobines amb plegat creuat. La trenadora Ratera incorpora un
+       plegador que prepara directament aquestes bobines. Per a un plegat
+       perfecte, Ratera ofereix afegir una columna tensora amb pesos
+       ajustables per graduar la tensió de bobinatge.
+     * Accessoris a escollir: Recollidor salva-fusos en punt de trenat,
+       control d’ànima, semàfor, comptametres…
+     * Proteccions d’acord amb estàndards CE i/o nacionals de cada país.
 
-Vaixell de la flota de Vilanova
+   No dubteu a contactar-nos per donar-vos suport en definir la vostra
+   màquina.
 
-     * Termes i condicions
+Catàlegs
 
-     * Facebook
-     * Twitter
+   Ecartament 115
 
-   @Confraria de pescadors de Vilanova i la Geltrú, Zona de servei del
-   port s/n, 08800 Vilanova i la Geltrú. Telèfon: +34 93 815 02 50
+   Ecartament 140 i 154
 
-   Aquesta web utilitza 'cookies' pròpies i de tercers per oferir-te una
-   millor experiència i servei. Al navegar o utilitzar els nostres
-   serveis, acceptes l'ús que fem de les 'cookies'. Acceptar Rebutjar
-   Llegeix més
+   Bobinadores Automàtiques
 
-   Privacitat i Política de cookies
+   Bobinadores Semiautomàtiques
 
-   (BUTTON) Tanca
+Descobreix algunes de les nostres trenadores per a xarxes de pesca
 
-Privacy Overview
+16/115 doble 2 motors
 
-   This website uses cookies to improve your experience while you navigate
-   through the website. Out of these, the cookies that are categorized as
-   necessary are stored on your browser as they are essential for the
-   working of basic functionalities of the website. We also use
-   third-party cookies that help us analyze and understand how you use
-   this website. These cookies will be stored in your browser only with
-   your consent. You also have the option to opt-out of these cookies. But
-   opting out of some of these cookies may affect your browsing
-   experience.
-   Necessary
-   [X] Necessary
-   Sempre activat
-   Necessary cookies are absolutely essential for the website to function
-   properly. This category only includes cookies that ensures basic
-   functionalities and security features of the website. These cookies do
-   not store any personal information.
-   Non-necessary
-   [X] Non-necessary
-   Any cookies that may not be particularly necessary for the website to
-   function and is used specifically to collect user personal data via
-   analytics, ads, other embedded contents are termed as non-necessary
-   cookies. It is mandatory to procure user consent prior to running these
-   cookies on your website.
-   DESA I ACCEPTA
+   Máquina trenzadora para calzado, ropa, accesorios y complementos
+
+16/115 doble 1 motor
+
+Descobreix les bobinadores i maquinària complementària al procés de trenat
+
+4PVLU/330
+
+4PVLU/450
+
+ML-100
+
+BA-4U/E140
+
+Hola, com et podem ajudar?
+
+   Tinc un dubte
+   Necessito un pressupost
+
+Contacta
+
+   Avinguda dels Dolors, 13
+
+   Apt. Correus (P.O. Box) 228
+   08243 MANRESA
+   (Barcelona – Spain)
+
+   ratera@ratera.com
+
+Parlem
+
+   +34 93 874 57 11
+
+   +34 93 878 49 50
+
+   +34 93 877 26 82
+
+Segueix-nos
+
+   LinkedIn
+   YouTube
+
+Certificació
+
+   © 2024 TALLERES RATERA S.A. Tots els drets reservats
+
+     * Avis legal
+     * Política de privacitat
+     * Política de cookies
+
+   (BUTTON) Menu

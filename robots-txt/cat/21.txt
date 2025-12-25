@@ -1,16 +1,8 @@
-# All bots
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-# Disallow: /
-Disallow: /application/
-Disallow: /system/
+Disallow:
 
-Disallow:/ca/basic/
-Disallow:/es/basic/
-Disallow:/en/basic/
-Disallow:/fr/basic/
-Disallow:/ca/auth/
-Disallow:/es/auth/
-Disallow:/en/auth/
-Disallow:/fr/auth/
-
-Sitemap: https://www.xarxesmf.com/sitemap.xml
+Sitemap: http://www.llotjavilanova.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

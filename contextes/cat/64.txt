@@ -1,29 +1,31 @@
-   Des del 2018 han comissat 40 tones d’haixix que entra a través de
-   desembarcaments a la franja litoral i per carretera a través de l’AP7.
-   Al 2022 es van desarticular 10 xarxes criminals i durant el 2023 s’han
-   detingut més de 900 persones. “La pressió judicial i policial al sud de
-   l’Estat ha fet que les organitzacions criminals es decantin per
---
-   que porten anys operant a la zona”.
+   Mostrar el registro sencillo del ítem
 
-     Des del cos de Mossos d’Esquadra han detectat que aquestes xarxes
-     criminals han fet un pas més i cada cop estan més preparades. “Les
-     organitzacions estan començant a habilitar tallers per a la
+Les xarxes criminals exploten negocis legals per reforçar el control sobre
+l’economia (2025)
+
 --
-   Els investigadors són coneixedors de la manera de treballar dels
-   narcotraficants i saben que la majoria de vegades “no operen sols”.
-   Existeixen grups locals que presten serveis a xarxes criminals estatals
-   i internacionals oferint-los puntualment serveis logístics emparats en
-   empreses amb aparença de legalitat, tot i que, hores d’ara “no han
+   dc.date.issued 2025-05-07
+   dc.identifier.citation Departament d'Interior i Seguretat Pública. Les
+   xarxes criminals exploten negocis legals per reforçar el control sobre
+   l’economia. En: Notes de Seguretat (Blog)
+   <https://notesdeseguretat.blog.gencat.cat>. Barcelona: Departament
+--
+   dc.identifier.uri https://hdl.handle.net/20.500.14007/4330
+   dc.description.abstract Nota informativa sobre l’informe presentat per
+   Europol: «Aprofitant la legitimitat: com les xarxes criminals més
+   amenaçadores de la UE abusen de les estructures empresarials legals»,
+   que examina com les xarxes criminals fan ús fraudulent de les
+   estructures empresarials legals per reforçar el seu poder i ampliar
+   així les seves operacions criminals. ca
+--
+   dc.rights.uri http://creativecommons.org/licenses/by-nc-nd/4.0/ *
+   dc.subject.other Notes de seguretat
+   dc.title Les xarxes criminals exploten negocis legals per reforçar el
+   control sobre l’economia (2025) ca
+   dc.title.alternative Las redes criminales explotan negocios legales
 --
 
-   Una altra de les observacions que fan els Mossos és que en el darrer
-   any la violència en aquestes xarxes criminals s’ha doblat. Malgrat tot,
-   “la violència que es pot desprendre en relació al fenòmen de l’haixix
-   no és comparable a la vinculada amb l’àmbit de marihuana”, explica
---
-El transport d’haixix per carretera
+   Nombre:
+          2025_05_07_Les xarxes criminals ...
 
-   Les organitzacions criminals també utilitzen la xarxa viària catalana
-   com a via de pas per fer arribar la droga des del sud de l’Estat fins a
-   la resta d’Europa. En aquest sentit, durant el 2023 els Mossos
+   Tamaño:

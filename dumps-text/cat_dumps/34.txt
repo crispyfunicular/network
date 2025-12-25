@@ -1,701 +1,415 @@
-   #ICC front page Index Top Search ICC News ICC RSS Agenda ICC RSS
-   Printable version
+   #La xarxa de transports | Genially
 
-Generalitat de Catalunya - www.gencat.cat
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K3DDDL4
 
-   ____________________ cerca
-   Español Català
-   Registration Contact
+   You need to enable JavaScript to run this app.
 
-ICGC
+   You need to enable JavaScript to run this app.
+   Your browser does not support the video tag.
 
-   Aquest web ja no és operatiu. Accediu a www.icgc.cat
-   Home  >   Home CCCC  >   Official geoinformation (CPC)  >   Grup I - 7.
-   Xarxes de transport
+   Want to create interactive content? It’s easy in Genially!
+   Get started free
 
-   [Home]
+La xarxa de transports
 
-Grup I - 7. Xarxes de transport
+   egp
 
-   Xarxes de carreteres, ferrocarril, transport aeri i vies navegables,
-   amb les seves corresponents infraestructures. S’inclouran les
-   connexions entre xarxes diferents. S’inclourà també la xarxa
-   transeuropea de transport, segons la definició de la Decisió nº
-   1692/96/CE del Parlament Europeu i del Consell, de 23 de juliol de
-   1996, sobre les orientacions comunitàries per al desenvolupament de la
-   xarxa transeuropea de transport i de les futures revisions d’aquesta
-   decisió.
+   Created on July 13, 2020
 
+   La xarxa de transports en Espanya i la vertebració del territorri.
 
-Conjunts d'informació inclosos en aquest grup:
+Start designing with a free template
 
-   10701 Xarxa de transport per carreteres
+   Discover more than 1500 professional designs like these:
+   (BUTTON)
 
-   10702 Xarxa de transport ferroviari
+View
 
-   10703 Xarxa de transport marítim
+Geniaflix Presentation
 
-   10704 Xarxa de transport aeri
+   (BUTTON)
 
-   10705 Xarxa de camins
+View
 
-   10706 Sistema viari integrat
+Vintage Mosaic Presentation
 
-   10707 Xarxa de monitorització del trànsit
+   (BUTTON)
 
-   Visualitzeu la informació
+View
 
-   (Obert Instamaps pitgeu la icona  i seleccioneu les capes del vostre
-   interès)
+Shadow Presentation
 
+   (BUTTON)
 
-XARXA DE TRANSPORT PER CARRETERES
+View
 
+Newspaper Presentation
 
-PLA CARTOGRÀFIC DE CATALUNYA: DEFINICIÓ DEL CONJUNT D'INFORMACIÓ
+   (BUTTON)
 
-ID
+View
 
-   10701
+Zen Presentation
 
-DENOMINACIÓ
+   (BUTTON)
 
-   Xarxa de transport per carreteres
+View
 
-DESCRIPCIÓ
+Audio tutorial
 
-   Inventari de les infraestructures i serveis associats de la xarxa de
-   transport per carretera de béns i passatgers. Inclou la localització,
-   el traçat i les característiques dels elements que integren la xarxa;
-   els fluxos i rutes de transport de mercaderies i passatgers; les
-   infraestructures nodals bàsiques; els pk; la nomenclatura i la
-   classificació funcional; l'estat de la xarxa i la intensitat de
-   trànsit.
+   (BUTTON)
 
-ADMINISTRACIÓ RESPONSABLE
+View
 
-   Administració General de l'Estat
+Pechakucha Presentation
 
-   Generalitat de Catalunya
+   (BUTTON)
 
-   Administració Local de Catalunya
+   Explore all templates
 
-DEPARTAMENT RESPONSABLE
+Transcript
 
-   Territori i Sostenibilitat
+   La XARXA de TRANSPORTS i la VERTEBRACIÓ del TERRITORI
 
-ENTITAT RESPONSABLE
+   1 Funció i importància2 Tipus de transport 3 Vertebració del territori
+   i desequilibris 4 Creixement del transport per carretera 5 La xarxa de
+   carreteres 6 La xarxa ferroviària 7 El transport marítim 8 El transport
+   aeri 9 Transport i contaminació
 
-   DG Infraestructures de Mobilitat Terrestre
+   Geografia. La xarxa de transports
 
-   DG Transports i Mobilitat
+   Funció i importància
 
-   Ens locals
+   La xarxa de transports permet el desplaçament de persones i
+   mercaderies.
 
-ACCÉS A LES DADES
+   Tenen una important funció econòmica: significa més del 4% del PIB a
+   Espanya. Són un element essencial en la vertebració del territori.
 
-   Públic
+   Geografia. La xarxa de transports
 
-ACTUALITZACIÓ ACONSELLABLE
+   Evolució del transport de viatgers i mercaderies
 
-   Periodicitat màxima 2 anys
+   Milers de tones de mercaderies per tipus de transport
 
-   Visualitzeu la informació
+   2007-2017
 
+   2007-2014
 
-ESTAT DEL DESPLEGAMENT I LA NORMALITZACIÓ DEL CONJUNT D'INFORMACIÓ GEOGRÀFICA
+   Geografia. La xarxa de transports
 
-Metadades
+   Tipus de transports
 
-   SI, perfil IDEC
+   AERI
 
-Especificacions tècniques
+   TERRESTRE
 
-   SI, no aprovades per la C4
+   MARÍTIM
 
-Distribució de dades
+   per carretera
 
-   Localització, Visualització i Descàrrega
+   per ferrocarril
 
-Inscripció a l'RCC
+   Geografia. La xarxa de transports
 
-   NO
+   Vertebració del territori i desequilibris
 
-Catàleg IDEC
+   La xarxa de transport és essencial en la vertebració del territori
+   per:facilita el moviment de persones i mercaderies que conecten els
+   distints llocs, factor fonamental per al desenvolupament econòmic. la
+   seua funció social i cultural permet el desplaçament diari de les
+   persones per treball, cultura, oci... La xarxa presenta desequilibris
+   territorials
 
-   SI
+   Geografia. La xarxa de transports
 
-Conformitat amb INSPIRE
+   La xarxa de transport encara presenta desequilibris territorials en
+   accessibilitat, amb zones pitjor dotades a l' interior i zona
+   occidental de la península. S'han potenciat els eixos principals,
+   desatenent els secundaris. El resultat són grans diferències en
+   accesibilitat entre comunitats i entre comarques.
 
-   SI (metadades)
+   ACCESIBILITAT PER CARRETERA2014
 
+   ACCESIBILITAT PER FERROCARRIL2014
 
-ACCÉS A LA INFORMACIÓ
+   Zones de major accessibilitat
 
-1. Direcció General d'Infraestructures de Mobilitat Terrestre
+   Zones de menor accessibilitat
 
-Accés a les dades: graf i mapa de carreteres
+   Geografia. La xarxa de transports
 
-Accés a les especificacions
+   Des de 1990, s'ha produit un considerable augment de la xarxa de
+   transports. Actualment, amb la construcció d' autovies, autopistes, l
+   'Alta Velocitat ferroviària i aeroports, ha evolucionat d' una forma
+   radial a una més mallada, completant-se alguns eixos transversals cap
+   al nord, sud-est i Andalusia.
 
-Accés a les metadades
+   Però encara queden buits en amples zones més despoblades de l' interior
+   peninsular i i del nord-oest, com es pot observar en les zones marcades
+   amb el al mapa d'accesibilitat viària de 2014.
 
-     * Descàrrega (SHP, DGN, KML i GML)
-          + Data de la informació: gener de 2015
-          + Data de publicació: gener de 2015
-     * Serveis WMS
-          + Data de la informació: gener de 2015
-          + Data de publicació: gener de 2015
+   Geografia. La xarxa de transports
 
-     * Resum
+   L' Espanya invertebrada
 
-     * Perfil IDEC
-          + Data de la metadada: -
-          + Data de publicació: -
+   Línies convencionals 8.700 km Alta velocitat 3.200 km
 
+   Poc tren convencional i massa AVE La inversió en alta velocitat és de
+   57.000 milions d'euros, mentre que en trens convencionals de mitjana
+   distància (essencial per a el desplaçament interprovincial, comarcal i
+   zones rurals) és de 850 milions. Reducció de freqüència, trajectes
+   eliminats, línies abandonades, infraestructures obsoletes...
 
-XARXA DE TRANSPORT FERROVIARI
+   Geografia. La xarxa de transports
 
+   L'Espanya invertebrada, despoblada i oblidada
 
-PLA CARTOGRÀFIC DE CATALUNYA: DEFINICIÓ DEL CONJUNT D'INFORMACIÓ
+   És la protesta del moviment "La España Vaciada existe " en un país que
+   aposta per l'alta velocitat i oblida el que hi ha entre les grans
+   ciutats; un AVE que passa a gran velocitat per zones menys poblades
+   sense detenir-se. És el reflexe de les dues velocitats: la de l'Espanya
+   urbana i economia desenvolupada front la de l'Espanya rural que reclama
+   trens, carreteres, internet i serveis socials.
 
-ID
+   +info
 
-   10702
+   Geografia. La xarxa de transports
 
-DENOMINACIÓ
+   El transport per carretera: un creixement vertiginós, tant de persones
+   com de mercaderies
 
-   Xarxa de transport ferroviari
+   En 2015 suposava més del 90% del total del transport de mercaderies
+   (molt per sobre de la mitjana de la UE), front el 4% per ferrocarril (2
+   punts per sota de la mitjana UE).
 
-DESCRIPCIÓ
+   Geografia.La xarxa de transports
 
-   Inventari de les infraestructures i serveis associats de la xarxa de
-   transport per ferrocarril de béns i passatgers. Inclou la localització,
-   el traçat i les característiques dels elements que integren la xarxa;
-   els fluxos i rutes de transport de mercaderies i passatgers; les
-   infraestructures nodals bàsiques; l'estat de la xarxa i la intensitat
-   de trànsit.
+   La causa principal de l'augment constant del transport per carretera de
+   mercaderies i desplaçament de persones ha estat la construcció de vies
+   ràpides d'alta capacitat (autovies i autopistes).
 
-ADMINISTRACIÓ RESPONSABLE
+   Xarxa de carreteres estatal i autonòmiques
 
-   Administració General de l'Estat
+   Geografia.La xarxa de transports
 
-   Generalitat de Catalunya
+   Principals fluxos de mercaderies per carretera en 2015 (milers de
+   tones)
 
-DEPARTAMENT RESPONSABLE
+   els milers de tones donen una idea del desmesurat volum transportat per
+   carretera
 
-   Territori i Sostenibilitat
+   Geografia. La xarxa de transports
 
-ENTITAT RESPONSABLE
+   Principals fluxos de mercaderies per carretera en 2015 (milers de
+   tones)
 
-   DG Transports i Mobilitat
+   Geografia. La xarxa de transports
 
-ACCÉS A LES DADES
+   Geografia. La xarxa de transports
 
-   Públic
+   El sistema espanyol de transport per carretera, ferrocarril i aeri
+   presenta una disposició radial
 
-ACTUALITZACIÓ ACONSELLABLE
+   Geografia. La xarxa de transports
 
-   Periodicitat màxima 2 anys
+   Un sistema de carreteres radial i centralitzat (heretat del passat i
+   consolidat en la década de 1960 amb el Pla de Carreteres Nacionals
+   franquista), que té com centre Madrid, des d'on parteixen (com els
+   radis d'una bicicleta) les carreteres cap a la perifèria.
 
+   Geografia. La xarxa de transports
 
-ESTAT DEL DESPLEGAMENT I LA NORMALITZACIÓ DEL CONJUNT D'INFORMACIÓ GEOGRÀFICA
+   El Pla Director d'Infraestructures 1993-1995 regeix la política de
+   transport.
 
-Metadades
+   En el PDI s'observa la continuïtat de l'estructura radial de les vies
+   ràpides l'alta capacitat, de Madrid cap a la perifèria, a les grans
+   ciutats, zones turístiques de la costa i els ports.
 
-   SI, perfil IDEC
+   Autopistes
 
-Especificacions tècniques
+   Autovies
 
-   NO
+   L' actuació s'ha basat en la contrucció d'autovies d'alta capacitat,
+   sobre (o paral.leles a) les carreteres nacionals.
 
-Distribució de dades
+   Geografia. La xarxa de transports
 
-   Localització i Descàrrega
+   Amb el canvi de govern en 1996, la política de vies d'alta capacitat
+   obrí la porta a les autopistes de peatge en concessió a empreses
+   privades -que s'afegiren a les ja existents dels anys 1970-, amb
+   l'agravant que 9 d'elles han hagut de ser rescatades per d'estat, amb
+   un cost de 2.000 milions.
 
-Inscripció a l'RCC
+   Geografia. La xarxa de transports
 
-   NO
+   Situació actual de les vies d'alta capacitat
 
-Catàleg IDEC
+   Autopistes de peatge alliberades en 2020-2021L' AP-7 (gestionada i
+   explotada des dels anys 1970 per empreses privades per concessió en
+   época franquista) ha passat a titularitat pública i gratuïta en 2020, a
+   l'igual que l' AP-1 (després de 50 anys de concessió). El tram
+   Barcelona-La Jonquera, ho serà en 2021, junt a l' AP-2
+   Zaragossa-Barcelona i l' AP-4 Sevilla-Càdis.
 
-   SI
+   +info
 
-Conformitat amb INSPIRE
+   Geografia. La xarxa de transports
 
-   SI (metadades)
+   Previsió accessibilitat per carretera: Horitzó 2020
 
+   Geografia. La xarxa de transports
 
-ACCÉS A LA INFORMACIÓ
+   La xarxa ferroviària, a l'igual que la de carreteres, presenta un
+   traçat radial, amb centre a Madrid
 
-1. Direcció General de Transports i Mobilitat
+   xarxa ferroviària 2016
 
-Accés a les dades: xarxa ferroviària
+   Es composa de: Convencional, amb ramificacions cap a línies secundàries
+   Rodalies Alta Velocitat Ferrocarril de via estreta/metro
 
-Accés a les especificacions
+   Geografia. La xarxa de transports
 
-Accés a les metadades
+   L' Alta Velocitat minora el temps del trajecte, però deixa amples zones
+   de l'interior sense servei.
 
-     * Descàrrega (SHP, DGN i KML)
-          + Data de la informació: gener de 2015
-          + Data de publicació: gener de 2015
+   Eixos alta velocitat:Madrid-Sevilla Madrid- València-Alacant
+   Madrid-Saragossa-Tarragona Madrid-Zamora-León A Coruña-Vigo
 
-     * Perfil IDEC
-          + Data de la metadada: febrer de 2009
-          + Data de publicació: febrer de 2009
+   Geografia. La xarxa de transports
 
+   L'aposta per l'AVE, els problemes de l'abandonament dels trens de
+   mitjana distància i de l'accesibilitat: vist en el punt 3
 
-XARXA DE TRANSPORT MARÍTIM
+   Geografia. La xarxa de transports
 
+   L' AVE i el procés de privatització d'un servei públic
 
-PLA CARTOGRÀFIC DE CATALUNYA: DEFINICIÓ DEL CONJUNT D'INFORMACIÓ
+   En 2019 s'aprovà la privatització de 3 línies AVE:
 
-ID
+   Un model on l'estat construeix la infraestructura, les empreses
+   privades exploten el negoci i els beneficis són privats.
 
-   10703
+   Madrid-La frontera Madrid-València-Alacant Madrid-Sevilla-Màlaga
 
-DENOMINACIÓ
+   +info
 
-   Xarxa de transport marítim
+   +info
 
-DESCRIPCIÓ
+   Geografia. La xarxa de transports
 
-   Inventari de les infraestructures portuàries: ports industrials,
-   comercials i esportius. Inclou la localització, les característiques
-   físiques, les instal·lacions i els equipaments.
+   El transport marítim: un creixement enorme en la primera i segona
+   dècada del segle XXI
 
-ADMINISTRACIÓ RESPONSABLE
+   evolució tràfic portuari 2005-2016 En 2016: més de 500 milions de tones
+   de mercaderies; més de 30 milions de persones; 8,6 milions de creuers
 
-   Generalitat de Catalunya
+   Geografia. La xarxa de transports
 
-DEPARTAMENT RESPONSABLE
+   Mapes de tràfic portuari
 
-   Territori i Sostenibilitat
+   Geografia. La xarxa de transports
 
-ENTITAT RESPONSABLE
+   Un creixement del transport marítim basat en el tràfic de vaixells
+   mercants de contenidors i creuers turístics.Un creixement paral.lel a
+   les successives ampliacions de les infrastructures portuàries en el
+   litoral mediterrani, amb un gran impacte mediambiental en la costa,
+   contaminació i turisme massificat.
 
-   DG Transports i Mobilitat
+   Geografia. La xarxa de transports
 
-ACCÉS A LES DADES
+   2020, una nova ampliació del port de València que duplicarà l'extensió
+   actual
 
-   Públic
+   Ampliació al nord del Port de València: una terminal de creuers que
+   duplicarà la dimensió actual del port.Una ampliació que deteriorà les
+   platges de Pinedo i Saler (afectades ja pel port actual), el parc
+   natural de l'Albufera i agreujarà el model turístic de masses existent.
 
-ACTUALITZACIÓ ACONSELLABLE
+   Geografia. La Xarxa de transports
 
-   Periodicitat màxima 2 anys
+   El transport aeri és bàsicament de passatgers; el de mercaderies de
+   gran volum és poc significatiu. .
 
+   Els principals aeroports són Madrid-Barajas, la costa Mediterrània, les
+   illes, Sevilla i Bilbao. La resta estan infrautilitzats. Amb la
+   privatització d'Iberia en 1997 (que deixà de ser estatal) i les
+   companyies "low cost", el tràfic de passatgers ha augmentat
+   considerablement. S'han construit nous aeroports que han estat un
+   fiasco: Ciudad Real, Castelló inaugurat sense vols.
 
-ESTAT DEL DESPLEGAMENT I LA NORMALITZACIÓ DEL CONJUNT D'INFORMACIÓ GEOGRÀFICA
+   Geografia. La Xarxa de transports
 
-Metadades
+   Transport i contaminació
 
-   NO
+   Geografia. La Xarxa de transports
 
-Especificacions tècniques
+   contaminació acústica i atmosfèrica
 
-   NO
+   La intensitat del transport per carretera és una de les causes
+   principals de contaminació acústica i atmosfèrica: representa el 42%
+   del consum de combustible del total nacional.
 
-Distribució de dades
+   Una persona que vola de Londres a N.York, genera tant CO2 com un
+   calentador domèstic durant un any
 
-   NO
+   Transport marítim i aeri: la majoria de la contaminació atmosfèrica és
+   generada pels grans creuers i avions comercials. La globalització ha
+   disparat el problema.
 
-Inscripció a l'RCC
+   Geografia. La Xarxa de transports
 
-   NO
+   Mapa: rutes aèries comercials al món, més de 36 milions de volsen 2017
 
-Catàleg IDEC
+   L'aviació comercial genera el 12% de les emissions del sector del
+   transport.Els avions contaminen l'atmosfera amb CO2 (diòxid de
+   carboni). Les esteles dels avions (contrails) tenen un impacte encara
+   major que les seus emissions de gasos.
 
-   NO
+   Geografia. La xarxa de transports
 
-Conformitat amb INSPIRE
+   Més de 202.000 vols en un sol dia.
 
-   NO
+   +info
 
+   Geografia. La xarxa de transports
 
-ACCÉS A LA INFORMACIÓ
+   Creuers: impacte visual i territorial, turisme massificat. Contaminen
+   deu vegades més que tots els vehicles d'Europa
 
-Accés a les dades
+   Transport marítim de vaixells transoceànics: es calcula que genera tant
+   de CO2 com 200 milions de vehicles. Els principals contaminants són
+   l'òxid de sofre (SOx) i l'òxid de nitrògen (NOx), que suposen el 40% de
+   la contaminació atmosfèrica.
 
-Accés a les especificacions
+   +info
 
-Accés a les metadades
+   Geografia. La xarxa de transports
 
+   Mapa: comparació del diòxid de nitrogen març 2019-març 2020
 
-XARXA DE TRANSPORT AERI
+   Reducció de la contaminació atmosfèrica durant el confinament per
+   l'epidèmia #Covid19.El cessament de l'activitat econòmica i, per tant,
+   del transport per carretera i bona part del marítim i de l'aeri, ens
+   dóna una idea de les conseqüències mediambientals dels mitjans de
+   transport de combustió.
 
+   Geografia. La xarxa de transports
 
-PLA CARTOGRÀFIC DE CATALUNYA: DEFINICIÓ DEL CONJUNT D'INFORMACIÓ
+   Fonts:
 
-ID
+   http://atlasnacional.ign.es/
 
-   10704
+   https://www.researchgate.net/publication/328937944_Medida_y_valoracion_
+   de_la_accesibilidad_viaria_en_Espana_revision_de_casos
 
-DENOMINACIÓ
+   https://www.agenciasinc.es/Noticias/La-caida-de-la-contaminacion-por-el
+   -confinamiento-se-ve-desde-el-espacio
 
-   Xarxa de transport aeri
+   https://www.eea.europa.eu/es/pressroom/infografia/emisiones-de-dioxido-
+   de-carbono/view
 
-DESCRIPCIÓ
+   Empar GallegoProfessora de Secundària
 
-   Inventari de les infraestructures aeroportuàries: aeroports, aeròdroms,
-   heliports i camps d'aviació per a aeronaus d'estructura ultralleugera.
-   Inclou la localització, les característiques físiques, les
-   instal·lacions i els equipaments.
-
-ADMINISTRACIÓ RESPONSABLE
-
-   Generalitat de Catalunya
-
-DEPARTAMENT RESPONSABLE
-
-   Territori i Sostenibilitat
-
-ENTITAT RESPONSABLE
-
-   DG Transports i Mobilitat
-
-ACCÉS A LES DADES
-
-   Públic
-
-ACTUALITZACIÓ ACONSELLABLE
-
-   Periodicitat màxima 2 anys
-
-
-ESTAT DEL DESPLEGAMENT I LA NORMALITZACIÓ DEL CONJUNT D'INFORMACIÓ GEOGRÀFICA
-
-Metadades
-
-   NO
-
-Especificacions tècniques
-
-   NO
-
-Distribució de dades
-
-   NO
-
-Inscripció a l'RCC
-
-   NO
-
-Catàleg IDEC
-
-   NO
-
-Conformitat amb INSPIRE
-
-   NO
-
-
-ACCÉS A LA INFORMACIÓ
-
-Accés a les dades
-
-Accés a les especificacions
-
-Accés a les metadades
-
-
-XARXA DE CAMINS
-
-
-PLA CARTOGRÀFIC DE CATALUNYA: DEFINICIÓ DEL CONJUNT D'INFORMACIÓ
-
-ID
-
-   10705
-
-DENOMINACIÓ
-
-   Xarxa de camins
-
-DESCRIPCIÓ
-
-   Inventari que recull el traçat, el tipus, la classificació funcional,
-   l'identificador, les característiques i l'estat dels camins. Els camins
-   ramaders constitueixen un subconjut d'aquest inventari i s'actualitzen
-   anualment.
-
-ADMINISTRACIÓ RESPONSABLE
-
-   Generalitat de Catalunya
-
-   Administració Local de Catalunya
-
-DEPARTAMENT RESPONSABLE
-
-   Territori i Sostenibilitat
-
-   Agricultura, Ramaderia, Pesca i Alimentació
-
-   Interior
-
-ENTITAT RESPONSABLE
-
-   Institut Cartogràfic i Geològic de Catalunya
-
-   DG Infraestructures de Mobilitat Terrestre
-
-   DG Desenvolupament Rural
-
-   DG Prevenció, Extinció d'Incendis i Salvaments
-
-   Ens locals
-
-ACCÉS A LES DADES
-
-   Públic
-
-   Parcialment públic
-
-ACTUALITZACIÓ ACONSELLABLE
-
-   Periodicitat màxima 4 anys
-
-   Visualitzeu la informació
-
-
-ESTAT DEL DESPLEGAMENT I LA NORMALITZACIÓ DEL CONJUNT D'INFORMACIÓ GEOGRÀFICA
-
-Metadades
-
-   SI, perfil IDEC
-
-Especificacions tècniques
-
-   SI, no aprovades per la C4
-
-Distribució de dades
-
-   Localització i Descàrrega
-
-Inscripció a l'RCC
-
-   NO
-
-Catàleg IDEC
-
-   SI
-
-Conformitat amb INSPIRE
-
-   SI (metadades)
-
-
-ACCÉS A LA INFORMACIÓ
-
-1. Direcció General de Forests: Camins ramaders
-
-Accés a les dades
-
-Accés a les especificacions
-
-Accés a les metadades
-
-     * Descàrrega (MMZ, SHP)
-          + Data de la informació: gener de 2013
-          + Data de publicació: gener de 2013
-     * Dades obertes
-          + Data de la informació: gener de 2013
-          + Data de publicació: gener de 2013
-
-     * Resum
-
-     * Perfil IDEC
-          + Data de la metadada: juny de 2013
-          + Data de publicació: juny de 2013
-
-
-SISTEMA VIARI INTEGRAT
-
-
-PLA CARTOGRÀFIC DE CATALUNYA: DEFINICIÓ DEL CONJUNT D'INFORMACIÓ
-
-ID
-
-   10706
-
-DENOMINACIÓ
-
-   Sistema viari integrat
-
-DESCRIPCIÓ
-
-   Sistema viari integrat que connecta el graf de carrers, el graf de
-   carreteres i el graf de camins. Inclou el sentit i girs de circulació.
-
-ADMINISTRACIÓ RESPONSABLE
-
-   Administració General de l'Estat
-
-   Generalitat de Catalunya
-
-   Administració Local de Catalunya
-
-DEPARTAMENT RESPONSABLE
-
-   Territori i Sostenibilitat
-
-   Agricultura, Ramaderia, Pesca i Alimentació
-
-   Interior
-
-ENTITAT RESPONSABLE
-
-   Institut Cartogràfic i Geològic de Catalunya
-
-   DG Infraestructures de Mobilitat Terrestre
-
-   DG Desenvolupament Rural
-
-   Ens locals
-
-ACCÉS A LES DADES
-
-   Públic
-
-ACTUALITZACIÓ ACONSELLABLE
-
-   Periodicitat màxima 2 anys
-
-
-ESTAT DEL DESPLEGAMENT I LA NORMALITZACIÓ DEL CONJUNT D'INFORMACIÓ GEOGRÀFICA
-
-Metadades
-
-   NO
-
-Especificacions tècniques
-
-   NO
-
-Distribució de dades
-
-   NO
-
-Inscripció a l'RCC
-
-   NO
-
-Catàleg IDEC
-
-   NO
-
-Conformitat amb INSPIRE
-
-   NO
-
-
-ACCÉS A LA INFORMACIÓ
-
-Accés a les dades
-
-Accés a les especificacions
-
-Accés a les metadades
-
-
-XARXA DE MONITORITZACIÓ DEL TRÀNSIT
-
-
-PLA CARTOGRÀFIC DE CATALUNYA: DEFINICIÓ DEL CONJUNT D'INFORMACIÓ
-
-ID
-
-   10707
-
-DENOMINACIÓ
-
-   Xarxa de monitorització del trànsit
-
-DESCRIPCIÓ
-
-   Dades d'informació i seguretat viàries: xarxa de radars, estat del
-   trànsit i indicències viàries.
-
-ADMINISTRACIÓ RESPONSABLE
-
-   Administració General de l'Estat
-
-   Generalitat de Catalunya
-
-   Administració Local de Catalunya
-
-DEPARTAMENT RESPONSABLE
-
-   Interior
-
-ENTITAT RESPONSABLE
-
-   Servei Català de Trànsit
-
-   Ens locals
-
-ACCÉS A LES DADES
-
-   Públic
-
-ACTUALITZACIÓ ACONSELLABLE
-
-   Periodicitat màxima 1 any
-
-   Visualitzeu la informació
-
-
-ESTAT DEL DESPLEGAMENT I LA NORMALITZACIÓ DEL CONJUNT D'INFORMACIÓ GEOGRÀFICA
-
-Metadades
-
-   SI, perfil IDEC
-
-Especificacions tècniques
-
-   SI, no aprovades per la C4
-
-Distribució de dades
-
-   Localització i Visualització
-
-Inscripció a l'RCC
-
-   NO
-
-Catàleg IDEC
-
-   SI
-
-Conformitat amb INSPIRE
-
-   SI (metadades)
-
-
-ACCÉS A LA INFORMACIÓ
-
-1. Servei Català de Trànsit
-
-Accés a les dades
-
-Accés a les especificacions
-
-Accés a les metadades
-
-     * Serveis WMS
-          + Data de la informació: contínua
-          + Data de publicació: contínua
-     * Dades obertes
-          + Data de la informació: contínua
-          + Data de publicació: contínua
-     * Visor Mapa continu de trànsit
-          + Data de la informació: contínua
-          + Data de publicació: contínua
-
-     * Resum
-
-     * Perfil IDEC
-          + Data de la metadada: agost de 2012
-          + Data de publicació: agost de 2012
-
-   Web ICGC 1.0 © 2015 Institut Cartogràfic i Geològic de Catalunya, NIF
-   Q-0801980-D
+   https://iacare.blogspot.com
