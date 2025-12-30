@@ -54,7 +54,7 @@ wordcloud_cli \
     --imagefile "$CLOUD_DIR/dumps_wordcloud.png" \
     --stopwords "$STOPWORDS_FILE" --fontfile "$FONT_PATH" \
     --background white --width 800 --height 600 \
-    --max_words 30
+    --max_words 35
 
 
 
@@ -64,7 +64,7 @@ wordcloud_cli \
     --imagefile "$CLOUD_DIR/contextes_wordcloud.png" \
     --stopwords "$STOPWORDS_FILE" --fontfile "$FONT_PATH" \
     --background white --width 800 --height 600 \
-    --max_words 30
+    --max_words 35
 
 
 echo "Tout est fini!"
