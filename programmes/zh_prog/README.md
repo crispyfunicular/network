@@ -35,10 +35,12 @@ RACINE_DU_PROJET/
     ├── cooccurrents.py    <-- Scripts Python PALS
     ├── partition.py
     └── zh_prog/           <-- TOUS LES SCRIPTS DOIVENT ÊTRE ICI
+        ├── traitement_url_base.sh
         ├── tokenisation_zh.sh
         ├── pals_analyse.sh
         ├── bigramme.sh
         ├── make_cordonance_zh.sh
+        ├── make_color_concordance.sh
         ├── tokenize_chinese.py
         └── NotoSansCJK-Regular.ttc (Fichier de police)
 
@@ -102,15 +104,7 @@ Génère les fichiers de concordance pour analyser le mot-cible en contexte.
 bash make_cordonance_zh.sh
 ```
 
-### Étape 5 : Coloration des concordances (Optionnel)
-
-Pour générer une version HTML colorée des concordances.
-
-```bash
-bash color_concordance.sh
-```
-
-### Étape 6 : Analyse PALS et Nuages de Mots
+### Étape 5 : Analyse PALS et Nuages de Mots
 
 Ce script lance l'analyse statistique et génère les images.
 
@@ -124,17 +118,25 @@ bash pals_analyse.sh
 * Compare les spécificités entre le corpus global (Dumps) et local (Contextes).
 * Génère les images `.png` des nuages de mots (en excluant les "stopwords").
 
+### Étape 6 : Coloration des concordances
+
+Ce script vise à générer une version HTML des concordances colorées, où les mots du champ sémantique fort sont mis en évidence (colorés). Les mots du champ sémantique fort sont séléctionnés à partir des résultats de l'analyse PALS (fichier cooc_context.tsv) et exclut les termes à très faible co-fréquence ou non pertinents.
+
+```bash
+bash make_color_concordance.sh
+```
+
 > 💡 **Note :** Enfin, tous les résultats peuvent être consultés via le tableau HTML généré à l'étape 1 (`tableaux/`).
 
 ---
 
 ## ❓ Dépannage
 
-**Erreur : `ModuleNotFoundError: No module named 'thulac'**`
+Erreur : `ModuleNotFoundError: No module named 'thulac'
 
 > Vous n'avez pas installé la librairie. Exécutez : `pip install thulac`.
 
-**Nuage de mots avec des carrés (□□□)**
+Nuage de mots avec des carrés (□□□)
 
 > Le chemin vers la police chinoise est incorrect. Ouvrez `pals_analyse.sh` et modifiez la variable `FONT_PATH` pour qu'elle pointe vers le fichier `.ttc` ou `.ttf` présent dans le dossier.
 
