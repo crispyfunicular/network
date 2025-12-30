@@ -18,37 +18,27 @@ echo -e "
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css">
 </head>
 <body>
-<section class="section has-background-grey">
-<div class="container has-background-white">
-
-<div class="hero has-text-centered">
-  <div class="hero-body">
-    <h1 class="title">Réseau（网络wǎng luò）— URLs Collectées</h1>
-  </div>
-</div>
-
-<div class="columns is-centered">
-  <div class="column is-full">
-    <div class="block">
-      <h3 class="title is-4 has-background-info has-text-white has-text-weight-semibold">Tableau des URLs</h3>
-      <div class="table-container">
-        <table class="table is-bordered is-hoverable is-striped is-fullwidth">
-          <thead class="has-background-info has-text-white">
-            <tr>
-                <th>Numéro</th>
-                <th>URL</th>
-                <th>Code</th>
-                <th>Encodage</th>
-                <th>Nombre d'occurences</th>
-                <th>Page HTML brut</th>
-                <th>Dump_Texte</th>
-                <th>Contextes</th>
-                <th>Concordancier</th>
-                <th>Bigrammes</th>
-                <th>Robot.txt</th>
-                <th>Concordance avec coloration</th>
-            </tr>
-          </thead>" > "$TABLEAU_HTML"
+<body>
+    <section class=\"section\">
+        <div class=\"table-container\">
+            <table class=\"table is-bordered is-hoverable is-striped is-fullwidth\">
+                <thead class=\"has-background-info has-text-white\">
+                    <tr>
+                      <th>Numéro</th>
+                      <th>URL</th>
+                      <th>Code</th>
+                      <th>Encodage</th>
+                      <th>Nombre d'occurences</th>
+                      <th>Page HTML brut</th>
+                      <th>Dump_Texte</th>
+                      <th>Contextes</th>
+                      <th>Concordancier</th>
+                      <th>Bigrammes</th>
+                      <th>Robot.txt</th>
+                      <th>Concordance avec coloration</th>
+                    </tr>
+                </thead>
+                <tbody>" > "$TABLEAU_HTML"
 
 
 
@@ -73,7 +63,7 @@ do
     data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o./.data.tmp "$URL")
     http_code=$(echo "$data" | head -1)
 
-    #si le http_code n'est pas 200, on laisse rien à droite dans cette ligne de url
+    #si le http_code n'est pas 200, on laisse rien à droit dans cette ligne de url
     if [[ "$http_code" != "200" ]]; then
         echo "Erreur HTTP ($http_code), on ne traite pas ce URL"
         echo "        <tr>
@@ -105,50 +95,35 @@ do
     then
       encoding=$(grep -iPo "^Content-Type:.*?charset=\K[\w-]+" ./.data.tmp)
       if [[ -z "$encoding" ]]; then
-      #si y a pas de charset dans le header, on le cherchera apres header par <meta charset> 或 <meta http-equiv="Content-Type">
+      #si y a pas de charset dans le header, on le cherchera apres header par <meta charset> ou <meta http-equiv="Content-Type">
         encoding=$(grep -iPo '<meta[^>]+charset=["'\'']?\K[\w-]+' "$html_file" | head -1)
       fi
     fi
 
+    # Si encoding toujours vide, utiliser 'file' pour détecter
+    if [[ -z "$encoding" ]]; then
+        encoding=$(file -bi "$html_file" | grep -oP 'charset=\K\S+')
+    fi
 
     # y a des html dont le charset est gb2312 ou gbk
     # donc, il faut le verifier et le convertir en utf-8 si necessaire.
-    if [[ "$encoding" != "utf-8" && "$encoding" != "UTF-8" ]];  #attention, ici, &&
-    then
-          echo "conversion de l'encodage ($encoding -> UTF-8)..."
+    # extraire dump_texte en UTF-8
+    if [[ "$encoding" == "utf-8" || "$encoding" == "UTF-8" ]]; then
+        # HTML déjà en UTF-8: extraire directement
+        lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$html_file" | \
+            iconv -c -f utf-8 -t utf-8 > "$dump_file"
+    else
+        # HTML dans un autre encodage: convertir d'abord, puis extraire
+        # Note: on ne modifie pas le fichier HTML original
+        # Même si le HTML est en UTF-8, lynx peut parfois introduire des artefacts
+        # ou des octets invalides (ex: 0x85) lors de l'extraction du texte.
+        # On force un nettoyage final avec iconv -c pour éviter que Python ne plante.
+        iconv -f "$encoding" -t "UTF-8//IGNORE" "$html_file" 2>/dev/null | \
+        lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 --stdin | \
+        iconv -c -f utf-8 -t utf-8 > "$dump_file"
+    fi
 
-          # faire la conversion，sauvegarder en tmp, et recouvrir l'origine
-          tmp="../../aspirations/zh_aspirations/$lineno-utf8.html"
-          iconv -f "$encoding" -t "UTF-8//IGNORE" "$html_file" > "$tmp" 2>/dev/null
 
-          if [ $? -eq 0 ]; then #si la conversion a bien marche
-              mv "$tmp" "$html_file" #recouvert
-          else
-              echo "Échec de la conversion, on ne traite pas ce URL"
-              echo "        <tr>
-                <td>$lineno</td>
-                <td><a href="$URL" target=\"_blank\">$URL</a></td>
-                <td>$http_code</td>
-                <td>$encoding</td>
-                <td class=\"red\">-</td>
-                <td><a href="../aspirations/zh_aspirations/$lineno.html">HTML</a></td>
-                <td>-</td>
-                <td>-</td>
-                <td>-</td>
-                <td>-</td>
-                <td>-</td>
-                <td>-</td>
-            </tr>" >> "$TABLEAU_HTML"
-              lineno=$((lineno+1))
-              continue
-          fi
-      fi
-
-    # extraire dump_texte : l'utilisation de lynx pour omttre les balises de HTML
-    # Même si le HTML est en UTF-8, lynx peut parfois introduire des artefacts
-    # ou des octets invalides (ex: 0x85) lors de l'extraction du texte.
-    # On force un nettoyage final avec iconv -c pour éviter que Python ne plante.
-    lynx -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 "$html_file" | iconv -c -f utf-8 -t utf-8 > "$dump_file"
 
     # compter la frequence du mot  网络 dans ce html
     COMPTE=$(grep -o "$MOT" "$dump_file" | wc -l)
@@ -186,7 +161,7 @@ do
       <td><a href=\"../concordances/zh/$lineno-concord.html\">Concordance</a></td>
       <td><a href=\"../bigrammes/zh_bigrammes/${lineno}_bigramme.txt\">Bigramme</a></td>
       <td>$robots_cell</td>
-      <td><a href=\"../concor_coloration/zh/${lineno}_color.html\">concodance_coloré</a></td>
+      <td><a href=\"../concor_coloration/zh/${lineno}-color-concord.html\">concodance_coloré</a></td>
       </tr>" >> "$TABLEAU_HTML"
       lineno=$((lineno+1))
 

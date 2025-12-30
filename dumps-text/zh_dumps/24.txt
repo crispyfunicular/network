@@ -122,38 +122,38 @@
           + 相关
           + 热评
 
-          + 数控车床工艺品精选
-          + 高清视频转换参数设置技巧
-          + 狸猫转换器高清视频教程
-          + 关闭OPPO Reno5K HD通话方法
-          + 关闭HD高清通话方法
-          + 关闭HD高清通话功能指南
-          + 华知易密码设置方法
-          + WPS演示插入Flash教程
-          + WPS演示插入Flash动画方法
-          + WPS演示插入本地Flash动画
+          + RK键盘蓝牙连接指南
+          + 清空Launcher缓存代码指南
+          + 摩尔庄园RK谜题攻略
+          + RK键盘灯光模式调节方法
+          + 摩尔庄园RK谜题通关攻略
+          + RK G87宏录制方法
+          + RK机械键盘灯光调节方法
+          + Delayed Launcher是什么？
+          + rk键盘蓝牙搜不到？速查解决方法
+          + ADW Launcher EX使用指南
 
-          + Ubuntu/Linux桌面如何添加快捷方式？
-          + Realtek高清晰音频管理器全解析：功能与设置指南
-          + PPT中多个图片快速排版技巧
-          + 解决Win Server 2012 R2装VMware工具问题
-          + 不装鲁大师，用这些方法也能查看CPU等硬件温度
-          + Arcgis中将影像图背景设为透明或白色的方法
-          + 免费获取Office软件及在线使用指南
-          + Win7 U盘安装教程
-          + 数控车床工艺品精选
-          + 高清视频转换参数设置技巧
+          + 如何快速打开CEB文件
+          + VMware虚拟机如何支持USB3.0设备
+          + 超星学习通上传文件教程
+          + bin文件安装方法详解
+          + Adobe Acrobat Pro DC添加书签教程
+          + 提取EXE图标资源方法
+          + 网卡驱动更新教程：步骤详解与注意事项
+          + 关闭Scroll Lock键的方法
+          + RK键盘蓝牙连接指南
+          + 清空Launcher缓存代码指南
 
-          + 大幅领先友商！2025 Q3联发科再获全球智能手机SoC份额第一
-          + 2亿像素超清拍照还得看天玑 盘点年末四款热销天玑影像旗舰
-          + 用实力打破刻板印象 华为Mate X7重塑折叠屏可靠标杆
-          + 强悍便携 折叠新生 三星Galaxy Z TriFold正式开售
-          + 以开放式创新实现跨越式发展 OPPO入选全球大企业开放式创新50强
-          + nova15系列性能强势回归 搭载旗舰同款麒麟芯片
-          + 3000-4000元值得买的手机推荐 荣耀500Pro够全面
-          + 华为Mate80 12GB+512GB热卖
-          + 一加Ace 5至尊版燃力钛款，低至1384元
-          + 骁龙8 Gen5将发布：性能超越前代，一加新机首发
+          + 小米17 Ultra发布会汇总 新一代小米夜神6999元起售
+          + 年底冲刺不加班 联想天禧AI拯救职场人
+          + OPPO Find X9 Ultra爆料：双2亿加原生10倍，要做影像天花板
+          + 2025年中国手机市场数据出炉，OPPO安卓阵营增长第一
+          + 星速引擎助力持久满帧 3A手游流畅体验尽在天玑旗舰芯
+          + 中国航母联名移动电源亮相：1500:1还原舰体，支持35W快充
+          + 荣耀Power2定档2026年1月5日：万元级电池+80W快充
+          + LineageOS 23官方支持Pixel 4 XL等老机型
+          + iQOO Z11 Turbo发布：2亿像素+骁龙8，2026年1月亮相
+          + HMD Pulse 2 Pro曝光：紫光展锐T7250+5000万主摄
 
 周热门办公软件排行榜
 
@@ -162,16 +162,16 @@
 
           + 1 Microsoft Office 2021 小型企业版 Microsoft Office 2021 小型企业版
             ￥1850
-          + 2 Adobe Acrobat 7.0(标准版-英文) Adobe Acrobat 7.0(标准版-英文) ￥1667
+          + 2 金山 WPS Office 2019（PC版） 金山 WPS Office 2019（PC版） 价格面议
           + 3 苹果 Microsoft Office for Mac 2011 家庭与学生版-家庭装 苹果 Microsoft
             Office for Mac 2011 家庭与学生版-家庭装 ￥498
-          + 4金山 WPS Office 2019（PC版）价格面议
-          + 5Apple 适用于 Mac 的 Parallels Desktop 10（简体中文版）￥398
+          + 4Adobe Acrobat 7.0(标准版-英文)￥1667
+          + 5Microsoft Office LTSC 2024 标准版 ￥4350
           + 6Microsoft office小型企业版2019￥1800
-          + 7Microsoft Office LTSC 2024 专业增强版￥5900
-          + 8Microsoft Office LTSC 2024 标准版 ￥4350
-          + 9Microsoft Office 家庭版 2024￥650
-          + 10Microsoft office小型企业版2013￥3349
+          + 7Apple 适用于 Mac 的 Parallels Desktop 10（简体中文版）￥398
+          + 8Microsoft Office LTSC 2024 专业增强版￥5900
+          + 9Microsoft Office 专业增强版 2010￥4200
+          + 10Microsoft Office 标准版 2010￥2800
 
           + 1 Microsoft Office LTSC 2024 专业增强版 Microsoft Office LTSC 2024
             专业增强版 5900.00
