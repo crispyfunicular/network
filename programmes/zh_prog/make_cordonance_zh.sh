@@ -22,35 +22,22 @@ for file in "$DUMP_DIR"/*.txt; do
     echo "
     <html>
     <head>
-        <meta charset="UTF-8">
+        <meta charset=\"UTF-8\">
         <title>Tableau des URLs</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css">
+        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+        <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css\">
     </head>
     <body>
-        <section class="section has-background-grey">
-        <div class="container has-background-white">
-        <div class="hero has-text-centered">
-        <div class="hero-body">
-            <h1 class="title">Concordance du mot '网络‘</h1>
-        </div>
-        </div>
-            <nav class="tabs is-centered"> </nav>
-
-        <div class="columns is-centered">
-        <div class="column is-two-thirds">
-            <div class="block">
-            <h3 class="title is-4 has-background-info has-text-white has-text-weight-semibold">Tableau de concordance </h3>
-            <div class="table-container">
-                <table class="table is-bordered is-hoverable is-striped is-fullwidth">
-                <thead class="has-background-info has-text-white">
-                    <tr>
-                        <th>Left Context</th>
-                        <th>Cible</th>
-                        <th>Right Context</th>
-                    </tr>
-                </thead>" > "$concordance"
-
+        <section class=\"section\">
+            <div class=\"table-container\">
+                <table class=\"table is-bordered is-hoverable is-striped is-fullwidth\">
+                    <thead class=\"has-background-info has-text-white\">
+                        <tr>
+                            <th class="has-text-centered">Contexte gauche</th>
+                            <th class="has-text-centered">Mot cible</th>
+                            <th class="has-text-centered">Contexte droit</th>
+                        </tr>
+                    </thead>" > "$concordance"
     # ================= ancienne methode avec sed =================================
     # <tr><td>right context </td><td> mot cible </td><td> left context </td></tr>
     # remplir le contenu de chaque ligne
@@ -107,7 +94,7 @@ for file in "$DUMP_DIR"/*.txt; do
 
             # Remplissage une ligne du tableau :
             # Contexte Gauche + Mot cible (en rouge/gras) + Contexte Droit
-            print "<tr><td class=\"has-text-right\" style=\"width:45%\">" left "</td><td class=\"has-text-danger has-text-centered has-text-weight-bold\">" k "</td><td class=\"has-text-left\">" right "</td></tr>";
+            print "<tr><td class=\"has-text-right\" style=\"width:45%\">" left "</td><td class=\"has-text-danger has-text-centered has-text-weight-bold\">" k "</td><td class=\"has-text-left\ style=\"width:45%\">" right "</td></tr>";
 
             # Mise à jour de la position "start" pour la prochaine itération
             # On recommencera la recherche juste après le mot que on vient de traiter (pos + 1)

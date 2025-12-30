@@ -1,9 +1,9 @@
 #!/bin/bash
-#!/bin/bash
 
 
 
 PALS_DATA_DIR="../../pals/pals_zh"
+CLOUD_DIR="../../wordcloud/zh"
 STOPWORDS_FILE="../../pals/pals_zh/corpus_based_stopwords.txt"
 TARGET_WORD="网络"
 
@@ -51,17 +51,20 @@ fi
 echo " Wordcloud - Dump ..."
 wordcloud_cli \
     --text "$PALS_DATA_DIR/dumps-text-zh.txt" \
-    --imagefile "$PALS_DATA_DIR/dumps_wordcloud.png" \
+    --imagefile "$CLOUD_DIR/dumps_wordcloud.png" \
     --stopwords "$STOPWORDS_FILE" --fontfile "$FONT_PATH" \
-    --background white --width 800 --height 600
+    --background white --width 800 --height 600 \
+    --max_words 30
+
 
 
 echo " Wordcloud - Context ..."
 wordcloud_cli \
     --text "$PALS_DATA_DIR/contextes-zh.txt" \
-    --imagefile "$PALS_DATA_DIR/contextes_wordcloud.png" \
+    --imagefile "$CLOUD_DIR/contextes_wordcloud.png" \
     --stopwords "$STOPWORDS_FILE" --fontfile "$FONT_PATH" \
-    --background white --width 800 --height 600
+    --background white --width 800 --height 600 \
+    --max_words 30
 
 
 echo "Tout est fini!"
