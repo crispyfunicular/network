@@ -126,11 +126,11 @@ Ce script vise à générer une version HTML des concordances colorées, où les
 bash make_color_concordance.sh
 ```
 
-> 💡 **Note :** Enfin, tous les résultats peuvent être consultés via le tableau HTML généré à l'étape 1 (`tableaux/`).
+> **Note :** Enfin, tous les résultats peuvent être consultés via le tableau HTML généré à l'étape 1 (`tableaux/`).
 
 ---
 
-## ❓ Dépannage
+## Dépannage
 
 Erreur : `ModuleNotFoundError: No module named 'thulac'
 
