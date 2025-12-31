@@ -169,20 +169,79 @@
     </div>
 </section>
 
-<!-- ANALYSE CHINOIS  -->
+<!-- ANALYSE CHINOIS -->
 <section class="section">
     <div class="container">
         <div class="box">
             <h2 class="title is-4">Chinois (mandarin)</h2>
             <p>
-                <!-- ICI : résultats chinois -->
-                <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_zh"> ICI : résultats pals chinois, vous pouvez mettre plusieurs hyperliens</a>
+                <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_zh">
+                Résultats pals chinois
+                </a>
             </p>
 
-                <strong>Analyse :</strong><br>
-                    ICI : analyse 
-        </div>
+            <strong>Analyse :</strong>
+
+            <!--1e subtitle/partie-->
+            <p style="text-indent:2em;">
+                <strong>L'équivalence du mot "réseau" en chinois :</strong>
+            </p>
+            <p class="mb-4" style="text-indent:2em;">
+                Lors de l'étude de l'équivalence du mot "réseau" en chinois, il peut être rendu par "网" ou "网络".
+                Étant donné que le mot "网" possède de nombreuses significations et usages très variés,
+                allant des objets physiques aux structures abstraites, j'ai choisi "网络" comme terme cible pour
+                cette étude afin de garantir un focus précis.
+            </p>
+
+            <!--2e subtitle/partie-->
+            <p style="text-indent:2em;">
+                <strong>Construction du corpus chinois (comment choisir les urls) :</strong>
+            </p>
+            <p class="mb-4" style="text-indent:2em;">
+                Lors de la constitution du corpus, nous avons ciblé trois grandes thématiques : "Informatique et numérique", "Social et organisationnel" et "Transports et infrastructures".
+                J'ai effectué des recherches sur les principaux moteurs de recherche (Google, Bing, Baidu, Sogou) et
+                sélectionné prioritairement des articles de presse et des pages spécialisées pour garantir la pertinence et l'actualité des données.
+                Pour chaque thématique, environ 20 URLs ont été retenues, ce qui donne un corpus final de 65 URLs.
+            </p>
+
+            <!--3e subtitle/partie-->
+            <p style="text-indent:2em;">
+                <strong>Analyse des cooccurrents :</strong> <a href="pals/pals_zh/context_cooc.tsv">Voir le fichier context_cooc.tsv</a><br>
+            </p>
+            <p  style="text-indent:2em;">
+                À partir de ce corpus chinois, j'ai extrait tous les contextes contenant le terme cible « 网络 ».
+                Pour chaque occurrence, j'ai conservé les deux lignes précédant et suivant le mot.
+                Ces contextes ont ensuite été transformés au format CoNLL et enregistrés dans <a href="pals/pals_zh/contextes-zh.txt">contextes-zh.txt</a>.
+                Ensuite, j'ai utilisé le script python <a href="https://github.com/YoannDupont/PALS">cooccurrents.py</a> fourni par le prof ,
+                qui nous permet de considèrer « 网络 » comme terme central et analyse les 10 mots à gauche et à droite de chaque occurrence, et,
+                sur la base de la mesure de spécificité de Lafon, d'identifier les mots les plus fortement associés à « 网络 » dans ce corpus de contextes.
+            </p>
+            <p  style="text-indent:2em;">
+                Les résultats montrent que, dans le corpus que j'ai constitué, selon les scores de spécificité de Lafon,
+                « 社交 » (social) atteint un score très élevé de 69,84, formant un noyau central accompagné de mots tels que
+                « 人际 » (relations interpersonnelles), « 人脉 » (réseaux humains) et « 人际关系 » (liens sociaux).
+                Cela confirme que, dans le chinois moderne, « 网络 » est fortement associé à l'idée de « connexion entre personnes ».
+            </p>
+            <p style="text-indent:2em;">
+                Les données révèlent aussi un double usage sur le sens de technique.
+                D’un côté, « 网络 » est lié aux technologies de pointe et à l’intelligence artificielle,
+                avec des cooccurrents comme « 神经 » (42,63), « 深度 » (3,01) et « 识别 » (2,96).
+                De l’autre, il est associé à la sécurité de l’information, avec « 安全 » (20,15), « 风险 » (2,61) et « 攻击 » (2,52).
+                Cela montre que « 网络 » est à la fois un outil quotidien et un support pour des algorithmes et des informations sensibles.
+            </p>
+            <p  style="text-indent:2em;">
+                En plus, une dimension sociale très spécifique à la Chine apparaît. Des mots comme « 舆论 » (opinion publique),
+                 « 乱象 » (désordres), « 清朗 » (assainissement), « 网信办 » (administration du cyberespace), « 法治 » (État de droit)
+                 et « 辟谣 » (démenti) montrent que « 网络 » , dans le sens d'« Internet » , est souvent perçu comme un objet de régulation,
+                 encadré par la loi et l’administration, lié à la sécurité et à la régulation de l’information.
+            </p>
+            <p  style="text-indent:2em;">
+                Bien que le corpus contienne intentionnellement des textes sur les infrastructures de transport, les termes à connotation physique comme « 铁路 » (chemin de fer)
+                ou « 运输 » (transport) obtiennent des scores très faibles (environ 2,0), ce qui suggère que l’usage de ces sens physiques
+                est marginal et que le mot « 网 » seul pourrait suffire.
+            </p>
     </div>
+  </div>
 </section>
 
 
