@@ -1,70 +1,33 @@
-   neuroimatge. Aquesta disciplina analitza el cervell humà des del punt
-   de vista de les connexions entre les seves diferents àrees,
-   identificant així la presència de xarxes neuronals. Tanmateix, és
-   important destacar que la connectòmica no és exclusiva de les
-   neurociències, sinó que s’aplica a qualsevol disciplina que estudiï
+   Home » Notícies
+
+El ‘Nobel’ de la informàtica reconeix els avenços en les xarxes neuronals
+
+   Submitted by editor Coeinf on 2 abril 2019 – 09:00No Comment
 --
-
-   Per explicar la connectivitat als seus estudiants, el Dr. Cacciaglia
-   acostuma a utilitzar la metàfora de la xarxa del metro de Barcelona, o
-   de qualsevol altra ciutat gran. Observant aquesta xarxa, ens adonem que
-   consta de diferents estacions, on les persones poden pujar o baixar, i
-   per connexions entre les mateixes estacions.
-
-   Perquè la ciutat de Barcelona funcioni de manera eficient, és essencial
-   que la xarxa de metro estigui coordinada i sigui ràpida i segura. De la
-   mateixa manera, el cervell funciona a través d’una xarxa d’àrees
-   cerebrals interconnectades, garantint que la informació es distribueixi
-   de manera efectiva als centres encarregats del seu processament.
+   “Els premis Turing són com els Nobel de la informàtica i vénen a
+   reconèixer un camp que, després d’una etapa d’estancament, ha tornat a
+   ressorgir. Les xarxes neuronals han tingut un important passat i tenen
+   un prometedor futur “. Així destaca el catedràtic de Sistemes de la
+   Informació i Informàtica de Gestió de la Universitat Pablo de Olavide
 --
-   substància blanca del cervell i són els encarregats de transportar la
-   informació cerebral, exactament com les connexions entre les estacions
-   d’una xarxa de metro.
+   Geoffrey Hinton, Yann LeCun i Yoshua Bengio.
 
-   Els estudis sobre aquesta connectivitat han permès identificar
+   Les xarxes neuronals, presents en multitud de dispositius ja
+   habituals, com els assistents de veu o els sistema de seguretat dels
+   vehicles, intenten imitar el cervell humà i han passat de treballar amb
 --
-   directa entre regions cerebrals. Es basa en la coactivació de múltiples
-   regions durant l’execució de tasques específiques. Entre les principals
-   xarxes funcionals identificades hi ha:
-     * La xarxa neuronal per defecte (default mode network - DMN), que
-       està implicada en l’autorreferencialitat o capacitat
-       d’introspecció, la memòria autobiogràfica i la planificació del
-       futur.
-     * La xarxa frontoparietal, essencial per al control executiu i
-       l’adaptació cognitiva.
-     * La xarxa d’atenció dorsal, que gestiona l’atenció sostinguda i
-       voluntària.
-     * La xarxa d’atenció ventral, que detecta estímuls inesperats o
-       rellevants en l’entorn.
+   milió de dòlars del premi als tres investigadors. El primer treballa
+   per a Google; el segon, per a Facebook; i el tercer per a IBM i
+   Microsoft. Les tres companyies compten amb les xarxes neuronals com a
+   eines fonamentals en els seus programes de reconeixement, classificació
+   i control.
 
-   Un dels descobriments més fascinants en el camp de la neurociència dels
-   darrers 20 anys és que aquestes xarxes funcionals també s’activen en
-   estat de repòs, indicant així que el cervell està configurat per
-   realitzar les seves activitats coordinant i orquestrant totes les àrees
-   que el componen. La Figura 1 mostra les principals xarxes funcionals en
-   estat de repòs.
-
+   Les xarxes neuronals es basen en sistemes matemàtics cada vegada més
+   complexos que poden aprendre de l’anàlisi de quantitats d’informació,
+   segons explica Salmerón, que també és investigador i membre d’entitats
 --
-       gràcies al mesurament de la difusió de les molècules d’aigua dins
-       del cervell. En alguns casos específics, i segons les hipòtesis
-       experimentals, es poden identificar xarxes estructurals fins i tot
-       amb imatges T1, les més convencionals, també mitjançant ressonància
-       magnètica. Podem veure una mostra d’imatges derivades de la tècnica
---
-
-   La connectivitat cerebral és crucial per al funcionament cognitiu.
-   Molts estudis han demostrat que la salut de les xarxes cerebrals afecta
-   la memòria, les funcions executives i l’aprenentatge. Nombroses
-   evidències indiquen que l’estudi de la connectivitat cerebral és
-   rellevant per avançar en el coneixement de la malaltia d’Alzheimer:
-    1. Les persones amb demència a causa de l’Alzheimer presenten
-       alteracions significatives en les xarxes funcionals i estructurals,
-       especialment en la xarxa neuronal per defecte (DMN).
-    2. Aquestes alteracions també són evidents en persones cognitivament
-       sanes amb alteracions fisiopatològiques típiques de l’Alzheimer
---
-Com mantenir el cervell en forma?
-
-   Per mantenir les xarxes neuronals en forma i, per tant, la
-   connectivitat cerebral en òptimes condicions, cal fer un enfocament
-   holístic que involucri el cos i la ment:
+   intel·ligents. Investigadors del Departament d’Enginyeria Mecànica de
+   la Universitat de Màlaga (UMA) han desenvolupat un sistema de seguretat
+   per a vehicles inspirat en les xarxes neuronals d’impuls ( spiking
+   neural networks ), models artificials que actuen de forma molt similar
+   a les biològiques, a l’hora de processar la informació.

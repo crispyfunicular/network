@@ -1,268 +1,270 @@
-   #alternate alternate Peix a Casa » Canal d'informació Peix a Casa »
-   Canal dels comentaris Peix a Casa » Mètodes de pesca Canal dels
-   comentaris oEmbed (JSON) oEmbed (XML) JSON
+   #Modifica Viquipèdia (ca) Canal de sindicació Atom Viquipèdia
 
-   Peixateria Online 611 633 813 info@peixacasa.cat
-     * Preguntes Freqüents
-     * Accés Clients
-     * Català
-     * Español
-     * 0 prd.
+   Vés al contingut
 
-   0 Items
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Navegació
+     * Portada
+     * Article a l'atzar
+     * Articles de qualitat
+     * Pàgines especials
 
-   Peix a Casa Peixateria Online
+   Comunitat
+     * Portal viquipedista
+     * Agenda d'actes
+     * Canvis recents
+     * La taverna
+     * Contacte
+     * Xat
+     * Ajuda
 
-     * Peix Blau
-     * Peix Blanc
-     * Marisc
-          + Crustacis
-          + Mol·luscs
-     * Cefalòpodes
-     * Elaborats
-          + Gourmet
-          + Conserves
-          + Bacallà
-          + Caviar
-
-   Select Page
+   Viquipèdia l'Enciclopèdia Lliure
+   Cerca
    ____________________
-   (BUTTON) 📣COMANDES TANCADES PER NADAL! Fes la teva comanda per cap
-   d’anyl!🐙🐟🦞🦐 Veure més
+   (BUTTON) Cerca
 
-   Fes ràpid la teva comanda i no et quedis sense el teu peix i marisc
-   preferit!
+   [ ] Aparença
 
-Mètodes de pesca
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+   [ ] Eines personals
+     * Donatius
+     * Crea un compte
+     * Inicia la sessió
+
+Contingut
+
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+     * Inici
+     * 1 Descripció
+       (BUTTON) Commuta la subsecció Descripció
+          + 1.1 Funcionament
+     * 2 Itàlia
+     * 3 Galeria
+     * 4 Referències
+     * 5 Vegeu també
+     * 6 Enllaços externs
+
+   [ ] Commuta la taula de continguts.
+
+Xarxa xinesa (pesca)
+
+   [ ] 11 llengües
+     * Deutsch
+     * English
+     * Español
+     * Bahasa Indonesia
+     * മലയാളം
+     * Nederlands
+     * Norsk bokmål
+     * Română
+     * Sunda
+     * தமிழ்
+     * 中文
+
+   Modifica els enllaços
+
+     * Pàgina
+     * Discussió
+
+   [ ] català
+
+     * Mostra
+     * Modifica
+     * Mostra l'historial
+
+   [ ] Eines
+   Eines
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   Accions
+     * Mostra
+     * Modifica
+     * Mostra l'historial
 
    General
-   Métodos de pesca Métodos de pesca
+     * Què hi enllaça
+     * Canvis relacionats
+     * Enllaç permanent
+     * Informació de la pàgina
+     * Citau aquest article
+     * Obtén una URL abreujada
+     * Descarrega el codi QR
 
-   Els mètodes de pesca són coneguts habitualment en el món com a “arts de
-   pesca”. Fan referència al conjunt de técniques que s’utilitzen per
-   capturar espècies pesqueres. El criteri de divisió más comú és el de
-   pesca amb xarxes i pesca amb línies.
+   Imprimeix/exporta
+     * Crea un llibre
+     * Baixa com a PDF
+     * Versió per a impressora
 
-   En tots dos casos s’utilitzen instruments i utensilis que atrapen els
-   peixos en un lloc concret on queden tancats, o bé els atrauen amb un
-   seny que piquen i són capturats directament.
+   En altres projectes
+     * Commons
+     * Element a Wikidata
 
-   La pesca amb línia sol ser més; selectiva que la pesca amb xarxes. A
-   més, és la més vinculada a una pràctica lúdica i esportiva, i no tant
-   comercial o industrial. Quéda’t amb nosaltres per descobrir els mètodes
-   de pesca més coneguts.
+   Aparença
+   (BUTTON) mou a la barra lateral (BUTTON) amaga
+   De la Viquipèdia, l'enciclopèdia lliure
+   [250px-Kochi_chinese_fishing-net-20080215-01a.jpg] Xarxa basculant a
+   Kochi.
 
-Classificació de ​​la pesca
+   A l'Índia, les xarxes de pesca xineses (Cheena vala) són xarxes de
+   pesca en instal·lacions terrestres fixes per a la pesca. Encara que a
+   l'Índia es coneixen generalment com "xarxes de pesca xineses", el nom
+   més formal per a aquestes xarxes seria "xarxes de ribera per elevació
+   ".^[1] Una altra denominació, basada en el seu funcionament, seria la
+   de "xarxes basculants". També hi ha xarxes basculants a Europa (a
+   Bèlgica,^[2] França^[3] i Itàlia^[4] concretament) que només funcionen
+   de forma artesanal i residual. O com a reclam turístic.
 
-   La pesca es pot classificar segons el lloc, i en aquest cas es parla de
-   pesca marina, lacustre i pesca en rís, o bé, segons el métot utilitzat,
-   les arts de pesca. Aquest segon criteri és el que ens ocupa.
+Descripció
 
-   Les arts de pesca no són bones ni dolentes,totes poden ser sostenibles
-   si compleixen la normativa pesquera. En ella es regula com, dónde i
-   quan es poden utilitzar, así com la mida de xarxes i línies o el total
-   de captures a aconseguir.
+   [modifica]
+   [250px-Raising_a_Chinese_fishing_net.jpg] Kochi: Aixecant la
+   xarxa[250px-Carrelet_esnandes_sunset.JPG] ”Carrelet” a Esnandes
+   (França).
 
-Pesca amb xarxes
+   Les xarxes basculants són una mena de salabres gegants accionats
+   mecànicament. Els models més grans tenen xarxes horitzontals quadrades
+   de 20 m o més de costat. Cada estructura té almenys 10 metres d'alçada
+   i comprèn un pescant amb una xarxa estesa suspesa sobre l'aigua i grans
+   pedres suspeses de cordes com contrapesos a l'altre extrem. Cada
+   instal·lació és operada per un equip de fins a sis pescadors. Tot i que
+   aquestes xarxes s'utilitzen al llarg de la costa de la Xina meridional
+   i d'Indoxina, a l'Índia es troben majoritàriament a les ciutats
+   indígenes de Kochi i Kollam, on s'han convertit en una atracció
+   turística.^[5] El nom comú indi (Cheena vala) sorgeix pel fet que hi
+   van ser introduïdes a partir de La Xina (semblant al nom de clau
+   anglesa a Catalunya), de fet són molt inusuals a l'Índia, on els
+   diferents tipus de xarxes de pesca emprats habitualment a les seves
+   costes, no hi guarden cap relació.
 
-   La pesca amb xarxes consisteix en el llançament al mar d’un conjunt de
-   fils molt resistents que formen una malla per on els peixos no poden
-   escapar. Avui en dia s’utilitzen materials com el niló , la poliamida o
-   el polietilè.
+   Les xarxes de pesca xineses s'han convertit en una atracció turística
+   molt popular. La seva mida i la seva elegant construcció les fan molt
+   fotogèniques i el ritme lent del seu funcionament és força hipnòtic. A
+   més a més, les captures es poden adquirir de forma individual i s'han
+   d'agafar a la mateixa ribera, a poca distància de la xarxa, de la mà
+   d'un peixater "empresari" que està al seu càrrec. Aquestes xarxes
+   podrien haver estat introduïdes per l'explorador xinès Zheng He.^[6]
 
-   Hi ha diferents dissenys per a la formació d’aquestes xarxes, si bé els
-   més;s comuns són el trenat o el tort, per la seva efectivitat i
-   resistència. Dins d’aquest métot general es distingeixen la pesca amb
-   xarxa de prop, la d’arrossegament i la pesca d’emmallament.
+Funcionament
 
-Xarxa de setge
+   [modifica]
 
-   Aquest métot consisteix a utilitzar una o diverses embarcacions per
-   envoltar els bancs de peixos amb una xarxa de gran tamany de forma
-   circular que es tanca a la part inferior. La xarxa es manté flotant
-   gràcies a suros sintétics disposats a la superfície.
+   El sistema ha d'estar suficientment equilibrat perquè el pes d'un home
+   caminant al llarg del feix principal sigui suficient per fer que la
+   xarxa s'enfonsi dins l'aigua. La xarxa es queda durant un temps curt,
+   possiblement alguns minuts, abans d'aixecar-la tirant els pescadors de
+   les cordes. La captura sol ser modesta: alguns peixos i crustacis, que
+   es poden vendre als transeünts al cap de pocs minuts
 
-   Un esquif arrossega a un extrem de la xarxa els bancs de peixos i
-   aquests queden atrapats a la borsa. Les xarxes de setge poden mesurar
-   fins a 460 metres de llarg i assolir els 30 metres de profunditat,
-   encara que les seves dimensions depenen de la zona de pesca.
+   Per al model de Kochi (vegeu les fotos), les roques de contrapès tenen
+   uns 30 cm de diàmetre, i van suspeses mitjançant cordes de diferents
+   longituds, fins a aconseguir l'equilibri (com en una balança). Degut al
+   disseny de les perxes, la força necessària per a suportar el pes, varia
+   per a les diferents alçades respecte l'aigua, així, quan s'estiren les
+   cordes, a mesura que es va aixecant la xarxa, les roques penjades amb
+   diferent longitud de corda, van reposant sobre la plataforma, una
+   darrera l'altra -disminuint el contrapès d'una en una- i d'aquesta
+   manera es manté l'equilibri.
 
-Arrossegament
+   Cada instal·lació té una profunditat operativa limitada, una xarxa
+   individual no es pot operar contínuament en aigües amb marees. En
+   conseqüència, es realitzen diferents instal·lacions segons l'estat de
+   la marea.
 
-   La pesca d’arrossegament consisteix a utilitzar xarxes en forma de con
-   que són remolcades per diverses embarcacions. Les xarxes actuen com a
-   embut i són arrossegades pels vaixells.
+Itàlia
 
-   Els arrossegadors són les embarcacions més emprades en la indústria
-   pesquera.
+   [modifica]
 
-   No és un art de pesca selectiva, sinó que captura tantes peces com
-   sigui possible. En aquest métot hi ha sistemes que permeten detectar
-   els bancs de peixos sota l\’aigua, de manera que sí se seleccionen les
-   espècies a capturar, encara que no de manera totalment eficaç.
+   La denominació italiana és "reti di raccolta o sollevamento".^[7] Hi ha
+   dos casos particulars:
+     * la "quadra", de grans dimensions
+     * la "bilancia", de dimensions més petites
 
-Arrossegament de fons
+Galeria
 
-   L’arrossegament de fons implica portar les xarxes just per sobre del
-   fons marí, amb rodets que eviten donar l’habilitat. Un cop arriben a la
-   profunditat desitjada, uns pesos i flotadors obren les portes de les
-   xarxes per anar atrapant peixos.
+   [modifica]
+     * Xarxa fixa submergible a Kochi, Kerala, Índia
+       Xarxa fixa submergible a Kochi, Kerala, Índia
+     * Xarxa de pesca xinesa a Kollam
+       Xarxa de pesca xinesa a Kollam
+     * Xarxes d'elevació a Cà Mau, Vietnam.
+       Xarxes d'elevació a Cà Mau, Vietnam.
+     * Xarxes xineses de Pesca a Kochi, Kerala
 
-   En aquest sistema les captures poden entrar, però no sortir de les
-   xarxes. L’arrossegament de fons és només una variable més d’aquest
-   métot de pesca, els altres dos són l’arrossegament pelàgic i el de
-   vares.
+Referències
 
-Xarxa de malla
+   [modifica]
+    1. ↑ Shore operated stationary lift nets Arxivat 2006-06-13 a Wayback
+       Machine..
+    2. ↑ «Nieuwpoort. « Carrelets » de pesca per a llogar.». Arxivat de
+       l'original el 2018-06-20. [Consulta: 2 juliol 2021].
+    3. ↑ Hugues De Lussac; Mireille Espagnol Les carrelets sur pontons en
+       Charente maritime Vers NB. Lulu.com, 15 gener 2018, p. 60–. ISBN
+       978-0-244-96168-8.
+    4. ↑ Adolfo Targioni Tozzetti. La pesca in Italia. R. Istituto
+       Sordo-Muti, 1874, p. 219–.
+    5. ↑ «Panoramio - Images from Kollam ashtamudi Arxivat 2015-09-24 a
+       Wayback Machine.». [Consulta: 14 abril 2015].
+    6. ↑ U.S. News & World Report, Volume 136, No 21, p. 53. 14 juny 2004.
+    7. ↑ Retti di raccolta.
 
-   L\’art d\’enmall consisteix en una paret simple de tela que es manté
-   vertical a l’interior de l’aigua gràcies a l’actuació d’una línia de
-   flotació i una línia de fons amb pesos. La xarxa s’ancora al fons marí
-   oa prop d’aquest amb unes àncores o pesos als dos extrems.
+Vegeu també
 
-   Els peixos que hi queden atrapats no poden sortir, tret que siguin de
-   mida molt petita. Normalment, queden atrapats per la zona de les
-   brànquies.
+   [modifica]
+     * Almorrefa
+     * Parany
+     * Encerclament
+     * Tarrafa
+     * Art de pesca
+     * Tirar l'art
+     * Calador
+     * Xarxa de pesca
+     * Traïnya
+     * Almadrava
 
-   En aquest mètode es distingeixen també l’enmall tremall i l’enmall
-   pelàgic.
+Enllaços externs
 
-Pesca amb línia
+   [modifica]
+   A Wikimedia Commons hi ha contingut multimèdia relatiu a: Xarxa xinesa
+     * Zheng He i Kochi Arxivat 2001-08-18 a Wayback Machine.
+     * Documental curt sobre xarxes de pesca xinesa dins Fort Kochi
 
-   Aquest terme fa referència a diferents mètodes de pesca en què
-   s’utilitzen hams de diverses maneres, una mica contrari al que
-   s’utilitza amb el palangre. Totes utilitzen esquers o terra per atraure
-   les espècies objectiu.
+   Obtingut de
+   «https://ca.wikipedia.org/w/index.php?title=Xarxa_xinesa_(pesca)&oldid=
+   36411270»
+   Categoria:
+     * Pesca
 
-   Aquí s’inclouen la pesca artesanal amb línia i esquer, l’ús de rodets
-   manuals i mecanitzats, les canyes amb esquer viu i la pesca al volantí.
-   En funció de les espècies a capturar, és millor un art o una altra. Un
-   dels més populars és la pesca al curricà.
+   Categories ocultes:
+     * Articles amb la plantilla Webarchive amb enllaç wayback
+     * Pàgines amb enllaç commonscat des de Wikidata
 
-   Al curricà; els pescadors ens ajudem d’una embarcació amb diverses
-   línies a la part del darrere que inclouen esquers i hams, però a
-   diferents profunditats. Els peixos, atraients pel moviment dels
-   senyols, els mosseguen i són atrapats per l’arrossegament de la barca.
+     * La pàgina va ser modificada per darrera vegada el 28 oct 2025 a les
+       19:39.
+     * El text està disponible sota la Llicència de Creative Commons
+       Reconeixement i Compartir-Igual; es poden aplicar termes
+       addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és
+       una marca registrada de Wikimedia Foundation, Inc.
 
-Palangre
+     * Política de privadesa
+     * Quant al projecte Viquipèdia
+     * Descàrrec de responsabilitat
+     * Codi de conducta
+     * Desenvolupadors
+     * Estadístiques
+     * Declaració de cookies
+     * Versió per a mòbils
 
-   El palangre és un altre mètode de pesca amb línies, d’escala major. Es
-   caracteritza pel llançament d’una línia mare o principal de la qual
-   pengen diverses línies secundàries. La línia principal es pot estendre
-   paral·lela a la superfície marina per desenes de quilometres.
+     * Wikimedia Foundation
+     * Powered by MediaWiki
 
-   De les línies secundàries pengen els hams que acaben mossegant els
-   peixos. Aquí també es diferencien palangre pelàgic i de fons. El primer
-   es fa servir per treballar en superfície oa mitja alçada. El palangre
-   de fons és un métot eficaç per capturar peix espasa.
+   (BUTTON) Cerca
+   ____________________
+   (BUTTON) Cerca
 
-Caña i línia
-
-   La pesca amb línia i ham és la més tradicional de totes les que
-   existeixen. És la que es posa en pràctica amb canya i ham, o bé fins i
-   tot amb les pròpies mans quan s’utilitzen utensilis més rudimentaris.
-   Dins la pesca amb línia es distingeixen nombroses varietats.
-     * Pesca amb caña i esquer viu. La pesca més popular com a activitat
-       lúdica i esportiva. Una simple canya de pescar, una línia i l’ham
-       rematat amb un esquer viu. És el métot més comú tant en pesca
-       marina, lacustre i en rís.
-
-     * Línees de mà. Aquí utilitzem una línia principal i pengen diverses
-       llinyes que porten hams amb esquers. Les línies es col·loquen en
-       vaixells que poden estar aturats o en moviment. És un art de pesca
-       molt selectiva, que serveix per capturar espècies molt concretes.
-
-Conclusióó
-
-   Mètodes i arts de pesca s&oacuten térms sinónims. Tots dos fan
-   referència a les estratègies utilitzades per capturar i extreure peixos
-   i altres espècies aqu´tiques del seu medi natural. Si bé hi ha moltes
-   classificacions, el més habitual és distingir entre pesca amb xarxes i
-   amb línies.
-
-   Aquests mètodes de pesca són més o menys utilitzats segons l’objectiu a
-   aconseguir: volum de captures, espècies a pescar o la finalitat de
-   l&activitat, ja que no és el mateix la pesca com a negoci alimentari
-   que com a activitat esportiva o de subsistència.
-
-Categories
-
-     * Curiositats
-     * General
-     * Novetats
-     * Receptes
-
-10€ Gratis en la teva primera compra
-
-   Subscriu-te a la newsletter i rep un cupó de 10€ de descompte per a la
-   teva primera compra en la nostra peixateria online.
-
-Success!
-
-   Name ____________________
-
-   Email ____________________
-
-   Política de Privacitat Política de Privacitat [ ] He llegit i accepto
-   las políticas de privacitat. [ ] He leído y acepto las políticas de
-   privacidad
-
-   Idioma Idioma ( ) Español (*) Catalan
-
-   Suscripción Suscripción (*) Newsletter
-
-   Subscriu-me!
-
-Qui és Peix a Casa
-
-   Som una peixateria online amb més de 30 anys d’experiència en el
-   sector. Manipulem i servim peix i marisc fresc online, de la mateixa
-   manera que a la peixateria tradicional, però amb un extra de qualitat i
-   servei.
-
-   Visita la nostra peixateria online , segueix-nos a Instagram o a la
-   nostra pàgina de Facebook.
-
-Peixateria Online
-
-   Peix a Casa
-   611 633 813
-   931 42 17 84
-   Carrer de F. Pi i Margall, 101
-   Local 1
-   08850 - Gavà - Barcelona
-
-Nosaltres
-
-   Qui Som
-   Preguntes freqüents
-   Restaurants i Caterings
-   Enviaments Peix a Casa
-   Com comprar
-   Contacte
-   Blog
-
-Blog
-
-     * Anxoves de l’Escala en la cuina internacional
-     * Anxoves en salaó vs anxoves en oli: quina és la diferència real?
-     * Anxoves de L&#039;Escala
-
-Els nostres productes
-
-   Peix Blau
-   Peix Blanc
-   Mariscos
-   Cefal·lopodes
-   Elaborats
-   Peix a Casa Peix a Casa
-     * Facebook
-     * RSS
-
-   Copyright © 2025 Peix a Casa - Preus amb IVA inclòs | Avis legal ·
-   Política de Cookies · Política de Privacitat · Condicions Generals
-
-   Products search ____________________
-   (BUTTON) Cercar
-
-   0
+   [ ] Commuta la taula de continguts.
+   Xarxa xinesa (pesca)
+   (BUTTON) 11 llengües Afegeix un tema

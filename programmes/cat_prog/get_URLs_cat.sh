@@ -29,9 +29,6 @@ do
 	# display the current counter and each URL in the stderr
 	echo "$lineno/$total: Fetching $line" 1>&2
 
-	# increment the line counter by 1
-	lineno=$(expr $lineno + 1)
-
 	###
 	# robots.txt
 	###
@@ -98,5 +95,8 @@ do
 	fi
 
 	echo -e "$lineno\t$line\t$response_code\t$charset\t$num_words\t$num_occurences" >> "$tsv"
+
+	# increment the line counter by 1
+	lineno=$(expr $lineno + 1)
 
 done < $URL

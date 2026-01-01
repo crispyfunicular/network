@@ -1,114 +1,81 @@
-   CERTIFIED
+     * Inici
+     * Blog d'Audiologia
+     * Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
 
-Com mesurar la complexitat d'una xarxa neuronal en termes d'una sèrie de
-variables i quina mida tenen alguns models de xarxes neuronals més grans sota
-aquesta comparació?
+Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
 
-   by Acadèmia EITCA / Dijous, 17 Agost 2023 / Publicat a Intel·ligència
-   Artificial, EITC/AI/DLPP Deep Learning amb Python i PyTorch, Xarxa
-   neuronal, Construcció de xarxes neuronals, Revisió de l'examen
-
-   La complexitat d'una xarxa neuronal es pot mesurar de diverses maneres,
-   però un dels mètodes més senzills i utilitzats és examinant el nombre
-   de variables, també conegudes com a paràmetres, dins de la xarxa. Els
-   paràmetres d'una xarxa neuronal inclouen pesos i biaixos, que s'ajusten
-   durant el procés d'entrenament per minimitzar la funció de pèrdua.
-   Entendre el nombre de paràmetres és important perquè afecta directament
-   els requisits computacionals, l'ús de la memòria i la capacitat de la
-   xarxa per generalitzar des de dades d'entrenament fins a dades no
-   vistes.
-
-   Per calcular el nombre de paràmetres d'una xarxa neuronal, cal tenir en
-   compte l'arquitectura de la xarxa, que inclou el nombre de capes, el
-   tipus de capes (per exemple, completament connectades, convolucionals,
-   recurrents) i el nombre de neurones o unitats en cada capa. Desglossem
-   el procés per a diferents tipus de capes que s'utilitzen habitualment a
-   les xarxes neuronals:
-
-Capes totalment connectades
+   Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
+   Publicat per Claso 10 Jun 0 Comentari(s) 2964 Vist(s) Novetats ,
+   Audiòfons
 --
-   50) = 4 \times (7500 + 50) = 4 \times 7550 = 30200 \]
+   En els últims anys, la tecnologia dels audiòfons ha avançat de manera
+   impressionant, i un dels majors avenços ha estat la implementació de
+   xarxes neuronals profundes. Marques com Oticon, líders en el sector de
+   l’audició, estan utilitzant aquesta tecnologia per oferir solucions
+   auditives molt més intel·ligents i precises. Però, què són les xarxes
+   neuronals profundes i com milloren l’experiència dels usuaris
+   d’audiòfons? T’ho expliquem a continuació.
 
-Complexitat general de la xarxa
+Què és una Xarxa Neuronal Profunda?
 
-   Per determinar el nombre total de paràmetres d'una xarxa neuronal, cal
-   sumar els paràmetres de totes les capes. Per exemple, considereu una
-   xarxa neuronal de feedforward simple amb l'arquitectura següent:
-
-   1. Capa d'entrada: 784 unitats (p. ex., per a imatges de 28 × 28
+   Les xarxes neuronals profundes (DNN, per les seves sigles en anglès)
+   són un tipus d'intel·ligència artificial que imita el funcionament del
+   cervell humà. Estan formades per capes de "neurones" artificials que
 --
-   Paràmetres totals:
 
-Exemple d'un model de xarxa neuronal gran
+   En els audiòfons, aquesta tecnologia s’utilitza per processar sons de
+   manera més eficient i precisa. Les xarxes neuronals poden identificar i
+   distingir sons importants (com les veus) d’aquells que no ho són (com
+   el soroll de fons). A mesura que el dispositiu rep més informació, la
+   xarxa neuronal aprèn a millorar i adaptar-se, oferint una experiència
+   auditiva personalitzada.
 
-   Un dels models de xarxes neuronals més grans pel que fa al nombre de
-   paràmetres és GPT-3 (Generative Pre-trained Transformer 3),
-   desenvolupat per OpenAI. GPT-3 és un model basat en transformadors, que
+   [red-neuronal-profunda-en-audifonos-la-innovacion-de-oticon-1.jpg]
+
+Com Funciona la Xarxa Neuronal en els Audiòfons?
+
+   Oticon ha implementat xarxes neuronals profundes en els seus audiòfons
+   per millorar el processament del so. Tradicionalment, els audiòfons
+   amplificaven tots els sons per igual, cosa que de vegades resultava en
+   una experiència auditiva poc natural o molesta en entorns sorollosos.
+   Amb la tecnologia de xarxes neuronals, els audiòfons Oticon poden fer
+   molt més que simplement amplificar el so.
+     * Captació del so: L’audiòfon rep el so del seu entorn a través del
 --
-   àmplia gamma de tasques de processament del llenguatge natural amb una
-   gran precisió. L'arquitectura de GPT-3 inclou múltiples capes de
-   transformador, cadascuna amb nombrosos capçals d'atenció i xarxes de
-   feedforward, que contribueixen al gran nombre de paràmetres.
+       sons de fons.
 
-Consideracions pràctiques
-
-   Quan es treballa amb grans xarxes neuronals, s'han de tenir en compte
-   diverses consideracions pràctiques:
-
+     * Processament intel·ligent: La xarxa neuronal profunda analitza cada
+       component del so, diferenciant entre el que és rellevant (com una
+       conversa) i el que és soroll (com el so del trànsit o el vent).
 --
-   d'inferència.
 
-   La complexitat d'una xarxa neuronal, mesurada pel nombre de paràmetres,
-   és un aspecte fonamental que influeix en el seu rendiment, requisits
-   computacionals i capacitat de generalització. Entendre com calcular i
-   gestionar aquesta complexitat és important per dissenyar xarxes
-   neuronals efectives. Amb els avenços en el maquinari i les tècniques
-   d'optimització, ara és possible entrenar i desplegar models
+     * Adaptació en temps real: A mesura que l’audiòfon rep més informació
+       de l’entorn i de l'usuari, la xarxa neuronal s’adapta i millora.
+       Per exemple, en una conversa en una cafeteria sorollosa, l’audiòfon
+       pot reduir el soroll de fons i centrar-se més en la veu de la
 --
-   és possible en intel·ligència artificial.
+       qualitat auditiva més precisa i còmoda en diferents contextos.
 
-Altres preguntes i respostes recents sobre Construcció de xarxes neuronals:
+Beneficis de les Xarxes Neuronals en els Audiòfons
 
-     * Quina és la funció que s'utilitza a PyTorch per enviar una xarxa
-       neuronal a una unitat de processament que crearia una xarxa
-       neuronal especificada en un dispositiu especificat?
-     * La funció d'activació s'executa a les dades d'entrada o de sortida
-       d'una capa?
-     * En quins casos les xarxes neuronals poden modificar els pesos de
-       manera independent?
-     * Keras es diferencia de PyTorch en la manera en què PyTorch
+   La implementació de xarxes neuronals profundes porta amb si nombrosos
+   beneficis per a qui utilitza audiòfons:
+     * Major claredat en l’audició: Gràcies a la capacitat de diferenciar
 --
-       Keras no, i per tant Keras requereix solucions manuals com, per
-       exemple, passar dades falses a través del model?
-     * Com flueixen les dades a través d'una xarxa neuronal a PyTorch i
-       quin és el propòsit del mètode d'enviament?
-     * Quin és l'objectiu del mètode d'inicialització a la classe 'NNet'?
-     * Per què hem d'aplanar les imatges abans de passar-les per la xarxa?
-     * Com definim les capes completament connectades d'una xarxa neuronal
-       a PyTorch?
-     * Quines biblioteques hem d'importar quan es construeix una xarxa
-       neuronal amb Python i PyTorch?
+       o reunions, on el soroll de fons pot dificultar la comprensió.
 
+     * Ajust automàtic a l’entorn: Els audiòfons amb xarxes neuronals
+       s’ajusten automàticament a diferents entorns sonors, sense
+       necessitat d’intervenció per part de l’usuari. Això vol dir que no
 --
-     * programa: EITC/AI/DLPP Deep Learning amb Python i PyTorch (anar al
-       programa de certificació)
-     * Lliçó: Xarxa neuronal (anar a la lliçó relacionada)
-     * Tema: Construcció de xarxes neuronals (anar al tema relacionat)
-     * Revisió de l'examen
+       oferir una experiència auditiva més còmoda i satisfactòria.
 
-   Etiquetat sota: Intel·ligència Artificial, Complexitat computacional,
-   GPT-3, Formació de models, Xarxes neuronals, Paràmetres
-
-   Inici » Intel·ligència Artificial » EITC/AI/DLPP Deep Learning amb
-   Python i PyTorch » Xarxa neuronal » Construcció de xarxes neuronals »
-   Revisió de l'examen » » Com mesurar la complexitat d'una xarxa neuronal
-   en termes d'una sèrie de variables i quina mida tenen alguns models de
-   xarxes neuronals més grans sota aquesta comparació?
-
-Centre de certificació
+     * Rendiment en temps real: Els audiòfons amb xarxes neuronals
+       profundes no només són més intel·ligents, sinó que també són més
+       ràpids. La capacitat de processar i ajustar el so en temps real
 --
-                                                           Acadèmia EITCA
+       sense retards ni distorsions.
 
-     * Acadèmia EITCA a les xarxes socials
-     *
-     *
+   Oticon ha estat una de les marques pioneres a integrar xarxes neuronals
+   profundes en els seus audiòfons, i el resultat ha estat una millora
+   significativa en la qualitat de vida dels usuaris. Aquests dispositius

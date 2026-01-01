@@ -1,663 +1,101 @@
-   #Alimara » Canal d'informació Alimara » Canal dels comentaris Alimara »
-   Addicció a noves tecnologies. Ús i abús de les xarxes socials i impacte
-   en la salut mental a la infància i l’adolescència: trastorns de la
-   conducta alimentària Canal dels comentaris alternate alternate
-   alternate
+   #MogentTIC » Feed MogentTIC » Feed de los comentarios oEmbed (JSON)
+   oEmbed (XML)
 
-     * INICI
-     * DARRER NÚMERO
-     * QUI SOM
-          + PRESENTACIÓ
-          + NORMES BÀSIQUES DE PUBLICACIÓ
-     * REVISTA
-          + COL·LECCIÓ IMAS
-          + MULTIMÈDIA
-          + HEMEROTECA
-          + CERCADOR I ÍNDEX TEMÀTIC
-     * ESPAI ACADÈMIC
-     * DOCUMENTACIÓ
-          + LLENGUA SOCIAL
-          + DOCUMENTS TÈCNICS
-          + COL·LECCIÓ LLIBRE D’ACTES
-          + INFOGRAFIES
-     * CONTACTE
+   Saltar al contenido
 
-     *
-     *
+   MogentTIC
 
-     * Col·lecció «IMAS», Col·lecció en Innovació, Metodologia en Afers
-       Socials
+     * Inici
+     * El Projecte TTT
+          + Laboratori d’ocupació
+          + Escola de programació
+          + Xarxa 3.0
+     * Notícies
+     * Contacte
+     * Àrea Privada – Laboratori d’ocupació
 
-     *
-     *
+   MogentTIC
+   (BUTTON)
 
-   Addicció a noves tecnologies. Ús i abús de les xarxes socials i impacte
-   en la salut mental a la infància i l’adolescència: trastorns de la
-   conducta alimentària
-     * INICI
-     * DARRER NÚMERO
-     * QUI SOM
-          + PRESENTACIÓ
-          + NORMES BÀSIQUES DE PUBLICACIÓ
-     * REVISTA
-          + COL·LECCIÓ IMAS
-          + MULTIMÈDIA
-          + HEMEROTECA
-          + CERCADOR I ÍNDEX TEMÀTIC
-     * ESPAI ACADÈMIC
-     * DOCUMENTACIÓ
-          + LLENGUA SOCIAL
-          + DOCUMENTS TÈCNICS
-          + COL·LECCIÓ LLIBRE D’ACTES
-          + INFOGRAFIES
-     * CONTACTE
+Creació de contingut digital
 
-   Addicció a noves tecnologies. Ús i abús de les xarxes socials i impacte
-   en la salut mental a la infància i l’adolescència: trastorns de la
-   conducta alimentària
-   Addicció a noves tecnologies. Ús i abús de les xarxes socials i impacte
-   en la salut mental a la infància i l’adolescència: trastorns de la
-   conducta alimentària
-     * INICI
-     * DARRER NÚMERO
-     * QUI SOM
-          + PRESENTACIÓ
-          + NORMES BÀSIQUES DE PUBLICACIÓ
-     * REVISTA
-          + COL·LECCIÓ IMAS
-          + MULTIMÈDIA
-          + HEMEROTECA
-          + CERCADOR I ÍNDEX TEMÀTIC
-     * ESPAI ACADÈMIC
-     * DOCUMENTACIÓ
-          + LLENGUA SOCIAL
-          + DOCUMENTS TÈCNICS
-          + COL·LECCIÓ LLIBRE D’ACTES
-          + INFOGRAFIES
-     * CONTACTE
+   Volver al curso: Soc digitalment competent?
 
-   ____________________
-     *
-     *
+   Aquesta competència requereix, no tan ser un escriptor o una escriptora
+   de referència, com conèixer les pautes bàsiques per desenvolupar
+   continguts digitals d’acord a l’espai on s’hi ubicaran, les persones
+   destinatàries i l’objectiu que es pretén aconseguir. Així, no se
+   segueix la mateixa estratègia per escriure un post en un bloc de
+   divulgació de la cultura popular d’un territori, que per una
+   comunicació promocional d’un producte en una xarxa social com
+   Instagram.
 
-   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   A més, el contingut pot ser visual estàtic (una fotografia o una
+   infografia) o dinàmic (un vídeo).
 
-Addicció a noves tecnologies. Ús i abús de les xarxes socials i impacte en la
-salut mental a la infància i l’adolescència: trastorns de la conducta
-alimentària
+   Per tant, desenvolupar, integrar i re-elaborar continguts digitals (per
+   a les diferents plataformes i formats), són competències bàsiques avui
+   en dia. Tingues en compte que quan escrivim un whatsapp, enregistrem un
+   missatge de veu i/o d’imatge i veu en el nostre àmbit privat, també
+   creem contingut digital!
 
-     * Drogodependència i/o altres addiccions
-     * Famílies
-     * Formació
-     * Infància i adolescència
-     * Malalties mentals
+   En relació amb els continguts, hem de conèixer les implicacions de
+   reproduir material de tercers (no propi) ja que poden estar subjectes a
+   drets d’autor/a i llicències de propietat intel·lectual.
 
-   4125 Visitat
-   [favicon-15x15.png]
-   alimara
+   I ja per últim: existeixen eines que permeten programar la publicació
+   dels continguts, de manera que puguis planificar, per una banda, la
+   creació / re-elaboració de continguts i per una altra, decidir quan
+   compartir-los (es poden programar emails, publicacions en xarxes
+   sociales, etc.).
 
-   Paraules clau: addicció, internet, adolescents, salut mental, trastorns
-   de la conducta alimentària, xarxes socials
+Lección anterior
 
-   Resum
+Comunicació i col·laboració
 
-   L’addicció a Internet o trastorn d’addicció a Internet fa referència a
-   un ús abusiu i exagerat d’aquesta xarxa mitjançant qualsevol dispositiu
-   disponible (ordinador, telèfon intel·ligent, tauleta…). S’associa a les
-   característiques clíniques d’un comportament addictiu: preocupació,
-   comportament compulsiu, manca de control sobre la conducta i
-   deteriorament funcional (Kato et al., 2020).
+Lección siguiente
 
-   Si bé l’accés generalitzat a Internet ha suposat avantatges innegables
-   en àmbits diferents (estudi, feina, relacions…), poden sorgir problemes
-   quan se’n fa un ús abusiu. En aquest sentit, els joves són una població
-   especialment vulnerable.
+Seguretat
 
-   A més del deteriorament funcional propi de la conducta addictiva, l’ús
-   abusiu d’Internet s’ha relacionat amb un major risc de desenvolupar
-   altres problemes de salut mental com ara els trastorns de la conducta
-   alimentària. Aquest risc és especialment alt en la població adolescent
-   i sovint sota la influència de les xarxes socials.
 
-   Rebeca Corbacho Ripoll
 
-   Psiquiatra
-   Institut Balear de Salut Mental de la Infància i l’Adolescència
-   (IBSMIA)
-   Hospital Universitari Son Espases
+Progrés del curs:
 
-   Descarregau
-   l’article en PDF
+   0%
 
-1. Introducció
 
-   L’ús d’Internet ha anat creixent de manera exponencial a la nostra
-   societat des que es va crear la primera pàgina web a començament dels
-   anys noranta. L’evolució d’aquesta xarxa des de llavors ha provocat un
-   canvi transcendental en la manera en què funcionam com a societat. Les
-   noves tecnologies s’han convertit en un element fonamental per a la
-   gran majoria d’activitats quotidianes, tant a la feina com en el temps
-   lliure. Malgrat els avantatges que aporten, aquest ús massiu de les
-   noves tecnologies ha implicat també problemes en persones que han
-   desenvolupat una necessitat constant i malaltissa dels dispositius
-   electrònics.
 
-   No gaire després que apareguessin les primeres pàgines web i comencés a
-   generalitzar-se l’accés a Internet en van aparèixer els primers casos
-   d’ús descontrolat (Young KS, 1996). Si bé es va començar a parlar de
-   l’addicció a Internet en la segona meitat de la dècada dels noranta,
-   quasi trenta anys després encara hi ha una gran controvèrsia al
-   respecte. No hi ha un consens en la comunitat científica internacional
-   a l’hora de considerar l’ús abusiu d’Internet com una addicció. Davant
-   els qui defensen l’existència d’una síndrome clínica perfectament
-   identificable (i que seria equiparable a la produïda pel consum de
-   substàncies), s’hi troben aquells que pensen que es tracta únicament
-   d’hàbits (nocius i desmesurats, però hàbits, al cap i a la fi) i que,
-   en un món en què tothom fa servir contínuament les tecnologies per una
-   tasca o l’altra, és difícil traçar la línia entre un ús saludable i una
-   dependència.
+Contingut:
 
-2. Què és l’addicció a internet?
+     * Teoria
+          + Informació i dades
+          + Comunicació i col·laboració
+          + Creació de contingut digital
+          + Seguretat
+          + Configuració bàsica del sistema operatiu
+          + Resolució de problemes
+     * Pràctica
+          + Exercicis
+     * Informació addicional
+          + Informació extra
 
-   L’addicció a Internet està englobada dins el que es coneixen com a
-   addiccions conductuals/comportamentals o addiccions sense consum de
-   substàncies (que n’inclou també altres com ara el joc
-   patològic/ludopatia i l’addicció als videojocs). Fins ara, només el joc
-   patològic està inclòs en la categoria de trastorns addictius a la
-   darrera edició del Manual diagnòstic i estadístic dels trastorns
-   mentals (DSM-5). A la darrera edició de la Classificació internacional
-   de malalties publicada per l’OMS (CIE-11), s’inclouen, dintre del
-   capítol de comportaments addictius, el joc patològic i el trastorn per
-   videojocs. Altres addiccions conductuals descrites a la bibliografia
-   simplement no han estat encara clarament conceptualitzades com a
-   patologies amb entitat pròpia. Per aquest motiu, és freqüent trobar
-   nombrosos termes i definicions diferents en la bibliografia científica
-   (tecnoaddiccions, ús compulsiu/patològic d’Internet, addicció a les
-   noves tecnologies, addicció a les pantalles…) (Petry et al., 2018).
+     Anar a l'Àrea privada
 
-   Les addiccions conductuals són trastorns que apareixen quan una persona
-   desenvolupa dependència a una activitat determinada. Aquestes
-   conductes, inicialment, poden provocar plaer o alleujament, però, quan
-   es repeteixen reiteradament fan desenvolupar símptomes de dependència
-   física i/o psicològica (necessitat d’augmentar la freqüència d’ús,
-   dedicació de cada vegada més temps a aquesta conducta, pèrdua de
-   l’interès per altres activitats…).
+     * Avís Legal
+     * Política de privacitat
+     * Política de Cookies
 
-   S’han descrit els símptomes de les addiccions conductuals següents:
-     * Intens desig, ànsia o necessitat imparable de realitzar l’activitat
-       plaent.
-     * Pèrdua progressiva del control sobre aquesta, fins a arribar al
-       descontrol.
-     * Descuit de les activitats habituals prèvies, tant les familiars,
-       com les acadèmiques, laborals o de temps lliure.
-     * Aquestes conseqüències negatives solen ser advertides per persones
-       properes que ho comuniquen a l’addicte, qui, malgrat això, no atura
-       l’activitat, es posa a la defensiva i nega el problema que pateix.
-     * Progressiva focalització de les relacions, activitats i interessos
-       al voltant de l’addicció, amb distracció o abandó dels interessos i
-       relacions prèvies, aliens a la conducta addictiva.
-     * Irritabilitat i malestar davant la impossibilitat de concretar el
-       patró o seqüència addictiva (abstinència) i impossibilitat de
-       deixar de fer-ho, passat un curt període.
+   © 2025 MogentTIC
 
-   A Espanya, segons l’Observatori Espanyol de les Drogues i les
-   Addiccions, entre el 3 i 4 % de la població compleix criteris d’ús
-   abusiu d’Internet (aproximadament l’1,5% dels joves d’entre 12 i 17
-   anys). L’ús repetitiu/abusiu d’Internet estimula el sistema de
-   recompensa del cervell i provoca la secreció de dopamina, la qual
-   augmenta i provoca un plaer immediat que fa que la persona desitgi
-   continuar repetint la conducta.
+   (BUTTON)
 
-   Més que un únic trastorn, l’addicció a Internet engloba diferents
-   problemes:
-     * Addicció a videojocs. Ús excessiu de videojocs i jocs d’ordinador
-       (com per exemple Minecraft, League of Legends, World of Warcraft,
-       Pokemon Go…).
-     * Addicció a xarxes socials. Ús excessiu de xarxes socials com
-       Facebook, Instagram, Tik Tok… Les persones amb aquest problema
-       revisen les publicacions, publiquen, comenten… de manera
-       compulsiva. Amb el temps, les relacions a través de les xarxes
-       poden tornar-se més importants que les relacions en persona.
-     * Addicció a les apostes. A diferència dels videojocs, l’objectiu
-       principal en aquest cas és guanyar diners.
-     * Addicció a l’entreteniment en línia. Es caracteritza per les
-       consultes excessives a pàgines web o per la visualització de vídeos
-       en línia (YouTube).
-     * Addicció a la pornografia o cibersexe. Implica la visualització
-       compulsiva i recopilació de pornografia en línia i/o un ús excessiu
-       de xat o serveis de vídeo per a adults.
+   (BUTTON)
 
-3. Adolescència i ús d’internet
-
-   L’adolescència és una etapa significativa de canvi a àmbits diferents
-   (biològic, psicològic i social). Durant aquest període, els joves
-   construeixen la seva pròpia identitat i es diferencien de la unitat
-   familiar com a elements únics. Progressivament, van adquirint una major
-   autonomia, expressen les seves pròpies necessitats i desenvolupen noves
-   habilitats, responsabilitats i relacions íntimes (Christie D, 2005).
-   L’adolescència, com a període de canvi, sempre ha suposat una etapa
-   complexa de la vida. No obstant això, el gran desenvolupament
-   tecnològic dels darrers trenta anys ha fet que, en l’actualitat, sigui
-   encara més desafiant. Els adolescents s’enfronten avui dia a pressions
-   personals i educatives diferents de les experimentades per generacions
-   anteriors.
-
-   Internet i les xarxes socials han canviat radicalment la manera en què
-   els adolescents es relacionen. L’accessibilitat més gran a Internet des
-   de la llar i, sobretot, l’ús precoç del mòbil que fan els menors hi
-   tenen molt a veure. Segons les darreres dades de l’Institut Nacional
-   d’Estadística, un 61,2% dels nins i nines de 10 anys accedeix a
-   Internet des de dispositius de la llar (ordinador, tauleta…) i un 21,6%
-   ja disposa de mòbil propi a aquesta edat. Aquest percentatge puja al
-   67,5% a partir dels 12 anys i es generalitza a més del 90% dels 14 anys
-   en endavant. El mòbil és un dispositiu molt atractiu per a les i els
-   adolescents, ja que proporciona identitat, és una font d’oci i
-   afavoreix l’autonomia personal (Chóliz et al. 2011).
-
-   És important assenyalar que no tot és dolent quan parlam d’Internet i
-   de les xarxes, i hi podem trobar tant aspectes positius com negatius.
-   Dins les característiques positives, hi trobam l’accessibilitat a
-   continguts educatius, la millora en la socialització (les xarxes poden
-   actuar com a facilitadores de les relacions interpersonals), la
-   sensació subjectiva de proximitat i la promoció d’un sentiment de
-   pertinença al grup (Cuesta, U., i Gaspar, S. 2014).
-
-   Com a aspectes negatius, hem d’assenyalar l’accés a continguts
-   inadequats –com a violència o pornografia–, el contacte amb
-   desconeguts, l’exposició dels menors a potencials perills, el risc
-   d’addicció, el ciberassetjament i la influència negativa sobre
-   l’autoestima en comparar-se amb referències poc realistes i sovint
-   idealitzades que es mostren a les xarxes.
-
-4. Xarxes socials i salut mental: quin impacte tenen sobre els trastorns de
-la conducta alimentària?
-
-   Cada vegada tenim més evidències de l’impacte que l’ús inadequat i
-   abusiu d’internet pot tenir a la salut mental durant l’adolescència.
-
-   L’ús abusiu s’ha relacionat, especialment, amb problemes
-   externalitzadors (impulsivitat, manca d’autocontrol i problemes de
-   conducta) i problemes d’atenció (Vicente-Escudero et al., 2019), però
-   fins i tot un ús no excessiu però inadequat pot contribuir al
-   desenvolupament de problemes de salut mental.
-
-   Des de l’inici de la pandèmia de la COVID-19, i, especialment, després
-   dels mesos de confinament domiciliari, hem assistit a un augment sense
-   precedents dels trastorns de la conducta alimentària.
-
-   Els trastorns de la conducta alimentària (TCA) són malalties mentals
-   greus que es relacionen amb una conducta alterada respecte als hàbits
-   alimentaris (amb comportaments que van des de menjar de manera
-   descontrolada fins a la manca d’ingesta de menjar). Afecten
-   principalment, però no de manera exclusiva, adolescents i dones joves.
-   El seu origen és multifactorial i hi poden influir diferents factors
-   com podem veure a la taula següent:
-   FACTORS INDIVIDUALS FACTORS FAMILIARS FACTORS SOCIOCULTURALS
-   Predisposició genètica Ambient familiar desestructurat Model de bellesa
-   imperant
-   Trets psicològics Ambient familiar protector Pressió social respecte a
-   la imatge
-   Baixa autoestima Experiències vitals estressants Determinats esports o
-   professions
-   Imatge corporal negativa Body shaming
-   Adolescència Actual sistema de quadre de talles
-   Sexe femení Webs, aplicacions, xarxes socials… que fomentin els TCA
-   Taula 1. Factors que poden provocar TCA
-
-   L’exposició constant a missatges relacionats amb la imatge que es
-   produeix en els mitjans fa que, especialment les nines, internalitzin
-   un ideal de bellesa que és esbiaixat, poc realista i difícilment
-   assolible. Això condueix el jovent a una insatisfacció amb la imatge
-   corporal i a una baixa autoestima, que augmenten el risc de problemes
-   psicològics i conductes de risc que condueixin al desenvolupament d’un
-   TCA.
-
-   La relació entre Internet i els TCA ve de lluny. Als anys noranta,
-   varen aparèixer les primeres pàgines web que feien apologia de
-   l’anorèxia i la bulímia (webs proana i promia). Es tractava de webs
-   estàtiques on es donaven recomanacions per tal de desenvolupar,
-   mantenir i amagar un TCA. A oc a poc, varen desenvolupar un llenguatge
-   i unes senyes d’identitat pròpies i s’anà formant una gran comunitat
-   mundial sobre TCA, en què s’intercanviava informació en blogs, fòrums…
-
-   Durant la primera dècada del segle XXI, aquests continguts varen
-   experimentar un creixement exponencial i aparegueren un gran nombre de
-   blogs i fotoblogs en què persones amb un TCA relataven la seva
-   experiència, aconsellaven i organitzaven reptes (de pèrdua de pes,
-   d’hores de dejú…). S’autodenominaven princeses, feien apologia de la
-   malaltia com un estil de vida i normalitzaven i romantitzaven les
-   conductes pròpies del TCA.
-
-   Aquest contingut ha continuat creixent al llarg dels anys i continua a
-   Internet, si bé de cada vegada se cerca menys. L’aparició i evolució de
-   les xarxes socials ha suposat un canvi transcendental en l’ús que es fa
-   d’Internet a escala comunitària, especialment si parlam de la població
-   adolescent.
-   Les xarxes socials, a diferència de les antigues pàgines web, permeten
-   la interacció dels usuaris entre ells i amb el contingut. Són
-   estructures dinàmiques on els adolescents es relacionen, cerquen i
-   comparteixen informació i expressen el que els agrada i el que no. Els
-   perfils d’usuari són personals i, generalment, basats en l’aparença
-   física. L’activitat principal gira al voltant de pujar fotos/vídeos
-   seleccionats amb base a l’aparença (es modifiquen les imatges amb
-   editors abans de pujar-les) que posteriorment la gent valora/comenta.
-   Els comentaris i la retroalimentació d’altres persones poden arribar a
-   alterar la realitat personal i l’autoconcepte de la persona.
-
-   L’evidència de la relació entre l’ús inadequat/excessiu d’Internet i la
-   simptomatologia relacionada amb els TCA és extensa. Per a posar alguns
-   exemples, s’ha identificat la relació entre l’ús de xarxes socials i la
-   distorsió de la imatge corporal (Tiggermann i Slater, 2013), s’ha vist
-   que els usuaris de Facebook presenten major insatisfacció corporal que
-   els no usuaris (Stronge et al, 2015) i informen de més trastorns
-   alimentaris (Mabe et al., 2014), i s’ha trobat una relació entre el
-   visionat de contingut pro TCA en línia i la pràctica de conductes pro
-   TCA fora de línia (Branley i Covey, 2017). L’addicció a xarxes socials
-   s’ha associat amb una disminució de la satisfacció amb la vida i amb
-   major ansietat a adults joves (O’Day i Heimberg, 2021) i amb un major
-   risc de desenvolupar un TCA i una pitjor autoimatge (Yurtdaş-Depboylu
-   et al., 2022).
-
-   Les xarxes socials més utilitzades per la població adolescent (actual
-   generació alfa, d’entre 12 i 17 anys) són Whatsapp, Instagram i TikTok,
-   en aquest ordre.
-
-   Tots coneixem Whatsapp com a servei de missatgeria més que com una
-   xarxa social a l’ús, si bé aquesta no és l’única funcionalitat que té.
-   És fàcil trobar a Internet (a Youtube, a fòrums…) accés a grups privats
-   de Whatsapp que giren al voltant d’interessos comuns com poden ser els
-   trastorns alimentaris, les autolesions o les idees de suïcidi. El
-   contingut d’aquests grups és totalment incontrolable i, amb certa
-   freqüència, amaga interessos ocults com poden ser l’obtenció d’imatges
-   o vídeos de menors de contingut pornogràfic.
-
-   Tant Instagram com TikTok són xarxes tremendament visuals on el que es
-   mostra gairebé sempre és una versió idealitzada de la realitat. Si bé
-   cada vegada hi ha més perfils que ofereixen contingut realista i no
-   retocat, la major part del contingut continua sense ser-ho.
-   Instagram podria ser considerada com un aparador de la vida perfecta.
-   La gran majoria de les persones que l’usen només penja contingut
-   positiu i excessivament retocat. I tot i que, en certa manera, tothom
-   és conscient d’això, la comparació de la realitat dels altres amb la
-   pròpia és inevitable, especialment en els nins i adolescents amb menys
-   capacitat de visió crítica. L’èxit es quantifica a base de m’agrades i
-   els usuaris cerquen la publicació perfecta per a aconseguir-lo.
-
-   TikTok és la xarxa social que més ha crescut en població adolescent en
-   els darrers anys i, per això, mereix una atenció especial. Es tracta
-   d’una aplicació que permet enregistrar, editar i compartir vídeos curts
-   que es repeteixen en bucle, amb la possibilitat d’afegir-hi música i
-   efectes visuals.
-   Es tracta d’una xarxa tremendament addictiva que dissenya una
-   interfície a mida de cada usuari. I, com ho fa això? Amb l’ajuda d’un
-   algoritme que va modificant el contingut ofert segons els interessos de
-   la persona usuària.
-
-   Quan un/a adolescent es fa un perfil a Tik Tok, ha d’emplenar una sèrie
-   de dades personals (edat, sexe, lloc de residència, aficions…), i,
-   d’acord amb aquestes, el programa li mostra una sèrie de vídeos que
-   poden agradar-li. A partir d’aquest moment, tota l’activitat que fa es
-   registra (literalment tota: si mira un vídeo més d’una vegada, quants
-   segons el mira, si el pausa, si el comenta, si el reenvia…) i el
-   programa va perfilant l’usuari amb cada interacció, i li mostra més
-   vídeos d’allò que pensa que li interessa. Això fa que, de cada vegada
-   més, el contingut que veu l’adolescent quedi més acotat a allò que més
-   consumeix. En el cas de persones que, per exemple, volen perdre pes o
-   cerquen informació sobre alimentació saludable o dietes, trobaran que
-   l’aplicació els ofereix més i més vídeos sobre aquest tema. I, no és
-   que no hi hagi més varietat de vídeos, però l’algoritme actua com un
-   embut que dirigeix el tipus de contingut cap a allò que més sembla
-   interessar la persona usuària. Així, és molt fàcil que el contingut es
-   vagi radicalitzant. Un article que va publicar The Guardian el 2021
-   mostrava com recerques de vídeos sobre el que es menjava en un dia
-   (“#what I eat in a day”) derivessin en continguts clarament pro TCA en
-   tan sols 24 hores.
-
-   Oficialment, TikTok no permet contingut que promogui o glorifiqui els
-   TCA i tracta de controlar-lo mitjançant moderació humana i
-   d’intel·ligència artificial. Malgrat això, i en part a causa de la
-   magnitud del contingut que hi ha a la plataforma, diverses etiquetes
-   (hashtags) problemàtiques passen desapercebudes. Existeixen, també,
-   continguts potencialment perillosos sota falsos perfils de recuperació
-   del TCA, i no hem d’oblidar que no només el contingut explícit sobre
-   aquests trastorns pot resultar perillós: la gran quantitat d’informació
-   sobre imatge, dietes, esport… és susceptible d’anar esbiaixant-se i
-   radicalitzant-se a causa del funcionament de l’algoritme.
-
-   Les característiques de TikTok la converteixen en una de les xarxes
-   socials més potencialment addictives:
-     * El contingut és personalitzat i, com hem comentat, canvia així com
-       canvien els interessos de la persona usuària.
-     * El format de vídeos curts i en bucle en permet una visualització
-       ràpida i repetida.
-     * El contingut és il·limitat: es pot lliscar d’un vídeo a un altre de
-       manera indefinida.
-
-5. Conclusions
-
-   L’aparició i l’evolució d’Internet han provocat nombrosos canvis a la
-   nostra societat. Deixant de banda les facilitats que ens aporta la
-   xarxa, l’ús que se’n fa influeix de manera variable en la salut mental
-   de la població, incrementa el risc de patologies ja conegudes (com per
-   exemple els TCA) i contribueix a l’aparició de noves (addicció a
-   internet).
-
-   L’adolescència, a causa de les seves característiques, és un període de
-   risc tant per l’aparició de determinades malalties de salut mental com
-   pel desenvolupament de conductes addictives.
-   La societat canvia a passos de gegant. Les noves generacions creixen en
-   una societat totalment digital i l’educació ha d’anar de bracet. La
-   millor estratègia de prevenció és una educació en què es treballi des
-   del foment de l’autoestima, el respecte a la diversitat i les
-   competències digitals.
-
-   S’aconsella als pares establir una edat adequada per a començar a fer
-   servir Internet i les xarxes socials, basada en l’evidència científica
-   i en el grau de maduresa de l’infant/adolescent. Segons les i els
-   experts, l’arribada del primer dispositiu mòbil ha de venir acompanyada
-   d’un contracte en què es recullin les condicions d’ús i el compromís
-   d’acceptar la supervisió per part dels pares. Aquesta supervisió
-   disminuirà a mesura que augmenti l’edat i la responsabilitat de
-   l’adolescent i no haurà d’estar renyida amb el respecte a la intimitat
-   del menor.
-
-   Per tal d’evitar un ús abusiu i disminuir el risc de desenvolupar un
-   trastorn d’addicció es recomana controlar el temps que passen
-   connectats i els continguts a què accedeixen. Actualment, totes les
-   tecnologies existents disposen de programes de control parental que
-   permeten monitorar i controlar els dos aspectes. És important també
-   trobar un equilibri entre el temps dedicat a les activitats en línia i
-   fora, i cultivar les relacions en el món real.
-
-   És important que els pares puguin guiar els fills i filles quan
-   comencen a fer servir les xarxes socials. Avui dia, encara trobam un
-   canvi generacional evident en algunes famílies quan parlam de
-   competències digitals, perquè són els infants els experts de la casa en
-   el maneig dels dispositius i de les xarxes. Per això, és important que
-   els pares es formin en aquest tema ben igual que es fa en altres
-   aspectes relacionats amb l’educació dels fills i filles.
-
-   L’educació digital abraçaria des d’aspectes més tècnics, com per
-   exemple el funcionament dels aparells i les aplicacions o l’elecció i
-   protecció de les seves contrasenyes, fins a aquells més relacionats amb
-   l’ús social d’Internet. Gran part de les relacions dels joves es
-   produeixen en el món virtual i han de conèixer les conseqüències de
-   compartir informació personal a les xarxes i saber identificar
-   conductes inadequades com l’assetjament o el xantatge.
-
-   Amb relació al contingut esbiaixat i irreal que mostren les xarxes,
-   resulta fonamental fomentar el pensament crític sobre el contingut que
-   veuen a Internet, així com educar en el respecte a les persones que són
-   diferents i en el foment de l’autoestima des de la primera infància.
-
-   En definitiva, el control i la formació en l’ús d’internet i les xarxes
-   socials són eines crucials per a protegir els nostres infants i
-   preparar-los per a un futur digital més segur.
-
-   Referències bibliogràfiques
-
-   Branley, D. B., i Covey, J. (2017). Pro-ana versus pro-recovery: A
-   content analytic comparison of social media users’ communication about
-   eating disorders on Twitter and Tumblr. Frontiers in Psychology,
-   8, Article 1356. https://doi.org/10.3389/fpsyg.2017.01356
-
-   Christie, D., i Viner, R. (2005). Adolescent development. BMJ, 330,
-   301. https//doi.org/10.1136/bmj.330.7486.301
-
-   Chóliz, M., i Villanueva, V. (2011). Evaluación de la adicción al móvil
-   en la adolescencia. Revista española de drogodependencias, 2,
-   165–183. http://aesed.com/descargas/revistas/v36n2_3.pdf
-
-   Cuesta, U., i Gaspar, S. (2014). Análisis motivacional del uso del
-   smartphone entre jóvenes: una investigación cualitativa. Historia y
-   Comunicación Social,
-   18. https://doi.org/10.5209/rev_hics.2013.v18.44252
-
-   Fundación Instituto Espiral (2023). Guía de Adicciones
-   Comportamentales, manual para
-   profesionales.https://drogodependencias.femp.es/sites/default/files/Gui
-   a-adicciones-comportamentales.pdf
-
-   Kato, T.A., Shinfuku, N. i Tateno, M. (2020) Internet Society, Internet
-   Addiction, and Pathological Social Withdrawal: The Chicken and Egg
-   Dilemma for Internet Addiction and Hikikomori. Current Opinion in
-   Psychiatry, 33, 264-270.https://doi.org/10.1097/YCO.0000000000000601
-
-   Mabe, A. G., Forney, K. J., & Keel, P. K. (2014). Do you “like” my
-   photo? Facebook use maintains eating disorder
-   risk. International Journal of Eating Disorders, 47(5),
-   516–523. https://doi.org/10.1002/eat.22254
-
-   Observatorio Español de las Drogas y las Adicciones. (2022). Informe
-   sobre Trastornos Comportamentales 2022: Juego con dinero, uso de
-   videojuegos y uso compulsivo de internet en las encuestas de drogas y
-   otras adicciones en España EDADES y ESTUDES. Ministerio de Sanidad.
-   Delegación del Gobierno para el Plan Nacional sobre
-   Drogas.https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/si
-   stemaInformacion/pdf/2022_Informe_Trastornos_Comportamentales.pdf
-
-   O’Day, E., & Heimberg, R. G. (2021). Social media use, social anxiety,
-   and loneliness: A systematic review. Computers in Human Behavior
-   Reports, 3.  https://doi.org/10.1016/j.chbr.2021.100070
-
-   Petry, N. M., Zajac, K., & Ginley, M. K. (2018). Behavioral Addictions
-   as Mental Disorders: To Be or Not To Be? Annual Review of Clinical
-   Psychology, 14(1),
-   399–423. https://doi.org/10.1146/annurev-clinpsy-032816-045120
-
-   Stronge, S., Greaves, L. M., Milojev, P., West-Newman, T., Barlow, F.
-   K., & Sibley, C. G. (2015). Facebook is Linked to Body Dissatisfaction:
-   Comparing Users and Non-Users. Sex Roles, 73(5–6),
-   200–213. https://doi.org/10.1007/s11199-015-0517-6
-
-   Tiggemann, M., & Slater, A. (2013). NetGirls: The Internet, Facebook,
-   and body image concern in adolescent girls. International Journal of
-   Eating Disorders, 46(6), 630–633. https://doi.org/10.1002/eat.22141
-
-   Vicente-Escudero, J. L., Saura-Garre, P., López-Soler, C., Martínez,
-   A., i Alcántara, M. (2019). Adicción al móvil e internet en
-   adolescentes y su relación con problemas psicopatológicos y variables
-   protectoras. Escritos de Psicología, 12(2),
-   103–112. https://doi.org/10.24310/espsiescpsi.v12i2.10065
-
-   Young, K. (1996). Psychology of Computer Use: XL. Addictive Use of the
-   Internet: A case that breaks the stereotype. Psychological
-   Reports, 79(3), 899–902. https://doi.org/10.2466/pr0.1996.79.3.899
-
-   Yurtdaş, G., Kaner, G., i Özçakal, S. (2022). The association between
-   social media addiction and orthorexia nervosa, eating attitudes, and
-   body image among adolescents. Eating and Weight Disorders – Studies on
-   Anorexia, Bulimia and Obesity, 27(8),
-   3725–3735. https://doi.org/10.1007/s40519-022-01521-4
-
-   .
-   #n68
-     * Compartir a Facebook
-     * Compartir a Twitter
-     * +
-
-You may be interested
-
-   Banys de bosc: fonaments i aplicabilitat terapèutica en l’àmbit social
-   i de la salut
-   Serveis socials
-   2631 Visites
-   Serveis socials
-   2631 Visites
-
-Banys de bosc: fonaments i aplicabilitat terapèutica en l’àmbit social i de
-la salut
-
-   alimara - 13 de novembre de 2025
-
-   Paraules clau: Banys de bosc, shinrin-yoku, teràpia de bosc, salut i
-   benestar, salut comunitària, intervencions basades en la natura.
-   Resum:…
-   La formació a la comunitat educativa en relació amb el Servei
-   d’Infància i Família com a element clau
-   Formació
-   2591 Visites
-   Formació
-   2591 Visites
-
-La formació a la comunitat educativa en relació amb el Servei d’Infància i
-Família com a element clau
-
-   alimara - 13 de novembre de 2025
-
-   Paraules clau: Sistemes d’informació, història social integrada,
-   serveis socials comunitaris bàsics. Resum: Aquest text constata la
-   manca de formació de…
-   L’evidència de les dades per a la millora de l’acció social (I)
-   Serveis socials
-   2687 Visites
-   Serveis socials
-   2687 Visites
-
-L’evidència de les dades per a la millora de l’acció social (I)
-
-   alimara - 13 de novembre de 2025
-
-   Paraules clau: Serveis socials, anàlisi de dades, sistemes
-   d’informació, transferència de la informació, planificació, gestió.
-   Resum: La gestió dels serveis…
-
-Articles del darrer número
-
-   La Història Social Integrada (HSI) dins el context dels serveis socials
-   comunitaris bàsics: ús, evolució i reptes
-
-La Història Social Integrada (HSI) dins el context dels serveis socials
-comunitaris bàsics: ús, evolució i reptes
-
-   13 de novembre de 2025
-   La formació a la comunitat educativa en relació amb el Servei
-   d’Infància i Família com a element clau
-
-La formació a la comunitat educativa en relació amb el Servei d’Infància i
-Família com a element clau
-
-   13 de novembre de 2025
-   L’evidència de les dades per a la millora de l’acció social (I)
-
-L’evidència de les dades per a la millora de l’acció social (I)
-
-   13 de novembre de 2025
-   El Servei de Prevenció Comunitària i Suport Territorial: proximitat i
-   compromís amb les persones
-
-El Servei de Prevenció Comunitària i Suport Territorial: proximitat i
-compromís amb les persones
-
-   11 de novembre de 2025
-   Banys de bosc: fonaments i aplicabilitat terapèutica en l’àmbit social
-   i de la salut
-
-Banys de bosc: fonaments i aplicabilitat terapèutica en l’àmbit social i de
-la salut
-
-   13 de novembre de 2025
-
-   REVISTA ALIMARA de IMAS està subjecta a una llicència de
-   Reconeixement-NoComercial-SenseObraDerivada 4.0 Internacional de
-   Creative Commons
+     * Inici
+     * El Projecte TTT (BUTTON) Ampliar el menú hijo
+          + Laboratori d’ocupació
+          + Escola de programació
+          + Xarxa 3.0
+     * Notícies
+     * Contacte
+     * Àrea Privada – Laboratori d’ocupació

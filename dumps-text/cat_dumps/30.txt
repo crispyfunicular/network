@@ -1,175 +1,61 @@
+   ﻿
 
-     * RSS RSS
-     * Mapa del web Mapa del web
+   Pàgina inicial Trenscat.cat [topfgcinactiu.gif]
+   [toprenfeadifinactiu.gif] [toptraminactiu.gif] [toplavinactiu.gif]
+   [topfuniinactiu.gif] [topapartactiu.gif] [topcftinactiu.gif]
+   trenscat.cat la web dels trens de Catalunya
+     trenscat.cat > Trenscat Internacional > Sistema ferroviari de París
+   [top002.gif] [top001.gif] [top005.gif] [top004.gif] [top003.gif]
+   [logo_ratp.gif]     [mjlogo_transilien.gif]
+   Metro RER Tramvia
+   Sistema ferroviari de París
+   darrera actualització: 02/12/2007
+   [mjP071103108.jpg] El sistema ferroviari de París està format per 16
+   línies de metro, 5 del RER (Réseau Express Régionale),  quatre de
+   tramvia i vuit línies de la xarxa Transilien (Rodalies) de la SNCF, a
+   més de les diverses estacions on hi ha arriben els trens de mitjà i
+   llarg recorregut de la SNCF. Les línies del metro, les línies T1, T2 i
+   T3 del tramvia i les línies A i B del RER són explotades per la RATP
+   (Régie Autonome des Transports Parisiens). Les línies C, D i E del RER,
+   la línia T4 de tramvia i la xarxa Transilien és operada per la SNCF.
+   Completen el sistema ferroviari de París el funicular de Montmartre i
+   els sistemes VAL de transport de viatgers als dos aeroports de la
+   ciutat.
+   Plànol xarxa ferroviària Île-de-France
+     __________________________________________________________________
 
-     * Cercador avançat
+   Seleccioneu una de les xarxes ferroviàries de París:
+   [mjmetro.gif]
+   Metro de París RER RER Tramvia Tramvia [mjsncf.gif] Estacions i
+   Transilien SNCF
+   [mm01.gif] [mm02.gif] [mm03.gif] [mm03bis.gif] [mm04.gif] [mm05.gif]
+   [mm06.gif] [mm07.gif] [mrera.gif] [mrerb.gif] [mrerc.gif] [mrerd.gif]
+   [mrere.gif] [mt1.gif] [mt2.gif] [mt3.gif] [mt4.gif] [mtransilien.gif]
+   [mtransh.gif] [mtransj.gif] [mtransk.gif] [mtransl.gif] [mtransn.gif]
+   [mtransp.gif] [mtransr.gif] [mtransu.gif]
+   [mm07bis.gif] [mm08.gif] [mm09.gif] [mm10.gif] [mm11.gif] [mm12.gif]
+   [mm13.gif] [mm14.gif]
+   [mjP071102045.jpg] [mjP071103129.jpg] [mjP071103150.jpg]
+   [mjP071101008.jpg]
+     __________________________________________________________________
 
-   (BUTTON)
-     * Inici
+   Enllaços
+   RATP www.ratp.fr Metro de Paris, Wikipedia
+   fr.wikipedia.org/wiki/Métro_de_Paris
+   SNCF www.sncf.com Plànol de vies del metro
+   carto.metro.free.fr/metro-paris/
+   Transilien www.transilien.com Metro-Pole www.metro-pole.net
+     __________________________________________________________________
 
-     * Ajuntament
-     * Seu electrònica
+   [backverdratp.gif] Anar a inici trenscat internacional
+     __________________________________________________________________
 
-     * Informació
-
-     * Tràmits i gestions
-
-     * La vila
-
-     * El Vendrell per temes
-
-   IniciMou-te en transport públicXarxa ferroviària
-
-Xarxa ferroviària
-
-   El municipi del Vendrell disposa de dues estacions de tren. Els serveis
-   ferroviaris són competència de Rodalies de Catalunya.
-
-   Vegeu situació de les estacions al municipi del Vendrell:
-
-   Acces_planol_tren
-
-   Estacio_tren_Vendrell      P1130418
-
-                     Estació del Vendrell                 Estació de Sant
-   Vicenç de Calders
-
-
-
-   Rodalies de Catalunya dóna servei a totes dues estacions.
-
-   Horaris i trajectes dels serveis de Rodalies i Regionals de Catalunya.
-
-   Logo_rodalies  Accés mòbil
-
-
-   Plànol Rodalies Camp de Tarragona             Plànol rodalies de
-   Barcelona
-
-   Planol Rodalies Tgna      Planol Rodalies Bcn
-
-   Veure línies, estacions i trens de rodalies de Catalunya
-
-
-   Sistema tarifari integrat
-
-   ATM Tarragona: Tarifes - Xarxa de venda i recàrrega de títols de
-   transport
-
-   ATM Barcelona: Tarifes - Més informació
-
-
-   Més informació-Web Mou-te amb transport públic per Catalunya
-
-   Tornar - Mou-te en transport públic
-
-Mobilitat
-
-     * Mobilitat i transports
-     * Pla de mobilitat urbana
-          + Normativa aplicable
-          + Pacte per la mobilitat
-          + Documents
-               o D1.Anàlisi
-     * Consell Territorial de la Mobilitat
-          + Convocatòries
-          + Actes
-          + Procés participatiu redacció PMU
-          + Representants de la corporació segons legislatura
-     * Mou-te a peu
-          + Zona de vianants
-          + Passeig marítim
-          + Via verda del Vendrell a les platges
-     * Mou-te en bici
-          + Via verda del Vendrell a les platges
-          + Carrils bici del Vendrell
-          + Aparcaments de bicicletes
-     * Mou-te en transport públic
-          + Transport públic urbà del Vendrell
-          + Línies d’autobús interurbanes
-          + Xarxa ferroviària
-          + Taxis urbans
-          + Terminal d’autobusos del Vendrell
-          + Bus llançadora L.3
-     * Mou-te en vehicle privat
-          + On puc aparcar
-          + Accés restringit a zona de vianants
-     * On puc aparcar
-          + Zones d'aparcament
-          + Aparcaments de rotació
-          + Aparcaments - persones amb mobilitat reduïda (PMR)
-          + Aparcaments de bicicletes
-          + Aparcament de camions i remolcs
-          + Zones de càrrega i descàrrega
-     * Vehicles elèctrics
-          + Especificacions
-          + Punts de recàrrega
-          + Interoperabilitat
-     * Setmana Europea de la Mobilitat
-     * Via ciclista
-     * Pla Local de Seguretat Viària
-
-Accessos directes inici
-
-     * Calendari del contribuent
-     * Webs municipals
-     * Telèfons d'interès
-     * Plànol
-     * Sistema d’Informació
-
-Webs d'interès
-
-     * Generalitat de Catalunya
-     * Departament de Cultura
-     * Diputació de Tarragona
-     * Patrimoni Digital de Catalunya
-     * Fundació Apel·les Fenosa
-     * Vil·la Casals
-     * Agenda d'Activitats Culturals del Penedès
-     * Centre d'Iniciatives i Turisme
-     * Consell Comarcal del Baix Penedès
-     * Arxiu Comarcal del Baix Penedès
-     * Espais Escrits
-     * El Paisatge dels Genis
-     * Patrimoni Cultural
-
-Ajuntament del Vendrell
-
-   Plaça Vella, 1, CP 43700
-   (+34) 977 16 64 00
-
-Menú principal
-
-     * Inici
-
-     * Ajuntament
-     * Seu electrònica
-
-     * Informació
-
-     * Tràmits i gestions
-
-     * La vila
-
-     * El Vendrell per temes
-
-Accessos directes
-
-     * Seu electrònica
-     * Eagora web - agenda activitats
-     * SAC
-     * Carpeta ciutadana
-     * Infoparticipa
-     * e.Fact
-     * Mou-te
-
-Informació de contacte
-
-     * Plànol del Vendrell
-
-   ©2019 Ajuntament del Vendrell
-
-   Política de privacitat Crèdits
-
-   JavaScript is currently disabled.Please enable it for a better
-   experience of Jumi.
+   Estadístiques
+   pàgina creada el 02/12/2007 © Bernat Borràs
+   Pàgina inicial Trenscat.cat
+   IMPORTANT: No es permet l'ús públic (webs, premsa, etc) ni l'ús
+   lucratiu dels continguts de trenscat.cat i trenscat.com sense el
+   consentiment previ de l'autor. L'autor de les imatges si no
+   s'especifica el contrari és Bernat Borràs
+   trenscat.cat és una pàgina web no oficial i per tant no proveeix ni es
+   responsabilitza de cap contingut institucional

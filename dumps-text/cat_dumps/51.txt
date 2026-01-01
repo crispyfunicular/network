@@ -1,182 +1,250 @@
-    #alternate alternate alternate alternate
+   #alternate alternate DeGala Lab » Canal d'informació DeGala Lab » Canal
+   dels comentaris DeGala Lab » Xarxes Neuronals Artificials Canal dels
+   comentaris oEmbed (JSON) oEmbed (XML) JSON
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MLPG24R
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P43GJS8M
 
-   Ves a Universitat de Barcelona
-
-     * UB.EDU
-     * Icona usuari Directori
-     * Icona enllaç extern PTGAS i PDI
-     * Icona enllaç extern Estudiants
-
-   (BUTTON) ca
-   españolesenglishen
-   Actualitat
-
-     * Notícies
-     * Agenda
-     * Xarxes socials
-     * Sala de premsa (BUTTON) Sala de premsa
-       Sala de premsa
-          + Notes de premsa
-          + Opinió dels experts
-          + Recursos per a periodistes
-     * La comunicació a la UB
+   Omet al contingut
 
    (BUTTON)
-   (BUTTON)
-
-Cerca
-
    ____________________
-   Actualitat
+   (BUTTON)
+   Sense resultats
    (BUTTON)
 
-     * Notícies
-     * Agenda
-     * Xarxes socials
-     * Sala de premsa (BUTTON) Sala de premsa
-       Sala de premsa
-          + Notes de premsa
-          + Opinió dels experts
-          + Recursos per a periodistes
-     * La comunicació a la UB
+     * Resources (BUTTON)
+          + Artificial Intelligence Glossary · deGalaLab
+          + Mathematics (BUTTON)
+               o Algebra and Geometry
+               o Descriptive Statistics
+          + SQL: Structured Query Language
+          + SQL: Structured Query Language
+          + SQL
+          + Glossary
+          + Glossary old
+     * Publications (BUTTON)
+          + Books
+          + Articles
+     * DataLab
+     * Radical Insight (BUTTON)
+          + Creative Technology
+          + Digital Marketing & Communication
+          + Knowledge Engineering
+     * Blog
+     * CAT (BUTTON)
+          + CAT
+          + ENG
 
-    1. Universitat de Barcelona/
-    2. Actualitat/
-    3. Notícies/
-    4. Com recuperen les xarxes neuronals la seva funció després dʼuna
-       pèrdua de neurones?
+   DeGala Lab DeGala Lab DeGala Lab
 
-Com recuperen les xarxes neuronals la seva funció després dʼuna pèrdua de
-neurones?
+   Shaped to Make it Happen
 
-   Comparteix:
+     * Recursos (BUTTON)
+          + Matemàtiques (BUTTON)
+               o Àlgebra i Geometria (BUTTON)
+                    # Espais vectorials (BUTTON)
+                         @ Dependència i independència lineal – exemple 11
+                           rang
+                         @ Dependència i independència lineal – exemple 10
+                         @ Combinació lineal – exemple 6
+               o Anàlisi Matemàtica
+               o Estadística Descriptiva
+          + Python
+          + SQL
+          + Glossari
+     * Publicacions (BUTTON)
+          + Llibres
+          + Articles
+          + Debats Tecnològics
+     * DataLab
+     * Insights (BUTTON)
+          + Marketing Digital & SEO
+          + Enginyeria del Coneixement
+          + Tecnologia Creativa
+     * CAT (BUTTON)
+          + CAT
+          + ENG
+
+   (BUTTON) Cerca
+   DeGala Lab DeGala Lab DeGala Lab DeGala Lab
+
+   Shaped to Make it Happen
+   (BUTTON) Menú
+
+   Xarxes Neuronals Artificials Xarxes Neuronals Artificials
+
+Xarxes Neuronals Artificials
+
+   Les xarxes neuronals artificials imiten el funcionament del cervell
+   humà per aprendre de l’experiència. Des de reconèixer imatges fins a
+   ajudar en diagnòstics mèdics, aquestes estructures digitals són un dels
+   pilars de la intel·ligència artificial moderna.
+
+   Pàgina d'inici Debats Tecnològics Xarxes Neuronals Artificials
+
+Xarxes Neuronals Artificials
+
+   La diferència entre allò que poden fer els ordinadors i allò que poden
+   fer els humans s’està reduint.
+
+   Un dels avenços que ha impulsat aquesta tendència és el model
+   computacional conegut com a xarxa neuronal artificial. Es tracta d’una
+   aproximació per crear intel·ligència artificial — programes que imiten
+   certes funcions cognitives dels humans.
+
+   Per entendre-les millor, cal mirar de prop com funcionen les xarxes més
+   senzilles i com aquestes mateixes idees permeten construir estructures
+   molt més grans i complexes.
+
+   Diagrama que mostra com les xarxes neuronals artificials imiten el
+   cervell humà. Diagrama que mostra com les xarxes neuronals artificials
+   imiten el cervell humà. El cervell humà conté més de 80 mil milions de
+   neurones, que intercanvien informació mitjançant impulsos elèctrics.
+   Aquestes neurones no es connecten totes amb totes, sinó que formen
+   xarxes especialitzades que realitzen funcions concretes. Així és com
+   aprenem: les connexions entre neurones s’enforteixen o s’afebleixen
+   segons l’experiència.
+
+   Inspirant-se en aquest mecanisme, es van inventar les xarxes neuronals
+   artificials (ANNs). Inicialment van néixer per entendre i emular el
+   funcionament del cervell, però avui han adquirit un paper propi:
+     * poden identificar persones en imatges,
+     * jugar als escacs o al Go,
+     * i fins i tot ajudar en diagnòstics mèdics.
+
+   En definitiva, les ANNs aprenen a realitzar tasques complexes que abans
+   només eren possibles per als humans.
+
+Neurones artificials
+
+   Igual que les neurones biològiques són les unitats bàsiques del
+   cervell, les neurones artificials són els blocs de construcció d’una
+   xarxa neuronal artificial. Reben informació, responen a estímuls i,
+   quan s’agrupen en xarxa, són capaces de generar patrons i coneixement a
+   escala computacional.
+
+Origen i evolució
+
+   Les primeres xarxes neuronals artificials es van començar a
+   desenvolupar a mitjans del segle XX, inspirades en la recerca sobre el
+   cervell humà. Un dels primers models, el perceptró, va demostrar que
+   els ordinadors podien aprendre patrons simples a partir de dades. Tot i
+   que inicialment es van trobar amb moltes limitacions, la combinació
+   d’una major potència de càlcul i l’accés a grans volums de dades ha
+   permès que les ANNs esdevinguin un element clau en la intel·ligència
+   artificial actual.
+
+Aplicacions quotidianes
+
+   Avui dia, fem servir xarxes neuronals sense adonar-nos-en. Quan un
+   telèfon intel·ligent reconeix la nostra veu i converteix la parla en
+   text, quan un traductor automàtic suggereix la millor frase, o quan una
+   plataforma de música recomana cançons que poden agradar-nos, hi ha
+   xarxes neuronals funcionant darrere. Aquestes aplicacions mostren com
+   la tecnologia ha passat d’un àmbit estrictament científic a formar part
+   de la vida diària.
+
+Reptes i limitacions
+
+   Tot i els seus èxits, les xarxes neuronals també tenen reptes.
+   Necessiten quantitats enormes de dades per entrenar-se, poden consumir
+   molta energia i, sovint, actuen com a “caixes negres”: donen resultats
+   útils, però costa entendre exactament per què han pres una decisió
+   concreta. Aquestes limitacions obren debats importants sobre
+   transparència, ètica i sostenibilitat de la IA.
+
+   Si vols aprofundir més, pots consultar aquest article de referència a
+   Wikipedia sobre xarxes neuronals artificials.
 
 
+Contingut relacionat
 
-   Recerca
-   (18/02/2020)
+   Il·lustració conceptual d’un centre de dades dins d’una gota d’aigua,
+   amb servidors il·luminats en blau i fúcsia, simbolitzant el consum
+   d’aigua i energia dels data centers Il·lustració conceptual d’un centre
+   de dades dins d’una gota d’aigua, amb servidors il·luminats en blau i
+   fúcsia, simbolitzant el consum d’aigua i energia dels data centers
 
-   Un equip de recerca interdisciplinari liderat per investigadors de la
-   UB ha desenvolupat una nova eina experimental que permet produir un
-   dany en una zona concreta dʼuna xarxa neuronal in vitro de pocs
-   mil·límetres i enregistrar quins efectes té a la xarxa sencera.
-   Lʼobjectiu dʼaquest experiment és entendre els mecanismes de resposta
-   que tenen lloc en els circuits neuronals del cervell i que eviten una
-   propagació general del dany, al mateix temps que restitueixen la
-   funcionalitat dels circuits afectats. Una de les conclusions principals
-   de la recerca és que la xarxa activa ràpidament mecanismes
-   dʼautoregulació que reforcen les connexions existents i restitueixen
-   lʼoperativitat del circuit.
+Consum d’energia i aigua dels data centers
 
+     * 24/09/2025
 
+   Child Theme WP - deGalaLab Child Theme WP - deGalaLab
 
-   Recerca
-   18/02/2020
+Child Theme a WordPress: guia pràctica per personalitzar sense perdre
+l’essència
 
-   Un equip de recerca interdisciplinari liderat per investigadors de la
-   UB ha desenvolupat una nova eina experimental que permet produir un
-   dany en una zona concreta dʼuna xarxa neuronal in vitro de pocs
-   mil·límetres i enregistrar quins efectes té a la xarxa sencera.
-   Lʼobjectiu dʼaquest experiment és entendre els mecanismes de resposta
-   que tenen lloc en els circuits neuronals del cervell i que eviten una
-   propagació general del dany, al mateix temps que restitueixen la
-   funcionalitat dels circuits afectats. Una de les conclusions principals
-   de la recerca és que la xarxa activa ràpidament mecanismes
-   dʼautoregulació que reforcen les connexions existents i restitueixen
-   lʼoperativitat del circuit.
+     * 06/09/2025
 
-   Lʼestudi, publicat a la revista eNEURO i liderat per Jordi Soriano,
-   investigador de lʼInstitut de Sistemes Complexos de la UB (UBICS),
-   sʼemmarca en una col·laboració interdisciplinària entre lʼUBICS,
-   lʼInstitut de  Neurociències de la UB (UBNeuro), lʼInstitut de Ciències
-   Fotòniques i la Universitat Rovira i Virgili.
+   IA i Governança: un repte tècnic i ètic alhora, balança minimalista amb
+   plats fúcsia i gris dins un marc negre IA i Governança: un repte tècnic
+   i ètic alhora, balança minimalista amb plats fúcsia i gris dins un marc
+   negre
 
-   Segons explica Soriano, lʼexperiment mostra la gran capacitat de les
-   xarxes neuronals per «autoregular-se i remodelar-se en resposta a
-   canvis sobtats o alteracions greus». També és un bon exemple de «la
-   importància de modelar xarxes neuronals com a sistemes complexos, on el
-   conjunt és molt més ric que la suma de les seves parts», afegeix.
+Comportaments estratègics en models frontera: autopreservació aparent i
+reptes per a la regulació de la IA
 
-   El cervell, i en general les xarxes neuronals biològiques, tenen
-   mecanismes de resposta contra la pèrdua de neurones deguda a danys o a
-   malalties. En accidents vasculars cerebrals, per exemple, la pèrdua
-   dʼirrigació sanguínia provoca la mort dʼun grup focalitzat de neurones
-   i una alteració de la funció dels circuits neuronals danyats. Al seu
-   torn, això altera la funció dels circuits veïns, i potencialment es pot
-   iniciar una allau de deteriorament.
+     * 02/07/2025
 
-   Entendre com actuen aquests mecanismes a nivell de xarxa és molt
-   complicat, tant per la grandària del cervell com per la dificultat
-   intrínseca de seguir en detall lʼevolució dʼun gran nombre de neurones
-   abans i després del dany. Aquesta dificultat es pot superar mitjançant
-   el disseny de models in vitro com el que proposen els investigadors.
+Trending now
 
-   Lʼexperiment ha consistit a enregistrar primer lʼactivitat de tota la
-   xarxa neuronal per establir quina és la seva funcionalitat
-   característica. Després, amb un làser dʼalta potència sʼha eliminat de
-   manera precisa un grup de neurones i, tot seguit, sʼha tornat a
-   enregistrar la xarxa en detall per seguir el seu desenvolupament al
-   llarg del temps.
+   Text i gramàtica: sintaxi textual
+   Vector director
+   SEL – Rang matrius i Compatibilitat de Sistemes
+   INFONOMICS "How to monetize, manage and measure information as an asset
+   for competitive advantage" Douglas B. Laney INFONOMICS "How to
+   monetize, manage and measure information as an asset for competitive
+   advantage" Douglas B. Laney
+   INFONOMICS
 
-   Els investigadors han observat que el grup de neurones més pròxim a la
-   zona afectada perd activitat dʼuna manera immediata, però la va
-   recuperant gradualment gràcies a lʼacció de tota la xarxa.
-   «Sorprenentment, en només quinze minuts, aquest grup assoleix nivells
-   dʼactivitat similars als que tenia abans del dany, malgrat haver perdut
-   irreversiblement un nombre significatiu dʼimpulsos provinents de la
-   zona afectada», explica Soriano. «Com que en quinze minuts no hi ha
-   temps per establir connexions noves —detalla lʼinvestigador—, concloem
-   que la xarxa actua tot reforçant les connexions existents, reconduint
-   el flux dʼestímuls neuronals cap als veïns immediats de la zona
-   afectada, evitant-ne el deteriorament i, per tant, un col·lapse
-   progressiu de la xarxa en forma dʼallau».
+   Contact DeGalaLab · Creative Technology & Data Insights Contact
+   DeGalaLab · Creative Technology & Data Insights
 
-   Lʼestudi, a més, reforça la importància dels models in vitro com a eina
-   complementària per entendre la complexitat del cervell i les seves
-   alteracions. En aquest context, aquesta recerca sʼintegra dins el
-   projecte europeu MESO-BRAIN, en el qual també participa Jordi Soriano.
-   Lʼobjectiu dʼaquest projecte és dissenyar cultius neuronals model que
-   reprodueixin lʼestructura i la dinàmica de regions cerebrals, per tal
-   dʼestudiar dʼuna manera controlada lʼacció de fàrmacs o teràpies
-   genètiques per al tractament de malalties neurodegeneratives.
-   Referència de lʼarticle:
-   S. Teller, E. Estévez-Priego, C. Granell, D. Tornero, J. Andilla, O. E.
-   Olarte, P. Loza-Álvarez, A. Arenas i J. Soriano. «Spontaneous
-   functional recovery after focal damage in neuronal cultures». eNeuro,
-   febrer de 2020. DOI: 10.1523/ENEURO.0254-19.2019
+Informació Legal
 
-   (BUTTON) Amagat
-   (BUTTON) ×
+     * Avís Legal
+     * Termes i condicions d’ús
+     * Política de Privacitat
+     * Política de cookies
 
-   Ves a Universitat de Barcelona
-     * Avís legal
-     * Galetes
-     * Accessibilitat
-     * Contacte
+   deGalaLab | Shaped to make it happen deGalaLab | Shaped to make it
+   happen
 
-     * Botiga UB
-     * Edicions UB
-     * Lloguer d’espais
+   aplicacions xarxes neuronals Artificial Intelligence Autenticació de
+   correu electrònic Big Data blocksy child theme bones pràctiques per a
+   temes WordPress child theme wordpress coherència narrativa com crear un
+   child theme com funcionen les ANNs com funcionen les xarxes neuronals
+   comunicació Correus verificats crear child theme pas a pas CSS
+   personalitzat en child theme dades aplicades al màrqueting deep
+   learning deliverability desenvolupament segur a WordPress estratègies
+   de personalització Evitar phishing Evitar spoofing evolució marca
+   exemple functions.php WordPress guia child theme guia per a
+   desenvolupadors WordPress instal·lar un child theme WordPress
+   intel·ligència artificial lingüística màrqueting digital flexible
+   optimitzar actualitzacions de temes WordPress personalització de
+   disseny a WordPress personalització segura a WordPress personalitzar
+   tema wordpress phishing Protocols de correu reptes xarxes neuronals
+   Reputació de domini seguretat web Signatura digital simbiosi humà-IA
+   style.css child WordPress tema pare vs tema fill xarxes neuronals IA
+   ètica
+   Sobre deGalaLab Sobre deGalaLab
+   About deGala·Lab page About deGala·Lab page
+   deGala·Lab | Technology - Data Science - Creativity - Knowledge &
+   Information deGala·Lab | Technology - Data Science - Creativity -
+   Knowledge & Information
+   Contacta'ns
+   Contact us
 
-     * Seu electrònica
-     * Portal de transparència
-     * Bústia ètica
+   © 2025 DeGalaLab · Shaped to Make it Happen
 
-   La Universitat a les xarxes
-     * Instagram
-     * LinkedIn
-     * Facebook
-     * bluesky
-     * TikTok
-     * YouTube
-     * iVoox
-     * telegram
-     * ubtv
+   Utilitzem cookies pròpies i de tercers per millorar l’experiència i
+   oferir serveis. Més informació
+   (BUTTON) Acceptar totes (BUTTON) Rebutjar totes (BUTTON) Gestionar
+   cookies
 
-     * Fundadora de la Charm-EU
-     * Membre de la LERU
-     * Membre de la Red Vives
-     * Excel·lència internacional Excel·lència internacional HR
-     * Reconeixement europeu Charter for Higher Education
+Preferències de cookies
+
+   [X] Necessàries (sempre actives)
+   [ ] Analítiques
+   [ ] Publicitàries
+   (BUTTON) Desar preferències

@@ -1,8 +1,15 @@
+User-agent: Googlebot
+Disallow:
+Crawl-delay: 300 
+ 
+User-agent: bingbot
+Disallow:
+Crawl-delay: 300 
+ 
+User-agent: msnbot
+Disallow:
+Crawl-delay: 300 
+ 
 User-agent: *
-Disallow: /sample-*
-Disallow: /blog/sample-*
-Disallow: /_hcms/preview/
-Disallow: /hs/manage-preferences/
-Disallow: /hs/preferences-center/
-Disallow: /*?*hs_preview=*
-Disallow: /*?*hsCacheBuster=*
+Disallow: /
+Crawl-delay: 300

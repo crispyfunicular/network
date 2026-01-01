@@ -1,89 +1,67 @@
-Més sobre un pla ferroviari propi
+                            La Catalunya sense tren
 
-Xarxa en forma de malla per a Catalunya
-
-   A Catalunya podem aspirar a tenir una xarxa de ferrocarril equiparable
-   a països com Suïssa o Àustria, amb una orografia més complexa que la
-   nostra. Les nostres propostes recullen actuacions de millora per a la
-   xarxa ferroviària de Catalunya, per ordre de necessitat: primer, per
-   evitar un major deteriorament del sistema, i després, per convertir el
-   ferrocarril en el mitjà de transport preferent dels catalans i per
+Hi ha una Catalunya oblidada per la xarxa ferroviària catalana. Les línies de
+tren es concentren a Barcelona i segueixen un model radial que margina ciutats i
+pobles fora de l’àrea metropolitana
 --
-     * 4. Manteniment
-     * 5. Nou paradigma de transport a Catalunya
-     * 6. Integració real de les xarxes existents
-     * 7. Racionalització
-     * 8. Ampliació de la xarxa
-     * 9. Integració a les poblacions
-     * 10. Qualitat
+   impacta contra l'escullera. / JORDI PUJOLAR – ACN
+
+   La xarxa ferroviària catalana és formada per un entramat de línies de
+   metro, tramvia, ferrocarrils de la Generalitat, que es concentren a la
+   capital catalana i a la seva àrea metropolitana. Però aquesta
+   distribució deixa fora de la xarxa una gran part del país. El model
+   radial de trens és, però, una decisió política, sobretot dels governs
+   espanyols que han tingut històricament les competències ferroviàries
+   sobre Renfe, que ha tingut conseqüències socials, econòmiques i
+   culturals a la Catalunya no metropolitana. CRÍTIC ha detectat els cinc
+   punts més oblidats per la xarxa ferroviària catalana: són la Girona de
+   costa i interior, el Pirineu, les Terres de l’Ebre i gran part de la
+   Catalunya Central, que actualment tenen gravíssims problemes de
 --
-   gestionar-se i funcionar per separat. Però hi ha coses que es poden fer
-   des del Govern de Catalunya i no s'han fet, en nom de solucionar-ho
-   quan fossim independents i controléssim la nostra xarxa de trens.
-
-3. Millores urgents en seguretat.
-
-   Tenim segments sencers de la xarxa sense comunicacions adequades per
-   als maquinistes, senyalització que no funciona o que deixa de funcionar
-   pel més mínim sabotatge i sistemes de control antiquats o inexistents.
-   Són necessaris nous sistemes redundants de comunicació, control,
-   senyalització i barreres a tots els passos a nivell del país. Cal
-   implementar l’estàndard ETCS a tota la xarxa.
-
-4. Millores en manteniment.
+   Tot plegat ha afavorit, durant dècades i dècades, un enorme
+   desequilibri territorial i de transports a la Catalunya contemporània:
+   Barcelona emergeix sempre com el principal pol d’atracció en una xarxa
+   radial que obliga sovint a passar per la ciutat per fer trasllats en
+   tren intercomarcals o que afecta també la sobrepoblació de l’àrea
 --
-   guanyar-se el vot dels veïns, quan la decisió sobre agafar o no el tren
-   no depèn de la proximitat de l'estació sinó de quant triga a arribar a
-   destí. La xarxa de transport públic d'un país ha de procurar que a la
-   gent li surti a compte agafar-lo. I generalment això passa quan li
-   permet arribar a destí abans que amb cotxe o amb molt poca diferència
+   Vic, i l’R6, que connecta Igualada. L’R4 és l’única alternativa de
+   transport públic per a molts treballadors i estudiants, i es tracta
+   d’una de les línies més criticades de la xarxa de rodalies de
+   Catalunya. En concret, els alcaldes del Bages, del Berguedà, del
+   Solsonès i del Moianès es van concentrar al febrer d’enguany per exigir
 --
-   km/h sense problemes sempre i quan la via estigui ben construïda.
+   Estació de tren a Manresa / LAURA BUSQUETS – ACN
 
-   Per a accelerar el trànsit a la xarxa cal fer una distinció clara entre
-   el transport local, el regional i l’interregional. Per exemple, és
-   absurd que un mateix tren porti passatgers de forma directa de Sils a
+Ponent, sense rodalies i amb una xarxa infrautilitzada
+
+   Lleida és l’única demarcació sense un servei de Rodalies al voltant
 --
-   l’antiga R4.
-
-6. Integració real de les xarxes existents.
-
-   Per a poder seguir aplicant el nou paradigma del punt anterior, és
-   imprescindible homogeneïtzar tota la xarxa catalana i fer-la 100%
-   intercompatible. Com a primer pas, imprescindible i fonamental, els FGC
-   del Vallès han d’entrar a Sants des del Baixador de Vallvidrera sota el
+   poblada del país, segons denunciava recentment l’informe de CCOO Un
+   tren per a la classe treballadora. L’estudi destaca que al voltant de
+   Lleida hi ha una xarxa ferroviària molt àmplia, però en la majoria dels
+   casos es troba infrautilitzada i no cobreix les necessitats de
+   mobilitat de la població. “La creació del nucli de Rodalies de Lleida
 --
-   creuen amb la Renfe a l’Hospitalet de Llobregat (Av. Carrilet amb
-   Rosalia de Castro). Fet això, Sants es convertirà en l’estació
-   principal de Barcelona i finalment estaran les xarxes integrades des
-   del punt de vista de l’usuari. Per a integrar les xarxes des del punt
-   de vista del material rodant, necessitem tenir un únic ample de via i
-   un únic voltatge de catenària. Els estàndards europeus son els que hi
-   ha instal·lats a les vies d’alta velocitat, per tant s’ha de canviar la
-   FGC Llobregat (1000 mm, 1,5 kV DC) i tota la xarxa ADIF-convencional
-   (1668 mm, 3 kV DC) a ample i voltatge europeu (1435 mm i 25 kV AC). A
-   més, cal canviar l’electrificació FGC Vallès a 25 kV AC. Requereix
+   tractat entre l’Estat espanyol i el francès on s’establia la creació de
+   dues línies de tren transfrontereres d’ample internacional que havien
+   de creuar els Pirineus i connectar les dues xarxes ferroviàries. De les
+   dues, l’única que es va tirar endavant va ser la que connectava Ripoll
+   amb la Tor de Querol (Cerdanya), que va unir Barcelona amb Puigcerdà i
 --
-7. Racionalització.
+   dificultats econòmiques, es van tancar.
 
-   Reduir el cost de l’actual xarxa d’estacions convertint-ne a baixadors
-   de transport local i mantenint-ne només una com a estació a cada
-   població. Per posar un exemple, Barcelona, Sant Cugat, Terrassa,
+   Els transports públics i la xarxa ferroviària estan ara en mans de
+   l’Estat. Ricard Riol, president de la Plataforma pel Transport Públic
+   (PTP), una associació que fa 25 anys que treballa per la defensa del
 --
-   el mateix estalvi que hauria de suposar.
-
-8. Ampliació de la xarxa.
-
-Infraestructura ferroviària principalment de mercaderies
+   gastar uns 50.000 milions d’euros. Actualment, l’AVE és deficitari i
+   s’hi ha de dedicar una part dels fons per al seu manteniment, molt més
+   alt que el de la xarxa de ferrocarrils. A més, no hi ha prou usuaris
+   interessats per fer-lo rendible i no hi ha impacte en la producció de
+   les empreses, ja que és un servei exclusiu per a passatgers.
 --
-   Es tracta d’acabar el traçar que portaria a L4 a les dues estacions de
-   Rodalies de La Sagrera. Milloraria la connectivitat de la L4 amb la
-   xarxa de Rodalies, una línia actualment amb un intercanviador i poc
-   eficient (Passeig de Gràcia). Es preveu també en una segona fase
-   millorar l’intercanviador de Passeig de Gràcia, orientant els
---
-   El tram central de la L9/L10 s’ha d’acabar, actualment el comparteix la
-   línia H6 de bus, una de les més saturades i amb més passatge de tota la
-   xarxa de bus.
-
-   5. L11 Trinitat Nova - Terrassa
+   aquest sector que tenia Espanya. Potser es van construir
+   infraestructures que no calien, com l’Alta Velocitat, i es van obviar
+   aspectes necessaris, com una xarxa més completa de Rodalies per tenir
+   un país connectat i no castigar el fet de viure en una ciutat o en una
+   altra.

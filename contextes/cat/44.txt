@@ -1,299 +1,125 @@
-   [ ] Commuta la taula de continguts.
+   ____________________
 
-Xarxa neuronal
+   Les xarxes neuronals | Què són i com es comporten
 
-   [ ] 22 llengües
+Les xarxes neuronals | Què són i com es comporten
+
+   En els últims anys, les xarxes neuronals han adquirit una rellevància
+   considerable en els projectes relacionats amb la intel·ligència
+   artificial. De fet, empreses com Google i universitats com Stanford han
+   aconseguit millorar processos d’aprenentatge automàtic utilitzant
+   algorismes de xarxes neuronals.
+
+   Encara que la teoria de xarxes neuronals no és un fenomen recent, la
+   major part del públic encara no està familiaritzat amb ella. És més,
+   encara es confon amb freqüència amb altres conceptes fonamentals de la
+   IA, com el machine learning o el deep learning. En aquest
+   article expliquem què són les xarxes neuronals, com funcionen i quines
+   són les aplicacions per a les quals ja s’han utilitzat.
+
+Què són les xarxes neuronals?
+
+   Com el seu propi nom indica, les xarxes neuronals són un mètode de
+   càlcul que busca imitar el funcionament de les neurones en un
+   organisme. D’aquesta inspiració extreu un model d’unitats connectades
 --
-   (BUTTON) mou a la barra lateral (BUTTON) amaga
-   De la Viquipèdia, l'enciclopèdia lliure
-   Per a altres significats, vegeu «xarxa neuronal artificial».
-   No s'ha de confondre amb circuit neuronal.
-   [langca-250px-Neural_network_example.svg.png] Vista simplificada d'una
-   xarxa neuronal artificial avançada
+   a conclusions determinades i consolidar-les com a coneixement.
 
-   Una xarxa neuronal és una xarxa o circuit de neurones, o en un sentit
-   modern, una xarxa neuronal artificial, composta de neurones o nodes
-   artificials.^[1] Així, una xarxa neuronal és una xarxa neuronal
-   biològica, formada per neurones biològiques reals, o una xarxa neuronal
-   artificial, per resoldre problemes d'intel·ligència artificial (IA).
-   Les connexions de la neurona biològica es modelen com a pesos. Un pes
+   Les xarxes neuronals en intel·ligència artificial no fan més que
+   traslladar el funcionament biològic a l’àmbit matemàtic. De la mateixa
+   manera que, quan aprenem un idioma, el nostre cervell va esbrinant
 --
-   sol estar entre 0 i 1, o bé podria ser -1 i 1.
+   descobreix el paràmetre més adequat per a processar-los.
 
-   Aquestes xarxes artificials es poden utilitzar per a models predictius,
-   control adaptatiu i aplicacions on es poden entrenar mitjançant un
-   conjunt de dades. L'autoaprenentatge resultant de l'experiència es pot
-   produir a les xarxes, que poden derivar conclusions d'un conjunt
-   d'informació complexa i aparentment no relacionada.^[2]
+   Els models de xarxes neuronals serveixen perquè els ordinadors trobin
+   paràmetres i patrons adequats mitjançant un “entrenament”. Aquest
+   consisteix a alimentar l’ordinador amb dades perquè determini criteris
+   vàlids d’anàlisis i els apliqui. Per exemple, les xarxes neuronals
+   poden servir perquè un dispositiu identifiqui fotografies en les quals
+   hi ha una bicicleta, després d’identificar les formes geomètriques que
+   la componen.
 
+Com funcionen les xarxes neuronals?
+
+   Ara bé, com funcionen les xarxes neuronals? Com ja hem esmentat, la
+   seva estructura intenta emular les xarxes neuronals que formen el
+   nostre propi cervell. La xarxa neuronal es compon de neurones o
+   perceptrons, cadascun de les quals s’encarrega de rebre uns valors o
+   dades d’entrada específics.
 --
-   [modifica]
+   de determinar la conclusió que volem extreure. A continuació, aquests
+   valors modificats es mouen a les següents neurones que configuren la
+   xarxa. D’aquesta manera, els valors es van modificant fins que
+   s’aconsegueix una conclusió concreta.
 
-   Una xarxa neuronal biològica està composta per un grup de neurones
-   connectades químicament o associades funcionalment. Una sola neurona
-   pot estar connectada a moltes altres neurones i el nombre total de
-   neurones i connexions en una xarxa pot ser extens. Les connexions,
-   anomenades sinapsis, generalment es formen des d'axons fins a
-   dendrites, tot i que són possibles sinapsis dendrodendrítiques^[3] A
+Diferenciació entre Machine Learning i xarxes neuronals
+
+   En resum, les xarxes neuronals són un model algorítmic per al
+   reconeixement de patrons, i per tant permeten que un ordinador
+   aprengui. Per això, és molt habitual confondre-les amb l’àmbit més
 --
-   senyalització que sorgeixen de la difusió del neurotransmissor.
+   learning engloba totes aquelles tècniques i mètodes d’aprenentatge que
+   poden utilitzar-se per a aconseguir que un ordinador aprengui. Les
+   xarxes neuronals són només un d’aquests mètodes, però existeixen
+   diversos més: arbres de decisió, models probabilístics, models lineals
+   i un llarg etcètera.
 
-   La intel·ligència artificial, el modelatge cognitiu i les xarxes
-   neuronals són paradigmes de processament d'informació inspirats en la
-   forma en què els sistemes neuronals biològics processen les dades. La
-   intel·ligència artificial i el modelatge cognitiu intenten simular
-   algunes propietats de les xarxes neuronals biològiques. En el camp de
-   la intel·ligència artificial, les xarxes neuronals artificials s'han
-   aplicat amb èxit al reconeixement de veu, a l'anàlisi d'imatges i al
-   control adaptatiu, per tal de construir agents de programari (en
+Com crear xarxes neuronals
+
+   És més fàcil entendre com crear xarxes neuronals simplificant un
+   exemple real. Una de les xarxes neuronals amb més èxit és la secció de
+   vídeos recomanats de YouTube. La web obté una gran quantitat de dades
+   de les quals pot aprendre: el temps que ens quedem veient un vídeo, els
 --
-   model von Neumann i funcionen mitjançant l'execució d'instruccions
-   explícites mitjançant l'accés a la memòria per part de diversos
-   processadors. D'altra banda, els orígens de les xarxes neuronals es
-   basen en esforços per modelar el processament d'informació en sistemes
-   biològics. A diferència del model de von Neumann, la informàtica de
-   xarxes neuronals no separa memòria i processament.
+   gustos.
 
-   La teoria de xarxes neuronals ha servit tant per identificar millor el
-   funcionament de les neurones del cervell com per proporcionar la base
-   per als esforços per crear intel·ligència artificial.
+   Com hem dit, la unitat fonamental d’una xarxa neuronal és el perceptró:
+   un element que connecta amb diverses entrades, cadascuna d’elles amb un
+   “pes” particular. En el nostre exemple, posem que inicialment
 --
-   [modifica]
+   d’aprenentatge es coneix com a retroalimentació o ajust.
 
-   La base teòrica preliminar per a les xarxes neuronals contemporànies va
-   ser proposada independentment per Alexander Bain^[4] (1873) i William
-   James^[5] (1890). En el seu treball, tant els pensaments com
+   La cosa es complica en afegir el concepte de xarxa neuronal multicapa,
+   que consisteix a afegir més capes neuronals per a aconseguir un
+   resultat millor definit. En el nostre exemple, s’afegeix un perceptró
 --
+   Per descomptat, l’exemple anterior és una simplificació: els
+   perceptrons són només un dels elements que s’utilitzen, i existeixen
+   models de xarxes neuronals molt més complexos, com les xarxes neuronals
+   convolucionals. Aquest tipus de xarxes se solen utilitzar per a
+   identificar objectes en imatges, a través de la cerca de
+   característiques concretes en grups petits de píxels. En lloc de
+   rastrejar tota la imatge, posen l’atenció a formes del mateix color en
+   un espai concret de la imatge. Naturalment, com més capes neuronals
+   s’afegeixin a la xarxa, més detalls podran trobar i més fàcil serà que
+   aprenguin a diferenciar una imatge concreta.
 
-   McCulloch i Pitts^[8] (1943) van crear un model computacional per a
-   xarxes neuronals basat en matemàtiques i algorismes. Aquest model
-   l'anomenaven lògica llindar. El model va obrir el camí perquè la
-   investigació de xarxes neuronals es dividís en dos enfocaments
-   diferents. Un enfocament es va centrar en els processos biològics del
-   cervell i l'altre es va centrar en l'aplicació de xarxes neuronals a la
-   intel·ligència artificial.
+Usos de xarxes neuronals
 
---
-
-   Farley i Clark^[10] (1954) van utilitzar primer màquines
-   computacionals, després anomenades calculadores, per simular una xarxa
-   Hebbian al MIT. Altres màquines computacionals de xarxes neuronals van
-   ser creades per Rochester, Holland, Habit i Duda^[11] (1956).
-
-   Rosenblatt^[12] (1958) va crear el perceptron, un algorisme per al
-   reconeixement de patrons basat en una xarxa informàtica d'aprenentatge
-   de dues capes mitjançant una simple suma i resta. Amb la notació
-   matemàtica, Rosenblatt també va descriure circuits no al perceptró
---
-   propagació posterior fos creat per Werbos^[13] (1975).
-
-   La investigació sobre xarxes neuronals es va estancar després de la
-   publicació de la investigació sobre aprenentatge automàtic de Marvin
-   Minsky i Seymour Papert^[14] (1969). Van descobrir dos problemes clau
-   amb les màquines computacionals que processaven xarxes neuronals. El
-   primer problema va ser que les xarxes neuronals d'una sola capa eren
-   incapaces de processar l'exclusiu o el circuit. El segon problema
-   significatiu va ser que els ordinadors no eren prou sofisticats per
-   manejar de manera efectiva el temps de llarga durada requerit per les
-   grans xarxes neuronals. La investigació de xarxes neuronals es va
-   desaccelerar fins que els ordinadors van aconseguir una major potència
-   de processament. També va ser clau en els avanços posteriors
---
-   l'ús del connexionisme en ordinadors per simular processos neuronals.
-
-   Les xarxes neuronals, tal com s'utilitza en intel·ligència artificial,
-   tradicionalment s'han vist com models simplificats de processament
-   neuronal al cervell, tot i que es discuteix la relació entre aquest
-   model i l'arquitectura biològica cerebral, ja que no és clar fins a
-   quin punt les xarxes neuronals artificials reflecteixen el cervell
-   funció.^[16]
-
---
-   [modifica]
-
-   Una xarxa neuronal (NN), en el cas de les neurones artificials
-   anomenades xarxa neuronal artificial (ANN) o xarxa neuronal simulada
-   (SNN), és un grup interconnectat de neurones naturals o artificials que
-   utilitza un model matemàtic o computacional per al processament de la
---
-   la majoria dels casos, un ANN és un sistema adaptatiu que canvia la
-   seva estructura en funció de la informació interna o externa que flueix
-   a través de la xarxa.
-
-   En termes més pràctics, les xarxes neuronals són eines de modelatge de
-   dades estadístiques no lineals o eines de presa de decisions. Es poden
-   utilitzar per modelar relacions complexes entre entrades i sortides o
-   per trobar patrons en les dades.
-
-   Una xarxa neuronal artificial implica una xarxa d'elements de
-   processament senzills (neurones artificials) que poden presentar un
-   comportament global complex, determinat per les connexions entre els
---
-   primera vegada a la Universitat de Chicago.^[17]
-
-   Un tipus clàssic de xarxa neuronal artificial és la xarxa Hopfield
-   recurrent.
-
-   El concepte de xarxa neuronal sembla haver estat proposat per primera
-   vegada per Alan Turing en el seu article de 1948, Intelligent
-   Machinery, en el qual les anomenava "màquines no organitzades de tipus
-   B".^[18]
-
-   La utilitat dels models de xarxes neuronals artificials rau en el fet
-   que es poden utilitzar per inferir una funció a partir d'observacions i
-   també per utilitzar-la. Les xarxes neuronals no supervisades també es
-   poden utilitzar per aprendre representacions de l'entrada que capturen
-   les característiques destacades de la distribució d'entrada, per
-   exemple, vegeu la màquina de Boltzmann (1983) i, més recentment,
-   algorismes d'aprenentatge profund, que implícitament poden aprendre la
-   funció de distribució de la dades observades. L'aprenentatge en xarxes
-   neuronals és particularment útil en aplicacions on la complexitat de
-   les dades o tasques fa que el disseny d'aquestes funcions a mà no sigui
---
-   [modifica]
-
-   Les xarxes neuronals es poden utilitzar en diferents camps. Les tasques
-   a les quals s'apliquen les xarxes neuronals artificials tendeixen a
-   incloure's en les grans categories següents:
-     * Aproximació de funcions o anàlisi de regressió, inclosa la
---
-   processos biològics observats (dades), mecanismes biològicament
-   plausibles per al processament i l'aprenentatge neuronal (models de
-   xarxes neuronals biològiques) i teoria (teoria de l'aprenentatge
-   estadístic i teoria de la informació).
-
---
-   A l'agost de 2020, els científics van informar que les connexions
-   bidireccionals, o les connexions de retroalimentació adequades, poden
-   accelerar i millorar la comunicació entre les xarxes neuronals modulars
-   de l'escorça cerebral del cervell i reduir el llindar per a una
-   comunicació reeixida. Van demostrar que afegir connexions de
-   retroalimentació entre un parell de ressonància pot donar suport a la
-   propagació amb èxit d'un sol paquet d'impulsos a tota la
-   xarxa.^[21]^[22]
-
-Crítica
---
-   [modifica]
-
-   Una crítica habitual a les xarxes neuronals, particularment en
-   robòtica, és que requereixen una gran diversitat de mostres
-   d'entrenament per al funcionament del món real. Això no és d'estranyar,
---
-   permet generalitzar-se a casos nous. Dean Pomerleau, en la seva
-   investigació presentada a l'article "Formació basada en el coneixement
-   de xarxes neuronals artificials per a la conducció autònoma de robots",
-   utilitza una xarxa neuronal per entrenar un vehicle robotitzat per
-   conduir per diversos tipus de carreteres (carril simple, carril
-   múltiple, terra), etc.). Una gran part de la seva investigació es
---
-   exemple, es presenta amb una sèrie de girs a la dreta: no s'ha
-   d'aprendre a girar sempre a la dreta). Aquests problemes són habituals
-   a les xarxes neuronals que han de decidir-se entre una àmplia varietat
-   de respostes, però es poden tractar de diverses maneres, per exemple
-   barrejant els exemples d'entrenament a l'atzar, mitjançant un algorisme
-   d'optimització numèrica que no fa massa passos quan canviant les
-   connexions de xarxa seguint un exemple o agrupant exemples en els
-   anomenats mini-lots.
-
-   AK Dewdney, antic columnista de Scientific American, va escriure el
-   1997: "Tot i que les xarxes neuronals resolen alguns problemes de
-   joguines, els seus poders de càlcul són tan limitats que em sorprèn que
-   qualsevol persona els prengui seriosament com a eina general de
+   Com hem indicat al principi d’aquest article, les xarxes neuronals ja
+   tenen una mica d’història: les primeres teories sobre elles van
+   començar a publicar-se a mitjans del segle XX. No obstant això, els
 --
 
-   Els arguments per a la posició de Dewdney són que per implementar
-   xarxes neuronals de programari grans i efectives, cal dedicar molts
-   recursos de processament i emmagatzematge. Tot i que el cervell té un
-   maquinari adaptat a la tasca de processar senyals mitjançant un gràfic
-   de neurones, simular fins i tot una forma més simplificada de la
-   tecnologia Von Neumann pot obligar un dissenyador de xarxes neuronals a
-   omplir molts milions de files de bases de dades per a les seves
-   connexions, que poden consumir grans quantitats. de capacitat
-   d'emmagatzematge de dades i memòria de l'ordinador. A més, el
-   dissenyador de sistemes de xarxes neuronals sovint haurà de simular la
-   transmissió de senyals a través de moltes d'aquestes connexions i les
-   seves neurones associades, que sovint s'han d'aparellar amb increïbles
-   quantitats de potència i temps de processament de la CPU. Tot i que les
-   xarxes neuronals solen produir programes eficaços, massa sovint ho fan
-   a costa d' eficiència (solen consumir una quantitat considerable de
-   temps i diners).
+   A més de l’algorisme de recomanació de YouTube, hi ha molts altres
+   exemples de l’aplicació de xarxes neuronals. Sense anar més
+   lluny, Google ha utilitzat aquesta metodologia per a dos projectes
+   diferents: l’ús de xarxes neuronals li va permetre superar el famós
+   test reCAPTCHA d’identificació d’imatges. A més, l’empresa també ha
+   utilitzat una xarxa convolucional per a reconèixer els números dels
+   carrers en Street View.
 
-   Els arguments contra la posició de Dewdney són que les xarxes neuronals
-   s'han utilitzat amb èxit per resoldre moltes tasques complexes i
-   diverses, com ara avions que volen de forma autònoma.^[23]
+   Les institucions acadèmiques també han estat desenvolupant noves
+   tecnologies d’aprenentatge automàtic mitjançant xarxes neuronals.
+   Stanford va aconseguir generar peus de foto de manera automàtica
+   mitjançant la identificació automàtica d’imatges. Així mateix, la
+   universitat d’Edimburg va utilitzar xarxes neuronals convolucionals per
+   a detectar estratègies d’èxit en el joc Go.
 
-   L'escriptor tecnològic Roger Bridgman va comentar les declaracions de
-   Dewdney sobre les xarxes neuronals:
-
-     Les xarxes neuronals, per exemple, es troben al moll no només perquè
-     han estat difoses fins al cel alt (què no?), Sinó també perquè
-     podríeu crear una xarxa d'èxit sense entendre com funcionava: el
-     grup de números que captura el comportament seria, amb tota
-     probabilitat, "una taula opaca i il·legible ... sense valor com a
-     recurs científic". Malgrat la seva emfàtica afirmació que la ciència
-     no és tecnologia, Dewdney sembla que acapara les xarxes neuronals
-     com a mala ciència quan la majoria dels que les dissenyen només
-     intenten ser bons enginyers. Una taula il·legible que una màquina
-     útil podria llegir encara valdria la pena.^[24]
-
-   Tot i que és cert que analitzar el que ha après una xarxa neuronal
-   artificial és difícil, és molt més fàcil fer-ho que analitzar el que ha
-   après una xarxa neuronal biològica. A més, l'èmfasi recent en
-   l'explicabilitat de la IA ha contribuït al desenvolupament de mètodes,
-   sobretot els basats en mecanismes d'atenció, per visualitzar i explicar
-   les xarxes neuronals apreses. A més, els investigadors implicats en
-   l'exploració d'algoritmes d'aprenentatge per a xarxes neuronals van
-   descobrint progressivament principis genèrics que permeten que una
-   màquina d'aprenentatge tingui èxit. Per exemple, Bengio i LeCun (2007)
---
-
-   Algunes altres crítiques van venir dels creients dels models híbrids
-   (combinant xarxes neuronals i enfocaments simbòlics). Defensen la
-   barreja d'aquests dos enfocaments i creuen que els models híbrids poden
-   captar millor els mecanismes de la ment humana (Sun i Bookman,
---
-   aplicacions tant en informàtica com en neurociències. La investigació
-   està en curs per entendre els algoritmes computacionals utilitzats al
-   cervell, amb algunes evidències biològiques recents sobre xarxes de
-   bases radials i la propagació posterior neuronal com a mecanismes per
-   al processament de dades.
---
-   instàncies poden de fet estar amb dispositius digitals CMOS.
-
-   Entre el 2009 i el 2012, les xarxes neuronals recurrents i les xarxes
-   neuronals avançades profundes desenvolupades al grup de recerca de
-   Jürgen Schmidhuber al suís AI Lab IDSIA han guanyat vuit concursos
---
-   H. Hubel i Torsten Wiesel a l'escorça visual primària.
-
-   També s'han introduït funcions de bases radials i xarxes d'onetes. Es
-   pot demostrar que ofereixen les millors propietats d'aproximació i
-   s'han aplicat en aplicacions d'identificació i classificació de
-   sistemes no lineals.^[19]
-
-   Les xarxes avançades d'aprenentatge profund alternen capes
-   convolucionals i capes d'agrupació màxima, superades per diverses capes
-   de classificació pura. Les implementacions ràpides basades en GPU
---
-   patrons, inclòs el concurs de reconeixement de senyals de trànsit IJCNN
-   2011^[34] i el repte ISBI 2012 Segmentació d'estructures neuronals en
-   piles de microscòpia electrònica.^[35] Aquestes xarxes neuronals també
-   van ser els primers reconeixedors de patrons artificials que van
-   aconseguir un rendiment humà competitiu o fins i tot sobrehumà^[36] en
---
-   (anglès)
-   Obtingut de
-   «https://ca.wikipedia.org/w/index.php?title=Xarxa_neuronal&oldid=362719
-   33»
-   Categories:
-     * Intel·ligència artificial
-     * Xarxes
-     * Xarxes neuronals artificials
-
-   Categoria oculta:
---
-
-   [ ] Commuta la taula de continguts.
-   Xarxa neuronal
-   (BUTTON) 22 llengües Afegeix un tema
+   La majoria dels projectes anteriors revelen que les xarxes neuronals
+   encara estan en vies de desenvolupament i experimentació. Així i tot,
+   l’augment de la popularitat d’aquesta metodologia apunta al fet que la
+   seva aplicació no trigarà a estendre’s. Tot apunta al fet que les
+   xarxes neuronals es convertiran aviat en un dels pilars de la innovació
+   en el camp de la intel·ligència artificial.
+   Comparteix

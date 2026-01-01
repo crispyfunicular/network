@@ -1,139 +1,252 @@
-   GEMET
-   General
-   Multilingual
-   Environmental
-   Thesaurus
-   [Catalan_____]
-   (BUTTON) Thematic Listings Hierarchical Listings INSPIRE Spatial Data
-   Themes Alphabetic Listings Search Thesaurus
-   Query: ____________________ (Search) Search
-   (BUTTON) [language-icon.png]
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-F3KGGFD
 
-Translations
+   Vés al contingut
 
-     * Arabic
-       سكة حديدية
-     * Armenian
-       երկաթուղի
-     * Azerbaijani
-       dəmir yolu
-     * Basque
-       trenbide
-     * Bulgarian
-       Релсов път
-     * Catalan
-       ferrocarril
-     * Chinese
-       铁路
-     * Croatian
-       željeznica
-     * Czech
-       železnice
-     * Danish
-       jernbane
-     * Dutch
-       spoorweg
-     * English
-       railway
-     * English (US)
-       railroad
-     * Estonian
-       raudtee
-     * Finnish
-       rautatie
-     * French
-       voie ferrée
-     * Georgian
-       რკინიგზა
-     * German
-       Eisenbahn
-     * Greek
-       σιδηρόδρομος
-     * Hungarian
-       vasút
-     * Icelandic
-       járnbraut
-     * Irish
-       iarnród
-     * Italian
-       ferrovia
-     * Latvian
-       dzelzceļš
-     * Lithuanian
-       geležinkelis
-     * Maltese
-       ferrovija
-     * Norwegian
-       jernbane
-     * Polish
-       kolej
-     * Portuguese
-       caminhos de ferro
-     * Romanian
-       cale ferată
-     * Russian
-       железная дорога
-     * Slovak
-       železnica
-     * Slovenian
-       železnica
-     * Spanish
-       ferrocarriles
-     * Swedish
-       järnväg
-     * Turkish
-       demiryolu
-     * Ukrainian
-       залізниця
+Header Top menu
 
-   ferrocarril
+     * TMB
+     * Fundació TMB
+     * Barcelona Bus Turístic
+     * Telefèric de Montjuïc
 
-Definition
+   Inici
+   Introduïu les vostres paraules clau ______________________________
+   Cerca
+   (BUTTON) Toggle navigation
 
-   A permanent track composed of a line of parallel metal rails fixed to
-   sleepers, for transport of passengers and goods in trains.
+TMB Link
 
-   Definition is not available for the current language.
+     * RSS
+     * Subscriu-te
+     * Sala de premsa
 
-Related terms
+Main menu
 
-Broader:
+     * Transport
+     * Innovació
+     * Empresa
+     * Medi ambient
+     * Societat
+     * Cultura i Oci
+     * Història
+     * En xarxa
 
-     * xarxa ferroviària
+External links
 
-Related:
+     * TMB
+     * Fundació TMB
+     * Barcelona Bus Turístic
+     * Telefèric de Montjuïc
 
-     * trànsit ferroviari
+Fil d'ariadna
 
-Narrower:
+    1. Inici
+    2. Transport
+    3. L’ATM Redissenya El Plànol de La Xarxa Ferroviària Per a Fer-lo Més
+       Simple i Accessible
 
-     * ferrocarril d'alta velocitat
-     * línia metropolitana (UP: metro)
+     *
+     * Twittear
+     *
+     * Send by mail
+     * Impressió
 
-Themes:
+   09.04.2024
+   Redacció
 
-     * medi ambient urbà, tensió urbana (estrès urbà)
-     * transports
+L’ATM redissenya el plànol de la xarxa ferroviària per a fer-lo més simple i
+accessible
 
-Group:
+   Imatge
+   Imatge del nou plànol. /Foto: ATM
+   Imatge del nou plànol. /Foto: ATM
+   < >Imatge del nou plànol. /Foto: ATM
 
-     * ANTROPOSFERA (medi edificat, assentaments humans, ordenació del
-       territori)
+   La nova versió ha estat redissenyada de la mà de TMB, FGC, Rodalies i
+   TRAM, i ha comptat amb l’assessorament del dissenyador i arquitecte Jug
+   Cerovic
 
-Other relations
+   L’Autoritat del Transport Metropolità ha redissenyat i posat a
+   disposició dels operadors el plànol ferroviari de l’àrea de Barcelona,
+   que millora el seu disseny i en modifica l’estructura per adaptar-lo a
+   les pròximes incorporacions de parades i línies que ampliaran l’oferta
+   global de transport públic. En aquest cas, la unió dels trams sud i
+   nord de les línies L9 i L10, la projecció del perllongament de les
+   línies L1, L3 i L8 o la unió del tramvia per la diagonal han estat els
+   detonants per dur a terme el nou plànol. Tot i això, les futures
+   estacions encara no es mostraran al nou plànol, fins que aquestes
+   estiguin plenament operatives i en servei.
 
-    Has close match:
-     * UMTHES: Eisenbahn
+   Aquest nou plànol ja és una realitat a la xarxa de Rodalies i del TRAM
+   i, aviat, s’actualitzarà a TMB i FGC. D’aquesta manera, tots els
+   accessos, vestíbuls i andanes d’aquests operadors exposaran aquest nou
+   disseny global més complet que incorpora les sis corones tarifàries,
+   deixant de mostrar en algun dels casos el mapa reduït de la primera
+   corona de Barcelona.
 
-    Wikipedia article:
-     * Rail transport
+   Senzill, accessible i adaptat a la nova realitat ferroviària
 
-Scope note
+   El nou plànol ha comptat amb la col·laboració del dissenyador i
+   arquitecte Jug Cerovic que ha treballat en la concepció de diversos
+   mapes de transport a escala mundial. El disseny incorpora diferents
+   millores, seguint els criteris de simplicitat, usabilitat i
+   accessibilitat. A fi d'afavorir-ne la comprensió, s'ha reduït el grau
+   d'informació d'algunes línies allunyant-lo una mica de la cartografia
+   real i simplificant-ne en els traçats. Això ha repercutit en una millor
+   convivència entre línies i, per tant, en una millora cognitiva en la
+   lectura.
 
-   Scope note is not available.
+   Noves característiques
 
-Concept URL: http://www.eionet.europa.eu/gemet/concept/6942
+   Amb el nou disseny s'ha assignat un traç diferent per a cada mode de
+   transport a fi de simplificar-ne la lectura i reduir-ne el grau de
+   confusió. El servei de metro queda representat amb un traç sòlid. El
+   tramvia utilitza un traç doble que el fa únic i identificable a simple
+   vista. En el cas del servei de rodalia (Renfe i FGC) els seus traços
+   perden protagonisme quan són a la primera corona, per mostrar en detall
+   el seu recorregut per tal de no generar confusió amb el servei de
+   metro. En sortir d’aquesta zona, augmenten de gruix guanyant
+   notorietat, i d’aquesta manera, els identificadors de parades també
+   prenen estils propis segons cada servei. D’igual manera s'ha treballat
+   en un canvi de la iconografia base del plànol, fent-les més accessibles
+   i introduint una nova icona per a la identificació dels enllaços llargs
+   a peu a través de la via urbana entre estacions allunyades.
 
-   GEMET | Download  |  Alphabets  |  About GEMET  |  Web Services  |
-   Definition sources  |  History of changes  |  Contact  |  Login
-   GEMET - Concepts, version 4.2.3, 6 Dec 2021
+   Un nou mapa tàctil de TMB
+
+   La renovació del mapa convencional de la xarxa de metro, realitzada a
+   mitjans del 2023 i que inclou millores en la representació dels
+   enllaços, inicis i finals de línia ressaltats o la correcta adaptació
+   de la xarxa de metro a la trama urbana de Barcelona, va propiciar també
+   la renovació del mapa tàctil de metro per a persones amb discapacitat
+   visual, aplicant el concepte wayfinding per garantir una lectura més
+   ràpida i més senzilla de la xarxa ferroviària. El nou mapa es va
+   presentar el passat mes de febrer juntament amb ONCE Catalunya i
+   ofereix una lectura més clara i senzilla de la xarxa de metro a partir
+   de la simplificació de geometries, recorreguts i enllaços. A més, es
+   complementa amb una guia en Braille i en versió tinta per a les
+   persones cegues i amb baixa visió, amb informació detallada de les
+   línies i els intercanviadors de tota la xarxa del metro de Barcelona.
+   Darrera modificació
+   09.04.2024
+   Tema
+   Transport
+     * ConceptesInformació al
+       clientInfraestructuraEstacióInstitucionsATMFGCRenfeTMBServeiMetroTr
+       amviaAnys2024
+
+     *
+     * Twittear
+     *
+     * Send by mail
+     * Impressió
+
+També et pot interessar...
+
+Contingut relacionat
+
+   Obres accessibilitat Pg Gràcia. /Foto: TMB
+
+Finalitzen les obres de millora de l’accessibilitat a l’intercanviador de
+metro de Passeig de Gràcia
+
+   Transport
+   Panoràmica d'una edició anterior de l'espectacle de Cap d'Any / Foto:
+   Ajuntament de Barcelona
+
+Per Cap d’Any, el metro funcionarà 43 hores sense interrupció
+
+   Transport
+   Sortida d'una edició anterior de la Cursa dels Nassos / Foto:
+   Ajuntament de Barcelona
+
+Línies d’autobús afectades per la Cursa dels Nassos 2025
+
+   Transport
+   Esplanada anella Palau Sant Jordi / Font: BSM
+
+Transport públic per al concert de Pecos al Palau Sant Jordi
+
+   Transport
+
+Últimes notícies
+
+   Presentació de l'exposició inmersiva del Centenari de la Xarxa de
+   Metro. /FOTO: M.A.Cuartero (TMB)
+
+Més de 100.000 persones han participat en les activitats programades per
+celebrar el Centenari de Metro
+
+   Empresa
+   Imatge "Un viatge immersiu" / Font: TMB
+
+Obertes les inscripcions per a l’exposició immersiva de la història del metro
+de Barcelona
+
+   Empresa
+   Exposició "Murs" a l'estació de Badalona/Pompeu Fabra. /Foto: M.A.
+   Cuartero (TMB)
+
+L’estació de metro Badalona- Pompeu Fabra acull una exposició fotogràfica que
+explora els conceptes de frontera i migració
+
+   Cultura i Oci
+   Imatge
+   La canalla gaudint del conta-contes solidari a Badalona Pompeu Fabra /
+   Foto: Miguel Àngel Cuartero
+
+Conta-contes solidari al metro, una activitat del ‘Mou-te pel càncer infantil
+i acompanya’ns’
+
+   Societat
+
+Notícies
+
+     * Inici
+     * Qui Som
+     * Mou TV
+     * Sala de Premsa
+     * GenTMB
+
+Newsletter
+
+   Vols rebre les nostres notícies cada setmana a la bústia de correu?
+   Només has de donar-nos una adreça electrònica.
+
+   Subscriu-te
+
+Contacta'ns
+
+   Escriu-nos
+
+   Telèfons de Premsa
+   93 298 72 44
+   93 298 75 43
+   93 298 71 68
+   93 328 61 77
+
+   Centraleta
+   93 298 70 00
+
+   TMB - Transports Metropolitans de Barcelona
+
+Xarxes Socials
+
+     * Twitter
+     * Facebook
+     * Linkedin
+     * Instagram
+     * Youtube
+     * RSS
+     * TikTok
+
+Enllaços legals
+
+     * Avís legal
+     * Política de cookies
+     * Gestor de cookies
+     * Compatibilitat
+     * Mapa Web
+
+   CC La web de notícies de TMB está subjecte a difusió mitjançant l'ús de
+   llicències Creative Commons

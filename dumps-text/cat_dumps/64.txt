@@ -1,215 +1,308 @@
-   #DSpace
+   #alternate alternate Societat
 
-   . Obre en una nova finestra. Logo gencat
-   Menú
-     * Imatge usuari Inicia sesión. Obre en una nova finestra.
-     * Imatge menú Contacto
-     * Menú idioma Idioma: es fletxa cap avall fletxa cap avall
-          + Català
-          + English
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M63PMSS
 
-   Cercador (BUTTON) Cercador
+   (BUTTON)
 
-Documentació de Seguretat Pública (repositori del Departament d'Interior i
-Seguretat Pública)
+     * Portada
+     * Última hora
+     * Descobreix
+     * Edició paper 31/12/2025
 
-     * Principal
-     * Información sobre el repositorio
+   Seccions
+     * Opinió
+     * Política
+     * Internacional
+     * Economia
+     * Societat
+     * Medi i Crisi climàtica
+     * Ciència
+     * Cultura
+     * Investigació
+     * Llengua
+     * Esports
+     * Mèdia
+     * Feminismes
+     * Estils
+     * Gent
+     * La méteo
 
-   . Obre en una nova finestra. Logotip de la Generalitat
+   Magazins
+     * Diumenge
+     * Criatures
+     * Empreses
+     * Llegim
+     * Mengem
+     * Motor
 
-   |Documentació de Seguretat Pública (repositori del Departament
-   d'Interior i Seguretat Pública)
+   Multimèdia
+     * Podcast
+     * Interactius
+     * Ara Data
+     * Ara Mirades
+     * Vídeo
+     * Foto
+     * Vinyetes
+     * Dossiers
 
-   Imatge capçalera
-     * Principal
-     * Seguretat
-     * Articles, jornades, formació i congressos
-     * Ver ítem
+   Serveis
+     * Botiga
+     * Hemeroteca
+     * Newsletters
+     * Trobamot
+     * Mots encreuats
+     * Jocs
+     * Resultats electorals
 
-Ver ítem
+   La Veu del Lector
+     * Defensor del Lector
+     * Bústia d'investigació
+     * Cartes a la directora
+     * Club prèmium
+     * Comunitat
 
-     * Compartir en Twitter
-     * Compartir en Facebook
-     * Compartir en Telegram
-     * Compartir en WhatsApp
-     * Imprimir
+   Edició
+   Idioma
+     * Cat
+     * Cast
+     * Eng
 
-   JavaScript is disabled for your browser. Some features of this site may
-   not work without it.
+   Societat
 
-   Mostrar el registro sencillo del ítem
+La policia dona per desarticulades dues xarxes criminals que abastien
+d'heroïna els narcopisos del Raval
 
-Les xarxes criminals exploten negocis legals per reforçar el control sobre
-l’economia (2025)
+En dos anys s'han detingut 26 persones i s'han intervingut 70 quilos
+d'aquesta droga
 
-   dc.contributor.author Departament d'Interior i Seguretat Pública ca
-   dc.coverage.spatial Europa ca
-   dc.date.accessioned 2025-07-02T11:30:24Z
-   dc.date.available 2025-07-02T11:30:24Z
-   dc.date.issued 2025-05-07
-   dc.identifier.citation Departament d'Interior i Seguretat Pública. Les
-   xarxes criminals exploten negocis legals per reforçar el control sobre
-   l’economia. En: Notes de Seguretat (Blog)
-   <https://notesdeseguretat.blog.gencat.cat>. Barcelona: Departament
-   d'Interior i Seguretat Pública, 2025. 3 p. ca
-   dc.identifier.uri https://hdl.handle.net/20.500.14007/4330
-   dc.description.abstract Nota informativa sobre l’informe presentat per
-   Europol: «Aprofitant la legitimitat: com les xarxes criminals més
-   amenaçadores de la UE abusen de les estructures empresarials legals»,
-   que examina com les xarxes criminals fan ús fraudulent de les
-   estructures empresarials legals per reforçar el seu poder i ampliar
-   així les seves operacions criminals. ca
-   dc.format.extent 3 p. ca
-   dc.language.iso cat ca
-   dc.language.iso spa ca
-   dc.language.iso eng ca
-   dc.language.iso fra ca
-   dc.publisher Departament d'Interior i Seguretat Pública ca
-   dc.relation.ispartof Publicat dins el Blog Notes de seguretat
-   https://notesdeseguretat.blog.gencat.cat/ ca
-   dc.rights Attribution-NonCommercial-NoDerivatives 4.0 International *
-   dc.rights.uri http://creativecommons.org/licenses/by-nc-nd/4.0/ *
-   dc.subject.other Notes de seguretat
-   dc.title Les xarxes criminals exploten negocis legals per reforçar el
-   control sobre l’economia (2025) ca
-   dc.title.alternative Las redes criminales explotan negocios legales
-   para reforzar el control sobre la economía ca
-   dc.title.alternative Criminal networks exploit legal businesses to
-   strengthen control over the economy ca
-   dc.title.alternative Les réseaux criminels pénètrent les entreprises
-   légales pour renforcer leur contrôle sur l’économie ca
-   dc.type info:eu-repo/semantics/contributionToPeriodical ca
-   dc.rights.accessLevel info:eu-repo/semantics/openAccess
-   dc.embargo.terms cap ca
-   dc.description.version info:eu-repo/semantics/publishedVersion ca
-   dc.subject.lemac Crim organitzat
-   dc.subject.lemac Europol
-   ﻿
+   La policia dona per desarticulades dues xarxes criminals que abastien
+   d'heroïna els narcopisos del Raval La policia dona per desarticulades
+   dues xarxes criminals que abastien d'heroïna els narcopisos del Raval
+   GUÀRDIA CIVIL / POLICIA NACIONAL
+   Ara
+   20/09/2019
+   2 min
 
-Ficheros en el ítem
+   BarcelonaS'havien establert a Barcelona, però els seus tentacles
+   arribaven a mig món. Es valien de "maleters" o "conductors", persones
+   captades al Pakistan i d'altres països que acceptaven portar amagades
+   al seu equipatge grans quantitats d'heroïna, bona part de la qual
+   acabava als narcopisos del Raval. Després de dos anys d'investigació,
+   la Guàrdia Civil i la Policia Nacional han donat per desarticulades
+   dues organitzacions criminals de traficants que feien de distribuïdors
+   de droga als narcopisos, tot i que finalment no eren els seus membres,
+   sinó uns altres traficants, els que la portaven al punt de consum.
 
-   Thumbnail
+   En els dos anys que ha durat l'operatiu policial, la Guàrdia Civil i la
+   Policia Nacional han detingut 26 persones amb la col·laboració de
+   diferents policies europees i han intervingut 70 quilos d'heroïna. Una
+   vintena dels arrestats han ingressat a la presó.
+   El laberint de l’heroïna: n’hi ha més i amenaça amb despertar el consum
+   Unes quantes xeringues en una zona pròxima a la Mina on sovint hi van
+   persones drogodependents a punxar-se.
 
-   Nombre:
-          2025_05_07_Les xarxes criminals ...
+   La investigació va començar després que es detectés un increment
+   important d'entrada d'heroïna a l'aeroport del Prat fa dos anys.
+   Estirant del fil, la Guàrdia Civil i la Policia Nacional van arribar a
+   constatar l'existència de dues xarxes de traficants, liderades per
+   ciutadans pakistanesos i establertes a Barcelona. La més gran de les
+   dues havia arribat a crear tres grups independents de treball: un es
+   dedicava a captar els 'missatgers' de la droga i a organitzar el seu
+   viatge, un altre s'encarregava del tràfic de l'heroïna, i el tercer al
+   de la cocaïna, una nova via d'expansió que l'organització havia trobat
+   al seu negoci en els últims temps.
 
-   Tamaño:
-          1.321Mb
+   A partir d'aquí, l'operació es va desenvolupar en tres fases: entre
+   l'agost del 2017 i el març del 2018, els agents van arrestar sis
+   persones. En una segona etapa, entre l'agost del 2018 i aquest gener,
+   es van arrestar setze persones més. Finalment, entre el gener i l'abril
+   es van arrestar els últims quatre membres de l'organització.
 
-   Formato:
-          PDF
+   Segons la policia, entre els detinguts en la primera fase de l'operatiu
+   hi havia dos dels captadors dels 'missatgers' que portaven la droga –un
+   dels quals ocupava un dels esglaons més alts de l'organització més gran
+   de les dues desarticulades–, així com tres 'maleters' que portaven
+   amagats a l'equipatge que els van trobar a l'aeroport de Barcelona i
+   Madrid 19 quilos d'heroïna. També van interceptar un altre membre de
+   l'organització a Itàlia.
 
-   Ver/Abrir
-   Thumbnail
+   El gruix de l'operatiu es va fer entre l'estiu del 2018 i el gener del
+   2019: entre els setze arrestats en aquesta fase hi ha tres 'maleters'
+   que portaven als seus equipatges 24 quilos d'heroïna, una altra dona
+   que en portava 15 i l'home que esperava per rebre-la, dos homes més
+   que, des d'un pis de Barcelona, es dedicaven a organitzar els viatges
+   dels 'missatgers' de la droga i vuit membres més de les dues xarxes.
+   Finalment, entre gener i abril d'enguany, quatre membres més de
+   l'organització que eren, en aquest cas, a Madrid. Ho van fer després
+   que la policia de Bolívia interceptés un paquet amb 10 quilos de
+   cocaïna amagats en cartutxos de tinta d'impressora que tenien com a
+   destí l'estat espanyol.
 
-   Nombre:
-          2025_05_07_Las redes criminales ...
+   Segons els dos cossos policials, el destí final de la majoria de droga
+   intervinguda eren els narcopisos del Raval, tot i que no eren els
+   membres de les organitzacions de subministradors desmantellades els que
+   la portaven a aquests punts, sinó altres traficants situats a un nivell
+   inferior. La droga també s'adulterava per multiplicar-ne la quantitat
+   final i així treure'n més benefici econòmic.
 
-   Tamaño:
-          1.316Mb
+   successos heroïna droga raval narcopisos
 
-   Formato:
-          PDF
+Més de Societat
 
-   Ver/Abrir
-   Thumbnail
+   Societat
 
-   Nombre:
-          2025_05_07_Criminal networks ...
+La nit de Cap d'Any deixa 27 detinguts per violència masclista, el triple que
+fa un any
 
-   Tamaño:
-          1.315Mb
+   ARA
+   01-01-2026
+   Aspecte de l'avinguda Maria Cristina de Barcelona en la celebració de
+   Cap d'Any per donar la benvinguda al 2026.
 
-   Formato:
-          PDF
+   Societat
 
-   Ver/Abrir
-   Thumbnail
+El primer català del 2026 es diu Ander
 
-   Nombre:
-          2025_05_07_Les réseaux criminels ...
+   ARA
+   01-01-2026
+   El petit Ander a braços de la seva mare, en la primera fotografia
+   familiar
 
-   Tamaño:
-          1.323Mb
+   Societat
 
-   Formato:
-          PDF
+Evitar la submissió química amb un sensor que torna fluorescent la beguda
 
-   Ver/Abrir
+   ARA
+   31-12-2025
+   Una discoqueta en una imatge d'arxiu
 
-Este ítem aparece en la(s) siguiente(s) colección(ones)
+   Societat
 
-     * Articles, jornades, formació i congressos [841]
+La Grossa de Cap d'Any, en directe
 
-   Mostrar el registro sencillo del ítem
-   Attribution-NonCommercial-NoDerivatives 4.0 International
-   Excepto si se señala otra cosa, la licencia del ítem se describe como
-   http://creativecommons.org/licenses/by-nc-nd/4.0/
+   ARA
+   31-12-2025
+   En directe TV3
+   Dona suport a la informació de qualitat i rigor. Entre tots fem l'ARA.
+   Subscriu-t'hi
 
-Ítems relacionados
+El més popular
 
-   Mostrando ítems relacionados por Título y Materia.
-     * Thumbnail
+   (*) ( )
 
-Els grups de crim organitzat i les activitats il·legals en l’era de la
-tecnologia (2019) ﻿
-       Departament d'Interior (Publicat dins el Blog Notes de seguretat
-       https://notesdeseguretat.blog.gencat.cat/, 2019-01-09)
-       Nota informativa sobre les dades dels grups de crim organitzat i
-       les activitats il·legals en l’era de la tecnologia, segons
-       l’informe SOCTA 2017 (Serious and Organised Crime Threat
-       Assessment).
-     * Thumbnail
+   El més vist El més comentat
 
-Les noves formes del crim organitzat. Nous grups de delinqüència organitzada
-en el context europeu (1998) ﻿
-       Tolle, Ansgar (Revista Catalana de Seguretat Pública, Núm. 3,
-       1998-12)
-     * Thumbnail
+De la sobrietat d’Escanes a l’excés de Pedroche: així han rebut el 2026 les
+televisions
 
-Europol s’uneix a la crida internacional per resoldre un cas d’assassinat
-(2024) ﻿
-       Departament d'Interior i Seguretat Pública (Publicat dins el Blog
-       Notes de seguretat https://notesdeseguretat.blog.gencat.cat/,
-       2024-09-25)
-       Nota informativa sobre com la inspecció de la policia alemanya de
-       la zona de Cloppenburg-Vechta i Europol demanen ajuda a la
-       ciutadania per resoldre un cas d’assassinat de fa 28 anys i que té
-       vincles ...
+   1.
 
-   Búsquedas
-   ____________________ (BUTTON)
-   (*) Buscar en el repositorio
-   ( ) Esta colección
+La Grossa de Cap d'Any, en directe
 
-Visualiza
+   2.
 
-   Todo el repositorioPor comunidades y coleccionesPor autor/a y
-   colaborador/aPor títuloPor tipo de documentoPor materia/palabra
-   clavePor fecha de publicaciónEsta colecciónPor autor/a y
-   colaborador/aPor títuloPor tipo de documentoPor materia/palabra
-   clavePor fecha de publicación
+Almenys 40 morts i 115 ferits en l'incendi d'un bar a Suïssa
 
-Mi cuenta
+   3.
 
-   AccederRegistro
+El país més pobre de la UE entra a l'euro en plena crisi política
 
-Estadísticas
+   4.
 
-   Ver Estadísticas de uso
+Els presidents autonòmics tanquen l’any denunciant els “privilegis” de
+Catalunya
 
-   Sigue las redes sociales del Departamento de Interior y Seguridad
-   Pública
-     * Icona de Twitter
-     * Icona de Facebook
-     * Icona d'Instagram
-     * Icona de Youtube
+   5.
 
-   Logo generalitat
-     * Aviso legal
-     * Accesibilidad
-     * Política de cookies
-     * Mapa web
+Els presidents autonòmics tanquen l’any denunciant els “privilegis” de
+Catalunya
 
-   (BUTTON) Torna amunt
+   1.
+
+Què faràs després de l’orgia?
+
+   Ignasi Aragay
+   2.
+
+El país més pobre de la UE entra a l'euro en plena crisi política
+
+   3.
+
+Almenys 40 morts i 115 ferits en l'incendi d'un bar a Suïssa
+
+   4.
+
+Feijóo entregarà a la jutge els seus missatges amb Mazón durant la dana
+
+   Aleix Moldes
+   5.
+
+Descobreix
+
+   Veure'n més
+
+   Soldats russos protegeixen al Kremlin.
+
+   Enemics de l'estat: Putin ofega l'exili polític rus
+   Albert Sort Creus
+   Rússia
+
+   L'exèrcit de Qatar celebra la festa nacional.
+
+   Els països del Golf es preparen per a la guerra Iran-Israel
+   Ethel Bonet
+   Pròxim Orient
+
+   Nuria Rábano en un partit de Champions amb el Barça
+
+“Vaig ser l’última en assabentar-me que marxava del Barça”
+
+   Raúl Zambrano Lozano
+   Barça Femení
+
+Periodisme lliure i compromès, per estar ben informat
+
+   SUBSCRIU-T'HI
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   App: IOS Android
+
+     * © ARA 2026
+     * Privacitat
+     * Condicions
+     * Cookies
+
+   Col·laboradors
+     * Generalitat de Catalunya
+     * Govern Illes Balears
+     * Fundació Catalunya Cultura
+     * Generalitat Valenciana
+     * La teua llengua
+     * Acció
+
+     * (BUTTON) Portada
+     * (BUTTON) Última hora
+     * (BUTTON) Descobreix
+     * (BUTTON) Seccions
+     * (BUTTON)
+       [svg%3E]
+       Perfil
+       Inicia sessió
+
+   stats

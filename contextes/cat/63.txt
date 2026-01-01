@@ -1,11 +1,31 @@
-   #Aldia.cat publisher
-   REFRESH(600 sec):
-   https://www.aldia.cat/gent/noticia-cauen-xarxes-trafic-drogues-arran-du
-   n-assalt-fallit-labril-sant-quinti-barcelona-20251201105707.html
-   alternate
+   Mostrar el registro sencillo del ítem
+
+Les xarxes criminals exploten negocis legals per reforçar el control sobre
+l’economia (2025)
+
 --
-   Actualitzat 01/12/2025 11:10
+   dc.date.issued 2025-05-07
+   dc.identifier.citation Departament d'Interior i Seguretat Pública. Les
+   xarxes criminals exploten negocis legals per reforçar el control sobre
+   l’economia. En: Notes de Seguretat (Blog)
+   <https://notesdeseguretat.blog.gencat.cat>. Barcelona: Departament
+--
+   dc.identifier.uri https://hdl.handle.net/20.500.14007/4330
+   dc.description.abstract Nota informativa sobre l’informe presentat per
+   Europol: «Aprofitant la legitimitat: com les xarxes criminals més
+   amenaçadores de la UE abusen de les estructures empresarials legals»,
+   que examina com les xarxes criminals fan ús fraudulent de les
+   estructures empresarials legals per reforçar el seu poder i ampliar
+   així les seves operacions criminals. ca
+--
+   dc.rights.uri http://creativecommons.org/licenses/by-nc-nd/4.0/ *
+   dc.subject.other Notes de seguretat
+   dc.title Les xarxes criminals exploten negocis legals per reforçar el
+   control sobre l’economia (2025) ca
+   dc.title.alternative Las redes criminales explotan negocios legales
+--
 
-Cauen 2 xarxes de tràfic de drogues arran d'un assalt fallit a l'abril a Sant
-Quintí
+   Nombre:
+          2025_05_07_Les xarxes criminals ...
 
+   Tamaño:

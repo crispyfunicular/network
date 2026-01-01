@@ -1,190 +1,182 @@
-   #delatorre.ai » Feed delatorre.ai » Feed de los comentarios oEmbed
-   (JSON) oEmbed (XML) JSON
+    #alternate alternate alternate alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PGG4CM9B
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MLPG24R
 
-   Ir al contenido
+   Ves a Universitat de Barcelona
 
-   delatorre.ai
+     * UB.EDU
+     * Icona usuari Directori
+     * Icona enllaç extern PTGAS i PDI
+     * Icona enllaç extern Estudiants
 
-     * Sobre mí
-     * Servicios
-     * Contacto
+   (BUTTON) ca
+   españolesenglishen
+   Actualitat
 
-   Contacto
-   Contacto
-   delatorre.ai
+     * Notícies
+     * Agenda
+     * Xarxes socials
+     * Sala de premsa (BUTTON) Sala de premsa
+       Sala de premsa
+          + Notes de premsa
+          + Opinió dels experts
+          + Recursos per a periodistes
+     * La comunicació a la UB
+
+   (BUTTON)
    (BUTTON)
 
-     * Sobre mí
-     * Servicios
-     * Contacto
+Cerca
 
-Xarxes neuronals
-
-   Por delatorre.ai / junio 7, 2024
-   DALL·E 2024 06 07 09.58.45 A Detailed Scene Representing Various
-   Aspects Of Deep Learning A Complex Neural Network With Multiple Layers
-   Analyzing And Processing Vast Amounts O
-
-1. Concepte
-
-   Les xarxes neuronals són sistemes computacionals inspirats en la xarxa
-   neuronal del cervell humà, compostes per múltiples unitats de
-   processament interconnectades anomenades neurones artificials. Aquestes
-   xarxes són capaces d’aprendre i generalitzar a partir de dades,
-   fent-les útils per a una àmplia gamma de tasques d’intel·ligència
-   artificial.
-
-2. Definició acadèmica precisa
-
-   Les xarxes neuronals són una classe d’algoritmes d’aprenentatge
-   automàtic dissenyats per reconèixer patrons. Es basen en la simulació
-   de la xarxa de neurones del cervell humà, amb neurones artificials
-   organitzades en capes. Cada capa està composta per múltiples neurones
-   que reben senyals d’entrada, les processa mitjançant funcions
-   matemàtiques i transmeten els resultats a la següent capa.
-
-   El funcionament d’una xarxa neuronal comença amb la capa d’entrada, on
-   les dades inicials s’introdueixen al sistema. Aquestes dades passen per
-   una sèrie de capes ocultes, on les neurones calculen pesos i biais per
-   ajustar-se als patrons observats en les dades d’entrenament. Finalment,
-   la capa de sortida proporciona el resultat final de la xarxa, que pot
-   ser una classificació, una regressió o qualsevol altra forma de
-   predicció.
-
-   L’entrenament de xarxes neuronals implica l’ús de l’algoritme de
-   retropropagació, que ajusta els pesos de les connexions internes per
-   minimitzar l’error entre les prediccions de la xarxa i els valors reals
-   observats. Això es fa passant les dades d’entrenament a través de la
-   xarxa i comparant la sortida amb el resultat esperat, calculant l’error
-   i propagant-lo enrere per ajustar els pesos.
-
-   Les xarxes neuronals poden ser de diferents tipus, incloent les xarxes
-   neuronals convolucionals (CNN) utilitzades principalment per al
-   reconeixement d’imatges, i les xarxes neuronals recurrents (RNN)
-   dissenyades per processar dades seqüencials com el text i el llenguatge
-   parlat. Les CNN són especialment efectives en la identificació de
-   patrons visuals en les imatges mitjançant l’ús de convolucions, mentre
-   que les RNN són adequades per a tasques que impliquen dades temporals o
-   seqüencials gràcies a la seva capacitat per mantenir informació en la
-   memòria a curt termini.
-
-   El potencial de les xarxes neuronals és enorme, amb aplicacions que van
-   des del reconeixement de veu i la visió per computadora fins a la
-   traducció automàtica i la predicció financera. A mesura que la
-   capacitat de processament i la disponibilitat de dades continuen
-   augmentant, les xarxes neuronals seguiran sent una eina fonamental en
-   el desenvolupament de solucions d’intel·ligència artificial avançada.
-
-3. Definició simplificada
-
-   Les xarxes neuronals són sistemes computacionals inspirats en el
-   cervell humà, formats per neurones artificials que treballen
-   conjuntament per reconèixer patrons i fer prediccions a partir de
-   dades.
-
-4. Metàfora per entendre-ho
-
-   Les xarxes neuronals són com un equip de detectius que treballen junts
-   per resoldre un cas complex. Cada detectiu (neurona) analitza una pista
-   (dada) i comparteix les seves conclusions amb els altres, ajudant
-   l’equip a trobar la solució final (predicció).
-
-5. Dita catalana relacionada
-
-   Val més saber que haver.
-
-   Aquesta dita significa que el coneixement és més valuós que la
-   possessió material. En el context de les xarxes neuronals, el
-   coneixement que la xarxa adquireix a través de l’entrenament (saber) és
-   més valuós que la simple acumulació de dades (haver), ja que permet fer
-   prediccions i prendre decisions informades.
-     * Termcat: mineria de dades
-
-   Anterior
-
-   Aprenentatge Automàtic (Machine Learning)
-   Siguiente
-
-   Processament del Llenguatge Natural (NLP)
-
-Related Posts
-
-   Intel·ligència Artificial (IA)
-
-Intel·ligència Artificial (IA)
-
-   Conceptes IA / junio 7, 2024
-
-   Aprenentatge Automàtic (Machine Learning)
-
-Aprenentatge Automàtic (Machine Learning)
-
-   Conceptes IA / junio 7, 2024
-
-     * Sobre mí
-     * Blog
-
-   Derechos de autor © 2025 delatorre.ai
-
-   Gestionar consentimiento
-   Para ofrecer las mejores experiencias, utilizamos tecnologías como las
-   cookies para almacenar y/o acceder a la información del dispositivo. El
-   consentimiento de estas tecnologías nos permitirá procesar datos como
-   el comportamiento de navegación o las identificaciones únicas en este
-   sitio. No consentir o retirar el consentimiento, puede afectar
-   negativamente a ciertas características y funciones.
-   Funcional [ ] Funcional Siempre activo
-   El almacenamiento o acceso técnico es estrictamente necesario para el
-   propósito legítimo de permitir el uso de un servicio específico
-   explícitamente solicitado por el abonado o usuario, o con el único
-   propósito de llevar a cabo la transmisión de una comunicación a través
-   de una red de comunicaciones electrónicas.
-   Preferencias [ ] Preferencias
-   El almacenamiento o acceso técnico es necesario para la finalidad
-   legítima de almacenar preferencias no solicitadas por el abonado o
-   usuario.
-   Estadísticas [ ] Estadísticas
-   El almacenamiento o acceso técnico que es utilizado exclusivamente con
-   fines estadísticos. El almacenamiento o acceso técnico que se utiliza
-   exclusivamente con fines estadísticos anónimos. Sin un requerimiento,
-   el cumplimiento voluntario por parte de tu proveedor de servicios de
-   Internet, o los registros adicionales de un tercero, la información
-   almacenada o recuperada sólo para este propósito no se puede utilizar
-   para identificarte.
-   Marketing [ ] Marketing
-   El almacenamiento o acceso técnico es necesario para crear perfiles de
-   usuario para enviar publicidad, o para rastrear al usuario en una web o
-   en varias web con fines de marketing similares.
-     * Administrar opciones
-     * Gestionar los servicios
-     * Gestionar {vendor_count} proveedores
-     * Leer más sobre estos propósitos
-
-   (BUTTON) Aceptar (BUTTON) Denegar (BUTTON) Ver preferencias (BUTTON)
-   Guardar preferencias Ver preferencias
-     * {title}
-     * {title}
-     * {title}
-
-   (BUTTON) Gestionar consentimiento
-
-   Scroll al inicio
-
-   Review Your Cart
-   0
    ____________________
+   Actualitat
    (BUTTON)
 
-   Discount
-   (BUTTON)
-   Add Coupon Code
-   ____________________ (BUTTON) Apply
-   Subtotal
-   Total Installment Payments
-   Bundle Discount
-   Checkout
+     * Notícies
+     * Agenda
+     * Xarxes socials
+     * Sala de premsa (BUTTON) Sala de premsa
+       Sala de premsa
+          + Notes de premsa
+          + Opinió dels experts
+          + Recursos per a periodistes
+     * La comunicació a la UB
+
+    1. Universitat de Barcelona/
+    2. Actualitat/
+    3. Notícies/
+    4. Com recuperen les xarxes neuronals la seva funció després dʼuna
+       pèrdua de neurones?
+
+Com recuperen les xarxes neuronals la seva funció després dʼuna pèrdua de
+neurones?
+
+   Comparteix:
 
 
-   0
+
+   Recerca
+   (18/02/2020)
+
+   Un equip de recerca interdisciplinari liderat per investigadors de la
+   UB ha desenvolupat una nova eina experimental que permet produir un
+   dany en una zona concreta dʼuna xarxa neuronal in vitro de pocs
+   mil·límetres i enregistrar quins efectes té a la xarxa sencera.
+   Lʼobjectiu dʼaquest experiment és entendre els mecanismes de resposta
+   que tenen lloc en els circuits neuronals del cervell i que eviten una
+   propagació general del dany, al mateix temps que restitueixen la
+   funcionalitat dels circuits afectats. Una de les conclusions principals
+   de la recerca és que la xarxa activa ràpidament mecanismes
+   dʼautoregulació que reforcen les connexions existents i restitueixen
+   lʼoperativitat del circuit.
+
+
+
+   Recerca
+   18/02/2020
+
+   Un equip de recerca interdisciplinari liderat per investigadors de la
+   UB ha desenvolupat una nova eina experimental que permet produir un
+   dany en una zona concreta dʼuna xarxa neuronal in vitro de pocs
+   mil·límetres i enregistrar quins efectes té a la xarxa sencera.
+   Lʼobjectiu dʼaquest experiment és entendre els mecanismes de resposta
+   que tenen lloc en els circuits neuronals del cervell i que eviten una
+   propagació general del dany, al mateix temps que restitueixen la
+   funcionalitat dels circuits afectats. Una de les conclusions principals
+   de la recerca és que la xarxa activa ràpidament mecanismes
+   dʼautoregulació que reforcen les connexions existents i restitueixen
+   lʼoperativitat del circuit.
+
+   Lʼestudi, publicat a la revista eNEURO i liderat per Jordi Soriano,
+   investigador de lʼInstitut de Sistemes Complexos de la UB (UBICS),
+   sʼemmarca en una col·laboració interdisciplinària entre lʼUBICS,
+   lʼInstitut de  Neurociències de la UB (UBNeuro), lʼInstitut de Ciències
+   Fotòniques i la Universitat Rovira i Virgili.
+
+   Segons explica Soriano, lʼexperiment mostra la gran capacitat de les
+   xarxes neuronals per «autoregular-se i remodelar-se en resposta a
+   canvis sobtats o alteracions greus». També és un bon exemple de «la
+   importància de modelar xarxes neuronals com a sistemes complexos, on el
+   conjunt és molt més ric que la suma de les seves parts», afegeix.
+
+   El cervell, i en general les xarxes neuronals biològiques, tenen
+   mecanismes de resposta contra la pèrdua de neurones deguda a danys o a
+   malalties. En accidents vasculars cerebrals, per exemple, la pèrdua
+   dʼirrigació sanguínia provoca la mort dʼun grup focalitzat de neurones
+   i una alteració de la funció dels circuits neuronals danyats. Al seu
+   torn, això altera la funció dels circuits veïns, i potencialment es pot
+   iniciar una allau de deteriorament.
+
+   Entendre com actuen aquests mecanismes a nivell de xarxa és molt
+   complicat, tant per la grandària del cervell com per la dificultat
+   intrínseca de seguir en detall lʼevolució dʼun gran nombre de neurones
+   abans i després del dany. Aquesta dificultat es pot superar mitjançant
+   el disseny de models in vitro com el que proposen els investigadors.
+
+   Lʼexperiment ha consistit a enregistrar primer lʼactivitat de tota la
+   xarxa neuronal per establir quina és la seva funcionalitat
+   característica. Després, amb un làser dʼalta potència sʼha eliminat de
+   manera precisa un grup de neurones i, tot seguit, sʼha tornat a
+   enregistrar la xarxa en detall per seguir el seu desenvolupament al
+   llarg del temps.
+
+   Els investigadors han observat que el grup de neurones més pròxim a la
+   zona afectada perd activitat dʼuna manera immediata, però la va
+   recuperant gradualment gràcies a lʼacció de tota la xarxa.
+   «Sorprenentment, en només quinze minuts, aquest grup assoleix nivells
+   dʼactivitat similars als que tenia abans del dany, malgrat haver perdut
+   irreversiblement un nombre significatiu dʼimpulsos provinents de la
+   zona afectada», explica Soriano. «Com que en quinze minuts no hi ha
+   temps per establir connexions noves —detalla lʼinvestigador—, concloem
+   que la xarxa actua tot reforçant les connexions existents, reconduint
+   el flux dʼestímuls neuronals cap als veïns immediats de la zona
+   afectada, evitant-ne el deteriorament i, per tant, un col·lapse
+   progressiu de la xarxa en forma dʼallau».
+
+   Lʼestudi, a més, reforça la importància dels models in vitro com a eina
+   complementària per entendre la complexitat del cervell i les seves
+   alteracions. En aquest context, aquesta recerca sʼintegra dins el
+   projecte europeu MESO-BRAIN, en el qual també participa Jordi Soriano.
+   Lʼobjectiu dʼaquest projecte és dissenyar cultius neuronals model que
+   reprodueixin lʼestructura i la dinàmica de regions cerebrals, per tal
+   dʼestudiar dʼuna manera controlada lʼacció de fàrmacs o teràpies
+   genètiques per al tractament de malalties neurodegeneratives.
+   Referència de lʼarticle:
+   S. Teller, E. Estévez-Priego, C. Granell, D. Tornero, J. Andilla, O. E.
+   Olarte, P. Loza-Álvarez, A. Arenas i J. Soriano. «Spontaneous
+   functional recovery after focal damage in neuronal cultures». eNeuro,
+   febrer de 2020. DOI: 10.1523/ENEURO.0254-19.2019
+
+   (BUTTON) Amagat
+   (BUTTON) ×
+
+   Ves a Universitat de Barcelona
+     * Avís legal
+     * Galetes
+     * Accessibilitat
+     * Contacte
+
+     * Botiga UB
+     * Edicions UB
+     * Lloguer d’espais
+
+     * Seu electrònica
+     * Portal de transparència
+     * Bústia ètica
+
+   La Universitat a les xarxes
+     * Instagram
+     * LinkedIn
+     * Facebook
+     * bluesky
+     * TikTok
+     * YouTube
+     * iVoox
+     * telegram
+     * ubtv
+
+     * Fundadora de la Charm-EU
+     * Membre de la LERU
+     * Membre de la Red Vives
+     * Excel·lència internacional Excel·lència internacional HR
+     * Reconeixement europeu Charter for Higher Education

@@ -1,5 +1,8 @@
-# www.robotstxt.org/
-
-# Allow crawling of all content
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /04-cisoday_ciberseguretat-a-la-cadena-de-subministre/
+Disallow: /wp-content/uploads/_pda/2024/03/04.CISODAY_Ciberseguretat-a-la-cadena-de-subministre.pdf
+

@@ -1,81 +1,70 @@
-     * Inici
-     * Blog d'Audiologia
-     * Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
-
-Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
-
-   Xarxa Neuronal Profunda en Audiòfons: La Innovació d'Oticon
-   Publicat per Claso 10 Jun 0 Comentari(s) 2860 Vist(s) Novetats ,
-   Audiòfons
---
-   En els últims anys, la tecnologia dels audiòfons ha avançat de manera
-   impressionant, i un dels majors avenços ha estat la implementació de
-   xarxes neuronals profundes. Marques com Oticon, líders en el sector de
-   l’audició, estan utilitzant aquesta tecnologia per oferir solucions
-   auditives molt més intel·ligents i precises. Però, què són les xarxes
-   neuronals profundes i com milloren l’experiència dels usuaris
-   d’audiòfons? T’ho expliquem a continuació.
-
-Què és una Xarxa Neuronal Profunda?
-
-   Les xarxes neuronals profundes (DNN, per les seves sigles en anglès)
-   són un tipus d'intel·ligència artificial que imita el funcionament del
-   cervell humà. Estan formades per capes de "neurones" artificials que
+   neuroimatge. Aquesta disciplina analitza el cervell humà des del punt
+   de vista de les connexions entre les seves diferents àrees,
+   identificant així la presència de xarxes neuronals. Tanmateix, és
+   important destacar que la connectòmica no és exclusiva de les
+   neurociències, sinó que s’aplica a qualsevol disciplina que estudiï
 --
 
-   En els audiòfons, aquesta tecnologia s’utilitza per processar sons de
-   manera més eficient i precisa. Les xarxes neuronals poden identificar i
-   distingir sons importants (com les veus) d’aquells que no ho són (com
-   el soroll de fons). A mesura que el dispositiu rep més informació, la
-   xarxa neuronal aprèn a millorar i adaptar-se, oferint una experiència
-   auditiva personalitzada.
+   Per explicar la connectivitat als seus estudiants, el Dr. Cacciaglia
+   acostuma a utilitzar la metàfora de la xarxa del metro de Barcelona, o
+   de qualsevol altra ciutat gran. Observant aquesta xarxa, ens adonem que
+   consta de diferents estacions, on les persones poden pujar o baixar, i
+   per connexions entre les mateixes estacions.
 
-   [red-neuronal-profunda-en-audifonos-la-innovacion-de-oticon-1.jpg]
-
-Com Funciona la Xarxa Neuronal en els Audiòfons?
-
-   Oticon ha implementat xarxes neuronals profundes en els seus audiòfons
-   per millorar el processament del so. Tradicionalment, els audiòfons
-   amplificaven tots els sons per igual, cosa que de vegades resultava en
-   una experiència auditiva poc natural o molesta en entorns sorollosos.
-   Amb la tecnologia de xarxes neuronals, els audiòfons Oticon poden fer
-   molt més que simplement amplificar el so.
-     * Captació del so: L’audiòfon rep el so del seu entorn a través del
+   Perquè la ciutat de Barcelona funcioni de manera eficient, és essencial
+   que la xarxa de metro estigui coordinada i sigui ràpida i segura. De la
+   mateixa manera, el cervell funciona a través d’una xarxa d’àrees
+   cerebrals interconnectades, garantint que la informació es distribueixi
+   de manera efectiva als centres encarregats del seu processament.
 --
-       sons de fons.
+   substància blanca del cervell i són els encarregats de transportar la
+   informació cerebral, exactament com les connexions entre les estacions
+   d’una xarxa de metro.
 
-     * Processament intel·ligent: La xarxa neuronal profunda analitza cada
-       component del so, diferenciant entre el que és rellevant (com una
-       conversa) i el que és soroll (com el so del trànsit o el vent).
+   Els estudis sobre aquesta connectivitat han permès identificar
+--
+   directa entre regions cerebrals. Es basa en la coactivació de múltiples
+   regions durant l’execució de tasques específiques. Entre les principals
+   xarxes funcionals identificades hi ha:
+     * La xarxa neuronal per defecte (default mode network - DMN), que
+       està implicada en l’autorreferencialitat o capacitat
+       d’introspecció, la memòria autobiogràfica i la planificació del
+       futur.
+     * La xarxa frontoparietal, essencial per al control executiu i
+       l’adaptació cognitiva.
+     * La xarxa d’atenció dorsal, que gestiona l’atenció sostinguda i
+       voluntària.
+     * La xarxa d’atenció ventral, que detecta estímuls inesperats o
+       rellevants en l’entorn.
+
+   Un dels descobriments més fascinants en el camp de la neurociència dels
+   darrers 20 anys és que aquestes xarxes funcionals també s’activen en
+   estat de repòs, indicant així que el cervell està configurat per
+   realitzar les seves activitats coordinant i orquestrant totes les àrees
+   que el componen. La Figura 1 mostra les principals xarxes funcionals en
+   estat de repòs.
+
+--
+       gràcies al mesurament de la difusió de les molècules d’aigua dins
+       del cervell. En alguns casos específics, i segons les hipòtesis
+       experimentals, es poden identificar xarxes estructurals fins i tot
+       amb imatges T1, les més convencionals, també mitjançant ressonància
+       magnètica. Podem veure una mostra d’imatges derivades de la tècnica
 --
 
-     * Adaptació en temps real: A mesura que l’audiòfon rep més informació
-       de l’entorn i de l'usuari, la xarxa neuronal s’adapta i millora.
-       Per exemple, en una conversa en una cafeteria sorollosa, l’audiòfon
-       pot reduir el soroll de fons i centrar-se més en la veu de la
+   La connectivitat cerebral és crucial per al funcionament cognitiu.
+   Molts estudis han demostrat que la salut de les xarxes cerebrals afecta
+   la memòria, les funcions executives i l’aprenentatge. Nombroses
+   evidències indiquen que l’estudi de la connectivitat cerebral és
+   rellevant per avançar en el coneixement de la malaltia d’Alzheimer:
+    1. Les persones amb demència a causa de l’Alzheimer presenten
+       alteracions significatives en les xarxes funcionals i estructurals,
+       especialment en la xarxa neuronal per defecte (DMN).
+    2. Aquestes alteracions també són evidents en persones cognitivament
+       sanes amb alteracions fisiopatològiques típiques de l’Alzheimer
 --
-       qualitat auditiva més precisa i còmoda en diferents contextos.
+Com mantenir el cervell en forma?
 
-Beneficis de les Xarxes Neuronals en els Audiòfons
-
-   La implementació de xarxes neuronals profundes porta amb si nombrosos
-   beneficis per a qui utilitza audiòfons:
-     * Major claredat en l’audició: Gràcies a la capacitat de diferenciar
---
-       o reunions, on el soroll de fons pot dificultar la comprensió.
-
-     * Ajust automàtic a l’entorn: Els audiòfons amb xarxes neuronals
-       s’ajusten automàticament a diferents entorns sonors, sense
-       necessitat d’intervenció per part de l’usuari. Això vol dir que no
---
-       oferir una experiència auditiva més còmoda i satisfactòria.
-
-     * Rendiment en temps real: Els audiòfons amb xarxes neuronals
-       profundes no només són més intel·ligents, sinó que també són més
-       ràpids. La capacitat de processar i ajustar el so en temps real
---
-       sense retards ni distorsions.
-
-   Oticon ha estat una de les marques pioneres a integrar xarxes neuronals
-   profundes en els seus audiòfons, i el resultat ha estat una millora
-   significativa en la qualitat de vida dels usuaris. Aquests dispositius
+   Per mantenir les xarxes neuronals en forma i, per tant, la
+   connectivitat cerebral en òptimes condicions, cal fer un enfocament
+   holístic que involucri el cos i la ment:

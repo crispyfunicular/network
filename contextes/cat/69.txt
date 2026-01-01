@@ -1,47 +1,37 @@
-   la col·laboració d'EUROPOL
+   L’operació Serengeti es va dur a terme entre el 2 de setembre i el 31
+   d’octubre del 2024, va abastar 19 països africans. L’objectiu principal
+   va ser desmantellar xarxes criminals involucrades en activitats com ara
+   programari de segrest, compromisos de correu electrònic empresarial,
+   extorsió digital i estafes en línia. L’operació es va centrar a
+   identificar i neutralitzar infraestructures malicioses i xarxes que
+   facilitaven aquestes activitats il·lícites.
 
-Desmantellada una de les xarxes de trànsit de migrants més actives i
-perilloses d'Europa, amb destinació final a Espanya
+   A l’operació es van arrestar 1.006 individus sospitosos de participar
+   en activitats cibernètiques delictives; es van desactivar 134.089
+   infraestructures i xarxes malicioses, amb la qual cosa es va debilitar
+   significativament la capacitat operativa dels cibercriminals, i es van
+   identificar 35.224 víctimes afectades per diverses modalitats de
+--
+   Camerun
 
-   La xarxa criminal operava des d'Espanya, França, Bèlgica i Regne Unit,
-   utilitzant rutes clandestines i vehicles adaptats sense mesures de
-   seguretat per a traslladar a més de 500 migrants, en 68 episodis
---
-   Agents de la Policia Nacional, en una operació conjunta amb la Policia
-   Nacional de França que ha comptat amb la col·laboració d'EUROPOL, han
-   aconseguit la desarticulació d'una de les xarxes criminals de trànsit
-   de migrants irregulars més actives i perilloses d'Europa, la destinació
-   final de les quals era Espanya. Esta organització criminal operava des
---
-   van alertar sobre moviments sospitosos entre Regne Unit, el Marroc,
-   França i *Espa&*ntilde;a, amb un *patr&*oacute;n coincident en rutes
-   utilitzades habitualment per traficants de migrants. La xarxa criminal
-   funcionava amb una estructura *jer&*aacute;*rquica clarament definida,
-   alta mobilitat operativa i una capacitat *log&*iacute;*stica que *le
+   Es va desarticular una xarxa que utilitzava esquemes de màrqueting
+   multinivell per al tràfic de persones, i explotava les víctimes sota
+   l’aparença d’oportunitats d’inversió legítimes.
 --
 
-   Durant la *investigaci&*oacute;n, els agents van detectar l'existència
-   d'una nova ruta utilitzada per esta xarxa, que c*onsist&*iacute;a en
-   l'arribada dels migrants en qualitat de turistes al Regne Unit des del
-   Marroc, utilitzant vols comercials per a facilitar l'accés sense alçar
-   sospites. Després de la seua arribada, abans d'esgotar l'estada regular
-   *all&*iacute;, la xarxa *establec&*iacute;a contacte amb un dels
-   responsables situat a França, qui coordinava el trasllat
-   clandestinament fins a França i després a *Espa&*ntilde;a, ocultant als
+   Per fer-ho, van utilitzar eines avançades d’anàlisi de dades i
+   ciberintel·ligència per rastrejar i desmantellar les xarxes criminals.
+   A més, es van implementar protocols de resposta ràpida per congelar
+   fons il·lícits i prevenir-ne el moviment a través de sistemes financers
 --
-   &*nbsp;
+     * Injecció SQL no autenticada de WebTareas 2.4 mitjançant el
+       paràmetre de galeta de sessió
+     * Com el fet de connectar-te a la xarxa wifi d’un centre comercial
+       pot arruïnar el teu Nadal
 
-   La *desarticulaci&*oacute;n d'esta xarxa ha sigut possible gràcies a
-   l'intercanvi de *informaci&*oacute;n i c*oordinaci&*oacute;n operativa
-   entre cossos policials de *Espa&*ntilde;a i França, as&*iacute; com a
-   la *implicaci&*oacute;n de 100 agents especialitzats. Esta
-   *actuaci&*oacute;n reforça el compromís de la *Polic&*iacute;a Nacional
-   en la lluita contra les xarxes internacionals de tràfic i
-   *tr&*aacute;*fico de persones, especialment en rutes que suposen un
-   greu risc per a la vida humana.
 --
-          + Coneix-nos
-          + Processos selectius
-          + Xarxa Blava
-          + Publicacions
-
+   propòsit legítim de permetre l'ús d'un servei específic sol·licitat
+   explícitament per l'abonat o usuari, o amb l'únic propòsit de dur a
+   terme la transmissió d'una comunicació a través d'una xarxa de
+   comunicacions electròniques .
+   Preferències [ ] Preferències

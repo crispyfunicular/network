@@ -1,8 +1,57 @@
-# START YOAST BLOCK
-# ---------------------------
+
 User-agent: *
 Disallow:
 
-Sitemap: https://madeinperpignan.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://www.aldia.cat/sitemap.xml
+
+Sitemap: https://www.aldia.cat/sitemap_index/
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Mail.Ru
+Disallow: /
+
+User-agent: Freshbot
+Disallow: /
+
+User-agent: IstellaBot
+Disallow: /
+
+User-agent: AhrefsBot 
+Disallow: /
+
+User-agent: trendictionbot  
+Disallow: /
+
+User-agent: sentibot  
+Disallow: /
+
+User-agent: grapeshot
+Crawl-Delay: 5
+
+User-agent: heritrix
+Crawl-Delay: 5
+
+User-agent: MJ12bot
+Crawl-Delay: 5
+
+User-agent: um-IC
+Crawl-Delay: 1
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: Slurp
+Crawl-Delay: 10
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: SeekportBot
+Crawl-delay: 2
+
+User-agent: barkrowler
+Disallow: /
+
+

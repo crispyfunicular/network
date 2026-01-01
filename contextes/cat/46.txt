@@ -1,383 +1,47 @@
-     * 1 Funcionament
-       (BUTTON) Commuta la subsecció Funcionament
-          + 1.1 Disseny i programació d'una xarxa neuronal
-     * 2 Estructura
-       (BUTTON) Commuta la subsecció Estructura
+    1.
+    2. Notícies
+    3. Xarxes Neuronals Profundes amb només una neurona
+
+Cercar a totes les notícies
 --
-          + 5.2 Aprenentatge
-          + 5.3 Tipus d'entrada
-     * 6 Tipus de xarxes neuronals
-       (BUTTON) Commuta la subsecció Tipus de xarxes neuronals
-          + 6.1 Perceptró monocapa
-     * 7 Aplicacions
+   Cercar
+
+Xarxes Neuronals Profundes amb només una neurona
+
+   13 setembre de 2021
+
+   Les xarxes neuronals profundes (DNN) són una eina útil per a una àmplia
+   gamma de tasques, com la classificació d'imatges, la detecció
+   d'objectes, el redimensionament d'imatges o la generació de textos. Són
+   extremadament potents, però requereixen una bona capacitat de càlcul i
+   grans conjunts de dades per entrenar-les. Les xarxes neuronals
+   profundes solen estar formades per múltiples capes de neurones
+   acoblades en arquitectures no recurrents (feed-forward). En aquestes
 --
-   [ ] Commuta la taula de continguts.
-
-Xarxa neuronal artificial
-
-   [ ] 69 llengües
+   Un equip internacional d'investigadors, entre els quals hi ha
+   científics de l’IFISC (UIB-CSIC), ha desenvolupat un enfocament per
+   emular una xarxa neuronal profunda completa emprant només una neurona
+   artificial amb bucles de retard modulats per retroalimentació. La gran
+   xarxa amb molts elements que interactuen se substitueix per un únic
+   element, que representa diferents elements en el temps interactuant amb
+   els seus propis estats endarrerits. El treball s'ha publicat a Nature
 --
-   (BUTTON) mou a la barra lateral (BUTTON) amaga
-   De la Viquipèdia, l'enciclopèdia lliure
-   No s'ha de confondre amb Xarxa neuronal.
-   No s'ha de confondre amb Circuit neuronal.
-   [500px-MultiLayerPerceptron.png] Xarxa neuronal artificial perceptró
-   simple amb 3 neurones d'entrada, 4 neurones en la seva capa oculta i
-   una neurona de sortida.
+   intrínsecament un espai de fases infinit, per la qual cosa una sola
+   neurona amb retroalimentació és suficient per aplegar i capturar tota
+   la complexitat de la xarxa.
 
-   Una xarxa neuronal artificial (XNA), o senzillament xarxa neuronal
-   (XN)^[1] és un paradigma d'aprenentatge i processament automàtic
-   inspirat en la forma en què funciona el sistema nerviós dels animals.
-   Es tracta d'un sistema d'interconnexió de neurones en una xarxa que
-   col·labora per produir un estímul de sortida. Aquest conjunt de
-   neurones artificials interconnectades que utilitza un model matemàtic o
-   computacional de processament de dades basat en una aproximació
-   connexionista per a la computació. Dins l'entorn d'intel·ligència
-   artificial és freqüent referir-se a elles com xarxes de neurones o
-   xarxes neuronals.
-
-   Els investigadors no es posen d'acord a l'hora de definir què és una
-   xarxa neuronal, però la majoria coincideix a dir que es tracta d'una
-   xarxa d'elements de processament relativament simples en què el
-   funcionament global es troba determinat per les connexions entre els
-   elements de processament i els paràmetres d'aquests. La inspiració
-   original de la tècnica es va extraure de l'estudi de les xarxes
-   bioelèctriques del cervell que estan formades per neurones i per les
-   sinapsis d'aquestes (vegeu xarxa neuronal biològica). En un model de
-   xarxa neuronal, els nodes (també anomenats neurones, neurodes, elements
-   de processament o unitats) estan connectats per formar una xarxa de
-   nodes i, per això, s'anomena xarxa neuronal.
-
-Funcionament
+   L'enfocament Fit-DNN és molt útil per a les implementacions de
+   maquinari, en les quals la xarxa neuronal es construeix utilitzant
+   substrats físics. En una DNN típica caldria implementar cada neurona
+   amb un únic element de maquinari (hardware), però, en capturar el
+   comportament de tot el sistema amb una sola neurona, s'elimina la
+   necessitat de construir una xarxa completa. Els autors ho exemplifiquen
+   amb un esquema optoelectrònic. En aquesta mena d'implementació, només
+   es requereix un emissor de llum, a més d'alguns components de
 --
-   [modifica]
+   ja que continua sent necessari un ordinador tradicional.
 
-   Les xarxes neuronals consisteixen en una simulació de les propietats
-   observades en els sistemes neuronals biològics a través de models
-   matemàtics recreats mitjançant mecanismes artificials (com un circuit
---
-   [250px-Computer.Science.AI.Neuron.svg.png] perceptró amb 2 entrades.
-
-   Una xarxa neuronal es compon d'unitats anomenades neurones. Cada
-   neurona rep una sèrie d'entrades a través d'interconnexions i emet una
-   sortida. Aquesta sortida ve donada per tres funcions:
---
-       tangent hiperbòlica (per obtenir valors en l'interval [-1,1]).
-
-Disseny i programació d'una xarxa neuronal
-
-   [modifica]
---
-   formular una solució (programa) mitjançant un algorisme codificat que
-   tingui una sèrie de propietats que permetin resoldre aquest problema.
-   En contraposició, l'aproximació basada en les xarxes neuronals part
-   d'un conjunt de dades d'entrada prou significatiu i l'objectiu és
-   aconseguir que la xarxa aprengui automàticament les propietats
-   desitjades. En aquest sentit, el disseny de la xarxa té menys a veure
-   amb qüestions com els fluxos de dades i la detecció de condicions, i
-   més a veure amb qüestions com ara la selecció del model de xarxa, la de
-   les variables a incorporar i el preprocessament de la informació que
-   formarà el conjunt d'entrenament. Així mateix, el procés pel qual els
-   paràmetres de la xarxa s'adeqüen a la resolució de cada problema no es
-   denomina genèricament programació sinó que se sol anomenar entrenament
-   neuronal.
-
-   Per exemple en una xarxa que s'aplicarà al diagnòstic d'imatges
-   mèdiques; durant la fase d'entrenament el sistema rep imatges de
-   teixits que se sap són cancerígens i teixits que se sap són sans, així
---
-
-   [modifica]
-   [langnone-250px-Multi-Layer_Neural_Network-Vector.svg.png] Una xarxa
-   neuronal és un conjunt de nodes interconectats, paregut al
-   l'extensíssima xarxa de neurones al cervell humà.
-
-   Com el cervell, una xarxa neuronal artificial és un conjunt paral·lel
-   d'unitats de processament petites i simples on les interconnexions
-   constitueixen una gran part de la intel·ligència de la xarxa. No
-   obstant això, les xarxes neuronals artificials són prou diferents del
-   cervell pel que fa a l'estructura. Per exemple, una xarxa neuronal és
-   molt més menuda que el cervell. A més, les unitats utilitzades en una
-   xarxa neuronal són, generalment, molt més simples que les neurones. Tot
-   i això, algunes funcions que semblen exclusives del cervell, com és el
-   cas de l'aprenentatge, s'han reproduït a escala més senzilla en les
-   xarxes neuronals.
-
-   La majoria dels científics coincideixen que una xarxa neuronal és molt
-   diferent en termes d'estructura d'un cervell animal. Igual que el
-   cervell, una xarxa neuronal es compon d'un conjunt massivament
-   paral·lel d'unitats de procés molt simples i és en les connexions entre
-   aquestes unitats on resideix la intel·ligència de la xarxa. No obstant
-   això, en termes d'escala, un cervell és molt més gran que qualsevol
-   xarxa neuronal creada fins a l'actualitat, i les neurones artificials
-   també són més simples que la seva contrapartida animal.
-
---
-   les connexions sinàptiques biològiques es modela mitjançant un
-   mecanisme de pesos , que són ajustats durant la fase d'aprenentatge. En
-   una xarxa neuronal entrenada, el conjunt dels pesos determina el
-   coneixement d'aquesta XNA i té la propietat de resoldre el problema per
-   al qual la xarxa neuronal ha estat entrenada.
-
-   D'altra banda, en una xarxa neuronal, a més dels pesos i les
-   connexions, cada neurona té associada una funció matemàtica anomenada
-   funció de transferència. Aquesta funció genera el senyal de sortida de
---
-   [modifica]
-
-   En una xarxa neuronal típica, cada node funciona gairebé com una
-   neurona biològica. En una neurona biològica, cada sinapsi d'entrada té
-   un pes associat. Quan el pes de cada sinapsi, multiplicat per la seva
-   entrada, se suma a totes les sinapsis entrants i aquesta suma és major
-   que algun «valor llindar», la neurona es dispara i envia un valor a una
-   altra neurona de la xarxa. El node típic d'una xarxa neuronal intenta
-   emular aquest funcionament. Cada node conté un conjunt de línies
-   d'entrada que són anàlogues a les sinapsis d'entrada d'una neurona
---
-   l'entrada sumada és major que algun valor, però si això no es produeix,
-   generarà un valor «0». No obstant això, les funcions d'activació no
-   sempre són tan senzilles. De fet, per crear xarxes que puguen realitzar
-   una tasca útil, les funcions d'activació quasi sempre han de ser més
-   complexes per a, almenys, alguns dels nodes de la xarxa.
-
-   Una xarxa neuronal feedforward, un dels tipus de xarxes neuronals més
-   comuns, està formada per un conjunt de nodes i connexions. Aquests
-   nodes s'organitzen en capes. Generalment, les connexions es formen
---
-   determinada capa estan connectats a tots els nodes de la següent.
-
-   Normalment, en una xarxa neuronal feedforward hi ha almenys tres capes:
-   una capa d'entrada, una capa oculta i una capa de sortida. La capa
-   d'entrada no processa res, ja que és en aquesta on el vector de dades
-   alimenta la xarxa. Així doncs, la capa d'entrada alimenta la capa
-   oculta i aquesta, al seu torn, alimenta la capa de sortida. El
-   processament real de la xarxa té lloc en els nodes de la capa oculta i
-   de la capa de sortida.
-
-   Quan un nombre suficient de neurones estan connectades en capes, la
-   xarxa es pot «entrenar» per fer tasques útils usant un algorisme
-   d'entrenament. Les xarxes feedforward, en concret, si estan entrenades
-   apropiadament, són molts útils per fer tasques intel·ligents de
-   classificació o d'identificació d'informació desconeguda.
---
-
-   La corba sigmoïdal sovint s'utilitza com a funció de transferència
-   perquè aquesta introdueix no-linealitat en els càlculs de la xarxa en
-   delimitar el nivell d'activació de la neurona a un interval [0,1]. La
-   funció sigmoïdal compta amb l'avantatge addicional de tenir una funció
-   derivable molt simple, tal com cal per retropropagar els errors a
-   través d'una xarxa neuronal feedforward. A més, poden utilitzar-se
-   altres funcions amb característiques semblants. Majoritàriament, s'usa
-   la funció tanh que delimita les activacions en l'interval [-1, 1]
---
-   d'activació de les neurones
-
-   Si no s'introdueix no-linealitat que la delimita o la talla, la xarxa
-   perd gran part del seu poder computacional i es converteix en una
-   senzilla operació de multiplicació de matrius de l'àlgebra lineal.
-
-   Altres models de càlculs alternatius de les xarxes neuronals inclouen
-   models amb bucles en què s'utilitzen processos amb retard i models el
-   guanyador s'ho emporta tot on la neurona amb el major valor de càlcul
-   pren un valor 1 i totes les altres neurones prenen el valor 0.
-
-   Normalment, els pesos d'una xarxa neuronal s'inicien en uns valors
-   aleatoris baixos. Açò mostra que la xarxa no té cap mena de
-   coneixement; la seua sortida és, bàsicament, una funció aleatòria de
-   l'entrada. A mesura que el procés d'entrenament avança, els pesos de
---
-   s'utilitza. Finalment, els pesos ideals convergeixen en uns valors que
-   els permeten realitzar un càlcul útil. Es pot dir que, al començament,
-   les xarxes neuronals no tenen cap mena de coneixement i tracten
-   d'obtenir algun tipus de coneixement real, encara que aquest és
-   subsimbòlic.
---
-   [modifica]
-
-   Les xarxes neuronals artificials tenen molts avantatges pel fet que
-   estan basades en l'estructura del sistema nerviós, principalment el
-   cervell.
-     * Aprenentatge : Les xarxa neuronals tenen l'habilitat d'aprendre
-       mitjançant una etapa que s'anomena etapa d'aprenentatge . Aquesta
-       consisteix a proporcionar a la xarxa neuronal dades com a entrada
-       al seu torn que se li indica quina és la sortida (resposta)
-       esperada.
-     * Auto organització : Una xarxa neuronal crea la seva pròpia
-       representació de la informació al seu interior, descarregant
-       l'usuari d'això.
-     * Tolerància a fallades : Atès que una xarxa neuronal emmagatzema la
-       informació de forma redundant, aquesta pot seguir responent de
-       manera acceptable fins i tot si es fa malbé parcialment.
-     * Flexibilitat : Una xarxa neuronal pot gestionar canvis no
-       importants en la informació d'entrada, com a senyals amb soroll o
-       altres canvis en l'entrada (ex. si la informació d'entrada és la
---
-       la imatge canvia una mica la seva brillantor o l'objecte canvia
-       lleugerament)
-     * Temps real : L'estructura d'una xarxa neuronal és paral·lela, per
-       la qual cosa si això és implementat amb ordinadors o en dispositius
-       electrònics especials, es poden obtenir respostes en temps real.
---
-   [modifica]
-
-   Les xarxes neuronals artificials són especialment útils per a tractar
-   amb dades de nombres reals limitats en què cal una sortida amb valor
-   real. D'aquesta manera, les xarxes neuronals realitzaran una
-   classificació per nivells i són capaces d'expressar valors equivalents
-   a no segur. Si la xarxa neuronal s'entrena utilitzant la funció d'error
-   d'entropia creuada (vegeu l'obra Neural Networks for Pattern
-   Recognition, escrita per Christopher M. Bishop) i la sortida de la
-   xarxa és sigmoïdal, aleshores les sortides seran estimacions de la
-   vertadera probabilitat posterior d'una classe.
-
---
-   [modifica]
-
-   En la vida real, les xarxes neuronals realitzen especialment bé les
-   següents tasques de Classificació i Reconeixement de patrons
-
-   Altres tipus de xarxes neuronals i, en especial, les xarxes neuronals
-   recurrents de temps continu s'utilitzen en combinació amb els
-   algorismes genètics (AG) per produir controladors per a robots. El
-   genoma està constituït pels paràmetres de les xarxes i la idoneïtat
-   d'una xarxa és l'adequació del funcionament mostrat pel robot controlat
-   (o sovint per una simulació d'aquest funcionament). No obstant això,
-   també pot utilitzar-se per al reconeixement d'iris.
---
-   [modifica]
-
-   Una primera classificació de les xarxes de neurones artificials que se
-   sol fer és en funció del patró de connexions que presenta. Així es
-   defineixen tres tipus bàsics de xarxes:
-     * Dos tipus de xarxes de propagació cap endavant o acícliques en què
-       tots els senyals van des de la capa d'entrada cap a la sortida
-       sense existir cicles, ni connexions entre neurones de la mateixa
---
-          + Monocapa. Exemples: perceptró, Adaline.
-          + Multicapa. Exemples: perceptró multicapa.
-     * Les xarxes recurrents que presenten almenys un cicle tancat
-       d'activació neuronal. Exemples: Elman, Hopfield, màquina de
-       Boltzmann.
---
-     * Aprenentatge supervisat: necessiten un conjunt de dades d'entrada
-       prèviament classificat o la resposta objectiu es coneix. Exemples
-       d'aquest tipus de xarxes són: el perceptró simple, la xarxa
-       Adaline, el perceptró multicapa i la memòria associativa
-       bidireccional.
-     * Aprenentatge no supervisat o autoorganitzat: no necessiten tal
-       conjunt previ. Exemples d'aquest tipus de xarxes són: les memòries
-       associatives, les xarxes de Hopfield, la màquina de Boltzmann i la
-       màquina de Cauchy, les xarxes d'aprenentatge competitiu, les xarxes
-       de Kohonen o mapes autoorganitzats i les xarxes de ressonància
-       adaptativa (ART)
-     * Xarxes híbrides: són un enfocament mixt en el qual s'utilitza una
-       funció de millora per facilitar la convergència. Un exemple
-       d'aquest últim tipus són les xarxes de base radial.
-     * Aprenentatge reforçat: se situa a mig camí entre el supervisat i
-       l'autoorganitzat.
---
-   Finalment també es poden classificar les XNAs segons siguin capaces de
-   processar informació de diferent tipus a:
-     * Xarxes analògiques: processen dades d'entrada amb valors continus
-       i, habitualment, acotats. Exemples d'aquest tipus de xarxes són:
-       Hopfield, Kohonen i les xarxes d'aprenentatge competitiu.
-     * Xarxes discretes: processen dades d'entrada de naturalesa discreta;
-       habitualment valors lògics booleans. Exemples d'aquest segon tipus
-       de xarxes són: les màquines de Boltzmann i Cauchy, i la xarxa
-       discreta de Hopfield.
-
-Tipus de xarxes neuronals
-
-   [modifica]
---
-     * Màquina de Cauchy
-     * Propagació cap enrere Propagació cap enrere (backpropagation)
-     * Xarxes de Elman
-     * Xarxes de Hopfield
-     * Xarxa de contrapropagació
-     * Xarxes de neurones de base radial
-     * Xarxes de neurones d'aprenentatge competitiu
-     * Mapa autoorganitzat (Xarxes de Kohonen)
-     * Creixement dinàmic de cèl·lules
-     * Gas neuronal creixent
-     * Xarxes ART ( Adaptative Resonance Theory )
-
-Perceptró monocapa
---
-   entrades
-
-   El primer tipus de xarxa neuronal és el perceptró monocapa, format per
-   una sola capa de nodes de sortida. Les entrades alimenten directament
-   les sortides a través d'una sèrie de pesos, per això aquest pot
-   considerar-se el tipus més senzill de xarxa feedforward. La suma dels
-   productes dels pesos i de les entrades es calcula en cada node i, si el
-   valor està per sobre un llindar (normalment el 0), la neurona es
---
-   McCulloch-Pitts o neurones de llindar, descrites als anys 40 per Warren
-   McCulloch i Walter Pitts. En els textos especialitzats, el terme
-   perceptró sol fer referència a les xarxes que consten només d'una
-   d'aquestes unitats.
-
---
-   activat o del desactivat, sempre que el valor del llindar estiga entre
-   els dos*. La major part dels perceptrons tenen sortides d'1 o de -1 amb
-   un llindar de 0. A més, hi ha proves que a aquestes xarxes se'ls pot
-   entrenar més ràpidament que a les xarxes creades per nodes amb valors
-   d'activació i de desactivació diferents. Es pot emprar un algorisme
-   simple d'aprenentatge, generalment anomenat regla delta, per entrenar
---
-
-   També es poden utilitzar quan no hi ha models matemàtics necessaris o
-   algorismes amb complexitat raonable, per exemple la xarxa de Kohonen ha
-   estat aplicada amb un èxit més que raonable al clàssic problema del
-   viatjant (un problema per al qual no es coneix solució algorísmica de
-   complexitat polinòmica).
-
-   Un altre tipus especial de xarxes neuronals artificials s'ha aplicat en
-   conjunció amb els algoritmes genètics (AG) per crear controladors per
-   robots. La disciplina que tracta l'evolució de xarxes neuronals
-   mitjançant algoritmes genètics s'anomena robòtica evolutiva. En aquest
-   tipus d'aplicació el genoma de l'AG el constitueixen els paràmetres de
-   la xarxa (topologia, algorisme d'aprenentatge, funcions d'activació,
-   etc.) I l'adequació de la xarxa ve donada per l'adequació del
-   comportament exhibit pel robot controlat (normalment una simulació
-   d'aquest comportament)
---
-
-   Un bot és un programa que simula un jugador humà. El Neuralbot és un
-   bot per al joc Quake II que utilitza una xarxa neuronal artificial per
-   decidir el seu comportament i un algorisme genètic per a
-   l'aprenentatge. És molt fàcil provar per veure la seva evolució.^[2]
---
-   reconeixement de patrons i la predicció del temps. De totes maneres,
-   l'humà té capacitat per al reconeixement de patrons, però la capacitat
-   de les xarxes neuronals no es veu afectada per la fatiga, condicions de
-   treball, estat emocional, i compensacions.
-
---
-
-   [modifica]
-    1. ↑ «xarxa neuronal». Cercaterm. TERMCAT, Centre de Terminologia.
-       [Consulta: 31 octubre 2023].
-    2. ↑ ^[enllaç sense format]
---
-           Commons CommonsCommons (Categoria) Modifica el valor a Wikidata
-
-     * Introducció a les xarxes de neurones artificials (castellà)
-     * Web sobre xarxes neuronals artificials, exemples i aplicacions
-
-   (castellà)
---
-
-   Obtingut de
-   «https://ca.wikipedia.org/w/index.php?title=Xarxa_neuronal_artificial&o
-   ldid=36350668»
-   Categories:
-     * Xarxes neuronals artificials
-     * Aprenentatge automàtic
-
---
-
-   [ ] Commuta la taula de continguts.
-   Xarxa neuronal artificial
-   (BUTTON) 69 llengües Afegeix un tema
+   Les Fit-DNN proporcionen una visió alternativa de les xarxes neuronals:
+   tota la complexitat topològica de les xarxes neuronals multicapa no
+   recurrents pot plegar-se al domini temporal mitjançant l'arquitectura
+   de bucle de retard.

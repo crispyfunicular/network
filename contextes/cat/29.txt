@@ -1,38 +1,19 @@
-     * Se connecter
+     * El Vendrell per temes
 
-Fichier:Xarxa ferroviària estàndard de Catalunya.svg
+   IniciMou-te en transport públicXarxa ferroviària
 
-   [ ] Ajouter des langues
+Xarxa ferroviària
+
+   El municipi del Vendrell disposa de dues estacions de tren. Els serveis
 --
-     * Usage global du fichier
+   Sistema tarifari integrat
 
-   Fichier:Xarxa ferroviària estàndard de Catalunya.svg
-   Taille de cet aperçu PNG pour ce fichier SVG : 617 × 599 pixels. Autres
-   résolutions : 247 × 240 pixels | 494 × 480 pixels | 791 × 768 pixels |
---
-Description
-
-   DescriptionXarxa ferroviària estàndard de Catalunya.svg
-   English: Standard gauge rail of Catalonia:
-   Madrid–Zaragoza–Barcelona–French border HSL, Eix Transversal Ferroviari
-   and Barcelona-Vallès Line.
-   Català: Xarxa ferroviària estàndard de Catalunya: LAV Madrid -
-   Saragossa - Barcelona - Frontera Francesa, Eix Transversal Ferroviari i
-   Línia Barcelona-Vallès.
---
-   |Description={{en|1=Standard gauge rail of Catalonia:
-   Madrid–Zaragoza–Barcelona–French border HSL, Eix Transversal Ferroviari
-   and Barcelona-Vallès Line.}} {{ca|1=Xarxa ferroviària estàndard de
-   Catalunya: LAV Madrid - Saragossa - Bar
+   ATM Tarragona: Tarifes - Xarxa de venda i recàrrega de títols de
+   transport
 
 --
-
-   Ce document provient de
-   « https://fr.wikipedia.org/wiki/Fichier:Xarxa_ferroviària_estàndard_de_
-   Catalunya.svg ».
-
---
-   ____________________
-   (BUTTON) Rechercher
-   Fichier:Xarxa ferroviària estàndard de Catalunya.svg
-   Ajouter un sujet
+          + Transport públic urbà del Vendrell
+          + Línies d’autobús interurbanes
+          + Xarxa ferroviària
+          + Taxis urbans
+          + Terminal d’autobusos del Vendrell

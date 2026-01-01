@@ -1,5 +1,134 @@
+   Aquest web ja no és operatiu. Accediu a www.icgc.cat
+   Home  >   Home CCCC  >   Official geoinformation (CPC)  >   Grup I - 7.
+   Xarxes de transport
 
-Ferroviària mostra incidències i horaris en temps real amb una anàlisi
-contínua de la xarxa
+   [Home]
 
-Més i millor informació
+Grup I - 7. Xarxes de transport
+
+   Xarxes de carreteres, ferrocarril, transport aeri i vies navegables,
+   amb les seves corresponents infraestructures. S’inclouran les
+   connexions entre xarxes diferents. S’inclourà també la xarxa
+   transeuropea de transport, segons la definició de la Decisió nº
+   1692/96/CE del Parlament Europeu i del Consell, de 23 de juliol de
+   1996, sobre les orientacions comunitàries per al desenvolupament de la
+   xarxa transeuropea de transport i de les futures revisions d’aquesta
+   decisió.
+
+--
+Conjunts d'informació inclosos en aquest grup:
+
+   10701 Xarxa de transport per carreteres
+
+   10702 Xarxa de transport ferroviari
+
+   10703 Xarxa de transport marítim
+
+   10704 Xarxa de transport aeri
+
+   10705 Xarxa de camins
+
+   10706 Sistema viari integrat
+
+   10707 Xarxa de monitorització del trànsit
+
+   Visualitzeu la informació
+--
+
+
+XARXA DE TRANSPORT PER CARRETERES
+
+
+--
+DENOMINACIÓ
+
+   Xarxa de transport per carreteres
+
+DESCRIPCIÓ
+
+   Inventari de les infraestructures i serveis associats de la xarxa de
+   transport per carretera de béns i passatgers. Inclou la localització,
+   el traçat i les característiques dels elements que integren la xarxa;
+   els fluxos i rutes de transport de mercaderies i passatgers; les
+   infraestructures nodals bàsiques; els pk; la nomenclatura i la
+   classificació funcional; l'estat de la xarxa i la intensitat de
+   trànsit.
+
+--
+
+
+XARXA DE TRANSPORT FERROVIARI
+
+
+--
+DENOMINACIÓ
+
+   Xarxa de transport ferroviari
+
+DESCRIPCIÓ
+
+   Inventari de les infraestructures i serveis associats de la xarxa de
+   transport per ferrocarril de béns i passatgers. Inclou la localització,
+   el traçat i les característiques dels elements que integren la xarxa;
+   els fluxos i rutes de transport de mercaderies i passatgers; les
+   infraestructures nodals bàsiques; l'estat de la xarxa i la intensitat
+   de trànsit.
+
+--
+1. Direcció General de Transports i Mobilitat
+
+Accés a les dades: xarxa ferroviària
+
+Accés a les especificacions
+--
+
+
+XARXA DE TRANSPORT MARÍTIM
+
+
+--
+DENOMINACIÓ
+
+   Xarxa de transport marítim
+
+DESCRIPCIÓ
+--
+
+
+XARXA DE TRANSPORT AERI
+
+
+--
+DENOMINACIÓ
+
+   Xarxa de transport aeri
+
+DESCRIPCIÓ
+--
+
+
+XARXA DE CAMINS
+
+
+--
+DENOMINACIÓ
+
+   Xarxa de camins
+
+DESCRIPCIÓ
+--
+
+
+XARXA DE MONITORITZACIÓ DEL TRÀNSIT
+
+
+--
+DENOMINACIÓ
+
+   Xarxa de monitorització del trànsit
+
+DESCRIPCIÓ
+
+   Dades d'informació i seguretat viàries: xarxa de radars, estat del
+   trànsit i indicències viàries.
+

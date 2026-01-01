@@ -1,62 +1,89 @@
-    1. El document planteja actuacions per facilitar la intermodalitat amb
-       altres modes de transport, millorar la informació i l’atenció als
-       usuaris i maximitzar la xarxa
+Més sobre un pla ferroviari propi
 
-   El Govern ha aprovat l’Estratègia Ferroviària de Catalunya (EFC) per
---
-   canvis en la normativa europea.
+Xarxa en forma de malla per a Catalunya
 
-   També de l’increment de quilometratge de la xarxa que, de tenir poc més
-   de 1500 quilòmetres l’any 2001, ha passat a 2050 quilòmetres a 31 de
-   desembre del 2024. I, sobretot, la inversió ferroviària en aquest
+   A Catalunya podem aspirar a tenir una xarxa de ferrocarril equiparable
+   a països com Suïssa o Àustria, amb una orografia més complexa que la
+   nostra. Les nostres propostes recullen actuacions de millora per a la
+   xarxa ferroviària de Catalunya, per ordre de necessitat: primer, per
+   evitar un major deteriorament del sistema, i després, per convertir el
+   ferrocarril en el mitjà de transport preferent dels catalans i per
 --
-       l’accessibilitat i l’atenció i la informació als usuaris.
-    4. Planificar un sistema competitiu i eficient de serveis ferroviaris
-       coordinant les diferents xarxes existents i facilitant l’intercanvi
-       modal amb el transport per carretera i amb els modes amables de
-       mobilitat.
+     * 4. Manteniment
+     * 5. Nou paradigma de transport a Catalunya
+     * 6. Integració real de les xarxes existents
+     * 7. Racionalització
+     * 8. Ampliació de la xarxa
+     * 9. Integració a les poblacions
+     * 10. Qualitat
 --
+   gestionar-se i funcionar per separat. Però hi ha coses que es poden fer
+   des del Govern de Catalunya i no s'han fet, en nom de solucionar-ho
+   quan fossim independents i controléssim la nostra xarxa de trens.
 
-   Per avançar en la planificació i programació de serveis i
-   infraestructures que permetin millorar i integrar millor la xarxa i
-   augmentar el nivell de servei, la fiabilitat i la seguretat del
-   sistema, inclou com a instruments:
---
-    5. Altres inversions estratègiques per a la conformació del sistema,
-       com ara la construcció de tallers, l’adquisició de material rodant
-       i les mesures per afavorir la interoperativitat de la xarxa.
+3. Millores urgents en seguretat.
 
-Intermodalitat amb altres mitjans de transport
---
-   efectuar un desplaçament de persones o un transport de mercaderies.
+   Tenim segments sencers de la xarxa sense comunicacions adequades per
+   als maquinistes, senyalització que no funciona o que deixa de funcionar
+   pel més mínim sabotatge i sistemes de control antiquats o inexistents.
+   Són necessaris nous sistemes redundants de comunicació, control,
+   senyalització i barreres a tots els passos a nivell del país. Cal
+   implementar l’estàndard ETCS a tota la xarxa.
 
-   La maximització de la xarxa és una altra línia estratègica del
-   document, amb mesures com l’increment de la capacitat dels túnels
-   urbans de Barcelona, la implantació de sistemes de conducció avançats,
+4. Millores en manteniment.
 --
-   o 10 milions d’habitants. Aquest previsible increment de població
-   comporta un increment general de la mobilitat. En conseqüència, els
-   serveis de transports i la xarxa d’infraestructures de transport de
-   Catalunya hauran d’acollir un nombre de desplaçaments substancialment
-   més alt.
+   guanyar-se el vot dels veïns, quan la decisió sobre agafar o no el tren
+   no depèn de la proximitat de l'estació sinó de quant triga a arribar a
+   destí. La xarxa de transport públic d'un país ha de procurar que a la
+   gent li surti a compte agafar-lo. I generalment això passa quan li
+   permet arribar a destí abans que amb cotxe o amb molt poca diferència
 --
-   718 milions de viatges corresponen a l’ATM de l’àrea de Barcelona.
+   km/h sense problemes sempre i quan la via estigui ben construïda.
 
-   A Catalunya hi ha quatre xarxes ferroviàries que conformen un sistema,
-   però no són interoperables:
-    1. La xarxa ferroviària d’interès general, actualment gestionada per
-       Adif.
-    2. La xarxa de Ferrocarrils de la Generalitat de Catalunya (FGC),
-       composta per tres subxarxes: línia del Vallès, línia
-       Llobregat-Anoia, i línia Lleida - La Pobla de Segur.
-    3. El metro de Barcelona, gestionat per l’empresa TMB, amb vuit línies
-       independents.
-    4. El tramvia, amb les seves dues xarxes: Trambaix i Trambesòs.
-
-   1
+   Per a accelerar el trànsit a la xarxa cal fer una distinció clara entre
+   el transport local, el regional i l’interregional. Per exemple, és
+   absurd que un mateix tren porti passatgers de forma directa de Sils a
 --
-   (BUTTON)
+   l’antiga R4.
 
-   El Govern a les xarxes
-   undefined
-   undefined
+6. Integració real de les xarxes existents.
+
+   Per a poder seguir aplicant el nou paradigma del punt anterior, és
+   imprescindible homogeneïtzar tota la xarxa catalana i fer-la 100%
+   intercompatible. Com a primer pas, imprescindible i fonamental, els FGC
+   del Vallès han d’entrar a Sants des del Baixador de Vallvidrera sota el
+--
+   creuen amb la Renfe a l’Hospitalet de Llobregat (Av. Carrilet amb
+   Rosalia de Castro). Fet això, Sants es convertirà en l’estació
+   principal de Barcelona i finalment estaran les xarxes integrades des
+   del punt de vista de l’usuari. Per a integrar les xarxes des del punt
+   de vista del material rodant, necessitem tenir un únic ample de via i
+   un únic voltatge de catenària. Els estàndards europeus son els que hi
+   ha instal·lats a les vies d’alta velocitat, per tant s’ha de canviar la
+   FGC Llobregat (1000 mm, 1,5 kV DC) i tota la xarxa ADIF-convencional
+   (1668 mm, 3 kV DC) a ample i voltatge europeu (1435 mm i 25 kV AC). A
+   més, cal canviar l’electrificació FGC Vallès a 25 kV AC. Requereix
+--
+7. Racionalització.
+
+   Reduir el cost de l’actual xarxa d’estacions convertint-ne a baixadors
+   de transport local i mantenint-ne només una com a estació a cada
+   població. Per posar un exemple, Barcelona, Sant Cugat, Terrassa,
+--
+   el mateix estalvi que hauria de suposar.
+
+8. Ampliació de la xarxa.
+
+Infraestructura ferroviària principalment de mercaderies
+--
+   Es tracta d’acabar el traçar que portaria a L4 a les dues estacions de
+   Rodalies de La Sagrera. Milloraria la connectivitat de la L4 amb la
+   xarxa de Rodalies, una línia actualment amb un intercanviador i poc
+   eficient (Passeig de Gràcia). Es preveu també en una segona fase
+   millorar l’intercanviador de Passeig de Gràcia, orientant els
+--
+   El tram central de la L9/L10 s’ha d’acabar, actualment el comparteix la
+   línia H6 de bus, una de les més saturades i amb més passatge de tota la
+   xarxa de bus.
+
+   5. L11 Trinitat Nova - Terrassa

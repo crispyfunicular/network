@@ -1,5 +1,5 @@
-User-agent: * 
-Disallow: /admin/  
-Disallow: /api/  
-Allow: /  
-Sitemap: https://www.rtva.ad/sitemap/sitemap.xml
+User-agent: *
+Disallow: /api/
+
+Sitemap: https://www.apuntmedia.es/sitemap_index_9a24b.xml
+Sitemap: https://www.apuntmedia.es/sitemap_google_news_9a24b.xml

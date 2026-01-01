@@ -1,5 +1,133 @@
+#ROBOTS.TXT por visibilidadon agencia de SEO
+#WORDPRESS
+
 User-agent: *
-Disallow: /wp-admin/
+Allow: /wp-content/uploads/*
+Allow: /wp-content/*.js
+Allow: /wp-content/*.css
+Allow: /wp-includes/*.js
+Allow: /wp-includes/*.css
 Allow: /wp-admin/admin-ajax.php
 
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+Disallow: /cgi-bin
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-includes/
+Disallow: /*/attachment/
+Disallow: /tag/
+Disallow: /comments/
+Disallow: /xmlrpc.php
+Disallow: /?attachment_id*
+
+# Bloqueo de las URL dinamicas
+Disallow: /*?
+Disallow: /*.html$
+
+# Bloqueo de adjuntos no deseados
+Disallow: /wp-content/uploads/*/*.pdf$
+Disallow: /wp-content/uploads/*/*.doc$
+Disallow: /wp-content/uploads/*/*.zip$
+
+#Bloqueo de busquedas
+User-agent: *
+Disallow: /?s=
+Disallow: /search
+
+
+# Bloqueo de trackbacks
+User-agent: *
+Disallow: /trackback
+Disallow: /*trackback
+Disallow: /*trackback*
+Disallow: /*/trackback
+
+# Bloqueo de feeds para crawlers
+User-agent: *
+Allow: /feed/$
+Disallow: /feed/
+Disallow: /comments/feed/
+Disallow: /*/feed/$
+Disallow: /*/feed/rss/$
+Disallow: /*/trackback/$
+Disallow: /*/*/feed/$
+Disallow: /*/*/feed/rss/$
+Disallow: /*/*/trackback/$
+Disallow: /*/*/*/feed/$
+Disallow: /*/*/*/feed/rss/$
+Disallow: /*/*/*/trackback/$
+
+# Bloqueo de bots y crawlers poco utiles
+User-agent: MSIECrawler
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: Microsoft.URL.Control
+Disallow: /
+User-agent: libwww
+Disallow: /
+User-agent: Orthogaffe
+Disallow: /
+User-agent: UbiCrawler
+Disallow: /
+User-agent: DOC
+Disallow: /
+User-agent: Zao
+Disallow: /
+User-agent: sitecheck.internetseer.com
+Disallow: /
+User-agent: Zealbot
+Disallow: /
+User-agent: MSIECrawler
+Disallow: /
+User-agent: SiteSnagger
+Disallow: /
+User-agent: WebStripper
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: Fetch
+Disallow: /
+User-agent: Offline Explorer
+Disallow: /
+User-agent: Teleport
+Disallow: /
+User-agent: TeleportPro
+Disallow: /
+User-agent: WebZIP
+Disallow: /
+User-agent: linko
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: Microsoft.URL.Control
+Disallow: /
+User-agent: Xenu
+Disallow: /
+User-agent: larbin
+Disallow: /
+User-agent: libwww
+Disallow: /
+User-agent: ZyBORG
+Disallow: /
+User-agent: Download Ninja
+Disallow: /
+User-agent: wget
+Disallow: /
+User-agent: grub-client
+Disallow: /
+User-agent: k2spider
+Disallow: /
+User-agent: NPBot
+Disallow: /
+User-agent: WebReaper
+Disallow: /
+
+# Sitemap General
+Sitemap: https://www.masferriol.com/sitemap_index.xml
+
+#Otros Sitemaps
+Sitemap: https://www.masferriol.com/post-sitemap.xml
+Sitemap: https://www.masferriol.com/page-sitemap.xml
+Sitemap: https://www.masferriol.com/category-sitemap.xml
