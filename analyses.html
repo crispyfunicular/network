@@ -1,297 +1,239 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Projet Réseau</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <head>
+        <meta charset="UTF-8">
+        <title>Projet Réseau</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <script src="https://kit.fontawesome.com/b0d5fca4a5.js" crossorigin="anonymous"></script>
+    </head>
 
-    <!-- Chargement de Font Awesome pour afficher des icônes GitHub (reference : https://fontawesome.com/icons) -->
-    <script src="https://kit.fontawesome.com/b0d5fca4a5.js" crossorigin="anonymous"></script>
-</head>
+    <body>
 
-<body>
-
-<!-- 1. Barre de navigation (en haut de la page) -->
-<nav class="navbar is-white has-shadow">
-        <!--
-        nav : balise sémantique représentant une zone de navigation
-        class="navbar" : composant de barre de navigation Bulma
-        is-white : fond blanc
-        has-shadow : ombre légère en bas
-        -->
-
-    <div class="container">
-    <!--container : conteneur centré de Bulma, limite la largeur maximale du contenu -->
-
-        <div class="navbar-brand">
-        <!-- navbar-brand : zone en haut à gauche (logo / nom du projet) -->
-
-            <a class="navbar-item" href="index.html">
-            <!-- navbar-item :élément cliquable de la barre de navigation, ici, lien vers la page d’accueil -->
-                <strong class="is-size-5">RÉSEAU</strong>
-            </a>
-        </div>
-
-        <div class="navbar-menu">
-        <!-- navbar-menu : zone contenant les menus et sous-menus -->
-
-            <div class="navbar-start">
-            <!-- navbar-start : partie gauche de la barre de navigation -->
-                
-                <!-- Menu : accueil   -->
-                <div class="navbar-item">
-                    <a class="navbar-item" href="index.html">Accueil</a>
-                </div>
-
-                <!-- Menu : prq ce mot？ on met la raison et hypothese.  -->
-                <div class="navbar-item">
-                    <a class="navbar-item" href="pourquoi.html">Pourquoi ce mot ?</a>
-                </div>
-
-
-                <!-- Menu déroulant : Tableaux -->
-                <div class="navbar-item has-dropdown is-hoverable">
-                <!--
-                has-dropdown : menu avec sous-menu
-                is-hoverable : s’ouvre au survol de la souris
-                -->
-
-                    <a class="navbar-link">Tableaux</a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item" href="tableaux/tableaux_zh.html">
-                            Mandarin (ZH)
-                        </a>
-                        <a class="navbar-item" href="tableaux/espagnol.html">
-                            Espagnol (ES)
-                        </a>
-                        <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
-                            Catalan (CAT)
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Menu déroulant : Scripts 
-                 ou on peut créer 3 page html présentant l'idée / utilisation de notre script 
-                 ou on peut créer 3 readme.md dans les sousdossiers présentant l'idée / utilisation de notre script -->
-                <div class="navbar-item has-dropdown is-hoverable">
-                    
-                    <a class="navbar-link">Scripts</a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item"
-                           href="https://github.com/crispyfunicular/network/tree/main/programmes/zh_prog">
-                            Mandarin (ZH)
-                        </a>
-                        <a class="navbar-item" href="tableaux/espagnol.html">
-                            Espagnol (ES)
-                        </a>
-                        <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
-                            Catalan (CAT)
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Menu : Analyses  -->
-                 <div class="navbar-item">
-                    <a class="navbar-item" href="pourquoi.html">Analyses</a>
-                </div>
-                        <!--PROPOSITION:
-                            Créez une nouvelle page Web ensemble stocké 
-                            où chacun effectue sa propre analyse et analyse/conclusion ensemble si vous voulez, 
-                            puis ajoutez ce lien à cette page Web.-->
-                        <!--Dans ce page Web analyse, on peut ajouter les hyperlien(comme ci-dessous) vers le resultat de pals-->
-                     
-
-            </div>
-
-            <div class="navbar-end">
-            <!-- navbar-end : partie droite de la barre de navigation -->
-
-                <div class="navbar-item">
-                    <a class="button is-dark is-outlined"
-                       href="https://github.com/crispyfunicular/network"
-                       target="_blank">
-                    <!--
-                    button : style bouton Bulma
-                    is-outlined : bouton avec contour
-                    target="_blank" : ouverture dans un nouvel onglet
-                    -->
-                        <span class="icon">
-                            <i class="fa-brands fa-github"></i>
-                        </span>
-                        <span>GitHub</span>
-                    </a>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</nav>
-
-<!--  HERO / TITRE  -->
-<section class="section">
-    <div class="container has-text-centered">
-        <h1 class="title is-3">Analyse des résultats</h1>
-        <p class="subtitle is-6">
-            Étude comparative des usages du mot <strong>« réseau / network »</strong>
-            dans trois langues
-        </p>
-    </div>
-</section>
-
-<!-- ANALYSE ESPAGNOL  -->
-<section class="section">
-    <div class="container">
-        <div class="box">
-            <h2 class="title is-4">Espagnol</h2>
-            <p>
-                <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_es"> ICI : résultats pals, vous pouvez mettre plusieurs hyperliens</a>
-            </p>
-
-                <strong>Analyse :</strong><br>
-                    ICI : analyse 
-        </div>
-    </div>
-</section>
-
-<!-- ANALYSE CATALAN  -->
-<section class="section">
-    <div class="container">
-        <div class="box">
-            <h2 class="title is-4">Catalan</h2>
-            <p>
-                <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_cat"> ICI : résultats pals, vous pouvez mettre plusieurs hyperliens</a>
-            </p>
-
-                <strong>Analyse :</strong><br>
-                    ICI : analyse 
-        </div>
-    </div>
-</section>
-
-<!-- ANALYSE CHINOIS -->
-<section class="section">
-    <div class="container">
-        <div class="box">
-            <h2 class="title is-4">Chinois (mandarin)</h2>
-            <p>
-                <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_zh">
-                Résultats pals chinois
+    <!-- Barre de navigation -->
+    <nav class="navbar is-white has-shadow">
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <strong class="is-size-5">RÉSEAU</strong>
                 </a>
-            </p>
+            </div>
 
-            <strong>Analyse :</strong>
+            <div class="navbar-menu">
+                <div class="navbar-start">
 
-            <!--1e subtitle/partie-->
-            <p style="text-indent:2em;">
-                <strong>L'équivalence du mot "réseau" en chinois :</strong>
-            </p>
-            <p class="mb-4" style="text-indent:2em;">
-                Lors de l'étude de l'équivalence du mot "réseau" en chinois, il peut être rendu par "网" ou "网络".
-                Étant donné que le mot "网" possède de nombreuses significations et usages très variés,
-                allant des objets physiques aux structures abstraites, j'ai choisi "网络" comme terme cible pour
-                cette étude afin de garantir un focus précis.
-            </p>
+                    <!-- Menu : accueil   -->
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="index.html">Accueil</a>
+                    </div>
 
-            <!--2e subtitle/partie-->
-            <p style="text-indent:2em;">
-                <strong>Construction du corpus chinois (comment choisir les urls) :</strong>
-            </p>
-            <p class="mb-4" style="text-indent:2em;">
-                Lors de la constitution du corpus, nous avons ciblé trois grandes thématiques : "Informatique et numérique", "Social et organisationnel" et "Transports et infrastructures".
-                J'ai effectué des recherches sur les principaux moteurs de recherche (Google, Bing, Baidu, Sogou) et
-                sélectionné prioritairement des articles de presse et des pages spécialisées pour garantir la pertinence et l'actualité des données.
-                Pour chaque thématique, environ 20 URLs ont été retenues, ce qui donne un corpus final de 65 URLs.
-            </p>
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="pourquoi.html">Pourquoi ce mot ?</a>
+                    </div>
 
-            <!--3e subtitle/partie-->
-            <p style="text-indent:2em;">
-                <strong>Analyse des cooccurrents :</strong> <a href="pals/pals_zh/context_cooc.tsv">Voir le fichier context_cooc.tsv</a><br>
-            </p>
-            <p  style="text-indent:2em;">
-                À partir de ce corpus chinois, j'ai extrait tous les contextes contenant le terme cible « 网络 ».
-                Pour chaque occurrence, j'ai conservé les deux lignes précédant et suivant le mot.
-                Ces contextes ont ensuite été transformés au format CoNLL et enregistrés dans <a href="pals/pals_zh/contextes-zh.txt">contextes-zh.txt</a>.
-                Ensuite, j'ai utilisé le script python <a href="https://github.com/YoannDupont/PALS">cooccurrents.py</a> fourni par le prof ,
-                qui nous permet de considèrer « 网络 » comme terme central et analyse les 10 mots à gauche et à droite de chaque occurrence, et,
-                sur la base de la mesure de spécificité de Lafon, d'identifier les mots les plus fortement associés à « 网络 » dans ce corpus de contextes.
-            </p>
-            <p  style="text-indent:2em;">
-                Les résultats montrent que, dans le corpus que j'ai constitué, selon les scores de spécificité de Lafon,
-                « 社交 » (social) atteint un score très élevé de 69,84, formant un noyau central accompagné de mots tels que
-                « 人际 » (relations interpersonnelles), « 人脉 » (réseaux humains) et « 人际关系 » (liens sociaux).
-                Cela confirme que, dans le chinois moderne, « 网络 » est fortement associé à l'idée de « connexion entre personnes ».
-            </p>
-            <p style="text-indent:2em;">
-                Les données révèlent aussi un double usage sur le sens de technique.
-                D’un côté, « 网络 » est lié aux technologies de pointe et à l’intelligence artificielle,
-                avec des cooccurrents comme « 神经 » (42,63), « 深度 » (3,01) et « 识别 » (2,96).
-                De l’autre, il est associé à la sécurité de l’information, avec « 安全 » (20,15), « 风险 » (2,61) et « 攻击 » (2,52).
-                Cela montre que « 网络 » est à la fois un outil quotidien et un support pour des algorithmes et des informations sensibles.
-            </p>
-            <p  style="text-indent:2em;">
-                En plus, une dimension sociale très spécifique à la Chine apparaît. Des mots comme « 舆论 » (opinion publique),
-                 « 乱象 » (désordres), « 清朗 » (assainissement), « 网信办 » (administration du cyberespace), « 法治 » (État de droit)
-                 et « 辟谣 » (démenti) montrent que « 网络 » , dans le sens d'« Internet » , est souvent perçu comme un objet de régulation,
-                 encadré par la loi et l’administration, lié à la sécurité et à la régulation de l’information.
-            </p>
-            <p  class="mb-4"  style="text-indent:2em;">
-                Bien que le corpus contienne intentionnellement des textes sur les infrastructures de transport, les termes à connotation physique comme « 铁路 » (chemin de fer)
-                ou « 运输 » (transport) obtiennent des scores très faibles (environ 2,0), ce qui suggère que l’usage de ces sens physiques
-                est marginal et que le mot « 网 » seul pourrait suffire.
-            </p>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="tableaux/tableaux_zh.html">
+                                Mandarin (ZH)
+                            </a>
+                            <a class="navbar-item" href="tableaux/espagnol.html">
+                                Espagnol (ES)
+                            </a>
+                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                                Catalan (CAT)
+                            </a>
+                        </div>
+                    </div>
 
-            <p style="text-indent:2em;">
-                <strong>Analyse de la partition :</strong> <a href="pals/pals_zh/partition_comparison.tsv">Voir le fichier partition_comparison.tsv</a>
-            </p>
-            <p  style="text-indent:2em;">
-                Dans cette partie, j'ai comparé le texte de tous les urls (<a href="pals/pals_zh/dumps-text-zh.txt">dumps-text-zh.txt</a>)  avec le corpus de contexte.
-                J'ai utilisé le script <a href="https://github.com/YoannDupont/PALS">partition.py</a>  fourni par le prof, qui utilise l'algorithme de Lafon pour comparer la fréquence des mots d'un texte à l'autre.
-                L'idée, c'est de repérer les mots qui sont vraiment liés au  网络 et de filtrer les mots qu'on voit partout sur le web mais qui n'ont rien à voir avec le sujet 网络.
-            </p>
-            <p style="text-indent:2em;">
-                En regardant le fichier de résultats (<a href="pals/pals_zh/partition_comparison.tsv">partition_comparison.tsv</a>), j'ai classé la colonne « specif part-2 » par ordre décroissant,
-                et vu surtout les mots qui ont un score de plus de 3.
-                Plus le score est élevé, plus ça veut dire que le mot a l'habitude d'être « collé » au mot  网络 .
-            </p>
-            <p style="text-indent:2em;">
-                Ce qu'on peut en tirer :</p>
-            <p style="text-indent:2em;">
-                Le mot 网络 est bien le cœur du corpus de contexte, avec un score de 151,25.
-                Prenez le mot 社交 (social) : il a un score de 32,05. Il apparaît  1333 fois sur les 65 pages web, et presque la moitié (602 fois) se trouve dans le contexte du mot 网络.
-                Cela montre clairement que, dans mon corpus, le sens principal de « réseau », c'est le côté social.
-            </p>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        
+                        <a class="navbar-link">Scripts</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item"
+                            href="https://github.com/crispyfunicular/network/tree/main/programmes/zh_prog">
+                                Mandarin (ZH)
+                            </a>
+                            <a class="navbar-item" href="tableaux/espagnol.html">
+                                Espagnol (ES)
+                            </a>
+                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                                Catalan (CAT)
+                            </a>
+                        </div>
+                    </div>
 
-            <p style="text-indent:2em;">
-                C'est la même chose pour le mot « Neuronal » (15,31) : ça montre que l'expression « 神经网络 réseau de neurones » est solide
-                et revient tout le temps dans mes données.
-            </p>
-                Le petit mot 的 a également un score très élevé (43,78). Cela suggère qu'en chinois, le mot « réseau » est souvent utilisé pour qualifier ou décrire quelque chose.
-            <p style="text-indent:2em;">
-                De plus, même si, lors de la sélection des URLs pour constituer le corpus, j'ai choisi des occurrences de « réseau » dans le sens et l'usage liés aux infrastructures de transport,
-                铁路 « chemin de fer » (4,5) et 运输 « transport » (4,74) obtiennent des scores nettement inférieurs aux mots du domaine social.
-                Cela montre qu’on utilise beaucoup moins le mot 网络 pour parler de transport que pour parler de réseaux sociaux ou d'IA.
-            </p>
-            <p style="text-indent:2em;">
-                Côté relations sociales :社交 (32.05)、人际 (6.39)、社会 (5.64)、人脉 (5.57)、青少年 (3.22)</p>
-            <p style="text-indent:2em;">
-                Côté technique et informatique :：神经 (15.31)、推理 (6.28)、Model (5.95)、节点 (5.44)、处理 (5.01)、青少年 (3.22)</p>
-            <p style="text-indent:2em;">
-                Côté régulation et environnement d'Internet：安全 (9.37)、治理 (3.87)、舆论 (3.22)。
-            </p>
+                    <!-- Menu : Analyses  -->
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="pourquoi.html">Analyses</a>
+                    </div>                  
+                </div>
 
+                <div class="navbar-end">
+                    <div class="navbar-item">
+                        <a class="button is-dark is-outlined"
+                        href="https://github.com/crispyfunicular/network"
+                        target="_blank">
+                            <span class="icon">
+                                <i class="fa-brands fa-github"></i>
+                            </span>
+                            <span>GitHub</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="section">
+        <div class="container has-text-centered">
+            <h1 class="title is-3">Analyse des résultats</h1>
+            <p class="subtitle is-6">
+                Étude comparative des usages du mot <strong>« réseau / network »</strong> dans trois langues
+            </p>
+        </div>
+    </section>
+
+    <!-- Analyse ES  -->
+    <section class="section">
+        <div class="container">
+            <div class="box">
+                <h2 class="title is-4">Espagnol</h2>
+                <p>
+                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_es"> ICI : résultats pals, vous pouvez mettre plusieurs hyperliens</a>
+                </p>
+
+                    <strong>Analyse :</strong><br>
+                        ICI : analyse 
+            </div>
+        </div>
+    </section>
+
+    <!-- Analyse CAT  -->
+    <section class="section">
+        <div class="container">
+            <div class="box">
+                <h2 class="title is-4">Catalan</h2>
+                <p>
+                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_cat"> Résultats pals catalan</a>
+                </p>
+
+                    <strong>Analyse :</strong><br>
+                        ICI : analyse 
+            </div>
+        </div>
+    </section>
+
+    <!-- Analyse ZH -->
+    <section class="section">
+        <div class="container">
+            <div class="box">
+                <h2 class="title is-4">Chinois (mandarin)</h2>
+                <p>
+                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_zh">
+                    Résultats pals chinois
+                    </a>
+                </p>
+
+                <strong>Analyse :</strong>
+
+                <!--1e partie-->
+                <p style="text-indent:2em;">
+                    <strong>L’équivalence du mot "réseau" en chinois :</strong>
+                </p>
+                <p class="mb-4" style="text-indent:2em;">
+                    Lors de l’étude de l’équivalence du mot « réseau » en chinois, il peut être rendu par « 网 » ou « 网络 ».
+                    Étant donné que le mot « 网 » possède de nombreuses significations et usages très variés, allant des objets physiques aux structures abstraites, j’ai choisi « 网络 » comme terme cible pour cette étude afin de garantir un focus précis.
+                </p>
+
+                <!--2e partie-->
+                <p style="text-indent:2em;">
+                    <strong>Construction du corpus chinois (comment choisir les urls) :</strong>
+                </p>
+                <p class="mb-4" style="text-indent:2em;">
+                    Lors de la constitution du corpus, nous avons ciblé trois grandes thématiques : « Informatique et numérique », « Social et organisationnel » et « Transports et infrastructures ».
+                    J’ai effectué des recherches sur les principaux moteurs de recherche (Google, Bing, Baidu, Sogou) et sélectionné prioritairement des articles de presse et des pages spécialisées pour garantir la pertinence et l’actualité des données.
+                    Pour chaque thématique, environ 20 URLs ont été retenues, ce qui donne un corpus final de 65 URLs.
+                </p>
+
+                <!--3e subtitle/partie-->
+                <p style="text-indent:2em;">
+                    <strong>Analyse des cooccurrents :</strong> <a href="pals/pals_zh/context_cooc.tsv">Voir le fichier context_cooc.tsv</a><br>
+                </p>
+                <p  style="text-indent:2em;">
+                    À partir de ce corpus chinois, j’ai extrait tous les contextes contenant le terme cible « 网络 ».
+                    Pour chaque occurrence, j’ai conservé les deux lignes précédant et suivant le mot.
+                    Ces contextes ont ensuite été transformés au format CoNLL et enregistrés dans <a href="pals/pals_zh/contextes-zh.txt">contextes-zh.txt</a>.
+                    Ensuite, j’ai utilisé le script python <a href="https://github.com/YoannDupont/PALS">cooccurrents.py</a> fourni par le prof, qui nous permet de considèrer « 网络 » comme terme central et analyse les 10 mots à gauche et à droite de chaque occurrence et, sur la base de la mesure de spécificité de Lafon, d’identifier les mots les plus fortement associés à « 网络 » dans ce corpus de contextes.
+                </p>
+                <p  style="text-indent:2em;">
+                    Les résultats montrent que, dans le corpus que j’ai constitué, selon les scores de spécificité de Lafon, « 社交 » (social) atteint un score très élevé de 69,84, formant un noyau central accompagné de mots tels que
+                    « 人际 » (relations interpersonnelles), « 人脉 » (réseaux humains) et « 人际关系 » (liens sociaux).
+                    Cela confirme que, dans le chinois moderne, « 网络 » est fortement associé à l’idée de « connexion entre personnes ».
+                </p>
+                <p style="text-indent:2em;">
+                    Les données révèlent aussi un double usage sur le sens de technique.
+                    D’un côté, « 网络 » est lié aux technologies de pointe et à l’intelligence artificielle, avec des cooccurrents comme « 神经 » (42,63), « 深度 » (3,01) et « 识别 » (2,96).
+                    De l’autre, il est associé à la sécurité de l’information, avec « 安全 » (20,15), « 风险 » (2,61) et « 攻击 » (2,52).
+                    Cela montre que « 网络 » est à la fois un outil quotidien et un support pour des algorithmes et des informations sensibles.
+                </p>
+                <p  style="text-indent:2em;">
+                    En plus, une dimension sociale très spécifique à la Chine apparaît. Des mots comme « 舆论 » (opinion publique), « 乱象 » (désordres), « 清朗 » (assainissement), « 网信办 » (administration du cyberespace), « 法治 » (État de droit)
+                    et « 辟谣 » (démenti) montrent que « 网络 », dans le sens d’« Internet », est souvent perçu comme un objet de régulation, encadré par la loi et l’administration, lié à la sécurité et à la régulation de l’information.
+                </p>
+                <p  class="mb-4"  style="text-indent:2em;">
+                    Bien que le corpus contienne intentionnellement des textes sur les infrastructures de transport, les termes à connotation physique comme « 铁路 » (chemin de fer)
+                    ou « 运输 » (transport) obtiennent des scores très faibles (environ 2,0), ce qui suggère que l’usage de ces sens physiques est marginal et que le mot « 网 » seul pourrait suffire.
+                </p>
+
+                <p style="text-indent:2em;">
+                    <strong>Analyse de la partition :</strong> <a href="pals/pals_zh/partition_comparison.tsv">Voir le fichier partition_comparison.tsv</a>
+                </p>
+                <p  style="text-indent:2em;">
+                    Dans cette partie, j’ai comparé le texte de tous les urls (<a href="pals/pals_zh/dumps-text-zh.txt">dumps-text-zh.txt</a>)  avec le corpus de contexte.
+                    J’ai utilisé le script <a href="https://github.com/YoannDupont/PALS">partition.py</a>  fourni par le prof, qui utilise l’algorithme de Lafon pour comparer la fréquence des mots d’un texte à l’autre.
+                    L’idée, c’est de repérer les mots qui sont vraiment liés au « 网络 » et de filtrer les mots qu’on voit partout sur le web mais qui n’ont rien à voir avec le sujet 网络.
+                </p>
+                <p style="text-indent:2em;">
+                    En regardant le fichier de résultats (<a href="pals/pals_zh/partition_comparison.tsv">partition_comparison.tsv</a>), j’ai classé la colonne « specif part-2 » par ordre décroissant,
+                    et vu surtout les mots qui ont un score de plus de 3.
+                    Plus le score est élevé, plus ça veut dire que le mot a l’habitude d’être « collé » au mot « 网络 ».
+                </p>
+                <p style="text-indent:2em;">
+                    Ce qu’on peut en tirer :</p>
+                <p style="text-indent:2em;">
+                    Le mot « 网络 » est bien le cœur du corpus de contexte, avec un score de 151,25.
+                    Prenez le mot « 社交 » (social) : il a un score de 32,05. Il apparaît  1333 fois sur les 65 pages web, et presque la moitié (602 fois) se trouve dans le contexte du mot 网络.
+                    Cela montre clairement que, dans mon corpus, le sens principal de « réseau », c’est le côté social.
+                </p>
+
+                <p style="text-indent:2em;">
+                    C’est la même chose pour le mot « Neuronal » (15,31) : ça montre que l’expression « 神经网络 réseau de neurones » est solide et revient tout le temps dans mes données.
+                </p>
+                    Le petit mot 的 a également un score très élevé (43,78). Cela suggère qu’en chinois, le mot « réseau » est souvent utilisé pour qualifier ou décrire quelque chose.
+                <p style="text-indent:2em;">
+                    De plus, même si, lors de la sélection des URLs pour constituer le corpus, j’ai choisi des occurrences de « réseau » dans le sens et l’usage liés aux infrastructures de transport,
+                    铁路 « chemin de fer » (4,5) et 运输 « transport » (4,74) obtiennent des scores nettement inférieurs aux mots du domaine social.
+                    Cela montre qu’on utilise beaucoup moins le mot « 网络 » pour parler de transport que pour parler de réseaux sociaux ou d’IA.
+                </p>
+                <p style="text-indent:2em;">
+                    Côté relations sociales :社交 (32.05)、人际 (6.39)、社会 (5.64)、人脉 (5.57)、青少年 (3.22)</p>
+                <p style="text-indent:2em;">
+                    Côté technique et informatique :：神经 (15.31)、推理 (6.28)、Model (5.95)、节点 (5.44)、处理 (5.01)、青少年 (3.22)</p>
+                <p style="text-indent:2em;">
+                    Côté régulation et environnement d’Internet：安全 (9.37)、治理 (3.87)、舆论 (3.22)。
+                </p>
+        </div>
     </div>
-  </div>
-</section>
+    </section>
 
-
-<footer class="footer has-text-centered">
-    <p>
-        Projet PPE « Réseau » – 2025–2026<br>
-        Dans le cadre du
-        <a href="https://plurital.org/">Master PluriTAL</a>
-    </p>
-</footer>
-
-</body>
+        <!-- Pied de page -->
+        <footer class="footer has-text-centered">
+            <p>
+                Projet PPE « Réseau » – 2025–2026<br>
+                Dans le cadre du
+                <a href="https://plurital.org/">Master PluriTAL</a>
+            </p>
+        </footer>
+    </body>
 </html>

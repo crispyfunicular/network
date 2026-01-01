@@ -1,185 +1,131 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Projet Réseau</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <head>
+        <meta charset="UTF-8">
+        <title>Projet Réseau</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <script src="https://kit.fontawesome.com/b0d5fca4a5.js" crossorigin="anonymous"></script>
+    </head>
 
-    <!-- Chargement de Font Awesome pour afficher des icônes GitHub (reference : https://fontawesome.com/icons) -->
-    <script src="https://kit.fontawesome.com/b0d5fca4a5.js" crossorigin="anonymous"></script>
-</head>
+    <body>
 
-<body>
+    <!-- Barre de navigation -->
+    <nav class="navbar is-white has-shadow">
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <strong class="is-size-5">RÉSEAU</strong>
+                </a>
+            </div>
 
-<!-- 1. Barre de navigation (en haut de la page) -->
-<nav class="navbar is-white has-shadow">
-        <!--
-        nav : balise sémantique représentant une zone de navigation
-        class="navbar" : composant de barre de navigation Bulma
-        is-white : fond blanc
-        has-shadow : ombre légère en bas
-        -->
+            <div class="navbar-menu">
+                <div class="navbar-start">
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="index.html">Accueil</a>
+                    </div>
 
-    <div class="container">
-    <!--container : conteneur centré de Bulma, limite la largeur maximale du contenu -->
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="pourquoi.html">Pourquoi ce mot ?</a>
+                    </div>
 
-        <div class="navbar-brand">
-        <!-- navbar-brand : zone en haut à gauche (logo / nom du projet) -->
 
-            <a class="navbar-item" href="index.html">
-            <!-- navbar-item :élément cliquable de la barre de navigation, ici, lien vers la page d’accueil -->
-                <strong class="is-size-5">RÉSEAU</strong>
-            </a>
-        </div>
+                    <!-- Tableaux -->
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="tableaux/tableaux_zh.html">
+                                Mandarin (ZH)
+                            </a>
+                            <a class="navbar-item" href="tableaux/espagnol.html">
+                                Espagnol (ES)
+                            </a>
+                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                                Catalan (CAT)
+                            </a>
+                        </div>
+                    </div>
 
-        <div class="navbar-menu">
-        <!-- navbar-menu : zone contenant les menus et sous-menus -->
+                    <!-- Scripts -->
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        
+                        <a class="navbar-link">Scripts</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item"
+                            href="https://github.com/crispyfunicular/network/tree/main/programmes/zh_prog">
+                                Mandarin (ZH)
+                            </a>
+                            <a class="navbar-item" href="tableaux/espagnol.html">
+                                Espagnol (ES)
+                            </a>
+                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                                Catalan (CAT)
+                            </a>
+                        </div>
+                    </div>
 
-            <div class="navbar-start">
-            <!-- navbar-start : partie gauche de la barre de navigation -->
-                
-                <!-- Menu : accueil   -->
-                <div class="navbar-item">
-                    <a class="navbar-item" href="index.html">Accueil</a>
+                    <!-- Analyses  -->
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="pourquoi.html">Analyses</a>
+                    </div>
                 </div>
 
-                <!-- Menu : prq ce mot？ on met la raison et hypothese.  -->
-                <div class="navbar-item">
-                    <a class="navbar-item" href="pourquoi.html">Pourquoi ce mot ?</a>
-                </div>
-
-
-                <!-- Menu déroulant : Tableaux -->
-                <div class="navbar-item has-dropdown is-hoverable">
-                <!--
-                has-dropdown : menu avec sous-menu
-                is-hoverable : s’ouvre au survol de la souris
-                -->
-
-                    <a class="navbar-link">Tableaux</a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item" href="tableaux/tableaux_zh.html">
-                            Mandarin (ZH)
-                        </a>
-                        <a class="navbar-item" href="tableaux/espagnol.html">
-                            Espagnol (ES)
-                        </a>
-                        <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
-                            Catalan (CAT)
+                <div class="navbar-end">
+                    <div class="navbar-item">
+                        <a class="button is-dark is-outlined"
+                        href="https://github.com/crispyfunicular/network"
+                        target="_blank">
+                            <span class="icon">
+                                <i class="fa-brands fa-github"></i>
+                            </span>
+                            <span>GitHub</span>
                         </a>
                     </div>
                 </div>
 
-                <!-- Menu déroulant : Scripts 
-                 ou on peut créer 3 page html présentant l'idée / utilisation de notre script 
-                 ou on peut créer 3 readme.md dans les sousdossiers présentant l'idée / utilisation de notre script -->
-                <div class="navbar-item has-dropdown is-hoverable">
-                    
-                    <a class="navbar-link">Scripts</a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item"
-                           href="https://github.com/crispyfunicular/network/tree/main/programmes/zh_prog">
-                            Mandarin (ZH)
-                        </a>
-                        <a class="navbar-item" href="tableaux/espagnol.html">
-                            Espagnol (ES)
-                        </a>
-                        <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
-                            Catalan (CAT)
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Menu : Analyses  -->
-                 <div class="navbar-item">
-                    <a class="navbar-item" href="pourquoi.html">Analyses</a>
-                </div>
-                        <!--PROPOSITION:
-                            Créez une nouvelle page Web ensemble stocké 
-                            où chacun effectue sa propre analyse et analyse/conclusion ensemble si vous voulez, 
-                            puis ajoutez ce lien à cette page Web.-->
-                        <!--Dans ce page Web analyse, on peut ajouter les hyperlien(comme ci-dessous) vers le resultat de pals-->
-                     
-
             </div>
+        </div>
+    </nav>
 
-            <div class="navbar-end">
-            <!-- navbar-end : partie droite de la barre de navigation -->
+    <section class="section">
+        <div class="container is-fluid">
+            <h2 class="title is-3 has-text-centered">
+                Pourquoi ce mot ?
+            </h2>
 
-                <div class="navbar-item">
-                    <a class="button is-dark is-outlined"
-                       href="https://github.com/crispyfunicular/network"
-                       target="_blank">
-                    <!--
-                    button : style bouton Bulma
-                    is-outlined : bouton avec contour
-                    target="_blank" : ouverture dans un nouvel onglet
-                    -->
-                        <span class="icon">
-                            <i class="fa-brands fa-github"></i>
-                        </span>
-                        <span>GitHub</span>
-                    </a>
-                </div>
+            <p class="subtitle is-6 has-text-centered">
+                Étude synchronique de l’emploi du terme
+                <strong>« réseau / network »</strong>
+            </p>
+
+            <div class="box mt-6">
+
+                <p>
+                    Le choix du terme <strong>« réseau »</strong> (ou <strong>« network »</strong>) s’explique par la richesse sémantique et la polysémie de ce mot, présente dans de nombreuses langues.
+                </p>
+                <br>
+                <p>
+                    À l’origine, le mot renvoie à une réalité concrète et matérielle, comme un filet ou un entrelacement d’éléments. Progressivement, son emploi s’est étendu à des domaines
+                    abstraits, notamment sociaux, techniques et numériques notamment sociaux, techniques et numériques, où il désigne un ensemble d’éléments reliés entre eux et structurés par leurs interactions. Le mot fonctionne comme une métaphore organisatrice : il permet de penser la circulation (d’informations, de biens, de personnes) et la forme (maillage, densité, centralité) d’un système. Cette plasticité explique son succès interdisciplinaire, mais elle oblige aussi à expliciter le sens retenu pour éviter les confusions entre réseau-infrastructure, réseau social et réseau comme modèle.
+                </p>
+                <br>
+                <p>
+                    XXXX
+                </p>
+                <br>
+                <p>
+                    HYPOTHESE-------
+                </p>
             </div>
-
         </div>
-    </div>
-</nav>
+    </section>
 
-<!-- ===== SECTION PRINCIPALE ===== -->
-<section class="section">
-    <div class="container is-fluid">
-
-        <!-- Titre -->
-        <h2 class="title is-3 has-text-centered">
-            Pourquoi ce mot ?
-        </h2>
-
-        <p class="subtitle is-6 has-text-centered">
-            Étude synchronique de l’emploi du terme
-            <strong>« réseau / network »</strong>
-        </p>
-
-        <!-- ===== BOÎTE DE TEXTE / ANALYSE ===== -->
-        <div class="box mt-6">
-
+        <footer class="footer has-text-centered">
             <p>
-                Le choix du terme <strong>« réseau »</strong> (ou
-                <strong>« network »</strong>) s’explique par la richesse
-                sémantique et la polysémie de ce mot, présente dans de
-                nombreuses langues.
+                Projet PPE « Réseau » – 2025–2026<br>
+                Dans le cadre du
+                <a href="https://plurital.org/">Master PluriTAL</a>
             </p>
-            <br>
-            <p>
-                À l’origine, le mot renvoie à une réalité concrète et
-                matérielle, comme un filet ou un entrelacement d’éléments.
-                Progressivement, son emploi s’est étendu à des domaines
-                abstraits, notamment sociaux, techniques et numériques.....XXXXXXXXX
-            </p>
-            <br>
-            <p>
-                XXXX
-            </p>
-            <br>
-            <p>
-                HYPOTHESE------------------------------
-            </p>
-
-        </div>
-
-    </div>
-</section>
-
-<footer class="footer has-text-centered">
-    <p>
-        Projet PPE « Réseau » – 2025–2026<br>
-        Dans le cadre du
-        <a href="https://plurital.org/">Master PluriTAL</a>
-    </p>
-</footer>
-
-
-</body>
+        </footer>
+    </body>
 </html>

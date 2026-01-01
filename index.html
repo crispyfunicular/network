@@ -1,371 +1,314 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Projet Réseau</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <head>
+        <meta charset="UTF-8">
+        <title>Projet Réseau</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <script src="https://kit.fontawesome.com/b0d5fca4a5.js" crossorigin="anonymous"></script>
+    </head>
 
-    <!-- Chargement de Font Awesome pour afficher des icônes GitHub (reference : https://fontawesome.com/icons) -->
-    <script src="https://kit.fontawesome.com/b0d5fca4a5.js" crossorigin="anonymous"></script>
-</head>
+    <body>
 
-<body>
-
-<!-- 1. Barre de navigation (en haut de la page) -->
-<nav class="navbar is-white has-shadow">
-        <!--
-        nav : balise sémantique représentant une zone de navigation
-        class="navbar" : composant de barre de navigation Bulma
-        is-white : fond blanc
-        has-shadow : ombre légère en bas
-        -->
-
-    <div class="container">
-    <!--container : conteneur centré de Bulma, limite la largeur maximale du contenu -->
-
-        <div class="navbar-brand">
-        <!-- navbar-brand : zone en haut à gauche (logo / nom du projet) -->
-
-            <a class="navbar-item" href="index.html">
-            <!-- navbar-item :élément cliquable de la barre de navigation, ici, lien vers la page d’accueil -->
-                <strong class="is-size-5">RÉSEAU</strong>
-            </a>
-        </div>
-
-        <div class="navbar-menu">
-        <!-- navbar-menu : zone contenant les menus et sous-menus -->
-
-            <div class="navbar-start">
-            <!-- navbar-start : partie gauche de la barre de navigation -->
-                
-                <div class="navbar-item">
-                    <a class="navbar-item" href="index.html">Accueil</a>
-                </div>    
-
-                <div class="navbar-item">
-                    <a class="navbar-item" href="pourquoi.html">Pourquoi ce mot ?</a>
-                </div>
-
-
-                <!-- Menu déroulant : Tableaux -->
-                <div class="navbar-item has-dropdown is-hoverable">
-                <!--
-                has-dropdown : menu avec sous-menu
-                is-hoverable : s’ouvre au survol de la souris
-                -->
-
-                    <a class="navbar-link">Tableaux</a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item" href="tableaux/tableaux_zh.html">
-                            Mandarin (ZH)
-                        </a>
-                        <a class="navbar-item" href="tableaux/espagnol.html">
-                            Espagnol (ES)
-                        </a>
-                        <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
-                            Catalan (CAT)
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Menu déroulant : Scripts 
-                 ou on peut créer 3 page html présentant l'idée / utilisation de notre script 
-                 ou on peut créer 3 readme.md dans les sousdossiers présentant l'idée / utilisation de notre script -->
-                <div class="navbar-item has-dropdown is-hoverable">
-                    
-                    <a class="navbar-link">Scripts</a>
-                    <div class="navbar-dropdown">
-                        <a class="navbar-item"
-                           href="https://github.com/crispyfunicular/network/tree/main/programmes/zh_prog">
-                            Mandarin (ZH)
-                        </a>
-                        <a class="navbar-item" href="tableaux/espagnol.html">
-                            Espagnol (ES)
-                        </a>
-                        <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
-                            Catalan (CAT)
-                        </a>
-                    </div>
-                </div>
-
-                <!--  Menu  Analyses -->
-                <div class="navbar-item">
-                    <a class="navbar-item" href="analyses.html">Analyses</a>
-                </div> 
-                        <!--PROPOSITION:
-                            Créez une nouvelle page Web ensemble stocké 
-                            où chacun effectue sa propre analyse et analyse/conclusion ensemble si vous voulez, 
-                            puis ajoutez ce lien à cette page Web.-->
-                        <!--Dans ce page Web analyse, on peut ajouter les hyperlien(comme ci-dessous) vers le resultat de pals-->
+    <!-- Barre de navigation -->
+    <nav class="navbar is-white has-shadow">
+        <div class="container">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="index.html">
+                    <strong class="is-size-5">RÉSEAU</strong>
+                </a>
             </div>
 
-            <div class="navbar-end">
-            <!-- navbar-end : partie droite de la barre de navigation -->
+            <div class="navbar-menu">
+                <div class="navbar-start">                
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="index.html">Accueil</a>
+                    </div>    
 
-                <div class="navbar-item">
-                    <a class="button is-dark is-outlined"
-                       href="https://github.com/crispyfunicular/network"
-                       target="_blank">
-                    <!--
-                    button : style bouton Bulma
-                    is-outlined : bouton avec contour
-                    target="_blank" : ouverture dans un nouvel onglet
-                    -->
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="pourquoi.html">Pourquoi ce mot ?</a>
+                    </div>
+
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-link">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item" href="tableaux/tableaux_zh.html">
+                                Mandarin (ZH)
+                            </a>
+                            <a class="navbar-item" href="tableaux/espagnol.html">
+                                Espagnol (ES)
+                            </a>
+                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                                Catalan (CAT)
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        
+                        <a class="navbar-link">Scripts</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item"
+                            href="https://github.com/crispyfunicular/network/tree/main/programmes/zh_prog">
+                                Mandarin (ZH)
+                            </a>
+                            <a class="navbar-item" href="tableaux/espagnol.html">
+                                Espagnol (ES)
+                            </a>
+                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                                Catalan (CAT)
+                            </a>
+                        </div>
+                    </div>
+
+                    <!--  Menu  Analyses -->
+                    <div class="navbar-item">
+                        <a class="navbar-item" href="analyses.html">Analyses</a>
+                    </div>
+                </div>
+
+                <div class="navbar-end">
+                    <div class="navbar-item">
+                        <a class="button is-dark is-outlined"
+                        href="https://github.com/crispyfunicular/network"
+                        target="_blank">
+                            <span class="icon">
+                                <i class="fa-brands fa-github"></i>
+                            </span>
+                            <span>GitHub</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Bandeau principal (Hero)  -->
+    <section class="hero is-large is-link"
+            style="
+                background-image: url('https://images.unsplash.com/photo-1545987796-b199d6abb1b4');
+                background-size: cover;
+                background-position: center;
+            ">
+
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h1 class="title has-text-white">
+                    RÉSEAU
+                </h1>
+
+                <p class="subtitle has-text-white">
+                    Analyse multilingue
+                </p>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Présentation du projet -->
+    <section class="section">
+
+        <div class="container is-fluid has-text-centered">
+            <h2 class="title is-2">Un mot, trois visions</h2>
+
+            <p class="subtitle is-4">
+                Étude synchronique de l’emploi du terme<br>
+                <strong>« réseau »</strong> ou <strong>« network »</strong>
+                en espagnol, catalan et mandarin.
+            </p>
+        </div>
+    </section>
+
+    <!--  Nuages de mots -->
+    <section class="section">
+        <div class="container is-fluid">
+            <div class="columns">
+
+                <!-- CAT -->
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-content">
+
+                            <h2 class="title is-2 has-text-primary">CAT</h2>
+                            <h3 class="title is-3 has-text-primary">xarxa</h3>
+
+                            <p>
+                                <span class="has-text-primary">Morgane</span>
+                                s'est occupée du catalan...
+                            </p>
+
+                            <p>
+                                <img src="wordcloud/cat/wordloud_contextes_cat.png"
+                                    alt="Nuage catalan">
+                            </p>
+
+                            <p>
+                                <a href="tableaux/cat_tableaux/tableau_cat.html">
+                                    Tableau par URL
+                                </a>
+                            </p>
+
+                            <p>
+                                <a href="pals/pals_cat/index.html">
+                                    Analyse textométrique
+                                </a>
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ES -->
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-content">
+
+                            <h2 class="title is-2 has-text-primary">ES</h2>
+                            <h3 class="title is-3 has-text-primary">red</h3>
+
+                            <p>
+                                <span class="has-text-primary">Marko</span>
+                                s'est occupé de l'espagnol...
+                            </p>
+
+                            <p>
+                                <img src="wordcloud/es/wordcloud.png"
+                                    alt="Nuage espagnol">
+                            </p>
+
+                            <p>
+                                <a href="tableaux/espagnol.html">
+                                    Tableau par URL
+                                </a>
+                            </p>
+
+                            <p>
+                                <a href="pals/pals_es/resultat-espagnol-dump.tsv">
+                                    Analyse textométrique
+                                </a>
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!--  ZH -->
+                <div class="column is-one-third">
+                    <div class="card">
+                        <div class="card-content">
+
+                            <h2 class="title is-2 has-text-primary">ZH</h2>
+                            <h3 class="title is-3 has-text-primary">网络</h3>
+
+                            <p>
+                                <span class="has-text-primary">Peng</span>
+                                s'est occupé du mandarin...
+                            </p>
+
+                            <p>
+                                <img src="wordcloud/zh/contextes_wordcloud_black.png"
+                                    alt="Nuage chinois">
+                            </p>
+
+                            <p>
+                                <a href="tableaux/tableaux_zh.html">
+                                    Tableau par URL
+                                </a>
+                            </p>
+
+                            <p>
+                                <a href="pals/pals_zh/context_cooc.tsv">
+                                    Analyse textométrique
+                                </a>
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Présentation de l’équipe -->
+    <section class="section">
+        <div class="container has-text-centered">
+
+            <h3 class="title is-4">Notre équipe</h3>
+
+            <div class="columns">
+
+                <!--  Morgane  -->
+                <div class="column">
+
+                    <img
+                        src="img/morgane.jpg"
+                        width="120">
+                    <p>
+                        <strong>Morgane</strong><br>Catalan<br>Étudiante – Paris Nanterre
+                    </p>
+
+                    <a class="button is-small is-dark is-outlined"
+                    href="https://github.com/crispyfunicular"
+                    target="_blank">
                         <span class="icon">
                             <i class="fa-brands fa-github"></i>
                         </span>
                         <span>GitHub</span>
                     </a>
                 </div>
+
+                <!--  Marko  -->
+                <div class="column">
+
+                    <img
+                        src="https://gips1.baidu.com/it/u=2307662065,652498267&fm=3074&app=3074&f=PNG?w=2048&h=2048"
+                        width="120">
+                    <p>
+                        <strong>Marko</strong><br>Espagnol<br>Étudiant – Paris Nanterre
+                    </p>
+
+                    <a class="button is-small is-dark is-outlined"
+                    href="https://github.com/USERNAME_MARKO"
+                    target="_blank">
+                        <span class="icon">
+                            <i class="fa-brands fa-github"></i>
+                        </span>
+                        <span>GitHub</span>
+                    </a>
+                </div>
+
+                <!-- Peng  -->
+                <div class="column">
+
+                    <img
+                        src="https://gips1.baidu.com/it/u=2307662065,652498267&fm=3074&app=3074&f=PNG?w=2048&h=2048"
+                        width="120">
+                    <p>
+                        <strong>Peng CHEN</strong><br>Chinois<br>Étudiant – Paris Nanterre
+                    </p>
+
+                    <a class="button is-small is-dark is-outlined"
+                    href="https://github.com/PengCHEN2001"
+                    target="_blank">
+                        <span class="icon">
+                            <i class="fa-brands fa-github"></i>
+                        </span>
+                        <span>GitHub</span>
+                    </a>
+                </div>
+
             </div>
-
         </div>
-    </div>
-</nav>
+    </section>
 
-<!-- 2. Bandeau principal (Hero)  -->
- <!--Si le temps le permet, il pourrait également être transformé en carrousel automatique, 
- mais cela pourrait nécessiter un apprentissage supplémentaire-->
-<section class="hero is-large is-link"
-         style="
-            background-image: url('https://images.unsplash.com/photo-1545987796-b199d6abb1b4');
-            background-size: cover;
-            background-position: center;
-         ">
-        <!--
-        section : grande section de la page
-        hero : composant Bulma pour un bandeau visuel
-        is-large : grande hauteur
-        style : définition directe de l’image de fond
-        -->
-
-    <div class="hero-body">
-        <!-- Contenu interne du bandeau -->
-
-        <div class="container has-text-centered">
-            <!-- Contenu centré horizontalement -->
-
-            <h1 class="title has-text-white">
-                RÉSEAU
-            </h1>
-
-            <p class="subtitle has-text-white">
-                Analyse multilingue
+    <!-- Pied de page -->
+        <footer class="footer has-text-centered">
+            <p>
+                Projet PPE « Réseau » – 2025–2026<br>
+                Dans le cadre du
+                <a href="https://plurital.org/">Master PluriTAL</a>
             </p>
-
-        </div>
-    </div>
-</section>
-
-<!-- 3. Présentation courte du projet -->
-<section class="section">
-    <!-- section : bloc de contenu standard -->
-
-    <div class="container is-fluid has-text-centered">
-        <h2 class="title is-2">Un mot, trois visions</h2>
-
-        <p class="subtitle is-4">
-            Étude synchronique de l’emploi du terme<br>
-            <strong>« réseau »</strong> ou <strong>« network »</strong>
-            en espagnol, catalan et mandarin.
-        </p>
-    </div>
-</section>
-
-<!-- 4. Nuages de mots pour les trois langues -->
-<section class="section">
-    <div class="container is-fluid">
-        <div class="columns">
-
-            <!-- CAT -->
-            <div class="column is-one-third">
-                <div class="card">
-                    <div class="card-content">
-
-                        <h2 class="title is-2 has-text-primary">CAT</h2>
-                        <h3 class="title is-3 has-text-primary">xarxa</h3>
-
-                        <p>
-                            <span class="has-text-primary">Morgane</span>
-                            s'est occupée du catalan...
-                        </p>
-
-                        <p>
-                            <img src="wordcloud/cat/wordloud_contextes_cat.png"
-                                 alt="Nuage catalan">
-                        </p>
-
-                        <p>
-                            <a href="tableaux/cat_tableaux/tableau_cat.html">
-                                Tableau par URL
-                            </a>
-                        </p>
-
-                        <p>
-                            <a href="pals/pals_cat/index.html">
-                                Analyse textométrique
-                            </a>
-                        </p>
-
-                    </div>
-                </div>
-            </div>
-
-            <!-- ES -->
-            <div class="column is-one-third">
-                <div class="card">
-                    <div class="card-content">
-
-                        <h2 class="title is-2 has-text-primary">ES</h2>
-                        <h3 class="title is-3 has-text-primary">red</h3>
-
-                        <p>
-                            <span class="has-text-primary">Marko</span>
-                            s'est occupé de l'espagnol...
-                        </p>
-
-                        <p>
-                            <img src="wordcloud/es/wordcloud.png"
-                                 alt="Nuage espagnol">
-                        </p>
-
-                        <p>
-                            <a href="tableaux/espagnol.html">
-                                Tableau par URL
-                            </a>
-                        </p>
-
-                        <p>
-                            <a href="pals/pals_es/resultat-espagnol-dump.tsv">
-                                Analyse textométrique
-                            </a>
-                        </p>
-
-                    </div>
-                </div>
-            </div>
-
-            <!--  ZH -->
-            <div class="column is-one-third">
-                <div class="card">
-                    <div class="card-content">
-
-                        <h2 class="title is-2 has-text-primary">ZH</h2>
-                        <h3 class="title is-3 has-text-primary">网络</h3>
-
-                        <p>
-                            <span class="has-text-primary">Peng</span>
-                            s'est occupé du mandarin...
-                        </p>
-
-                        <p>
-                            <img src="wordcloud/zh/contextes_wordcloud_black.png"
-                                 alt="Nuage chinois">
-                        </p>
-
-                        <p>
-                            <a href="tableaux/tableaux_zh.html">
-                                Tableau par URL
-                            </a>
-                        </p>
-
-                        <p>
-                            <a href="pals/pals_zh/context_cooc.tsv">
-                                Analyse textométrique
-                            </a>
-                        </p>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<!-- 5. Présentation de l’équipe -->
-<section class="section">
-    <div class="container has-text-centered">
-
-        <h3 class="title is-4">Notre équipe</h3>
-
-        <div class="columns">
-
-            <!--  Morgane  -->
-            <div class="column">
-
-                <!-- si vous voulez ajouter l'image-->
-                <img
-                    src="https://gips1.baidu.com/it/u=2307662065,652498267&fm=3074&app=3074&f=PNG?w=2048&h=2048"
-                     width="120">
-                <p>
-                    <strong>Morgane</strong><br>Catalan<br>Étudiante – Paris Nanterre
-                </p>
-
-                <!-- GitHub icon -->
-                <a class="button is-small is-dark is-outlined"
-                   href="https://github.com/crispyfunicular"
-                   target="_blank">
-                    <span class="icon">
-                        <i class="fa-brands fa-github"></i>
-                    </span>
-                    <span>GitHub</span>
-                </a>
-            </div>
-
-            <!--  Marko  -->
-            <div class="column">
-
-                 <img
-                    src="https://gips1.baidu.com/it/u=2307662065,652498267&fm=3074&app=3074&f=PNG?w=2048&h=2048"
-                     width="120">
-                <p>
-                    <strong>Marko</strong><br>Espagnol<br>Étudiant – Paris Nanterre
-                </p>
-
-                <a class="button is-small is-dark is-outlined"
-                   href="https://github.com/USERNAME_MARKO"
-                   target="_blank">
-                    <span class="icon">
-                        <i class="fa-brands fa-github"></i>
-                    </span>
-                    <span>GitHub</span>
-                </a>
-            </div>
-
-            <!-- Peng  -->
-            <div class="column">
-
-                 <img
-                    src="https://gips1.baidu.com/it/u=2307662065,652498267&fm=3074&app=3074&f=PNG?w=2048&h=2048"
-                     width="120">
-                <p>
-                    <strong>Peng CHEN</strong><br>Chinois<br>Étudiant – Paris Nanterre
-                </p>
-
-                <a class="button is-small is-dark is-outlined"
-                   href="https://github.com/PengCHEN2001"
-                   target="_blank">
-                    <span class="icon">
-                        <i class="fa-brands fa-github"></i>
-                    </span>
-                    <span>GitHub</span>
-                </a>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<!-- 6. Pied de page -->
-<footer class="footer has-text-centered">
-    <p>
-        Projet PPE « Réseau » – 2025–2026<br>
-        Dans le cadre du
-        <a href="https://plurital.org/">Master PluriTAL</a>
-    </p>
-</footer>
-
-</body>
+        </footer>
+    </body>
 </html>
