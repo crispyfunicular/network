@@ -68,7 +68,6 @@ do
     chemin_contextes="../../contextes/es/espagnol${lineno}.txt"
     chemin_concordance="../../concordances/es/espagnol${lineno}.html"
     chemin_bigrammes="../../bigrammes/es_bigrammes/espagnol${lineno}.html"
-    chemin_colorarion="../../concor_colorarition/es_coloration/espagnol${lineno}.html"
 
     # 4. aspiration dump
     lynx -dump -nolist -stdin < ./.data.tmp > "$chemin_dump"
