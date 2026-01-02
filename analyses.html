@@ -22,11 +22,6 @@
             <div class="navbar-menu">
                 <div class="navbar-start">
 
-                    <!-- Menu : accueil   -->
-                    <div class="navbar-item">
-                        <a class="navbar-item" href="index.html">Accueil</a>
-                    </div>
-
                     <div class="navbar-item">
                         <a class="navbar-item" href="pourquoi.html">Pourquoi ce mot ?</a>
                     </div>
@@ -34,13 +29,13 @@
                     <div class="navbar-item has-dropdown is-hoverable">
                         <a class="navbar-link">Tableaux</a>
                         <div class="navbar-dropdown">
-                            <a class="navbar-item" href="tableaux/tableaux_zh.html">
+                            <a class="navbar-item  has-text-danger" href="tableaux/tableaux_zh.html">
                                 Mandarin (ZH)
                             </a>
-                            <a class="navbar-item" href="tableaux/espagnol.html">
+                            <a class="navbar-item has-text-info" href="tableaux/espagnol.html">
                                 Espagnol (ES)
                             </a>
-                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                            <a class="navbar-item has-text-primary" href="tableaux/cat_tableaux/tableau_cat.html">
                                 Catalan (CAT)
                             </a>
                         </div>
@@ -50,14 +45,14 @@
                         
                         <a class="navbar-link">Scripts</a>
                         <div class="navbar-dropdown">
-                            <a class="navbar-item"
+                            <a class="navbar-item has-text-danger"
                             href="https://github.com/crispyfunicular/network/tree/main/programmes/zh_prog">
                                 Mandarin (ZH)
                             </a>
-                            <a class="navbar-item" href="tableaux/espagnol.html">
+                            <a class="navbar-item has-text-info" href="https://github.com/crispyfunicular/network/tree/main/programmes/es_prog">
                                 Espagnol (ES)
                             </a>
-                            <a class="navbar-item" href="tableaux/cat_tableaux/tableau_cat.html">
+                            <a class="navbar-item has-text-primary" href="https://github.com/crispyfunicular/network/tree/main/programmes/cat_prog">
                                 Catalan (CAT)
                             </a>
                         </div>
@@ -89,7 +84,7 @@
         <div class="container has-text-centered">
             <h1 class="title is-3">Analyse des résultats</h1>
             <p class="subtitle is-6">
-                Étude comparative des usages du mot <strong>« réseau / network »</strong> dans trois langues
+                Étude comparative des usages du mot <strong>« réseau »</strong> en catalan, espagnol et mandarin
             </p>
         </div>
     </section>
@@ -97,13 +92,13 @@
     <!-- Analyse ES  -->
     <section class="section">
         <div class="container">
-            <div class="box">
-                <h2 class="title is-4">Espagnol</h2>
+            <div class="box has-background-info-light">
+                <h2 class="title is-4 has-text-info">Espagnol</h2>
                 <p>
-                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_es"> ICI : résultats pals, vous pouvez mettre plusieurs hyperliens</a>
-                </p>
+                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_es"><strong>Résultats PALS espagnol</strong></a>
+                </p><br/>
 
-                    <strong>Analyse :</strong><br>
+                    <strong>Analyse :</strong><br/>
                         ICI : analyse 
             </div>
         </div>
@@ -112,14 +107,58 @@
     <!-- Analyse CAT  -->
     <section class="section">
         <div class="container">
-            <div class="box">
-                <h2 class="title is-4">Catalan</h2>
+            <div class="box has-background-primary-light">
+                <h2 class="title is-4 has-text-primary">Catalan</h2>
                 <p>
-                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_cat"> Résultats pals catalan</a>
+                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_cat"><strong>Résultats PALS catalan</strong></a>
+                </p><br/>
+
+                <strong class="has-text-primary">Analyse :</strong>
+
+                <!--1e partie-->
+                <p style="text-indent:2em;">
+                    <strong class="has-text-primary">Équivalence du mot « réseau » en catalan :</strong>
+                </p>
+                <p class="mb-4" style="text-indent:2em;">
+                    En catalan, le mot « réseau » se rend principalement par xarxa (singulier) / xarxes (pluriel). C’est un terme très polysémique : il couvre à la fois des sens abstraits (« réseau social”, « réseau neuronal”, « réseau criminel”, « réseau de transport”) et des sens concrets liés au filet (« xarxa de pesca », techniques de pêche, etc.). C'est ce qui ressort des contextes du corpus, où cohabitent des passages sur les « xarxes socials » et des segments décrivant des « xarxes de pesca » ou des caractéristiques matérielles de filets.
                 </p>
 
-                    <strong>Analyse :</strong><br>
-                        ICI : analyse 
+                <!--2e partie-->
+                <p style="text-indent:2em;">
+                    <strong class="has-text-primary">Construction du corpus catalan (comment choisir les URL) :</strong>
+                </p>
+                <p class="mb-4" style="text-indent:2em;">
+                    Le corpus “dumps” (texte de toutes les pages tokenisées) totalise 67 100 tokens.
+                </p>
+
+                <!--3e partie-->
+                <p style="text-indent:2em;">
+                    <strong class="has-text-primary">Analyse des cooccurrents (spécificité de Lafon) :</strong> <a href="pals/pals_zh/context_cooc.tsv"><strong>Voir le fichier context_cooc.tsv</strong></a><br/>
+                </p>
+                <p  style="text-indent:2em;">
+                    Sur le corpus de contextes, les cooccurrents les plus associés à xarxa/xarxes (scores de spécificité de Lafon) sont :
+                    1) neuronals (32,66), neuronal (20,93), artificials (3,65), profundes (2,59)…
+                    2) socials (32,52), social (5,88), continguts (3,21), aplicacions (2,42)…
+                    3) pesca (9,63), arrossegament (2,60)…
+                    4) transports (7,09), ferroviària (6,08), carretera (1,92), infraestructures (1,65)…
+                    5) criminals (4,10), seguretat (2,77), privacitat (1,92)…
+                </p>
+                <p>
+                    1) <strong class="has-text-primary">Les réseaux de neurones</strong> : Le fait que neuronals et neuronal soient tout en haut montre que, dans ce corpus, « xarxa » est massivement mobilisé via l’expression « xarxa/xarxes neuronals » (réseaux neuronaux), avec un lexique ML/IA (capes, nodes, multicapa, processament, aprenentatge…). 
+                </p>
+                <p>
+                    2) <strong class="has-text-primary">Les réseaux sociaux</strong> : socials est au même niveau que neuronals, ce qui indique un second noyau très stable autour de xarxes socials / xarxa social, associé à des usages marketing/plateformes/contenus (et aussi à des thématiques d’addiction et d’impact psycho).
+                </p>
+                <p>
+                    3) <strong class="has-text-primary">Les filets de pêche</strong> : La présence haute de pesca et arrossegament, plus des items comme « malla/pesos » (qu’on revoit dans la comparaison dumps/contextes), montre que le sens « filet » n’est pas marginal : le mot « xxarxa » garde une base concrète très productive dans le web catalan. 
+                </p>
+                <p>
+                    4) <strong class="has-text-primary">Les infrastructures</strong> : transports, ferroviària, carretera, infraestructures confirment un usage « réseau de transport », mais globalement moins central que IA + social.
+                </p>
+                <p>
+                    5) <strong class="has-text-primary">Les organisations de personnes</strong> : « criminals », « seguretat », « privacitat » pointent des emplois du type xarxes criminals et des contextes de sécurité (données, plate-formes, etc.).
+                </p>
+
             </div>
         </div>
     </section>
@@ -127,19 +166,17 @@
     <!-- Analyse ZH -->
     <section class="section">
         <div class="container">
-            <div class="box">
-                <h2 class="title is-4">Chinois (mandarin)</h2>
+            <div class="box has-background-danger-light">
+                <h2 class="title is-4 has-text-danger">Chinois (mandarin)</h2>
                 <p>
-                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_zh">
-                    Résultats pals chinois
-                    </a>
-                </p>
+                    <a href="https://github.com/crispyfunicular/network/tree/main/pals/pals_zh"><strong>Résultats PALS chinois</strong></a>
+                </p><br/>
 
                 <strong>Analyse :</strong>
 
                 <!--1e partie-->
                 <p style="text-indent:2em;">
-                    <strong>L’équivalence du mot "réseau" en chinois :</strong>
+                    <strong class="has-text-danger">Équivalence du mot « réseau » en chinois :</strong>
                 </p>
                 <p class="mb-4" style="text-indent:2em;">
                     Lors de l’étude de l’équivalence du mot « réseau » en chinois, il peut être rendu par « 网 » ou « 网络 ».
@@ -148,23 +185,23 @@
 
                 <!--2e partie-->
                 <p style="text-indent:2em;">
-                    <strong>Construction du corpus chinois (comment choisir les urls) :</strong>
+                    <strong class="has-text-danger">Construction du corpus chinois (comment choisir les URL) :</strong>
                 </p>
                 <p class="mb-4" style="text-indent:2em;">
                     Lors de la constitution du corpus, nous avons ciblé trois grandes thématiques : « Informatique et numérique », « Social et organisationnel » et « Transports et infrastructures ».
                     J’ai effectué des recherches sur les principaux moteurs de recherche (Google, Bing, Baidu, Sogou) et sélectionné prioritairement des articles de presse et des pages spécialisées pour garantir la pertinence et l’actualité des données.
-                    Pour chaque thématique, environ 20 URLs ont été retenues, ce qui donne un corpus final de 65 URLs.
+                    Pour chaque thématique, environ 20 URL ont été retenues, ce qui donne un corpus final de 65 URLs.
                 </p>
 
-                <!--3e subtitle/partie-->
+                <!--3e partie-->
                 <p style="text-indent:2em;">
-                    <strong>Analyse des cooccurrents :</strong> <a href="pals/pals_zh/context_cooc.tsv">Voir le fichier context_cooc.tsv</a><br>
+                    <strong class="has-text-danger">Analyse des cooccurrents (spécificité de Lafon) :</strong> <a href="pals/pals_zh/context_cooc.tsv"><strong>Voir le fichier context_cooc.tsv</strong></a><br/>
                 </p>
                 <p  style="text-indent:2em;">
                     À partir de ce corpus chinois, j’ai extrait tous les contextes contenant le terme cible « 网络 ».
                     Pour chaque occurrence, j’ai conservé les deux lignes précédant et suivant le mot.
-                    Ces contextes ont ensuite été transformés au format CoNLL et enregistrés dans <a href="pals/pals_zh/contextes-zh.txt">contextes-zh.txt</a>.
-                    Ensuite, j’ai utilisé le script python <a href="https://github.com/YoannDupont/PALS">cooccurrents.py</a> fourni par le prof, qui nous permet de considèrer « 网络 » comme terme central et analyse les 10 mots à gauche et à droite de chaque occurrence et, sur la base de la mesure de spécificité de Lafon, d’identifier les mots les plus fortement associés à « 网络 » dans ce corpus de contextes.
+                    Ces contextes ont ensuite été transformés au format CoNLL et enregistrés dans <a href="pals/pals_zh/contextes-zh.txt"><strong>contextes-zh.txt</strong></a>.
+                    Ensuite, j’ai utilisé le script python <a href="https://github.com/YoannDupont/PALS"><strong>cooccurrents.py</strong></a> fourni par le prof, qui nous permet de considèrer « 网络 » comme terme central et analyse les 10 mots à gauche et à droite de chaque occurrence et, sur la base de la mesure de spécificité de Lafon, d’identifier les mots les plus fortement associés à « 网络 » dans ce corpus de contextes.
                 </p>
                 <p  style="text-indent:2em;">
                     Les résultats montrent que, dans le corpus que j’ai constitué, selon les scores de spécificité de Lafon, « 社交 » (social) atteint un score très élevé de 69,84, formant un noyau central accompagné de mots tels que
@@ -187,15 +224,15 @@
                 </p>
 
                 <p style="text-indent:2em;">
-                    <strong>Analyse de la partition :</strong> <a href="pals/pals_zh/partition_comparison.tsv">Voir le fichier partition_comparison.tsv</a>
+                    <strong class="has-text-danger">Analyse de la partition :</strong> <a href="pals/pals_zh/partition_comparison.tsv"><strong>Voir le fichier partition_comparison.tsv</strong></a></a>
                 </p>
                 <p  style="text-indent:2em;">
-                    Dans cette partie, j’ai comparé le texte de tous les urls (<a href="pals/pals_zh/dumps-text-zh.txt">dumps-text-zh.txt</a>)  avec le corpus de contexte.
-                    J’ai utilisé le script <a href="https://github.com/YoannDupont/PALS">partition.py</a>  fourni par le prof, qui utilise l’algorithme de Lafon pour comparer la fréquence des mots d’un texte à l’autre.
+                    Dans cette partie, j’ai comparé le texte de tous les urls (<a href="pals/pals_zh/dumps-text-zh.txt"><strong>dumps-text-zh.txt</strong></a>) avec le corpus de contexte.
+                    J’ai utilisé le script <a href="https://github.com/YoannDupont/PALS"><strong>partition.py</strong></a> fourni par le prof, qui utilise l’algorithme de Lafon pour comparer la fréquence des mots d’un texte à l’autre.
                     L’idée, c’est de repérer les mots qui sont vraiment liés au « 网络 » et de filtrer les mots qu’on voit partout sur le web mais qui n’ont rien à voir avec le sujet 网络.
                 </p>
                 <p style="text-indent:2em;">
-                    En regardant le fichier de résultats (<a href="pals/pals_zh/partition_comparison.tsv">partition_comparison.tsv</a>), j’ai classé la colonne « specif part-2 » par ordre décroissant,
+                    En regardant le fichier de résultats (<a href="pals/pals_zh/partition_comparison.tsv"><strong>partition_comparison.tsv</strong></a>), j’ai classé la colonne « specif part-2 » par ordre décroissant,
                     et vu surtout les mots qui ont un score de plus de 3.
                     Plus le score est élevé, plus ça veut dire que le mot a l’habitude d’être « collé » au mot « 网络 ».
                 </p>
@@ -230,7 +267,7 @@
         <!-- Pied de page -->
         <footer class="footer has-text-centered">
             <p>
-                Projet PPE « Réseau » – 2025–2026<br>
+                Projet PPE « Réseau » – 2025–2026<br/>
                 Dans le cadre du
                 <a href="https://plurital.org/">Master PluriTAL</a>
             </p>
