@@ -8,9 +8,10 @@
    (BUTTON) Botón del menú principal
      * Cumbre Mundial de Alcaldes 2025
      * ¿Quiénes Somos?
-          + Sobre nosotros C40
+          + Nosotros C40
           + Liderazgo
-               o El sitio web C40 Copresidentes
+               o La galería se montó a una profundidad de C40
+                 Copresidentes
                o Comité Directivo
                o C40 Junta Directiva
           + Financiadores y socios

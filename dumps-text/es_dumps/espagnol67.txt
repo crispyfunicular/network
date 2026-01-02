@@ -306,6 +306,8 @@ Ormazabal, expertos en soluciones eléctricas de distribución en media tensión
      *
      *
 
+   energía eléctrica
+
    distribucion primaria
 
    distribucion secundaria
@@ -313,8 +315,6 @@ Ormazabal, expertos en soluciones eléctricas de distribución en media tensión
    tipos de distribucion
 
    distribución
-
-   energía eléctrica
 
      * Soluciones
           + Smart & digital grids
@@ -357,7 +357,7 @@ Ormazabal, expertos en soluciones eléctricas de distribución en media tensión
      *
      *
 
-   2025. Ormazabal. Todos los derechos reservados
+   2026. Ormazabal. Todos los derechos reservados
      * Aviso legal
      * Política de privacidad
      * Política de cookies

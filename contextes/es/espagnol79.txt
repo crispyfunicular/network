@@ -81,15 +81,17 @@ Actualidad sobre Redes y Tecnología
 
    Redes y Tecnología
    Blog
+   22/12/2025
+   Autonomous Network Journey
+
+NetCheck: hacia una red IP más autónoma y segura
+
+   Fotografía de Ramón Romero
+--
+   Blog
    04/12/2025
    Redes y Tecnología
 
 Crowdsourcing: el aliado invisible para mejorar la experiencia de la red
 
    Fotografía de Víctor Iglesias
---
-
-La optimización radio intenta que los usuarios tengan la mejor experiencia de
-cliente de la red móvil
-
-   Fotografía de María Ángeles Núñez

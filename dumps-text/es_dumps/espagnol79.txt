@@ -324,6 +324,18 @@ Actualidad sobre Redes y Tecnología
 
    Redes y Tecnología
    Blog
+   22/12/2025
+   Autonomous Network Journey
+
+NetCheck: hacia una red IP más autónoma y segura
+
+   Fotografía de Ramón Romero
+
+   Ramón Romero
+   Fotografía de Jesús Ángel Rojo Aranda
+
+   Jesús Ángel Rojo Aranda
+   Blog
    04/12/2025
    Redes y Tecnología
 
@@ -338,18 +350,6 @@ Crowdsourcing: el aliado invisible para mejorar la experiencia de la red
 
 Telefónica es reconocida como líder en el SPARK Matrix(TM) de QKS Group para
 Network as a Service (NaaS)
-
-   entrevistas101-mariaAngeles-nunez
-   Blog
-   28/08/2025
-   Entrevistas 101
-
-La optimización radio intenta que los usuarios tengan la mejor experiencia de
-cliente de la red móvil
-
-   Fotografía de María Ángeles Núñez
-
-   María Ángeles Núñez
 
    Ofrecer la mejor experiencia digital a nuestros clientes.
      * facebook

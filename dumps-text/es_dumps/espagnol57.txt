@@ -35,9 +35,8 @@
      * Última Hora
 
    #
-     * PSdeG
-     * Gripe
-     * Navidad
+     * tractorada
+     * Cabalgata
 
    [INS: :INS]
 
@@ -186,16 +185,15 @@ Críticas y exigencias del BNG
    [INS: :INS]
 
    Última hora
-     * fS Los gallegos gastarán una media de 83 euros en el Sorteo de la
-       Navidad del lunes
-     * fS Vídeo | El Deportivo cierra el 2025 de la peor manera con una
-       derrota heladora en Andorra (1-0)
-     * fS Vídeo | El Celta empata ante el Oviedo en un encuentro casi
-       relajado
-     * fS El PP de Barbadás "sigue en la oposición" y defiende la
-       presunción de inocencia para el alcalde
-     * fS PP de Santiago consigue en Pleno el compromiso del Gobierno
-       local para reincorporar al voluntariado al Refugio de Bando
+     * fS El PPdeG augura un "extenso libro de éxitos colectivos" para
+       Ribeira de la mano de su nueva alcaldesa
+     * fS Desactivan el plan de emergencias en As Somozas al retirar la
+       carga peligrosa del camión de transportes siniestrado
+     * fS El optimismo ante la cuesta de enero, febrero...
+     * fS Muere un hombre atropellado por una cisterna en Lugo, el
+       camionero se marcha del lugar
+     * fS Democracia Ourensana se convierte en el primer apoyo político a
+       las tractoradas contra Mercosur en Ourense
 
 Sin comentarios
 
@@ -219,16 +217,15 @@ Escribe tu comentario
    [INS: :INS]
 
    Última hora
-     * fS Los gallegos gastarán una media de 83 euros en el Sorteo de la
-       Navidad del lunes
-     * fS Vídeo | El Deportivo cierra el 2025 de la peor manera con una
-       derrota heladora en Andorra (1-0)
-     * fS Vídeo | El Celta empata ante el Oviedo en un encuentro casi
-       relajado
-     * fS El PP de Barbadás "sigue en la oposición" y defiende la
-       presunción de inocencia para el alcalde
-     * fS PP de Santiago consigue en Pleno el compromiso del Gobierno
-       local para reincorporar al voluntariado al Refugio de Bando
+     * fS El PPdeG augura un "extenso libro de éxitos colectivos" para
+       Ribeira de la mano de su nueva alcaldesa
+     * fS Desactivan el plan de emergencias en As Somozas al retirar la
+       carga peligrosa del camión de transportes siniestrado
+     * fS El optimismo ante la cuesta de enero, febrero...
+     * fS Muere un hombre atropellado por una cisterna en Lugo, el
+       camionero se marcha del lugar
+     * fS Democracia Ourensana se convierte en el primer apoyo político a
+       las tractoradas contra Mercosur en Ourense
 
    [INS: :INS]
 
@@ -242,40 +239,23 @@ Escribe tu comentario
 
    Cabeceralomasleido 1
    1
-   La Xunta fue de los primeros en reconocer a las familias
-   monoparentales, destaca Rueda
+   Muere un hombre atropellado por una cisterna en Lugo, el camionero se
+   marcha del lugar
    2
-   Protesta de vigilantes por las agresiones en hospitales: "Es una
-   cuestión que afecta a la seguridad de todos"
+   Ence choca miles alegaciones contra la planta de biogás a partir de
+   purines de Xunqueira pese a prometer que no olerá
    3
-   La negociación del convenio de la seguridad privada se romperá mañana
-   salvo sorpresa
+   ¿Regresa el Papa a Santiago de Compostela en 2026? El arzobispado dice
+   que, por ahora, no hay "nada de nada"
    4
-   "Recogida de cable" de la patronal, que no abandona la negociación por
-   el convenio de la seguridad privada
+   Antonio Hidalgo espera más fichajes para su Dépor, pero el mejor regalo
+   es la continuidad de Yeremay
    5
-   Localizado el cuerpo sin vida de un hombre que desapareció mientras
-   buceaba en Bueu
+   Horarios y recorridos de las principales cabalgatas de Reyes en Galicia
 
    [INS: :INS]
 
    Cabecerarecomendados 1
-   Cientos de ejemplares de capón en la Feria del Capón de Vilalba (Lugo)
-   El Capón de Vilalba puede con el frío, más de mil personas asisten a la
-   feria de este producto chairego
-   Archivo - Agraciados con el `Primer Premio' del Sorteo Extraordinario
-   de Lotería de Navidad 2023 correspondiente al número 88008 celebran su
-   suerte en la administración Doña Manolita, a 22 de
-   El sorteo de Navidad 2025 reparte casi 3.000 millones de euros en
-   premios, 70 millones más que en 2024
-   Jornada del BNG en Becerreá
-   El BNG advierte de las amenazas del acuerdo entre la Unión Europea y
-   Mercosur y los recortes de la PAC
-   Rueda de prensa de Apetamcor
-   Apetamcor recurrirá ante el TS la decisión del Gobierno de no admitir
-   la revisión las prórrogas de la AP-9
-   Apetamcor recurrirá ante el TS la decisión del Gobierno de no admitir
-   la revisión las prórrogas de la AP-9
 
    [INS: :INS]
 

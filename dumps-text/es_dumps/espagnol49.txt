@@ -1,38 +1,21 @@
-   [tr?id=1392960898182692 &ev=ViewContent &cd[content_name]=La red
-   ferroviaria espaÃ±ola necesita inversiones en mantenimiento y no tanto
-   que se construyan nuevas lÃ­neas &cd[content_type]=content
-   &cd[content_ids]=262281]
-
    ____________________
    (BUTTON)
-     * Page d'accueil
-     * Culture
-     * Économie + Entreprise
-     * Éducation + Jeunesse
-     * Environnement
-     * Histoire
-     * International
-     * Politique + Société
-     * Santé
-     * Science
-     * En anglais
+     * Home
 
-Édition
+Edition
 
-   [France___________]
-
-   Nos newsletters
+   [Europe___________]
 
    The Conversation
-   Édition:
-   (BUTTON) France
+   Edition:
+   (BUTTON) Europe
      * Africa
      * Australia
      * Brasil
      * Canada
      * Canada (français)
      * España
-     * Europe
+     * France
      * Global
      * Indonesia
      * New Zealand
@@ -40,12 +23,10 @@
      * United States
 
    s
-   Faire un don Nos newsletters
+   Newsletters
    The Conversation
-   L'expertise universitaire, l'exigence journalistique
-   ____________________ (Recherche) (Recherche)
-   Culture Économie + Entreprise Éducation + Jeunesse Environnement
-   Histoire International Politique + Société Santé Science En anglais
+   Academic rigour, journalistic flair
+   ____________________ (Search) (Search)
    Dos trenes enfrentados
    Trenes de alta velocidad Iryo y AVE en la estación de Córdoba.
    Colinmthompson/Shutterstock
@@ -53,29 +34,29 @@
 La red ferroviaria española necesita inversiones en mantenimiento y no tanto
 que se construyan nuevas líneas
 
-   Publié: 12 août 2025, 18:12 CEST
+   Published: August 12, 2025 6.12pm CEST
    Carlos Gutiérrez Hita, Universidad Miguel Hernández
 
-Auteur
+Author
 
     1. Carlos Gutiérrez Hita
        Profesor titular de Universidad. Economía industrial (transporte,
        energía, telecomunicaciones), Universidad Miguel Hernández
 
-Déclaration d'intérêts
+Disclosure statement
 
    Carlos Gutiérrez Hita recibe fondos del Ministerio de Ciencia,
    Innovación y Universidades y de la Consellería de Educación, Cultura,
    Universidades y Empleo de la Generalitat Valenciana.
 
-Partenaires
+Partners
 
    Universidad Miguel Hernández
 
-   Universidad Miguel Hernández apporte un financement en tant que membre
-   adhérent de The Conversation ES.
+   Universidad Miguel Hernández provides funding as a member of The
+   Conversation ES.
 
-   Voir les partenaires de The Conversation France
+   View all partners
 
 DOI
 
@@ -87,13 +68,13 @@ DOI
    iones-en-mantenimiento-y-no-tanto-que-se-construyan-nuevas-lineas-26228
    1
    (BUTTON)
-   Lien copié
-   (BUTTON) Partager
+   Link copied
+   (BUTTON) Share article
    (BUTTON)
 
    Share article
-   (BUTTON) Copy link Partager par e-mail
-   Bluesky Facebook WhatsApp Messenger Linkedin X (anciennement Twitter)
+   (BUTTON) Copy link Email
+   Bluesky Facebook WhatsApp Messenger LinkedIn X (Twitter)
    (BUTTON)
 
    Print article
@@ -269,42 +250,33 @@ Mantenimiento y racionalización
      * estrategia empresarial
      * sector ferroviario
 
-Notre audience
+Events
 
-   Le réseau global The Conversation a une audience mensuelle de 18
-   millions de lecteurs et une audience globale de 42 millions à travers
-   les republications sous la licence Creative Commons.
+   More events
 
-Vous voulez écrire ?
+Jobs
 
-   Écrivez un article et rejoignez une communauté de plus de 216 800
-   universitaires et chercheurs de 5 395 institutions.
+     * Senior Lecturer, Clinical Psychology
+     * Lecturer/Senior Lecturer, Terrestrial Ecology
+     * Video producer
+     * Manager, Intellectual Property Commercialisation
+     * Lecturer (Education Focused)
 
-   Enregistrez-vous maintenant
-     * Ce que nous sommes
-     * Notre équipe
-     * Nos valeurs
-     * Charte éditoriale
-     * Règles de republication
-     * Recevoir nos newsletters
-     * Nos flux
+   More jobs
+     * Editorial Policies
+     * Community standards
+     * Republishing guidelines
+     * Analytics
+     * Our feeds
+     * Get newsletter
 
-     * Faire un don
-     * Nos institutions membres
-     * Notre audience
-     * Notre impact
-     * Kit de communication pour les institutions membres
-     * Événements
-     * Transparence financière
-     * Contactez-nous
+     * Who we are
+     * Our charter
+     * Partners and funders
+     * Resource for media
+     * Contact us
+     * Consent preferences
 
-     * &#8203;
-     * &#8203;
-     * &#8203;
-     * &#8203;
-     * &#8203;
+   Privacy policy Terms and conditions Corrections
 
-   Politique de confidentialité Préférences de consentement Mentions
-   légales
-
-   Droits d'auteur © 2010-2025, The Conversation France (assoc. 1901)
+   Copyright © 2010-2026, The Conversation Media Group Ltd

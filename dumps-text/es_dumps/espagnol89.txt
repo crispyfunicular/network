@@ -966,6 +966,10 @@ Tags Empresas
      * Código arbitrario
      * Explotación de Vulnerabilidades de software
      * ES-ISAC Turismo
+     * ES-ISAC Energía
+     * ES-ISAC Químico
+     * ES-ISAC Automoción
+     * Divulgación de información
 
    Empresas
 

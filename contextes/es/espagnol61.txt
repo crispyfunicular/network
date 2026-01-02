@@ -1,12 +1,12 @@
 Nuestras empresas
 
-   Red EléctricaReintelHispasatRedinterElewitNuestras empresas
+   Red EléctricaReintelRedinterElewit
 
 Navegación principal
 --
 Nuestras empresas
 
-   Red EléctricaReintelHispasatRedinterElewitNuestras empresas
+   Red EléctricaReintelRedinterElewit
 
 Header menu
 --
@@ -24,7 +24,7 @@ Header menu
 --
 
    Inicio
-   Red Eléctrica Redinter Reintel Hispasat Elewit
+   Red Eléctrica Redinter ReintelElewit
    Red eléctica
    Redinter
    Reintel
@@ -73,6 +73,6 @@ Header menu
 --
 Empresas del grupo
 
-   Red EléctricaReintelHispasatWeb Red Eléctrica InternacionalWeb Elewit
+   Red EléctricaReintelWeb Red Eléctrica InternacionalWeb Elewit
 
 Síguenos

@@ -222,7 +222,7 @@ Legitimo
      * Buzón de reclamaciones
      * Configuración de Cookies
 
-   © 2025 - NFON | Todos los derechos reservados.
+   © 2026 - NFON | Todos los derechos reservados.
 
    IFRAME:
    https://app.usercentrics.eu/browser-sdk/4.35.1/cross-domain-bridge.html

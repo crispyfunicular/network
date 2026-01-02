@@ -251,7 +251,7 @@ INFÓRMESE AHORA
    [ ] Acepto la Política de Privacidad*
 
    CAPTCHA
-   Comments
+   Email
    ____________________
    Este campo es un campo de validación y debe quedar sin cambios.
    Enviar

@@ -26,7 +26,7 @@
 
      * Cursos a Distancia
           + Cursos de Salud (17)
-            Cursos de Administración (22)
+            Cursos de Administración (23)
             Cursos de Estética (9)
             Cursos de Educación (24)
             Cursos de Gestión y Liderazgo (8)
@@ -34,7 +34,7 @@
             Cursos de Computación (8)
             Cursos de Deportes (12)
             Cursos de Hotelería y Turismo (4)
-            Cursos de Diseño (5)
+            Cursos de Diseño (6)
             Cursos de Oficios (12)
             Cursos de Veterinaria (2)
             Cursos de Nutrición (5)

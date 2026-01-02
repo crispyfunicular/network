@@ -1,34 +1,33 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-DIR_ORIGEN="../../concordances/es"
-DIR_DESTINO="../../concor_coloration/es"
+DOSSIER_SOURCE="../../concordances/es"
+DOSSIER_CIBLE="../../concor_coloration/es"
 
-ESTILO="color: red; font-weight: bold;"
+STYLE_MOT="color: red; font-weight: bold;"
 
-PALABRAS="telecomunicaciones|infraestructura|monofilamento|funcionamiento|mantenimiento|comunicaciones|instalaciones|horizontales|ferroviaria|localización|electricidad|preferencias|computadoras|herramientas|operaciones|principales|carreteras|deportivas|transporte|estructura|seguridad|marketing|camuflaje|capacidad|objetivos|productos|accesorios|permiten|sociales|agencias|network|agencia|recibir|mejorar|comprar|anuncios|peligros|mallas|utiliza|sistema|altura|metros|tieme|puede|pesca|hilos|tipos|futbol|social|acceso|tenis|malla|cable|acero|vial|plan|cada|gran|esta|solo|tipo|hilo|mono|capa|ser|uso|lan|seo|ley|ads|png|han"
+MOTS="telecomunicaciones|infraestructura|monofilamento|funcionamiento|mantenimiento|comunicaciones|instalaciones|horizontales|ferroviaria|localización|electricidad|preferencias|computadoras|herramientas|operaciones|principales|carreteras|deportivas|transporte|estructura|seguridad|marketing|camuflaje|capacidad|objetivos|productos|accesorios|permiten|sociales|agencias|network|agencia|recibir|mejorar|comprar|anuncios|peligros|mallas|utiliza|sistema|altura|metros|tieme|puede|pesca|hilos|tipos|futbol|social|acceso|tenis|malla|cable|acero|vial|plan|cada|gran|esta|solo|tipo|hilo|mono|capa|ser|uso|lan|seo|ley|ads|png|han"
 
-
-if [ ! -d "$DIR_DESTINO" ]; then
-    echo "Creando carpeta de destino: $DIR_DESTINO"
-    mkdir -p "$DIR_DESTINO"
+if [ ! -d "$DOSSIER_CIBLE" ]; then
+    echo "Création du dossier cible : $DOSSIER_CIBLE"
+    mkdir -p "$DOSSIER_CIBLE"
 fi
 
-echo "Procesando archivos desde: $DIR_ORIGEN"
+echo "Traitement des fichiers depuis : $DOSSIER_SOURCE"
 
-contador=0
+compteur=0
 
-for archivo in "$DIR_ORIGEN"/espagnol*.html; do
-    [ -e "$archivo" ] || continue
+for fichier in "$DOSSIER_SOURCE"/espagnol*.html; do
+    [ -e "$fichier" ] || continue
 
-    nombre_base=$(basename "$archivo")
-    archivo_salida="$DIR_DESTINO/$nombre_base"
+    nom_base=$(basename "$fichier")
+    fichier_sortie="$DOSSIER_CIBLE/$nom_base"
      
-    perl -CSD -pe "s/(<[^>]+>)|(\b(?:$PALABRAS)\b)/\$1 ? \$1 : \"<span style='$ESTILO'>\$2<\/span>\"/gie" "$archivo" > "$archivo_salida"
+    perl -CSD -pe "s/(<[^>]+>)|(\b(?:$MOTS)\b)/\$1 ? \$1 : \"<span style='$STYLE_MOT'>\$2<\/span>\"/gie" "$fichier" > "$fichier_sortie"
     
-    ((contador++))
+    ((compteur++))
 done
 
 echo "--------------------------------------------------"
-echo "¡LISTO!"
-echo "Se han procesado $contador archivos."
-echo "Los archivos coloreados están en: $DIR_DESTINO"
+echo "TERMINÉ !"
+echo "Nombre de fichiers traités : $compteur"
+echo "Les fichiers colorés se trouvent dans : $DOSSIER_CIBLE"

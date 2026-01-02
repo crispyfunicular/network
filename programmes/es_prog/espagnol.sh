@@ -13,26 +13,31 @@ fichier_urls=$1
 echo "<html>
     <head>
         <meta charset=\"UTF-8\">
+        <title>Tableau des URLs</title>
+        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+        <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css\">
     </head>
     <body>
-        <table>
-            <thead>
-                <tr>
-                    <th>Numéro</th>
-                    <th>URL</th>
-                    <th>Code</th>
-                    <th>Encodage</th>
-                    <th>Nombre d'occurrences</th>
-                    <th>Page HTML brut</th>
-                    <th>Dump</th>
-                    <th>Contextes</th>
-                    <th>Concordancier</th>
-                    <th>Bigrammes</th>
-                    <th>Robots.txt</th>
-                    <th>Concorcancier avec coloration</th>
-                </tr>
-            </thead>
-            <tbody>"
+        <section class=\"section\">
+            <div class=\"table-container\">
+                <table class=\"table is-bordered is-hoverable is-striped is-fullwidth\">
+                    <thead class=\"has-background-info has-text-white\">
+                        <tr>
+                            <th class=\"has-text-white\">Numéro</th>
+                            <th class=\"has-text-white\">URL</th>
+                            <th class=\"has-text-white\">Code</th>
+                            <th class=\"has-text-white\">Encodage</th>
+                            <th class=\"has-text-white\">Nombre d'occurrences</th>
+                            <th class=\"has-text-white\">Page HTML brut</th>
+                            <th class=\"has-text-white\">Dump</th>
+                            <th class=\"has-text-white\">Contextes</th>
+                            <th class=\"has-text-white\">Concordancier</th>
+                            <th class=\"has-text-white\">Bigrammes</th>
+                            <th class=\"has-text-white\">Robots.txt</th>
+                            <th class=\"has-text-white\">Concorcancier avec coloration</th>
+                        </tr>
+                    </thead>
+                    <tbody>"
 
 lineno=1
 mot="red(es)?"
@@ -76,8 +81,21 @@ do
     noccurrences=$(grep -Eio "\b$mot\b" "$chemin_dump" | wc -l)
 
     # 7. Génération du Concordancier
-    echo "<html><head><meta charset='UTF-8'></head><body><table>
-        <thead><tr><th>Contexte gauche</th><th>Mot</th><th>Contexte droit</th></tr></thead><tbody>" > "$chemin_concordance"
+    echo "<html>
+    <head>
+        <meta charset=\"UTF-8\">
+        <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css\">
+    </head>
+    <body>
+        <table class=\"table is-bordered is-hoverable is-striped is-fullwidth\">
+            <thead>
+                <tr>
+                    <th>Contexte gauche</th>
+                    <th>Mot</th>
+                    <th>Contexte droit</th>
+                </tr>
+            </thead>
+            <tbody>" > "$chemin_concordance"
 
     grep -Eio "[^ ]*.{0,30}\b$mot\b.{0,30}[^ ]*" "$chemin_dump" | while read -r contexte
     do
@@ -89,8 +107,14 @@ do
     echo "</tbody></table></body></html>" >> "$chemin_concordance"
 
     # 8. Génération de bigrammes
-    echo "<html><head><meta charset='UTF-8'></head><body><table>
-        <tbody>" > "$chemin_bigrammes"
+    echo "<html>
+    <head>
+        <meta charset=\"UTF-8\">
+        <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/versions/bulma-no-dark-mode.min.css\">
+    </head>
+    <body>
+        <table class=\"table is-bordered is-hoverable is-striped is-narrow\">
+            <tbody>" > "$chemin_bigrammes"
 
     words=$(cat "$chemin_dump" | perl -Mutf8 -pe '$_=lc($_)' | grep -oE "[a-záéíóúñü]+")
 
@@ -107,19 +131,21 @@ do
         <td>$http_code</td>
         <td>$encoding</td>
         <td>$noccurrences</td>
-        <td><a href=\"$chemin_aspiration\">HTML</a></td>
-        <td><a href=\"$chemin_dump\">Dump</a></td>
-        <td><a href=\"$chemin_contextes\">Contextes</a></td>
-        <td><a href=\"$chemin_concordance\">Concordance</a></td>
-        <td><a href=\"$chemin_bigrammes\">Bigrammes</a></td>
+        <td><a href=\"../aspirations/es_aspirations/espagnol${lineno}.html\">HTML</a></td>
+        <td><a href=\"../dumps-text/es_dumps/espagnol${lineno}.txt\">Dump</a></td>
+        <td><a href=\"../contextes/es/espagnol${lineno}.txt\">Contextes</a></td>
+        <td><a href=\"../concordances/es/espagnol${lineno}.html\">Concordance</a></td>
+        <td><a href=\"../bigrammes/es_bigrammes/espagnol${lineno}.html\">Bigrammes</a></td>
         <td>$robots_cell</td>
-		<td><a href=\"$chemin_colorarion\">Concor_coloration</a></td>
+        <td><a href=\"../concor_colorarition/es_coloration/espagnol${lineno}.html\">Concor_coloration</a></td>
     </tr>"
 
     lineno=$((lineno + 1))
 done < "$fichier_urls"
 
-echo "      </tbody>
-        </table>
+echo "              </tbody>
+            </table>
+        </div>
+    </section>
     </body>
 </html>"

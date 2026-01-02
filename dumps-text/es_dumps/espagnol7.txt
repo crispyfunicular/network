@@ -504,13 +504,14 @@ Redes para construcción, fijas o de carácter provisional
 
 Blog
 
+     * ¿Se puede reutilizar una línea de vida tras una caída? 2 enero,
+       2026
+     * El riesgo de los puntos ciegos en una instalación de seguridad
+       anticaídas 26 diciembre, 2025
      * Análisis del ciclo de vida de una instalación de línea de vida 19
        diciembre, 2025
      * Como afecta la caducidad de los materiales en los sistemas
        anticaídas 12 diciembre, 2025
-     * ¿Cómo evitar anclajes mal colocados en estructuras tubulares? 5
-       diciembre, 2025
-     * Uso de medios auxiliares para trabajos en altura 28 noviembre, 2025
 
 Dónde estamos
 

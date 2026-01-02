@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-	<!-- This site is optimized with the Yoast SEO plugin v26.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v26.6 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>El impacto del estado de las carreteras en el transporte de mercancías - Transporte 3</title>
 	<meta name="description" content="De los 13.000 kilómetros de carreteras que en 2022 presentaban deterioros muy graves en el pavimento, se ha pasado a un total de..." />
 	<link rel="canonical" href="https://transporte3.com/noticia/22346-el-impacto-del-estado-de-las-carreteras-en-el-transporte-de-mercancias/" />
@@ -54,7 +54,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 
 <link rel='stylesheet' id='contact-form-7-css' href='https://transporte3.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' media='all' />
-<link rel='stylesheet' id='cmplz-general-css' href='https://transporte3.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1764835647' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://transporte3.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1766478151' media='all' />
 <link rel='stylesheet' id='app/0-css' href='https://transporte3.com/wp-content/themes/transporte3/public/css/app.349593.css' media='all' />
 <script src="https://transporte3.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script src="https://transporte3.com/wp-content/themes/transporte3/resources/scripts/debug-helper.js?ver=1.0.0" id="debug-helper-js"></script>
@@ -144,8 +144,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                     const message = bill_errorQueue.join(' | ');
                     //console.log('[Bill Catch] Enviando ao Servidor:', message); // Log temporário para depuração
                     const xhr = new XMLHttpRequest();
-                    const nonce = '5a14dcf63a';
-                    const ajax_url = 'https://transporte3.com/wp-admin/admin-ajax.php?action=bill_minozzi_js_error_catched&_wpnonce=5a14dcf63a';
+                    const nonce = 'b7be5cbceb';
+                    const ajax_url = 'https://transporte3.com/wp-admin/admin-ajax.php?action=bill_minozzi_js_error_catched&_wpnonce=b7be5cbceb';
                     xhr.open('POST', encodeURI(ajax_url));
                     xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
                     xhr.send('action=bill_minozzi_js_error_catched&_wpnonce=' + nonce + '&bill_js_error_catched=' + encodeURIComponent(message));
@@ -179,7 +179,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 .bloque-tabla__summary {
   cursor: pointer;
-  padding: 12px 16px;
+  padding: 48px 16px;
   background: linear-gradient(90deg, #7f0000, #b30000);
   color: #fff;
   font-family: Arial, sans-serif;
@@ -346,6 +346,79 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     font-size: 18px;
   }
 }
+/* ================================
+   BOTONES DE PROVINCIA – MISMO ESTILO EN ESCRITORIO Y MÓVIL
+   ================================ */
+
+/* Forzamos el estilo del summary de provincia también en escritorio */
+.provincia-item {
+  margin-bottom: 12px;
+  border-radius: 8px;
+  background: #ffe5e5;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+/* Botón de provincia */
+.provincia-item__summary {
+  cursor: pointer;
+  padding: 14px 18px;
+  font-weight: 600;
+  background: linear-gradient(90deg, #7f0000, #b30000);
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  position: relative;
+  list-style: none;
+}
+
+/* Quitar marcador nativo */
+.provincia-item__summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Flecha cerrada */
+.provincia-item__summary::after {
+  content: "▼";
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px;
+}
+
+/* Flecha abierta */
+.provincia-item[open] .provincia-item__summary::after {
+  content: "▲";
+}
+
+/* Contenido desplegado */
+.provincia-item__contenido {
+  padding: 14px 16px 16px;
+  background: #ffe5e5;
+  color: #222;
+}
+
+/* Separación entre estaciones en móvil y escritorio */
+.estacion-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #f0c0c0;
+}
+
+.estacion-item:last-child {
+  border-bottom: none;
+}
+
+/* Título de estación */
+.estacion-titulo {
+  margin-bottom: 6px;
+}
+
+/* Ajustes finos en escritorio para que no se vea "apretado" */
+@media (min-width: 769px) {
+  .provincia-item__summary {
+    font-size: 15px;
+  }
+}
 		</style>
 		  </head>
 
@@ -357,32 +430,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
       <div class="row">
           <div class="col-12">
 
-              <div class="banner-lazy-container" 
-                 data-banner-type="top_header_full_width" 
-                 data-banner-id="120853"
-                 data-desktop-class="banner__a d-none d-sm-none d-md-none d-lg-flex"
-                 data-responsive-class="banner__a banner__responsive d-md-flex d-lg-none"
-                 data-desktop-width="1000"
-                 data-desktop-height="100"
-                 data-responsive-width="700"
-                 data-responsive-height="278"
-                 data-desktop-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIyIiBkYXRhLXJldml2ZS1pZD0iOWZhZDMxZDk1ZTgxZDBkZDFlNWZlN2Q0ZGY3NjZjNGUiPjwvaW5zPg0KPHNjcmlwdCBhc3luYyBzcmM9Ii8vdHJhbnNwb3J0ZTMuY29tL2Fzci93d3cvZGVsaXZlcnkvYXN5bmNqcy5waHAiPjwvc2NyaXB0Pg=="
-                 data-mobile-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIzIiBkYXRhLXJldml2ZS1pZD0iOWZhZDMxZDk1ZTgxZDBkZDFlNWZlN2Q0ZGY3NjZjNGUiPjwvaW5zPg0KPHNjcmlwdCBhc3luYyBzcmM9Ii8vdHJhbnNwb3J0ZTMuY29tL2Fzci93d3cvZGVsaXZlcnkvYXN5bmNqcy5waHAiPjwvc2NyaXB0Pg=="
-                 data-desktop-url=""
-                 data-mobile-url=""
-                 data-desktop-image=""
-                 data-mobile-image="">
-                <!-- Banner se cargará aquí -->
-            </div>
-            
-    
-        <div class="banner__wrapper banner__wrapper__center">
-        
-    
-    
-        </div>
-            
-        <!-- BANNER A DEBUG: Type=top_header_full_width, Banner_exists=YES, Active=YES, Banner_ID=120853, Will_render=YES -->                
+              <!-- BANNER A DEBUG: Type=top_header_full_width, Banner_exists=YES, Active=NO, Banner_ID=120853, Will_render=NO -->                
 
               <div class="banner__wrapper banner__wrapper__absolute banner__wrapper__absolute__right">
                 <div id="banner-conditional-sidebar_right_1-header-absolute" class="banner-conditional-container" data-condition="&gt;=1520"></div>
@@ -539,30 +587,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   <div class="container">
       <div class="row">
           <div class="col-12 banner__wrapper">
-            <div class="banner-lazy-container" 
-                 data-banner-type="top_header_left" 
-                 data-banner-id="120858"
-                 data-desktop-class="banner__b banner__desktop d-none d-sm-none d-md-none d-lg-flex"
-                 data-responsive-class="banner__b banner__responsive d-md-flex d-lg-none"
-                 data-desktop-width="650"
-                 data-desktop-height="120"
-                 data-responsive-width="700"
-                 data-responsive-height="150"
-                 data-desktop-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSI0IiBkYXRhLXJldml2ZS10YXJnZXQ9Il9ibGFuayIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
-                 data-mobile-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSI1IiBkYXRhLXJldml2ZS10YXJnZXQ9Il9ibGFuayIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
-                 data-desktop-url=""
-                 data-mobile-url=""
-                 data-desktop-image=""
-                 data-mobile-image="">
-                <!-- Banner se cargará aquí -->
-            </div>
-            
-    
-        
-    
-    
-            
-                    <div class="banner-lazy-container" 
+                        <div class="banner-lazy-container" 
                  data-banner-type="top_header_right" 
                  data-banner-id="120872"
                  data-desktop-class="banner__c banner__desktop d-none d-sm-none d-md-none d-lg-flex"
@@ -685,30 +710,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 
-              <div class="banner-lazy-container" 
-                 data-banner-type="content_1" 
-                 data-banner-id="120912"
-                 data-desktop-class="banner__g banner__desktop d-none d-sm-none d-md-none d-lg-flex"
-                 data-responsive-class="banner__g banner__responsive d-md-flex d-lg-none"
-                 data-desktop-width="870"
-                 data-desktop-height="160"
-                 data-responsive-width="700"
-                 data-responsive-height="292"
-                 data-desktop-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIyOCIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
-                 data-mobile-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIyOSIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
-                 data-desktop-url=""
-                 data-mobile-url=""
-                 data-desktop-image=""
-                 data-mobile-image="">
-                <!-- Banner se cargará aquí -->
-            </div>
-            
-    
-        
-    
-    
-            
-            <div class="article__content">
+                  <div class="article__content">
         <p>La Asociación Española de la Carretera (AEC) estima que <strong>33.966 kilómetros necesitan una reconstrucción de carácter urgente </strong>(actuaciones en un plazo inferior a un año) porque registran alteraciones muy serias, tanto estructurales (baches y piel de cocodrilo), como superficiales (grietas longitudinales y transversales, y descarnaduras). Asimismo, se han contabilizado otros<strong> 20.407 kilómetros de carreteras más en los que es necesario actuar en un plazo máximo de cuatro años.</strong></p>
 <p>La investigación de la AEC concluye, por tanto, que <strong>en un cuatrienio sería necesario intervenir en más de la mitad de las carreteras españolas (54.373 kilómetros de un total de 101.700)</strong>. A su juicio, sus firmes se encuentran en la peor situación detectada desde finales de la década de los 80, principios de los 90, cuando se llevó a cabo el último gran Plan General de Carreteras de nuestra historia reciente. Según sus estimaciones, <strong>el déficit de inversión acumulado supera ya los 13.400 millones de euros.</strong></p>
 <h4><strong>Consecuencias</strong></h4>
@@ -821,29 +823,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
 
     <div class="block-3-move">
-        <div class="banner-lazy-container" 
-                 data-banner-type="content_2" 
-                 data-banner-id="120916"
-                 data-desktop-class="banner__g banner__g2 banner__desktop d-none d-sm-none d-md-none d-lg-flex"
-                 data-responsive-class="banner__g banner__g2 banner__responsive d-md-flex d-lg-none"
-                 data-desktop-width="870"
-                 data-desktop-height="160"
-                 data-responsive-width="700"
-                 data-responsive-height="292"
-                 data-desktop-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIzMCIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
-                 data-mobile-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIzMSIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
-                 data-desktop-url=""
-                 data-mobile-url=""
-                 data-desktop-image=""
-                 data-mobile-image="">
-                <!-- Banner se cargará aquí -->
-            </div>
-            
-    
-        
-    
-    
-            
             </div>
 
     <div class="block-4-move">
@@ -965,9 +944,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23072-ontime-grupo-fuentes-vuelve-a-casa-por-navidad-u-a/"
-                                            aria-label="Leer Grupo Fuentes vuelve a casa por Navidad y anuncia una importante alianza"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/fuentes-ontime-Custom-1000x454.webp" class="img-fluid wp-post-image" alt="Fuentes Ontime" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23133-mercedes-benz-trucks-inicia-la-produccion-del-nuevo-eactros-400/"
+                                            aria-label="Leer Mercedes-Benz Trucks inicia la producción del nuevo eActros 400"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/eActros-400-1-1000x454.webp" class="img-fluid wp-post-image" alt="eActros 400" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -975,10 +954,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23072-ontime-grupo-fuentes-vuelve-a-casa-por-navidad-u-a/">Grupo Fuentes vuelve a casa por Navidad y anuncia una importante alianza</a>
+                                            <a href="https://transporte3.com/noticia/23133-mercedes-benz-trucks-inicia-la-produccion-del-nuevo-eactros-400/">Mercedes-Benz Trucks inicia la producción del nuevo eActros 400</a>
                                         </h2>
                                         <div class="article__category"><a
-                                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
+                                                href="https://transporte3.com/categoria/camiones/">Camiones</a>
                                         </div>
 
                                     </div>
@@ -989,9 +968,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23099-las-44-toneladas-ya-tienen-precio/"
-                                            aria-label="Leer Las 44 toneladas ya tienen precio"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/44-toneladas-copia-1-1000x454.webp" class="img-fluid wp-post-image" alt="44 toneladas" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-29-de-diciembre-de-2025/"
+                                            aria-label="Leer Restricciones a la circulación de camiones el 29 de diciembre de 2025"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/29-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -999,7 +978,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23099-las-44-toneladas-ya-tienen-precio/">Las 44 toneladas ya tienen precio</a>
+                                            <a href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-29-de-diciembre-de-2025/">Restricciones a la circulación de camiones el 29 de diciembre de 2025</a>
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1013,9 +992,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23075-mas-sorpresas-con-las-44-toneladas-un-olvido-puede-costar-mas-de-1-000-euros/"
-                                            aria-label="Leer Las 44 toneladas traen más sorpresas: un simple olvido puede costar más de 1.000 euros"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/44-toneladas-Custom-1000x454.webp" class="img-fluid wp-post-image" alt="44 toneladas" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23131-restricciones-a-la-circulacion-de-camiones-el-28-de-diciembre-de-2025/"
+                                            aria-label="Leer Restricciones a la circulación de camiones el 28 de diciembre de 2025"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/28-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -1023,7 +1002,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23075-mas-sorpresas-con-las-44-toneladas-un-olvido-puede-costar-mas-de-1-000-euros/">Las 44 toneladas traen más sorpresas: un simple olvido puede costar más de 1.000 euros</a>
+                                            <a href="https://transporte3.com/noticia/23131-restricciones-a-la-circulacion-de-camiones-el-28-de-diciembre-de-2025/">Restricciones a la circulación de camiones el 28 de diciembre de 2025</a>
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1037,9 +1016,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23091-el-silencio-de-oscar-puente-indigna-a-los-transportistas-resulta-incomprensible-y-profundamente-decepcionante/"
-                                            aria-label="Leer El silencio de Óscar Puente indigna a los transportistas: «Resulta incomprensible y profundamente decepcionante»"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/cetm-francia-Custom-1000x454.webp" class="img-fluid wp-post-image" alt="transportistas Francia" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-31-de-diciembre-de-2025/"
+                                            aria-label="Leer Restricciones a la circulación de camiones el 31 de diciembre de 2025"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/31-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -1047,7 +1026,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23091-el-silencio-de-oscar-puente-indigna-a-los-transportistas-resulta-incomprensible-y-profundamente-decepcionante/">El silencio de Óscar Puente indigna a los transportistas: «Resulta incomprensible y profundamente decepcionante»</a>
+                                            <a href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-31-de-diciembre-de-2025/">Restricciones a la circulación de camiones el 31 de diciembre de 2025</a>
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1061,9 +1040,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23107-asi-subira-el-sueldo-de-los-conductores-profesionales-en-la-region-de-murcia-froet/"
-                                            aria-label="Leer Así subirá el sueldo de los conductores profesionales en la Región de Murcia"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/froet-1-1000x454.webp" class="img-fluid wp-post-image" alt="froet" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23134-gloria-ibanez-fasertrans-se-incorpora-al-jurado-de-los-premios-nacionales-del-transporte/"
+                                            aria-label="Leer Gloria Ibáñez (FASERTRANS) se incorpora al jurado de los Premios Nacionales del Transporte"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Gloria-Ibanez-FASERTRANS-1-1000x454.webp" class="img-fluid wp-post-image" alt="FASERTRANS" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -1071,7 +1050,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23107-asi-subira-el-sueldo-de-los-conductores-profesionales-en-la-region-de-murcia-froet/">Así subirá el sueldo de los conductores profesionales en la Región de Murcia</a>
+                                            <a href="https://transporte3.com/noticia/23134-gloria-ibanez-fasertrans-se-incorpora-al-jurado-de-los-premios-nacionales-del-transporte/">Gloria Ibáñez (FASERTRANS) se incorpora al jurado de los Premios Nacionales del Transporte</a>
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1085,9 +1064,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23108-el-ministerio-de-transportes-flexibiliza-los-tiempos-de-conduccion-y-descanso-hasta-12-dias-consecutivos-de-conduccion/"
-                                            aria-label="Leer El Ministerio de Transportes flexibiliza los tiempos de conducción y descanso: hasta 12 días consecutivos al volante"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/ministerio-de-transportes-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-30-de-diciembre-de-2025/"
+                                            aria-label="Leer Restricciones a la circulación de camiones el 30 de diciembre de 2025"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/30-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -1095,7 +1074,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23108-el-ministerio-de-transportes-flexibiliza-los-tiempos-de-conduccion-y-descanso-hasta-12-dias-consecutivos-de-conduccion/">El Ministerio de Transportes flexibiliza los tiempos de conducción y descanso: hasta 12 días consecutivos al volante</a>
+                                            <a href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-30-de-diciembre-de-2025/">Restricciones a la circulación de camiones el 30 de diciembre de 2025</a>
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1109,9 +1088,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23100-cetm-reclama-una-flexibilizacion-temporal-de-los-tiempos-de-conduccion-y-descanso/"
-                                            aria-label="Leer CETM reclama una flexibilización temporal de los tiempos de conducción y descanso"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/cetm-1-1000x454.webp" class="img-fluid wp-post-image" alt="CETM" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23138-liderkit-consolida-su-liderazgo-en-2025/"
+                                            aria-label="Leer Liderkit consolida su liderazgo en 2025"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Liderkit-1-1000x454.webp" class="img-fluid wp-post-image" alt="Liderkit" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -1119,10 +1098,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23100-cetm-reclama-una-flexibilizacion-temporal-de-los-tiempos-de-conduccion-y-descanso/">CETM reclama una flexibilización temporal de los tiempos de conducción y descanso</a>
+                                            <a href="https://transporte3.com/noticia/23138-liderkit-consolida-su-liderazgo-en-2025/">Liderkit consolida su liderazgo en 2025</a>
                                         </h2>
                                         <div class="article__category"><a
-                                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
+                                                href="https://transporte3.com/categoria/carrocerias/">Carrocerías</a>
                                         </div>
 
                                     </div>
@@ -1133,9 +1112,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23098-man-truck-bus-entrega-el-primer-camion-electrico-de-larga-distancia-en-espana-a-grupo-disfrimur/"
-                                            aria-label="Leer MAN Truck &#038; Bus entrega el primer camión eléctrico de larga distancia en España a Grupo Disfrimur"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/MAN-disfrimur-copia-1-1000x454.webp" class="img-fluid wp-post-image" alt="MAN Disfrimur" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/"
+                                            aria-label="Leer Transportes incrementa el precio de los peajes de las autopistas para 2026"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/peajes-1-1000x454.webp" class="img-fluid wp-post-image" alt="Peajes" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -1143,31 +1122,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23098-man-truck-bus-entrega-el-primer-camion-electrico-de-larga-distancia-en-espana-a-grupo-disfrimur/">MAN Truck &#038; Bus entrega el primer camión eléctrico de larga distancia en España a Grupo Disfrimur</a>
-                                        </h2>
-                                        <div class="article__category"><a
-                                                href="https://transporte3.com/categoria/camiones/">Camiones</a>
-                                        </div>
-
-                                    </div>
-                                </article>
-
-
-                                                                                            
-
-                                <article class="article swiper-slide">
-                                    <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23077-una-semana-negra-amenaza-al-transporte-espanol/"
-                                            aria-label="Leer Una &#8216;semana negra&#8217; amenaza al transporte español"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/francia-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
-                                                                                    
-                                    </div>
-                                    <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-9.f94a87.svg" alt="num">
-                                    </div>
-                                    <div class="article__text">
-                                        <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23077-una-semana-negra-amenaza-al-transporte-espanol/">Una &#8216;semana negra&#8217; amenaza al transporte español</a>
+                                            <a href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/">Transportes incrementa el precio de los peajes de las autopistas para 2026</a>
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1181,9 +1136,33 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23096-fallece-antonio-bautista-gonzalez/"
-                                            aria-label="Leer Fallece Antonio Bautista González"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Antonio-Bautista-Gonzalez-9-1-1000x454.webp" class="img-fluid wp-post-image" alt="Antonio Bautista González" decoding="async" loading="lazy" />
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/"
+                                            aria-label="Leer Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Daniel-Latorre-UNO-9-copia-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                                                                                    
+                                    </div>
+                                    <div class="article__number">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-9.f94a87.svg" alt="num">
+                                    </div>
+                                    <div class="article__text">
+                                        <h2 class="article__title title titleM">
+                                            <a href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/">Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»</a>
+                                        </h2>
+                                        <div class="article__category"><a
+                                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
+                                        </div>
+
+                                    </div>
+                                </article>
+
+
+                                                                                            
+
+                                <article class="article swiper-slide">
+                                    <div class="article__image">
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23142-joan-monzon-furgo-trayler-participa-en-la-eleccion-de-los-premios-nacionales-del-transporte/"
+                                            aria-label="Leer Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios Nacionales del Transporte"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2026/01/Joan-Monzon-Furgo-trayler-1-1000x454.webp" class="img-fluid wp-post-image" alt="Furgo-Trayler" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
@@ -1191,10 +1170,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23096-fallece-antonio-bautista-gonzalez/">Fallece Antonio Bautista González</a>
+                                            <a href="https://transporte3.com/noticia/23142-joan-monzon-furgo-trayler-participa-en-la-eleccion-de-los-premios-nacionales-del-transporte/">Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios Nacionales del Transporte</a>
                                         </h2>
                                         <div class="article__category"><a
-                                                href="https://transporte3.com/categoria/camiones/">Camiones</a>
+                                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
                                         </div>
 
                                     </div>
@@ -1220,9 +1199,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <div class="article__crossposts__list">
         <article class="article">
                         <div class="article__image">
-                <a class="article__image__link" href="https://transporte3.com/noticia/23112-uetr-descarbonizacion-transporte-por-carretera-ue/" target="_blank"
-                    aria-label="Leer La UETR celebra el enfoque realista de la Comisión Europea en la descarbonización del transporte por carretera"></a>
-                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/descarbonizacion-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                <a class="article__image__link" href="https://transporte3.com/noticia/23142-joan-monzon-furgo-trayler-participa-en-la-eleccion-de-los-premios-nacionales-del-transporte/" target="_blank"
+                    aria-label="Leer Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios Nacionales del Transporte"></a>
+                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2026/01/Joan-Monzon-Furgo-trayler-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
             </div>
             
 
@@ -1233,8 +1212,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <div class="article__text">
         <h2 class="article__title title titleM">
-            <a href="https://transporte3.com/noticia/23112-uetr-descarbonizacion-transporte-por-carretera-ue/">
-                La UETR celebra el enfoque realista de la Comisión Europea en la descarbonización del transporte por carretera            </a>
+            <a href="https://transporte3.com/noticia/23142-joan-monzon-furgo-trayler-participa-en-la-eleccion-de-los-premios-nacionales-del-transporte/">
+                Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios Nacionales del Transporte            </a>
         </h2>
         <div class="article__category">
             <a href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1242,23 +1221,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
     <div class="article__meta__info">
         <div class="article__meta__info__clock">
-            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="21/12/2025" loading="lazy"
+            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="02/01/2026" loading="lazy"
                 style="width: 14px;height: 13px;">
         </div>
 
         <div class="article__meta__info__date">
-            21/12/2025        </div>
+            02/01/2026        </div>
 
         <span class="article__meta__info__separator"></span>
         <div class="article__meta__info__hour">
-            21:09        </div>
+            07:39        </div>
     </div>
 </article>
 <article class="article">
                         <div class="article__image">
-                <a class="article__image__link" href="https://transporte3.com/noticia/23110-restricciones-a-la-circulacion-de-camiones-el-22-de-diciembre-de-2025/" target="_blank"
-                    aria-label="Leer Restricciones a la circulación de camiones el 22 de diciembre de 2025"></a>
-                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/22-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                <a class="article__image__link" href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/" target="_blank"
+                    aria-label="Leer Transportes incrementa el precio de los peajes de las autopistas para 2026"></a>
+                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/peajes-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
             </div>
             
 
@@ -1269,8 +1248,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <div class="article__text">
         <h2 class="article__title title titleM">
-            <a href="https://transporte3.com/noticia/23110-restricciones-a-la-circulacion-de-camiones-el-22-de-diciembre-de-2025/">
-                Restricciones a la circulación de camiones el 22 de diciembre de 2025            </a>
+            <a href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/">
+                Transportes incrementa el precio de los peajes de las autopistas para 2026            </a>
         </h2>
         <div class="article__category">
             <a href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1278,23 +1257,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
     <div class="article__meta__info">
         <div class="article__meta__info__clock">
-            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="21/12/2025" loading="lazy"
+            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="31/12/2025" loading="lazy"
                 style="width: 14px;height: 13px;">
         </div>
 
         <div class="article__meta__info__date">
-            21/12/2025        </div>
+            31/12/2025        </div>
 
         <span class="article__meta__info__separator"></span>
         <div class="article__meta__info__hour">
-            18:36        </div>
+            10:47        </div>
     </div>
 </article>
 <article class="article">
                         <div class="article__image">
-                <a class="article__image__link" href="https://transporte3.com/noticia/23108-el-ministerio-de-transportes-flexibiliza-los-tiempos-de-conduccion-y-descanso-hasta-12-dias-consecutivos-de-conduccion/" target="_blank"
-                    aria-label="Leer El Ministerio de Transportes flexibiliza los tiempos de conducción y descanso: hasta 12 días consecutivos al volante"></a>
-                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/ministerio-de-transportes-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                <a class="article__image__link" href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/" target="_blank"
+                    aria-label="Leer Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»"></a>
+                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Daniel-Latorre-UNO-9-copia-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
             </div>
             
 
@@ -1305,8 +1284,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <div class="article__text">
         <h2 class="article__title title titleM">
-            <a href="https://transporte3.com/noticia/23108-el-ministerio-de-transportes-flexibiliza-los-tiempos-de-conduccion-y-descanso-hasta-12-dias-consecutivos-de-conduccion/">
-                El Ministerio de Transportes flexibiliza los tiempos de conducción y descanso: hasta 12 días consecutivos al volante            </a>
+            <a href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/">
+                Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»            </a>
         </h2>
         <div class="article__category">
             <a href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1314,23 +1293,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
     <div class="article__meta__info">
         <div class="article__meta__info__clock">
-            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="20/12/2025" loading="lazy"
+            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="30/12/2025" loading="lazy"
                 style="width: 14px;height: 13px;">
         </div>
 
         <div class="article__meta__info__date">
-            20/12/2025        </div>
+            30/12/2025        </div>
 
         <span class="article__meta__info__separator"></span>
         <div class="article__meta__info__hour">
-            11:53        </div>
+            12:55        </div>
     </div>
 </article>
 <article class="article">
                         <div class="article__image">
-                <a class="article__image__link" href="https://transporte3.com/noticia/23109-restricciones-a-la-circulacion-de-camiones-el-21-de-diciembre-de-2025/" target="_blank"
-                    aria-label="Leer Restricciones a la circulación de camiones el 21 de diciembre de 2025"></a>
-                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/21-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                <a class="article__image__link" href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-31-de-diciembre-de-2025/" target="_blank"
+                    aria-label="Leer Restricciones a la circulación de camiones el 31 de diciembre de 2025"></a>
+                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/31-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
             </div>
             
 
@@ -1341,8 +1320,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <div class="article__text">
         <h2 class="article__title title titleM">
-            <a href="https://transporte3.com/noticia/23109-restricciones-a-la-circulacion-de-camiones-el-21-de-diciembre-de-2025/">
-                Restricciones a la circulación de camiones el 21 de diciembre de 2025            </a>
+            <a href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-31-de-diciembre-de-2025/">
+                Restricciones a la circulación de camiones el 31 de diciembre de 2025            </a>
         </h2>
         <div class="article__category">
             <a href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1350,23 +1329,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
     <div class="article__meta__info">
         <div class="article__meta__info__clock">
-            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="20/12/2025" loading="lazy"
+            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="30/12/2025" loading="lazy"
                 style="width: 14px;height: 13px;">
         </div>
 
         <div class="article__meta__info__date">
-            20/12/2025        </div>
+            30/12/2025        </div>
 
         <span class="article__meta__info__separator"></span>
         <div class="article__meta__info__hour">
-            11:09        </div>
+            12:51        </div>
     </div>
 </article>
 <article class="article">
                         <div class="article__image">
-                <a class="article__image__link" href="https://transporte3.com/noticia/23107-asi-subira-el-sueldo-de-los-conductores-profesionales-en-la-region-de-murcia-froet/" target="_blank"
-                    aria-label="Leer Así subirá el sueldo de los conductores profesionales en la Región de Murcia"></a>
-                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/froet-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                <a class="article__image__link" href="https://transporte3.com/noticia/23135-repunte-de-los-plazos-de-pago-a-los-transportistas-en-noviembre/" target="_blank"
+                    aria-label="Leer Repunte de los plazos de pago a los transportistas en noviembre"></a>
+                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/plazos-de-pago-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
             </div>
             
 
@@ -1377,8 +1356,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <div class="article__text">
         <h2 class="article__title title titleM">
-            <a href="https://transporte3.com/noticia/23107-asi-subira-el-sueldo-de-los-conductores-profesionales-en-la-region-de-murcia-froet/">
-                Así subirá el sueldo de los conductores profesionales en la Región de Murcia            </a>
+            <a href="https://transporte3.com/noticia/23135-repunte-de-los-plazos-de-pago-a-los-transportistas-en-noviembre/">
+                Repunte de los plazos de pago a los transportistas en noviembre            </a>
         </h2>
         <div class="article__category">
             <a href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1386,23 +1365,23 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
     <div class="article__meta__info">
         <div class="article__meta__info__clock">
-            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="19/12/2025" loading="lazy"
+            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="30/12/2025" loading="lazy"
                 style="width: 14px;height: 13px;">
         </div>
 
         <div class="article__meta__info__date">
-            19/12/2025        </div>
+            30/12/2025        </div>
 
         <span class="article__meta__info__separator"></span>
         <div class="article__meta__info__hour">
-            14:59        </div>
+            09:33        </div>
     </div>
 </article>
 <article class="article">
                         <div class="article__image">
-                <a class="article__image__link" href="https://transporte3.com/noticia/23105-luis-miguel-tomillo-cisternas-quimicas-se-une-a-los-premios-nacionales-del-transporte/" target="_blank"
-                    aria-label="Leer Luis Miguel Tomillo (CISTERNAS QUÍMICAS) se une a los Premios Nacionales del Transporte"></a>
-                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/tomillo-9-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                <a class="article__image__link" href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-30-de-diciembre-de-2025/" target="_blank"
+                    aria-label="Leer Restricciones a la circulación de camiones el 30 de diciembre de 2025"></a>
+                <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/30-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
             </div>
             
 
@@ -1413,8 +1392,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
     <div class="article__text">
         <h2 class="article__title title titleM">
-            <a href="https://transporte3.com/noticia/23105-luis-miguel-tomillo-cisternas-quimicas-se-une-a-los-premios-nacionales-del-transporte/">
-                Luis Miguel Tomillo (CISTERNAS QUÍMICAS) se une a los Premios Nacionales del Transporte            </a>
+            <a href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-30-de-diciembre-de-2025/">
+                Restricciones a la circulación de camiones el 30 de diciembre de 2025            </a>
         </h2>
         <div class="article__category">
             <a href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1422,16 +1401,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     </div>
     <div class="article__meta__info">
         <div class="article__meta__info__clock">
-            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="19/12/2025" loading="lazy"
+            <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" alt="29/12/2025" loading="lazy"
                 style="width: 14px;height: 13px;">
         </div>
 
         <div class="article__meta__info__date">
-            19/12/2025        </div>
+            29/12/2025        </div>
 
         <span class="article__meta__info__separator"></span>
         <div class="article__meta__info__hour">
-            12:23        </div>
+            14:51        </div>
     </div>
 </article>
 
@@ -1483,9 +1462,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                     </div>
                                                 <article class="article">
                                     <div class="article__image">
-                    <a class="article__image__link" href="https://transporte3.com/noticia/23112-uetr-descarbonizacion-transporte-por-carretera-ue/"
-                        aria-label="Leer La UETR celebra el enfoque realista de la Comisión Europea en la descarbonización del transporte por carretera"></a>
-                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/descarbonizacion-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                    <a class="article__image__link" href="https://transporte3.com/noticia/23142-joan-monzon-furgo-trayler-participa-en-la-eleccion-de-los-premios-nacionales-del-transporte/"
+                        aria-label="Leer Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios Nacionales del Transporte"></a>
+                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2026/01/Joan-Monzon-Furgo-trayler-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                     
 
                 </div>
@@ -1493,8 +1472,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
         <div class="article__text">
             <h2 class="article__title title titleM">
-                <a href="https://transporte3.com/noticia/23112-uetr-descarbonizacion-transporte-por-carretera-ue/">
-                    La UETR celebra el enfoque realista de la Comisión Europea en la descarbonización del transporte por carretera                </a>
+                <a href="https://transporte3.com/noticia/23142-joan-monzon-furgo-trayler-participa-en-la-eleccion-de-los-premios-nacionales-del-transporte/">
+                    Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios Nacionales del Transporte                </a>
             </h2>
                                                 <div class="article__category a">
                                                     <a
@@ -1504,11 +1483,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                         <div class="article__meta__info" style="transform-origin: left;">
                 <div class="article__date">
     <div class="article__meta__info__clock" width="14" height="24">
-        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-21T20:09:20+00:00" style="width: 14px;height: 13px;">
+        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2026-01-02T06:39:58+00:00" style="width: 14px;height: 13px;">
     </div>
-    <span class="article__meta__info__date" datetime="2025-12-21T20:09:20+00:00">21/12/2025</span>
+    <span class="article__meta__info__date" datetime="2026-01-02T06:39:58+00:00">02/01/2026</span>
     <span class="article__meta__info__separator"></span>
-    <div class="article__meta__info__hour">21:09</div>
+    <div class="article__meta__info__hour">07:39</div>
 </div>
 
             </div>
@@ -1545,9 +1524,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                     </div>
                                                 <article class="article">
                                     <div class="article__image">
-                    <a class="article__image__link" href="https://transporte3.com/noticia/23111-diesel-technic-refuerza-su-posicion-en-el-sector-de-la-postventa-mundial-en-2025/"
-                        aria-label="Leer Diesel Technic refuerza su posición en el sector de la postventa mundial en 2025"></a>
-                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/DIESEL-TECHNIC_018_-press-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                    <a class="article__image__link" href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/"
+                        aria-label="Leer Transportes incrementa el precio de los peajes de las autopistas para 2026"></a>
+                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/peajes-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                     
 
                 </div>
@@ -1555,22 +1534,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
         <div class="article__text">
             <h2 class="article__title title titleM">
-                <a href="https://transporte3.com/noticia/23111-diesel-technic-refuerza-su-posicion-en-el-sector-de-la-postventa-mundial-en-2025/">
-                    Diesel Technic refuerza su posición en el sector de la postventa mundial en 2025                </a>
+                <a href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/">
+                    Transportes incrementa el precio de los peajes de las autopistas para 2026                </a>
             </h2>
                                                 <div class="article__category a">
                                                     <a
-                                href="https://transporte3.com/categoria/componentes/">Componentes</a>
+                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
                         
                     </div>
                                         <div class="article__meta__info" style="transform-origin: left;">
                 <div class="article__date">
     <div class="article__meta__info__clock" width="14" height="24">
-        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-21T18:00:26+00:00" style="width: 14px;height: 13px;">
+        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-31T09:47:26+00:00" style="width: 14px;height: 13px;">
     </div>
-    <span class="article__meta__info__date" datetime="2025-12-21T18:00:26+00:00">21/12/2025</span>
+    <span class="article__meta__info__date" datetime="2025-12-31T09:47:26+00:00">31/12/2025</span>
     <span class="article__meta__info__separator"></span>
-    <div class="article__meta__info__hour">19:00</div>
+    <div class="article__meta__info__hour">10:47</div>
 </div>
 
             </div>
@@ -1584,9 +1563,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                                                                                 </div>
                                                 <article class="article">
                                     <div class="article__image">
-                    <a class="article__image__link" href="https://transporte3.com/noticia/23110-restricciones-a-la-circulacion-de-camiones-el-22-de-diciembre-de-2025/"
-                        aria-label="Leer Restricciones a la circulación de camiones el 22 de diciembre de 2025"></a>
-                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/22-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                    <a class="article__image__link" href="https://transporte3.com/noticia/23138-liderkit-consolida-su-liderazgo-en-2025/"
+                        aria-label="Leer Liderkit consolida su liderazgo en 2025"></a>
+                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Liderkit-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                     
 
                 </div>
@@ -1594,22 +1573,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
         <div class="article__text">
             <h2 class="article__title title titleM">
-                <a href="https://transporte3.com/noticia/23110-restricciones-a-la-circulacion-de-camiones-el-22-de-diciembre-de-2025/">
-                    Restricciones a la circulación de camiones el 22 de diciembre de 2025                </a>
+                <a href="https://transporte3.com/noticia/23138-liderkit-consolida-su-liderazgo-en-2025/">
+                    Liderkit consolida su liderazgo en 2025                </a>
             </h2>
                                                 <div class="article__category a">
                                                     <a
-                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
+                                href="https://transporte3.com/categoria/carrocerias/">Carrocerías</a>
                         
                     </div>
                                         <div class="article__meta__info" style="transform-origin: left;">
                 <div class="article__date">
     <div class="article__meta__info__clock" width="14" height="24">
-        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-21T17:36:47+00:00" style="width: 14px;height: 13px;">
+        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-30T12:59:36+00:00" style="width: 14px;height: 13px;">
     </div>
-    <span class="article__meta__info__date" datetime="2025-12-21T17:36:47+00:00">21/12/2025</span>
+    <span class="article__meta__info__date" datetime="2025-12-30T12:59:36+00:00">30/12/2025</span>
     <span class="article__meta__info__separator"></span>
-    <div class="article__meta__info__hour">18:36</div>
+    <div class="article__meta__info__hour">13:59</div>
 </div>
 
             </div>
@@ -1623,9 +1602,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                                                                                 </div>
                                                 <article class="article">
                                     <div class="article__image">
-                    <a class="article__image__link" href="https://transporte3.com/noticia/23108-el-ministerio-de-transportes-flexibiliza-los-tiempos-de-conduccion-y-descanso-hasta-12-dias-consecutivos-de-conduccion/"
-                        aria-label="Leer El Ministerio de Transportes flexibiliza los tiempos de conducción y descanso: hasta 12 días consecutivos al volante"></a>
-                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/ministerio-de-transportes-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                    <a class="article__image__link" href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/"
+                        aria-label="Leer Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»"></a>
+                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Daniel-Latorre-UNO-9-copia-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                     
 
                 </div>
@@ -1633,8 +1612,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
         <div class="article__text">
             <h2 class="article__title title titleM">
-                <a href="https://transporte3.com/noticia/23108-el-ministerio-de-transportes-flexibiliza-los-tiempos-de-conduccion-y-descanso-hasta-12-dias-consecutivos-de-conduccion/">
-                    El Ministerio de Transportes flexibiliza los tiempos de conducción y descanso: hasta 12 días consecutivos al volante                </a>
+                <a href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/">
+                    Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»                </a>
             </h2>
                                                 <div class="article__category a">
                                                     <a
@@ -1644,11 +1623,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                         <div class="article__meta__info" style="transform-origin: left;">
                 <div class="article__date">
     <div class="article__meta__info__clock" width="14" height="24">
-        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-20T10:53:26+00:00" style="width: 14px;height: 13px;">
+        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-30T11:55:34+00:00" style="width: 14px;height: 13px;">
     </div>
-    <span class="article__meta__info__date" datetime="2025-12-20T10:53:26+00:00">20/12/2025</span>
+    <span class="article__meta__info__date" datetime="2025-12-30T11:55:34+00:00">30/12/2025</span>
     <span class="article__meta__info__separator"></span>
-    <div class="article__meta__info__hour">11:53</div>
+    <div class="article__meta__info__hour">12:55</div>
 </div>
 
             </div>
@@ -1783,7 +1762,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                         </ul>
                     </div>
                     <div class="footer__copy">
-                        Copyright 2025 © de Grupo Editorial Editec. Todos los derechos reservados.
+                        Copyright 2026 © de Grupo Editorial Editec. Todos los derechos reservados.
                         Prohibida la reproducción parcial o total de los contenidos sin autorización explícita.
 
                     </div>
@@ -2106,16 +2085,16 @@ var wpcf7 = {
 <script src="https://transporte3.com/wp-content/themes/transporte3/public/js/259.7d02e8.js" id="app/0-js"></script>
 <script src="https://transporte3.com/wp-content/themes/transporte3/public/js/app.09ab27.js" id="app/1-js"></script>
 <script id="visit-counter-js-extra">
-var ajax_lecturas = {"ajax_url":"https://transporte3.com/wp-admin/admin-ajax.php","nonce":"8de21be567","post_id":"203273"};
+var ajax_lecturas = {"ajax_url":"https://transporte3.com/wp-admin/admin-ajax.php","nonce":"e371c341cb","post_id":"203273"};
 //# sourceURL=visit-counter-js-extra
 </script>
 <script src="https://transporte3.com/wp-content/themes/transporte3/public/js/visit-counter.919af4.js" id="visit-counter-js"></script>
 <script src="https://transporte3.com/wp-content/themes/transporte3/resources/scripts/banner-lazy-load.js?ver=1.0.0" id="banner-lazy-load-js"></script>
 <script id="cmplz-cookiebanner-js-extra">
-var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"0","banner_version":"17","version":"7.4.4.1","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https://transporte3.com/wp-json/complianz/v1/","locale":"lang=es&locale=es_ES","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"28","cookie_path":"/","categories":{"statistics":"estad\u00edsticas","marketing":"m\u00e1rketing"},"tcf_active":"","placeholdertext":"Haz clic para aceptar las cookies de {category} y permitir este contenido","css_file":"https://transporte3.com/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=17","page_links":{"eu":{"cookie-statement":{"title":"Pol\u00edtica de cookies ","url":"https://transporte3.com/politica-de-cookies-ue/"},"privacy-statement":{"title":"Pol\u00edtica de privacidad","url":"https://transporte3.com/politica-de-privacidad/"},"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"us":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"uk":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"ca":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"au":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"za":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"br":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Haz clic para aceptar las cookies de {category} y permitir este contenido"};
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"0","banner_version":"17","version":"7.4.4.2","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https://transporte3.com/wp-json/complianz/v1/","locale":"lang=es&locale=es_ES","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"28","cookie_path":"/","categories":{"statistics":"estad\u00edsticas","marketing":"m\u00e1rketing"},"tcf_active":"","placeholdertext":"Haz clic para aceptar las cookies de {category} y permitir este contenido","css_file":"https://transporte3.com/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=17","page_links":{"eu":{"cookie-statement":{"title":"Pol\u00edtica de cookies ","url":"https://transporte3.com/politica-de-cookies-ue/"},"privacy-statement":{"title":"Pol\u00edtica de privacidad","url":"https://transporte3.com/politica-de-privacidad/"},"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"us":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"uk":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"ca":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"au":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"za":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}},"br":{"impressum":{"title":"Informaci\u00f3n Legal","url":"https://transporte3.com/informacion-legal/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Haz clic para aceptar las cookies de {category} y permitir este contenido"};
 //# sourceURL=cmplz-cookiebanner-js-extra
 </script>
-<script defer src="https://transporte3.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1764835647" id="cmplz-cookiebanner-js"></script>
+<script defer src="https://transporte3.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1766478151" id="cmplz-cookiebanner-js"></script>
 <script id="cmplz-cookiebanner-js-after">
 	let cmplzBlockedContent = document.querySelector('.cmplz-blocked-content-notice');
 	if ( cmplzBlockedContent) {
@@ -2130,4 +2109,4 @@ var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_
 </html>
 
 
-<!-- Page cached by LiteSpeed Cache 7.6.2 on 2025-12-22 07:17:11 -->
+<!-- Page cached by LiteSpeed Cache 7.7 on 2026-01-02 22:57:51 -->

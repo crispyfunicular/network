@@ -85,14 +85,14 @@ Desventajas De Las Redes Informáticas
    proceso que se opera mediante computadores, por lo que las personas
    depende...
    [2.jpg]
-     * ¿Que es una red informatica?
-       Una red informática es un conjunto de dispositivos que se
-       encuentran interconectados entre si a través de un medio, estos
-       intercambian infor...
      * Desventajas De Las Redes Informáticas
        1. Carece de independencia Las redes de computadores implican un
        proceso que se opera mediante computadores, por lo que las personas
        depende...
+     * ¿Que es una red informatica?
+       Una red informática es un conjunto de dispositivos que se
+       encuentran interconectados entre si a través de un medio, estos
+       intercambian infor...
 
 Buscar este blog
 

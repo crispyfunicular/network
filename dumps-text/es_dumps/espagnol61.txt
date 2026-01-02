@@ -9,7 +9,7 @@
 
 Nuestras empresas
 
-   Red EléctricaReintelHispasatRedinterElewitNuestras empresas
+   Red EléctricaReintelRedinterElewit
 
 Navegación principal
 
@@ -111,7 +111,7 @@ Header menu
 
 Nuestras empresas
 
-   Red EléctricaReintelHispasatRedinterElewitNuestras empresas
+   Red EléctricaReintelRedinterElewit
 
 Header menu
 
@@ -233,13 +233,11 @@ Síguenos
 
 
    Inicio
-   Red Eléctrica Redinter Reintel Hispasat Elewit
+   Red Eléctrica Redinter ReintelElewit
    Red eléctica
    Redinter
    Reintel
-   Hispasat
    Elewit
-   Nuestras marcas
    (BUTTON)
      * Accionistas e inversores
        Mantenemos un diálogo abierto, transparente y continuo con nuestros
@@ -464,7 +462,6 @@ Síguenos
    alt
    alt
    alt
-   alt
    Plataforma Bosque Marino de Redeia
 
 
@@ -509,9 +506,6 @@ restauración y el conocimiento de los océanos.
    Km de fibra óptica oscura en España (Más de)
    blank
    53.000
-   Operador europeo de satélites y 4º en Latinoamérica
-   blank
-   3º
    Proyectos de innovación
    blank
    63
@@ -594,7 +588,7 @@ Footer TOP
 
 Empresas del grupo
 
-   Red EléctricaReintelHispasatWeb Red Eléctrica InternacionalWeb Elewit
+   Red EléctricaReintelWeb Red Eléctrica InternacionalWeb Elewit
 
 Síguenos
 

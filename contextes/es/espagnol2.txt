@@ -76,9 +76,9 @@ Descripción
 --
      * Filet de pêche en nylon pour pêche au filet droit
 
-RED DE PESCA DE HILO RECTO - Malla de 50 a 55 mm
-       Material: Nylon
-       Construcción: Monofilamento
+Red de pesca
+       Material: Poliamida
+       Construcción : Multifilamento
 --
      * Filet de pêche en nylon pour pêche au filet droit
 
@@ -88,6 +88,6 @@ RED DE PESCA DE HILO RECTO - Malla de 60 a 110 mm
 --
      * Filet de pêche en nylon pour pêche au filet droit
 
-Red de polietileno de punto y torres (anguila)
-       Material: Polietileno
-       Construcción : De punto
+RED DE PESCA DE HILO RECTO - Malla de 50 a 55 mm
+       Material: Nylon
+       Construcción: Monofilamento
