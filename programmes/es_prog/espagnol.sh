@@ -137,7 +137,7 @@ do
         <td><a href=\"../concordances/es/espagnol${lineno}.html\">Concordance</a></td>
         <td><a href=\"../bigrammes/es_bigrammes/espagnol${lineno}.html\">Bigrammes</a></td>
         <td>$robots_cell</td>
-        <td><a href=\"../concor_colorarition/es_coloration/espagnol${lineno}.html\">Concor_coloration</a></td>
+        <td><a href=\"../concor_colorarition/es/espagnol${lineno}.html\">Concor_coloration</a></td>
     </tr>"
 
     lineno=$((lineno + 1))
