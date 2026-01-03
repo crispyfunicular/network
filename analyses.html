@@ -250,8 +250,8 @@
                 </p>
                 <p style="text-indent:2em;">
                     Les données révèlent aussi un double usage sur le sens de technique.
-                    D’un côté, « 网络 » est lié aux technologies de pointe et à l’intelligence artificielle, avec des cooccurrents comme « 神经 » (42,63), « 深度 » (3,01) et « 识别 » (2,96).
-                    De l’autre, il est associé à la sécurité de l’information, avec « 安全 » (20,15), « 风险 » (2,61) et « 攻击 » (2,52).
+                    D’un côté, « 网络 » est lié aux technologies de pointe et à l’intelligence artificielle, avec des cooccurrents comme « 神经 » (neuronal) (42,63), « 深度 » (profond) (3,01) et « 识别 » (reconnaissance) (2,96).
+                    De l’autre, il est associé à la sécurité de l’information, avec « 安全 » (sécurité)(20,15), « 风险 » (risque)(2,61) et « 攻击 » (attaque)(2,52).
                     Cela montre que « 网络 » est à la fois un outil quotidien et un support pour des algorithmes et des informations sensibles.
                 </p>
                 <p  style="text-indent:2em;">
@@ -269,7 +269,7 @@
                 <p  style="text-indent:2em;">
                     Dans cette partie, j’ai comparé le texte de tous les urls (<a href="pals/pals_zh/dumps-text-zh.txt"><strong>dumps-text-zh.txt</strong></a>) avec le corpus de contexte.
                     J’ai utilisé le script <a href="https://github.com/YoannDupont/PALS"><strong>partition.py</strong></a> fourni par le prof, qui utilise l’algorithme de Lafon pour comparer la fréquence des mots d’un texte à l’autre.
-                    L’idée, c’est de repérer les mots qui sont vraiment liés au « 网络 » et de filtrer les mots qu’on voit partout sur le web mais qui n’ont rien à voir avec le sujet 网络.
+                    L’idée, c’est de repérer les mots qui sont vraiment liés au « 网络 » et de filtrer les mots qu’on voit partout sur le web mais qui n’ont rien à voir avec le sujet « 网络 ».
                 </p>
                 <p style="text-indent:2em;">
                     En regardant le fichier de résultats (<a href="pals/pals_zh/partition_comparison.tsv"><strong>partition_comparison.tsv</strong></a>), j’ai classé la colonne « specif part-2 » par ordre décroissant,
@@ -280,25 +280,25 @@
                     Ce qu’on peut en tirer :</p>
                 <p style="text-indent:2em;">
                     Le mot « 网络 » est bien le cœur du corpus de contexte, avec un score de 151,25.
-                    Prenez le mot « 社交 » (social) : il a un score de 32,05. Il apparaît  1333 fois sur les 65 pages web, et presque la moitié (602 fois) se trouve dans le contexte du mot 网络.
+                    Prenez le mot « 社交 » (social) : il a un score de 32,05. Il apparaît  1333 fois sur les 65 pages web, et presque la moitié (602 fois) se trouve dans le contexte du mot « 网络 ».
                     Cela montre clairement que, dans mon corpus, le sens principal de « réseau », c’est le côté social.
                 </p>
 
                 <p style="text-indent:2em;">
-                    C’est la même chose pour le mot « Neuronal » (15,31) : ça montre que l’expression « 神经网络 réseau de neurones » est solide et revient tout le temps dans mes données.
+                    C’est la même chose pour le mot « Neuronal » (15,31) : ça montre que l’expression « 神经网络 » (réseau de neurones) est solide et revient tout le temps dans mes données.
                 </p>
                     Le petit mot 的 a également un score très élevé (43,78). Cela suggère qu’en chinois, le mot « réseau » est souvent utilisé pour qualifier ou décrire quelque chose.
                 <p style="text-indent:2em;">
                     De plus, même si, lors de la sélection des URLs pour constituer le corpus, j’ai choisi des occurrences de « réseau » dans le sens et l’usage liés aux infrastructures de transport,
-                    铁路 « chemin de fer » (4,5) et 运输 « transport » (4,74) obtiennent des scores nettement inférieurs aux mots du domaine social.
+                    « 铁路 » ( chemin de fer ) (4,5) et « 运输 » (transport) (4,74) obtiennent des scores nettement inférieurs aux mots du domaine social.
                     Cela montre qu’on utilise beaucoup moins le mot « 网络 » pour parler de transport que pour parler de réseaux sociaux ou d’IA.
                 </p>
                 <p style="text-indent:2em;">
-                    Côté relations sociales :社交 (32.05)、人际 (6.39)、社会 (5.64)、人脉 (5.57)、青少年 (3.22)</p>
+                    Côté relations sociales : 社交 (32.05)、人际 (6.39)、社会 (5.64)、人脉 (5.57)、青少年 (3.22)</p>
                 <p style="text-indent:2em;">
-                    Côté technique et informatique :：神经 (15.31)、推理 (6.28)、Model (5.95)、节点 (5.44)、处理 (5.01)、青少年 (3.22)</p>
+                    Côté technique et informatique : 神经 (15.31)、推理 (6.28)、Model (5.95)、节点 (5.44)、处理 (5.01)、青少年 (3.22)</p>
                 <p style="text-indent:2em;">
-                    Côté régulation et environnement d’Internet：安全 (9.37)、治理 (3.87)、舆论 (3.22)。
+                    Côté régulation et environnement d’Internet : 安全 (9.37)、治理 (3.87)、舆论 (3.22)。
                 </p>
         </div>
     </div>
