@@ -176,9 +176,9 @@ Análisis de Tráfico de Red
 Seguridad de Datos. Estrategias Críticas para Proteger Datos en Redes
 Informáticas
 
-   Explorando el Impacto del Cloud Computing en ASIR
+   Linux para administradores
 
-Explorando el Impacto del Cloud Computing en ASIR
+Linux para Administradores
 
    Ayúdanos a compartir este artículo
    Facebook

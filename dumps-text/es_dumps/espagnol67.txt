@@ -306,15 +306,15 @@ Ormazabal, expertos en soluciones eléctricas de distribución en media tensión
      *
      *
 
+   tipos de distribucion
+
+   distribución
+
    energía eléctrica
 
    distribucion primaria
 
    distribucion secundaria
-
-   tipos de distribucion
-
-   distribución
 
      * Soluciones
           + Smart & digital grids

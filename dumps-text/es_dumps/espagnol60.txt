@@ -168,11 +168,6 @@ Restricciones a la circulación de camiones el 29 de diciembre de 2025
    El sector
    num
 
-Restricciones a la circulación de camiones el 28 de diciembre de 2025
-
-   El sector
-   num
-
 Restricciones a la circulación de camiones el 31 de diciembre de 2025
 
    El sector
@@ -188,18 +183,18 @@ del Transporte
 Restricciones a la circulación de camiones el 30 de diciembre de 2025
 
    El sector
-   Liderkit
-   num
-
-Liderkit consolida su liderazgo en 2025
-
-   Carrocerías
    Peajes
    num
 
 Transportes incrementa el precio de los peajes de las autopistas para 2026
 
    El sector
+   Liderkit
+   num
+
+Liderkit consolida su liderazgo en 2025
+
+   Carrocerías
    num
 
 Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial
@@ -213,6 +208,12 @@ Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios
 Nacionales del Transporte
 
    El sector
+   DFM Rent
+   num
+
+DFM Rent celebra la incorporación del vehículo número 3.000 a su flota
+
+   Furgonetas
    También te puede interesar
 
 Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios
@@ -261,6 +262,13 @@ Restricciones a la circulación de camiones el 30 de diciembre de 2025
    Revista Transporte 3
    Suscríbase gratuitamente a la Revista y Newsletter digital Suscribirse
 
+Las ventas de camiones cierran otro año para recordar
+
+   Camiones
+   2026-01-02T14:15:18+00:00
+   02/01/2026
+   15:15
+
 Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios
 Nacionales del Transporte
 
@@ -282,14 +290,6 @@ Liderkit consolida su liderazgo en 2025
    2025-12-30T12:59:36+00:00
    30/12/2025
    13:59
-
-Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial
-Ligero del Año»
-
-   El sector
-   2025-12-30T11:55:34+00:00
-   30/12/2025
-   12:55
    Sobre nosotros
      * Contacto
      * Publicidad

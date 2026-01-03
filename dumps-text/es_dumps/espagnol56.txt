@@ -44,7 +44,7 @@
    ____________________tu correo electrónico
    [BUTTON Input] (not implemented)_____________________
    Se te ha enviado una contraseña por correo electrónico.
-   viernes, enero 2, 2026
+   sábado, enero 3, 2026
    Registrarse / Unirse
      * Ultimas Noticias
      * Noticias
@@ -142,7 +142,7 @@ Metro de Madrid amplía frecuencias por las obras en su red
    By Mariano Santos Chamale
    9 septiembre, 2025
    0
-   549
+   553
    Share
    Facebook
    Twitter
@@ -325,6 +325,6 @@ SEGUINOS
 
    Te recomendamos leer:
 
-Obras de protección de vías en Las Lajitas, Salta
+Tren de alta velocidad en Florida dará primeros pasos en enero
 
-   6 junio, 2018
+   29 diciembre, 2017

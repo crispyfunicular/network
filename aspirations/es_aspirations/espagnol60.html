@@ -144,8 +144,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                     const message = bill_errorQueue.join(' | ');
                     //console.log('[Bill Catch] Enviando ao Servidor:', message); // Log temporário para depuração
                     const xhr = new XMLHttpRequest();
-                    const nonce = 'b7be5cbceb';
-                    const ajax_url = 'https://transporte3.com/wp-admin/admin-ajax.php?action=bill_minozzi_js_error_catched&_wpnonce=b7be5cbceb';
+                    const nonce = 'e8cbcf0455';
+                    const ajax_url = 'https://transporte3.com/wp-admin/admin-ajax.php?action=bill_minozzi_js_error_catched&_wpnonce=e8cbcf0455';
                     xhr.open('POST', encodeURI(ajax_url));
                     xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
                     xhr.send('action=bill_minozzi_js_error_catched&_wpnonce=' + nonce + '&bill_js_error_catched=' + encodeURIComponent(message));
@@ -161,263 +161,194 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="apple-touch-icon" href="https://transporte3.com/wp-content/uploads/2024/01/cropped-favicon-180x180.png" />
 <meta name="msapplication-TileImage" content="https://transporte3.com/wp-content/uploads/2024/01/cropped-favicon-270x270.png" />
 		<style id="wp-custom-css">
-			/* Título encima de la tabla */
-.titulo-tabla {
-  text-align: center;
-  font-weight: bold;
-  font-family: Arial, sans-serif;
-  margin-bottom: 16px;
-  font-size: 22px;
-  color: #333;
-}
-
-/* CONTENEDOR PLEGABLE (ACORDEÓN GENERAL) */
-.bloque-tabla {
-  margin: 0 auto 20px auto;
-  max-width: 100%;
-}
-
-.bloque-tabla__summary {
-  cursor: pointer;
-  padding: 48px 16px;
-  background: linear-gradient(90deg, #7f0000, #b30000);
-  color: #fff;
-  font-family: Arial, sans-serif;
-  font-weight: 600;
-  border-radius: 8px;
-  list-style: none;
-  position: relative;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
-}
-
-.bloque-tabla__summary::-webkit-details-marker {
-  display: none;
-}
-
-.bloque-tabla__summary::after {
-  content: "➕";
-  position: absolute;
-  right: 16px;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 16px;
-}
-
-.bloque-tabla[open] .bloque-tabla__summary::after {
-  content: "➖";
-}
-
-/* CONTENIDO ESCRITORIO (tabla) */
-.contenido-escritorio {
-  margin-top: 10px;
-}
-
-.tabla-wrapper {
-  width: 100%;
-  overflow-x: auto;
-}
-
-.tabla-precios {
-  width: 100%;
-  border-collapse: collapse;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  background: #ffffff;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-}
-
-.tabla-precios thead th {
-  background: linear-gradient(90deg, #7f0000, #b30000);
-  color: #ffffff;
-  padding: 10px 8px;
-  text-align: left;
-  border-bottom: 2px solid #660000;
-}
-
-.tabla-precios tbody td {
-  padding: 10px 8px;
-  border-bottom: 1px solid #f0d0d0;
-  color: #222;
-  background-color: #ffe5e5;
-}
-
-.tabla-precios tbody tr:nth-child(even) td {
-  background-color: #ffd6d6;
-}
-
-.tabla-precios tbody tr {
-  transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
-  transform-origin: center;
-}
-
-.tabla-precios tbody tr:hover {
-  transform: scale(1.01);
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
-}
-
-.tabla-precios tbody tr:hover td {
-  background-color: #ffc2c2;
-}
-
-.tabla-precios a {
-  color: #7f0000;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.tabla-precios a:hover {
-  text-decoration: underline;
-}
-
-/* LISTADO MÓVIL: oculto por defecto en escritorio */
-.listado-movil {
-  display: none;
-}
-
-/* ===== VERSIÓN MÓVIL ===== */
-@media (max-width: 768px) {
-
-  /* En móvil ocultamos la tabla y mostramos la lista de provincias */
-  .contenido-escritorio {
-    display: none;
-  }
-
-  .listado-movil {
-    display: block;
-    margin-top: 10px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-  }
-
-  .provincia-item {
-    margin-bottom: 10px;
-    border-radius: 8px;
-    background: #ffe5e5;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    overflow: hidden;
-  }
-
-  .provincia-item__summary {
-    cursor: pointer;
-    padding: 10px 14px;
-    font-weight: 600;
-    background: #b30000;
-    color: #fff;
-    position: relative;
-  }
-
-  .provincia-item__summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .provincia-item__summary::after {
-    content: "▼";
-    position: absolute;
-    right: 12px;
-  }
-
-  .provincia-item[open] .provincia-item__summary::after {
-    content: "▲";
-  }
-
-  .provincia-item__contenido {
-    padding: 10px 14px 12px 14px;
-    background: #ffe5e5;
-    color: #222;
-  }
-
-  .provincia-item__contenido p {
-    margin: 4px 0;
-  }
-
-  .provincia-item__contenido a {
-    color: #7f0000;
-    font-weight: bold;
-    text-decoration: none;
-  }
-
-  .provincia-item__contenido a:hover {
-    text-decoration: underline;
-  }
-
-  .titulo-tabla {
-    font-size: 18px;
-  }
-}
-/* ================================
-   BOTONES DE PROVINCIA – MISMO ESTILO EN ESCRITORIO Y MÓVIL
+			/* ================================
+   Transporte3 – CSS definitivo
+   (Acordeón también en escritorio)
    ================================ */
 
-/* Forzamos el estilo del summary de provincia también en escritorio */
-.provincia-item {
-  margin-bottom: 12px;
-  border-radius: 8px;
-  background: #ffe5e5;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  overflow: hidden;
+/* ---- Título ---- */
+.titulo-tabla{
+  text-align:center;
+  font-weight:800;
+  font-family:Arial,sans-serif;
+  margin: 0 0 16px 0;
+  font-size:22px;
+  color:#333;
 }
 
-/* Botón de provincia */
-.provincia-item__summary {
-  cursor: pointer;
-  padding: 14px 18px;
-  font-weight: 600;
+/* ---- Acordeón general (Haz clic aquí...) ---- */
+.bloque-tabla{
+  margin: 0 auto 22px auto;
+  max-width: 1100px;
+}
+
+.bloque-tabla__summary{
+  cursor:pointer;
+  padding: 48px 16px; /* botón alto */
   background: linear-gradient(90deg, #7f0000, #b30000);
-  color: #ffffff;
-  font-family: Arial, sans-serif;
-  position: relative;
-  list-style: none;
+  color:#fff;
+  font-family:Arial,sans-serif;
+  font-weight:700;
+  border-radius:10px;
+  list-style:none;
+  position:relative;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.18);
 }
 
-/* Quitar marcador nativo */
-.provincia-item__summary::-webkit-details-marker {
-  display: none;
+.bloque-tabla__summary::-webkit-details-marker{display:none;}
+
+.bloque-tabla__summary::after{
+  content:"➕";
+  position:absolute;
+  right:16px;
+  top:50%;
+  transform:translateY(-50%);
+  font-size:16px;
 }
 
-/* Flecha cerrada */
-.provincia-item__summary::after {
-  content: "▼";
-  position: absolute;
-  right: 16px;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 14px;
+.bloque-tabla[open] .bloque-tabla__summary::after{content:"➖";}
+
+/* ---- Escritorio (tabla) ---- */
+.contenido-escritorio{
+  margin-top: 12px;
 }
 
-/* Flecha abierta */
-.provincia-item[open] .provincia-item__summary::after {
-  content: "▲";
+.tabla-wrapper{
+  width:100%;
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
 }
 
-/* Contenido desplegado */
-.provincia-item__contenido {
+.tabla-precios{
+  width:100%;
+  border-collapse:collapse;
+  font-family:Arial,sans-serif;
+  font-size:14px;
+  background:#fff;
+  border-radius:10px;
+  overflow:hidden;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  min-width: 860px;
+}
+
+.tabla-precios thead th{
+  background: linear-gradient(90deg, #7f0000, #b30000);
+  color:#fff;
+  padding: 12px 10px;
+  text-align:left;
+  border-bottom: 2px solid #660000;
+  white-space: nowrap;
+}
+
+.tabla-precios tbody td{
+  padding: 12px 10px;
+  border-bottom: 1px solid #f0d0d0;
+  color:#222;
+  background:#ffe5e5;
+  vertical-align: top;
+}
+
+.tabla-precios tbody tr:nth-child(even) td{
+  background:#ffd6d6;
+}
+
+.tabla-precios tbody tr{
+  transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease;
+  transform-origin:center;
+}
+
+.tabla-precios tbody tr:hover{
+  transform: scale(1.01);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+}
+
+.tabla-precios tbody tr:hover td{
+  background:#ffc2c2;
+}
+
+.tabla-precios a{
+  color:#7f0000;
+  font-weight:800;
+  text-decoration:none;
+}
+.tabla-precios a:hover{ text-decoration:underline; }
+
+.gasolinera-nombre{
+  display:block;
+  font-weight:900;
+  white-space: normal;
+}
+.gasolinera-dir{
+  display:block;
+  opacity:.85;
+  margin-top:4px;
+  white-space: normal;
+}
+
+/* ---- Acordeón provincias ---- */
+.listado-movil{
+  display:block; /* ✅ ahora siempre visible (también escritorio) */
+  margin-top: 12px;
+  font-family:Arial,sans-serif;
+  font-size:14px;
+}
+
+.provincia-item{
+  margin-bottom:12px;
+  border-radius:10px;
+  background:#ffe5e5;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.10);
+  overflow:hidden;
+}
+
+.provincia-item__summary{
+  cursor:pointer;
+  padding: 14px 18px;
+  font-weight:800;
+  background: linear-gradient(90deg, #7f0000, #b30000);
+  color:#fff;
+  position:relative;
+  list-style:none;
+}
+.provincia-item__summary::-webkit-details-marker{display:none;}
+
+.provincia-item__summary::after{
+  content:"▼";
+  position:absolute;
+  right:16px;
+  top:50%;
+  transform:translateY(-50%);
+  font-size:14px;
+}
+.provincia-item[open] .provincia-item__summary::after{content:"▲";}
+
+.provincia-item__contenido{
   padding: 14px 16px 16px;
-  background: #ffe5e5;
-  color: #222;
+  background:#ffe5e5;
+  color:#222;
 }
 
-/* Separación entre estaciones en móvil y escritorio */
-.estacion-item {
+.estacion-item{
   padding: 10px 0;
   border-bottom: 1px solid #f0c0c0;
 }
+.estacion-item:last-child{border-bottom:none;}
 
-.estacion-item:last-child {
-  border-bottom: none;
+.estacion-titulo{
+  margin: 0 0 6px 0;
 }
 
-/* Título de estación */
-.estacion-titulo {
-  margin-bottom: 6px;
+.provincia-item__contenido a{
+  color:#7f0000;
+  font-weight:800;
+  text-decoration:none;
 }
+.provincia-item__contenido a:hover{ text-decoration:underline; }
 
-/* Ajustes finos en escritorio para que no se vea "apretado" */
-@media (min-width: 769px) {
-  .provincia-item__summary {
-    font-size: 15px;
-  }
+/* ---- Responsive ---- */
+@media (max-width:768px){
+  .titulo-tabla{ font-size:18px; }
+  .bloque-tabla__summary{ padding: 40px 14px; }
 }
 		</style>
 		  </head>
@@ -992,37 +923,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23131-restricciones-a-la-circulacion-de-camiones-el-28-de-diciembre-de-2025/"
-                                            aria-label="Leer Restricciones a la circulación de camiones el 28 de diciembre de 2025"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/28-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
-                                                                                    
-                                    </div>
-                                    <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-3.b6e6ba.svg" alt="num">
-                                    </div>
-                                    <div class="article__text">
-                                        <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23131-restricciones-a-la-circulacion-de-camiones-el-28-de-diciembre-de-2025/">Restricciones a la circulación de camiones el 28 de diciembre de 2025</a>
-                                        </h2>
-                                        <div class="article__category"><a
-                                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
-                                        </div>
-
-                                    </div>
-                                </article>
-
-
-                                                                                            
-
-                                <article class="article swiper-slide">
-                                    <div class="article__image">
                                         <a class="article__image__link" href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-31-de-diciembre-de-2025/"
                                             aria-label="Leer Restricciones a la circulación de camiones el 31 de diciembre de 2025"></a>
                                                                                                                                     <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/31-diciembre-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-4.40ce19.svg" alt="num">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-3.b6e6ba.svg" alt="num">
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
@@ -1046,7 +953,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                                     
                                     </div>
                                     <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-5.2bc4fd.svg" alt="num">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-4.40ce19.svg" alt="num">
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
@@ -1070,11 +977,35 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                                     
                                     </div>
                                     <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-6.4c09b7.svg" alt="num">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-5.2bc4fd.svg" alt="num">
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
                                             <a href="https://transporte3.com/noticia/23132-restricciones-a-la-circulacion-de-camiones-el-30-de-diciembre-de-2025/">Restricciones a la circulación de camiones el 30 de diciembre de 2025</a>
+                                        </h2>
+                                        <div class="article__category"><a
+                                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
+                                        </div>
+
+                                    </div>
+                                </article>
+
+
+                                                                                            
+
+                                <article class="article swiper-slide">
+                                    <div class="article__image">
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/"
+                                            aria-label="Leer Transportes incrementa el precio de los peajes de las autopistas para 2026"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/peajes-1-1000x454.webp" class="img-fluid wp-post-image" alt="Peajes" decoding="async" loading="lazy" />
+                                                                                    
+                                    </div>
+                                    <div class="article__number">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-6.4c09b7.svg" alt="num">
+                                    </div>
+                                    <div class="article__text">
+                                        <h2 class="article__title title titleM">
+                                            <a href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/">Transportes incrementa el precio de los peajes de las autopistas para 2026</a>
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
@@ -1112,37 +1043,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                 <article class="article swiper-slide">
                                     <div class="article__image">
-                                        <a class="article__image__link" href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/"
-                                            aria-label="Leer Transportes incrementa el precio de los peajes de las autopistas para 2026"></a>
-                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/peajes-1-1000x454.webp" class="img-fluid wp-post-image" alt="Peajes" decoding="async" loading="lazy" />
-                                                                                    
-                                    </div>
-                                    <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-8.943d1e.svg" alt="num">
-                                    </div>
-                                    <div class="article__text">
-                                        <h2 class="article__title title titleM">
-                                            <a href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/">Transportes incrementa el precio de los peajes de las autopistas para 2026</a>
-                                        </h2>
-                                        <div class="article__category"><a
-                                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
-                                        </div>
-
-                                    </div>
-                                </article>
-
-
-                                                                                            
-
-                                <article class="article swiper-slide">
-                                    <div class="article__image">
                                         <a class="article__image__link" href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/"
                                             aria-label="Leer Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»"></a>
                                                                                                                                     <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Daniel-Latorre-UNO-9-copia-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
                                                                                     
                                     </div>
                                     <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-9.f94a87.svg" alt="num">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-8.943d1e.svg" alt="num">
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
@@ -1166,7 +1073,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                                     
                                     </div>
                                     <div class="article__number">
-                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-10.58f1d3.svg" alt="num">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-9.f94a87.svg" alt="num">
                                     </div>
                                     <div class="article__text">
                                         <h2 class="article__title title titleM">
@@ -1174,6 +1081,30 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                         </h2>
                                         <div class="article__category"><a
                                                 href="https://transporte3.com/categoria/el-sector/">El sector</a>
+                                        </div>
+
+                                    </div>
+                                </article>
+
+
+                                                                                            
+
+                                <article class="article swiper-slide">
+                                    <div class="article__image">
+                                        <a class="article__image__link" href="https://transporte3.com/noticia/23137-dfm-rent-celebra-la-incorporacion-del-vehiculo-numero-3-000-a-su-flota/"
+                                            aria-label="Leer DFM Rent celebra la incorporación del vehículo número 3.000 a su flota"></a>
+                                                                                                                                    <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/DFM-Rent-9-1-1000x454.webp" class="img-fluid wp-post-image" alt="DFM Rent" decoding="async" loading="lazy" />
+                                                                                    
+                                    </div>
+                                    <div class="article__number">
+                                        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/number-10.58f1d3.svg" alt="num">
+                                    </div>
+                                    <div class="article__text">
+                                        <h2 class="article__title title titleM">
+                                            <a href="https://transporte3.com/noticia/23137-dfm-rent-celebra-la-incorporacion-del-vehiculo-numero-3-000-a-su-flota/">DFM Rent celebra la incorporación del vehículo número 3.000 a su flota</a>
+                                        </h2>
+                                        <div class="article__category"><a
+                                                href="https://transporte3.com/categoria/furgonetas/">Furgonetas</a>
                                         </div>
 
                                     </div>
@@ -1462,6 +1393,68 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                                     </div>
                                                 <article class="article">
                                     <div class="article__image">
+                    <a class="article__image__link" href="https://transporte3.com/noticia/23143-las-ventas-de-camiones-cierran-otro-ano-para-recordar/"
+                        aria-label="Leer Las ventas de camiones cierran otro año para recordar"></a>
+                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2026/01/volvo-camiones-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
+                    
+
+                </div>
+                    
+
+        <div class="article__text">
+            <h2 class="article__title title titleM">
+                <a href="https://transporte3.com/noticia/23143-las-ventas-de-camiones-cierran-otro-ano-para-recordar/">
+                    Las ventas de camiones cierran otro año para recordar                </a>
+            </h2>
+                                                <div class="article__category a">
+                                                    <a
+                                href="https://transporte3.com/categoria/camiones/">Camiones</a>
+                        
+                    </div>
+                                        <div class="article__meta__info" style="transform-origin: left;">
+                <div class="article__date">
+    <div class="article__meta__info__clock" width="14" height="24">
+        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2026-01-02T14:15:18+00:00" style="width: 14px;height: 13px;">
+    </div>
+    <span class="article__meta__info__date" datetime="2026-01-02T14:15:18+00:00">02/01/2026</span>
+    <span class="article__meta__info__separator"></span>
+    <div class="article__meta__info__hour">15:15</div>
+</div>
+
+            </div>
+        </div>
+    </article>
+
+                                                                    
+                                                    
+                            
+                            <div class="sidebar-banner-f-desktop-only">
+                                                                    <div class="banner-lazy-container" 
+                 data-banner-type="sidebar_2" 
+                 data-banner-id="120908"
+                 data-desktop-class="banner__f banner__desktop d-none d-sm-none d-md-none d-lg-flex"
+                 data-responsive-class="banner__f banner__responsive d-md-flex d-lg-none"
+                 data-desktop-width="275"
+                 data-desktop-height="200"
+                 data-responsive-width="700"
+                 data-responsive-height="183"
+                 data-desktop-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIyNiIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
+                 data-mobile-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIyNyIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4NCg=="
+                 data-desktop-url=""
+                 data-mobile-url=""
+                 data-desktop-image=""
+                 data-mobile-image="">
+                <!-- Banner se cargará aquí -->
+            </div>
+            
+    
+        
+    
+    
+            
+                                                                    </div>
+                                                <article class="article">
+                                    <div class="article__image">
                     <a class="article__image__link" href="https://transporte3.com/noticia/23142-joan-monzon-furgo-trayler-participa-en-la-eleccion-de-los-premios-nacionales-del-transporte/"
                         aria-label="Leer Joan Monzón (FURGO-TRAYLER) participa en la elección de los Premios Nacionales del Transporte"></a>
                                             <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2026/01/Joan-Monzon-Furgo-trayler-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
@@ -1498,30 +1491,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
                                                     
                             
                             <div class="sidebar-banner-f-desktop-only">
-                                                                    <div class="banner-lazy-container" 
-                 data-banner-type="sidebar_2" 
-                 data-banner-id="120908"
-                 data-desktop-class="banner__f banner__desktop d-none d-sm-none d-md-none d-lg-flex"
-                 data-responsive-class="banner__f banner__responsive d-md-flex d-lg-none"
-                 data-desktop-width="275"
-                 data-desktop-height="200"
-                 data-responsive-width="700"
-                 data-responsive-height="183"
-                 data-desktop-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIyNiIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4="
-                 data-mobile-code="PCEtLSBSZXZpdmUgQWRzZXJ2ZXIgRXRpcXVldGEgSlMgYXNpbmNyw7NuaWNhIC0gR2VuZXJhdGVkIHdpdGggUmV2aXZlIEFkc2VydmVyIHY1LjUuMiAtLT4NCjxpbnMgZGF0YS1yZXZpdmUtem9uZWlkPSIyNyIgZGF0YS1yZXZpdmUtaWQ9IjlmYWQzMWQ5NWU4MWQwZGQxZTVmZTdkNGRmNzY2YzRlIj48L2lucz4NCjxzY3JpcHQgYXN5bmMgc3JjPSIvL3RyYW5zcG9ydGUzLmNvbS9hc3Ivd3d3L2RlbGl2ZXJ5L2FzeW5janMucGhwIj48L3NjcmlwdD4NCg=="
-                 data-desktop-url=""
-                 data-mobile-url=""
-                 data-desktop-image=""
-                 data-mobile-image="">
-                <!-- Banner se cargará aquí -->
-            </div>
-            
-    
-        
-    
-    
-            
-                                                                    </div>
+                                                                                                                                </div>
                                                 <article class="article">
                                     <div class="article__image">
                     <a class="article__image__link" href="https://transporte3.com/noticia/23139-transportes-incrementa-el-precio-de-los-peajes-de-las-autopistas-para-2026/"
@@ -1589,45 +1559,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     <span class="article__meta__info__date" datetime="2025-12-30T12:59:36+00:00">30/12/2025</span>
     <span class="article__meta__info__separator"></span>
     <div class="article__meta__info__hour">13:59</div>
-</div>
-
-            </div>
-        </div>
-    </article>
-
-                                                                    
-                                                    
-                            
-                            <div class="sidebar-banner-f-desktop-only">
-                                                                                                                                </div>
-                                                <article class="article">
-                                    <div class="article__image">
-                    <a class="article__image__link" href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/"
-                        aria-label="Leer Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»"></a>
-                                            <img width="1000" height="454" src="https://transporte3.com/wp-content/uploads/2025/12/Daniel-Latorre-UNO-9-copia-1-1000x454.webp" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" />
-                    
-
-                </div>
-                    
-
-        <div class="article__text">
-            <h2 class="article__title title titleM">
-                <a href="https://transporte3.com/noticia/23136-daniel-latorre-citylogin-se-incorpora-al-jurado-del-premio-vehiculo-industrial-ligero-del-ano/">
-                    Daniel Latorre (CITYLOGIN) se suma al jurado del premio «Vehículo Industrial Ligero del Año»                </a>
-            </h2>
-                                                <div class="article__category a">
-                                                    <a
-                                href="https://transporte3.com/categoria/el-sector/">El sector</a>
-                        
-                    </div>
-                                        <div class="article__meta__info" style="transform-origin: left;">
-                <div class="article__date">
-    <div class="article__meta__info__clock" width="14" height="24">
-        <img src="https://transporte3.com/wp-content/themes/transporte3/public/images/ico-clock.b04b67.svg" loading="lazy" alt="2025-12-30T11:55:34+00:00" style="width: 14px;height: 13px;">
-    </div>
-    <span class="article__meta__info__date" datetime="2025-12-30T11:55:34+00:00">30/12/2025</span>
-    <span class="article__meta__info__separator"></span>
-    <div class="article__meta__info__hour">12:55</div>
 </div>
 
             </div>
@@ -2085,7 +2016,7 @@ var wpcf7 = {
 <script src="https://transporte3.com/wp-content/themes/transporte3/public/js/259.7d02e8.js" id="app/0-js"></script>
 <script src="https://transporte3.com/wp-content/themes/transporte3/public/js/app.09ab27.js" id="app/1-js"></script>
 <script id="visit-counter-js-extra">
-var ajax_lecturas = {"ajax_url":"https://transporte3.com/wp-admin/admin-ajax.php","nonce":"e371c341cb","post_id":"203273"};
+var ajax_lecturas = {"ajax_url":"https://transporte3.com/wp-admin/admin-ajax.php","nonce":"d73a86b848","post_id":"203273"};
 //# sourceURL=visit-counter-js-extra
 </script>
 <script src="https://transporte3.com/wp-content/themes/transporte3/public/js/visit-counter.919af4.js" id="visit-counter-js"></script>
@@ -2109,4 +2040,4 @@ var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_
 </html>
 
 
-<!-- Page cached by LiteSpeed Cache 7.7 on 2026-01-02 22:57:51 -->
+<!-- Page cached by LiteSpeed Cache 7.7 on 2026-01-03 17:42:11 -->
