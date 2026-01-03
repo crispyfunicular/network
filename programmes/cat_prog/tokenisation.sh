@@ -1,6 +1,11 @@
 #!/bin/bash
 
-# Pour chaque fichier aspiré, ce programme copie chaque mot du fichier sur une ligne d'un nouveau fichier en prenant pour séparateurs les espaces et la ponctuation.
+# Pour chaque fichier aspiré, ce programme copie chaque mot du fichier sur une ligne d'un nouveau fichier
+# en prenant pour séparateurs les espaces et la ponctuation.
+# lit le fichier `URLs.tsv`, récupère pour chaque ligne le numéro de document (lineno),
+# puis remplace toute ponctuation ou caractère non alphanumérique par des espaces,
+# en mettant un token par ligne après avoir convertir espaces et caractères de contrôle en retours à la ligne (= tokenisation).
+# Le script nettoie au préalable les dossiers de sortie.
 # Entrée : liste d'URL + métadonnées au format tsv
 # Sortie : un fichier texte .txt avec un token par ligne pour chaque URL (un fichier par URL)
 

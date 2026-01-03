@@ -1,0 +1,15 @@
+/_uac/adpage.html
+/_huff_uac/adpage.html
+/postid
+/preview
+/search/
+/loterias/loteria-de-navidad/comprobar/0*
+/loterias/loteria-de-navidad/comprobar/1*
+/loterias/loteria-de-navidad/comprobar/2*
+/loterias/loteria-de-navidad/comprobar/3*
+/loterias/loteria-de-navidad/comprobar/4*
+/loterias/loteria-de-navidad/comprobar/5*
+/loterias/loteria-de-navidad/comprobar/6*
+/loterias/loteria-de-navidad/comprobar/7*
+/loterias/loteria-de-navidad/comprobar/8*
+/loterias/loteria-de-navidad/comprobar/9*

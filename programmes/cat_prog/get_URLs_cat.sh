@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# lit le fichier `URLs.tsv` et, pour chaque URL,
+# nettoie les répertoires de sortie, vérifie (si possible) le robots.txt du site
+# et marque l’URL comme « disallowed » si elle est interdite,
+# puis récupère les métadonnées HTTP (code de réponse + charset),
+# aspire la page HTML correspondant et génère un dump texte via lynx.
+# Il calcule ensuite le nombre de mots et le nombre d’occurrences de xarxa|xarxes,
+# et écrit une ligne récapitulative dans `URLs.tsv`.
+
 # $1 first argument passed to the program
 URL=${1-URL/URL_cat.txt}
 
@@ -16,16 +24,22 @@ mkdir -p ./dumps-text/cat_dumps
 rm -rf ./dumps-text/cat_dumps/*
 
 # Cleaning of the robot-txt directory
-mkdir -p ./robots-txt/cat
-rm -rf ./robots-cat/cat/*
+mkdir -p ./robots-txt/cat/robotstxt
+mkdir -p ./robots-txt/cat/blocklist
+rm -rf ./robots-cat/cat/robotstxt/*
+rm -rf ./robots-cat/cat/blocklist/*
 
 # total number of URLs to process
 total=$(wc -l $URL | cut -d ' ' -f 1)
 
 # counter for the line number of the urls file
-lineno=1
+lineno=0
 while read -r line;
 do
+
+	# increment the line counter by 1
+	lineno=$(expr $lineno + 1)
+
 	# display the current counter and each URL in the stderr
 	echo "$lineno/$total: Fetching $line" 1>&2
 
@@ -41,11 +55,25 @@ do
 
 	# Check the response code of the robots.txt HTTP request
 	ok_robot=$(echo $response_robot | grep ^2)
-	
 	if [ -n "$ok_robot" ]
 	then
-		robots_path="./robots-txt/cat/$lineno.txt"
+		robots_path="./robots-txt/cat/robotstxt/$lineno.txt"
+		blocklist_path="./robots-txt/cat/blocklist/$lineno.txt"
 		curl -s "$robot_URL" > "$robots_path"
+
+		# Use sed to find lines between "User-agent: *" and the next "User-agent:" block or the end of the file
+		# Then keep each Disallow block and save to a blocklist file
+		# https://unix.stackexchange.com/questions/264962/print-lines-of-a-file-between-two-matching-patterns
+		cat "$robots_path" | sed -n '/^User-agent: \*$/,/^User-agent:.*$/p' | sed -n 's/^Disallow: \(.\+\)$/\1/p' > "$blocklist_path"
+
+		# Check if the URL we want to crawl is disallowed using "grep -f" to provide the list of patterns from the blocklist
+		disallowed=$(echo "$line" | grep -f "$blocklist_path")
+		if [ -n "$disallowed" ]
+		then
+			echo "The URL $line is disallowed by $robot_URL"
+			echo -e "$lineno\t$line\tdisallowed\t\t\t" >> "$tsv"
+			continue
+		fi
 	fi
 
 	###
@@ -95,8 +123,4 @@ do
 	fi
 
 	echo -e "$lineno\t$line\t$response_code\t$charset\t$num_words\t$num_occurences" >> "$tsv"
-
-	# increment the line counter by 1
-	lineno=$(expr $lineno + 1)
-
 done < $URL

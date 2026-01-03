@@ -1,6 +1,10 @@
 #!/bin/bash
 
-# Récupère pour chaque URL le contexte avant et après le mot cible ("xarxa" ou "xarxes"), correspondant aux deux lignes précédant et suivant le mot cible.
+# Récupère pour chaque URL le contexte avant et après le mot cible ("xarxa" ou "xarxes"),
+# correspondant aux deux lignes précédant et suivant le mot cible.
+# lit le fichier `URLs.tsv`, récupère pour chaque ligne le numéro de document (lineno),
+# puis parcourt le dump texte associé pour extraire tous les passages contenant le mot-cible xarxa|xarxes.
+# Pour chaque occurrence, le script conserve 2 lignes avant et 2 lignes.
 # Entrée : liste d'URL
 # Sortie : Un fichier texte par URL avec une succession de contextes (séparés par ---) constitués des deux lignes précédant et suivant le mot-cible.
 

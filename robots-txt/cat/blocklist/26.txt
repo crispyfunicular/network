@@ -1,0 +1,15 @@
+/administrator/
+/bin/
+/cache/
+/cli/
+/components/
+/includes/
+/installation/
+/language/
+/layouts/
+/libraries/
+/logs/
+/modules/
+/plugins/
+/tmp/
+/*?

@@ -1,0 +1,15 @@
+/cat/Intranet-ICC/
+/esl/Intranet-ICC/
+/eng/Intranet-ICC/
+/cccc/Intranet-ICC/
+/intranet/
+/web/intranet/
+/content/download/
+/cat/content/download/
+/esl/content/download/
+/eng/content/download/
+/web/content/php/punt_informacio/
+/cat/Home-ICC/Consell-Rector/
+/esl/Home-ICC/Consell-Rector/
+/eng/Home-ICC/Consell-Rector/
+/cccc/Home-ICC/Consell-Rector/

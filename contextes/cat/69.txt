@@ -24,12 +24,6 @@
    A més, es van implementar protocols de resposta ràpida per congelar
    fons il·lícits i prevenir-ne el moviment a través de sistemes financers
 --
-     * Injecció SQL no autenticada de WebTareas 2.4 mitjançant el
-       paràmetre de galeta de sessió
-     * Com el fet de connectar-te a la xarxa wifi d’un centre comercial
-       pot arruïnar el teu Nadal
-
---
    propòsit legítim de permetre l'ús d'un servei específic sol·licitat
    explícitament per l'abonat o usuari, o amb l'únic propòsit de dur a
    terme la transmissió d'una comunicació a través d'una xarxa de

@@ -1,0 +1,7 @@
+/sample-*
+/blog/sample-*
+/_hcms/preview/
+/hs/manage-preferences/
+/hs/preferences-center/
+/*?*hs_preview=*
+/*?*hsCacheBuster=*

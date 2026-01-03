@@ -1,10 +1,10 @@
 ElResum
 cat
 Seccions
-Societat
-Economia
-Internacional
 Política
+Societat
+Internacional
+Economia
 Cultura
 Inici
 Societat

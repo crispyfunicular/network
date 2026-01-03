@@ -1,8 +1,10 @@
 #!/bin/bash
 
 # Pour chaque fichier aspiré puis tokenisé, ce programme associe un mot et le mot suivant (sur la ligne suivante) de façon à obtenir des bigrammes.
+# lit le fichier `URLs.tsv`, récupère pour chaque ligne le numéro de document (lineno), puis prend le fichier tokenisé correspondant et construit des bigrammes
+# en associant chaque token avec le token suivant.
 # Entrée : liste d'URL + métadonnées au format tsv
-# Sortie : un fichier texte .txt avec deux tokens contigus par ligne pour chaque URL (un fichier par URL). L'intégralité des tokens sont traités pour une URL.
+# Sortie : un fichier texte .txt avec deux tokens contigus par ligne pour chaque URL (un fichier par URL). L'intégralité des tokens sont traités pour une même URL.
 
 # ./programmes/cat_prog/cat_tokenisation.sh ../tableaux/URLs.tsv
 
@@ -18,7 +20,7 @@ do
 	# increment the line counter by 1	
 	lineno=$(echo "$line" | cut -f 1)
 
-    tokenisation_path="./tokenisation/cat_tokenisation/$lineno.txt"
+    tokenisation_path="./tokenisation/cat_tokenisation/dumps_tokenisation/$lineno.txt"
     if [[ -f "$tokenisation_path" ]]
     then
         # display each line in the stderr
@@ -29,6 +31,8 @@ do
         # 3. head -n -1: supprime la derniere ligne, pcq y a pas de mot après
         # https://www.runoob.com/linux/linux-comm-paste.html
         tail -n +2 "$tokenisation_path" | paste -d ' ' "$tokenisation_path" - | head -n -1 > "$bigrammes_path"
+    else
+        echo "Unfound tokenisation path: $tokenisation_path" 1>&2
     fi
 
 done < $tsv

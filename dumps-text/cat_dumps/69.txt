@@ -134,11 +134,10 @@ Entitats col·laboradores
 
 Recent Posts
 
-     * Leroy Merlin, víctima d’un atac informàtic
-     * Injecció SQL no autenticada de WebTareas 2.4 mitjançant el
-       paràmetre de galeta de sessió
-     * Com el fet de connectar-te a la xarxa wifi d’un centre comercial
-       pot arruïnar el teu Nadal
+     * El Ministeri de l’Interior de França pateix un ciberatac en el qual
+       s’han extret desenes d’arxius confidencials
+     * Ciberamenaces al sector de les assegurances
+     * Ciberamenaces a les assegurances
 
    Page load link
 

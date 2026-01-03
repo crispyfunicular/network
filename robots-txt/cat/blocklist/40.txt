@@ -1,0 +1,8 @@
+/salapremsa/api/
+/salapremsa/app/
+/salapremsa/scripts/
+/salapremsa/styles/
+/gov/api/
+/gov/app/
+/gov/scripts/
+/gov/styles/

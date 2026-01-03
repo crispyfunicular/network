@@ -1,0 +1,15 @@
+/wp-admin/
+/wp-login
+/*/feed/
+/*/trackback/
+/*/attachment/
+/author/
+/*/feed/
+/tag/*/page/
+/tag/*/feed/
+/page/
+/comments/
+/xmlrpc.php
+/*?s=
+/*/*/*/feed.xml
+/?attachment_id*

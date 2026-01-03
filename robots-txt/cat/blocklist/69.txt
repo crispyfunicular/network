@@ -1,0 +1,5 @@
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/
+/04-cisoday_ciberseguretat-a-la-cadena-de-subministre/
+/wp-content/uploads/_pda/2024/03/04.CISODAY_Ciberseguretat-a-la-cadena-de-subministre.pdf

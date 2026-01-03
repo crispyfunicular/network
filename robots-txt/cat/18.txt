@@ -1,7 +1,0 @@
-User-agent: *
-
-Disallow: /files/mensajes/
-Disallow: /mensajes/
-Disallow: /panel/
-
-Sitemap: https://www.rmg-redes.com/sitemap.xml

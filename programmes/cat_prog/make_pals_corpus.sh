@@ -1,6 +1,11 @@
 #!/bin/bash
 
-# Prends tous les unigrammes tokenisés catalans et les agrège dans un fichier
+#  Prend tous les unigrammes tokenisés catalans et les agrège dans un fichier
+#  Analyse la spécificité de Lafon pour les cooccurrents de xarxa|xarxes situés jusqu'à 5 tokens avant ou après le mot cible.
+#  Affiche le tout en colonnes au format txt (en utilisant la commande « column ») et au format csv (en utilisant la commande « cut ») pour faciliter la conversion en HTML (voir plus bas)
+#  Présente les résultats au format HTML
+
+# Prend tous les unigrammes tokenisés catalans et les agrège dans un fichier
 echo "Aggrégation des corpus globaux"
 cat ./tokenisation/cat_tokenisation/dumps_tokenisation/*.txt > "./pals/dumps-text-cat.txt"
 cat ./tokenisation/cat_tokenisation/contextes_tokenisation/*.txt > "./pals/contextes-cat.txt"

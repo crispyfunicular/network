@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# lit le fichier URLs.tsv, récupère pour chaque ligne le numéro de document (lineno) puis, à partir du dump texte et du fichier de contextes déjà produit,
+# génère un concordancier HTML sous forme de tableau à trois colonnes (contexte gauche / mot cible / contexte droit) pour chaque URL.
+
 # Récupère pour chaque URL le contexte avant et après le mot cible ("xarxa" ou "xarxes"), correspondant aux deux lignes précédant et suivant le mot cible.
 # Entrée : liste d'URL + métadonnées au format tsv
 # Sortie : Un fichier HTML par URL contenant le concordancier décrit dans le fichier https://github.com/YoannDupont/PPE1-2526/blob/main/exercices/concordancier.pdf

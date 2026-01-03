@@ -1,0 +1,7 @@
+/wp-admin/
+/checkout/
+/cart/
+/*add-to-cart=*
+/*?wc-ajax=get_refreshed_fragments*
+/login*
+/my-account*

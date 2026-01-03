@@ -2,6 +2,10 @@
 
 # ./generate_html.sh ../tableaux/URLs.tsv > ../tableaux/tableau_cat.html
 
+# lit le fichier `URLs.tsv` et produit un tableau récapitulatif en HTML, dont les colonnes affichées sont les suivantes :
+# numéro, URL, robots.txt, code, charset, nombre_de_mots, occurrences, ainsi que des liens vers les fichiers générés
+# (HTML brut, dump texte, concordancier, concordancier coloré, bigrammes).
+
 # $# number of arguments passed to the program
 #if [ $# -ne 1 ]
 #then
@@ -33,6 +37,7 @@ cat << EOF > "$output_path"
 						<tr>
 							<th scope="col">line no</th>
 							<th scope="col">adresse html</th>
+							<th scope="col">robots.txt</th>
 							<th scope="col">response code</th>
 							<th scope="col">charset</th>
 							<th scope="col">word number</th>
@@ -40,9 +45,8 @@ cat << EOF > "$output_path"
 							<th scope="col">page HTML brute</th>
 							<th scope="col">dump textuel</th>
 							<th scope="col">concordancier HTML</th>
-							<th scope="col">bigrammes</th>
-							<th scope="col">robots.txt</th>
 							<th scope="col">concordancier couleurs</th>
+							<th scope="col">bigrammes</th>
 						</tr>
 					</thead>
 
@@ -70,8 +74,20 @@ do
 						<tr>
 							<td>$lineno</td>
 							<td><a href="$url">$url</td>
+							<td>
+EOF
+		# Only add links to robotxt files if they exist
+		if [[ -f "robots-txt/cat/robotstxt/$lineno.txt" ]]
+		then
+			cat << EOF >> "$output_path"
+									<a href="../../robots-txt/cat/robotstxt/$lineno.txt">robots.txt</a>
+									<br/>
+									<a href="../../robots-txt/cat/blocklist/$lineno.txt">blocklist</a>
+EOF
+		fi
+		cat << EOF >> "$output_path"
+							</td>
 							<td${rc_class}>$response_code</td>
-							<td></td>
 							<td></td>
 							<td></td>
 							<td></td>
@@ -88,6 +104,19 @@ EOF
 							<tr>
 								<td>$lineno</td>
 								<td><a href="$url">$url</td>
+								<td>
+EOF
+		# Only add links to robotxt files if they exist
+		if [[ -f "robots-txt/cat/robotstxt/$lineno.txt" ]]
+		then
+			cat << EOF >> "$output_path"
+									<a href="../../robots-txt/cat/robotstxt/$lineno.txt">robots.txt</a>
+									<br/>
+									<a href="../../robots-txt/cat/blocklist/$lineno.txt">blocklist</a>
+EOF
+		fi
+		cat << EOF >> "$output_path"
+								</td>
 								<td${rc_class}>$response_code</td>
 								<td>$charset</td>
 								<td>$num_words</td>
@@ -95,9 +124,8 @@ EOF
 								<td><a href="../../aspirations/cat_aspirations/$lineno.html">page HTML brute</a></td>
 								<td><a href="../../dumps-text/cat_dumps/$lineno.txt">dump textuel</a></td>
 								<td><a href="../../concordances/cat/$lineno.html">concordancier HTML</a></td>
-								<td><a href="../../bigrammes/cat/$lineno.txt">bigrammes</a></td>
-								<td><a href="../../robots-txt/cat/$lineno.txt">robots.txt</a></td>
 								<td><a href="../../concor_coloration/cat/$lineno.html">concordancier couleurs</a></td>
+								<td><a href="../../bigrammes/cat/$lineno.txt">bigrammes</a></td>
 							</tr>
 EOF
 	fi

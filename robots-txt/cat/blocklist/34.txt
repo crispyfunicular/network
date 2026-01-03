@@ -1,0 +1,10 @@
+/wp-admin/
+/wp-json/
+/*add-to-cart=*
+/?s=
+*/?orderby=
+/search
+*/feed/*
+*/page/*
+*/attachment/*
+/xmlrpc.php

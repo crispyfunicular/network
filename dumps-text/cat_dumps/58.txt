@@ -7,7 +7,7 @@
           + Alemany
           + Francès
 
-   01.01.2026 | 21:31
+   03.01.2026 | 22:07
 
    Ajuntament de Santa Perpètua de Mogoda Ajuntament de Santa Perpètua de
    Mogoda
@@ -348,13 +348,13 @@ Adreces i telèfons
 
 Meteo
 
-     * Divendres, 2 de gener cobert
-       T.Màx: 13°
-       T.Min: 1°
-       Tarda entre poc i mig ennuvolat
-     * Dissabte, 3 de gener cobert
-       T.Màx: 11°
+     * Diumenge, 4 de gener cobert
+       T.Màx: 8°
        T.Min: 3°
+     * Dilluns, 5 de gener neu feble
+       T.Màx: 7°
+       T.Min: -1°
+       Tarda aiguaneu
 
 Butlletí digital
 
